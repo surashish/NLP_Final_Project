@@ -1,0 +1,137 @@
+<xml>
+
+<message>
+
+
+
+	<thread_id>87306</thread_id>
+
+
+
+	<depth>0</depth>
+
+
+
+	<type>ThreadNode</type>
+
+
+
+	<message_id>214210</message_id>
+
+	<to name="Karen Denne" id="40948" address="Karen.Denne@ENRON.com"/>
+
+	<to name="Mark Palmer" id="1277" address="Mark.Palmer@ENRON.com"/>
+
+	<to name="Richard Shapiro" id="2482" address="Richard.Shapiro@ENRON.com"/>
+
+	<to name="James D Steffes" id="7320" address="James.D.Steffes@ENRON.com"/>
+
+	<to name="Harry Kingerski" id="3720" address="Harry.Kingerski@ENRON.com"/>
+
+	<to name="Janel Guerrero" id="2841" address="Janel.Guerrero@ENRON.com"/>
+
+	<to name="Steven J Kean" id="18327" address="Steven.J.Kean@ENRON.com"/>
+
+	<from name="Susan J Mara" id="3364" address="Susan.J.Mara@ENRON.com"/>
+
+	<cc name="Jeff Dasovich" id="27095" address="Jeff.Dasovich@ENRON.com"/>
+
+	<cc name="Jeff Dasovich" id="27095" address="Joseph.Alamo@ENRON.com"/>
+
+	<cc name="Sandra McCubbin" id="101554" address="Sandra.McCubbin@ENRON.com"/>
+
+	<cc name="Alan Comnes" id="836" address="Alan.Comnes@ENRON.com"/>
+
+	<cc name="Ray Alvarez" id="2659" address="Ray.Alvarez@ENRON.com"/>
+
+
+
+	<parent_id></parent_id>
+
+
+
+	<subject>News Clip -- Lay and Davis on SF TV</subject>
+
+
+
+	<date_time>2001-05-02 08:24:00</date_time>
+
+
+
+	<content>
+
+    
+
+M1.1. In case you haven't seen it
+
+[Inform: a presumably attached news clip is attached, in case recipients haven't yet seen it]
+
+
+
+	</content>
+
+</message>
+
+<message>
+
+
+
+	<thread_id>87306</thread_id>
+
+
+
+	<depth>1</depth>
+
+
+
+	<type>ThreadNode</type>
+
+
+
+	<message_id>59768</message_id>
+
+	<to name="Greg Whalley" id="27104" address="Greg.Whalley/HOU/ECT@ECT"/>
+
+	<to name="Mark Frevert" id="76045" address="Mark.Frevert@EnronXGate"/>
+
+	<to name="Lavorato" id="56700" address="John.J.Lavorato@EnronXGate"/>
+
+	<to name="Louise Kitchen" id="14758" address="Louise.Kitchen/HOU/ECT@ECT"/>
+
+	<to name="David W Delainey" id="755" address="David.W.Delainey/HOU/EES@EES"/>
+
+	<to name="Dietrich Lehbert" id="32237" address="Dietrich.Lehbert/Enron@EUenronXgate"/>
+
+	<to name="John Sherriff" id="4671" address="John.Sherriff/LON/ECT@ECT"/>
+
+	<from name="Richard Shapiro" id="2482" address="Richard.Shapiro@ENRON.com"/>
+
+
+
+	<parent_id>214210</parent_id>
+
+
+
+	<subject>News Clip -- Lay and Davis on SF TV</subject>
+
+
+
+	<date_time>2001-05-02 19:19:00</date_time>
+
+
+
+	<content>
+
+    
+
+M2.1. S.F. news clip from our annual meeting.
+
+[Inform: presumably attached news clip is from annual meeting]
+
+
+
+	</content>
+
+</message>
+
+</xml>

@@ -1,0 +1,223 @@
+<xml>
+
+<message>
+
+
+
+	<thread_id>135189</thread_id>
+
+
+
+	<depth>0</depth>
+
+
+
+	<type>ThreadNode</type>
+
+
+
+	<message_id>720813</message_id>
+
+	<to name="Frank Vickers" id="905" address="Frank.Vickers@ENRON.com"/>
+
+	<to name="Christopher F Calger" id="18656" address="Christopher.F.Calger@ENRON.com"/>
+
+	<to name="W David Duran" id="35342" address="W.David.Duran@ENRON.com"/>
+
+	<to name="Barry Tycholiz" id="899" address="Barry.Tycholiz@ENRON.com"/>
+
+	<to name="David Forster" id="28701" address="David.Forster@ENRON.com"/>
+
+	<from name="Tammie Schoppe" id="111105" address="Tammie.Schoppe@ENRON.com"/>
+
+	<cc name="David W Delainey" id="755" address="Kay.Chapman@ENRON.com"/>
+
+	<cc name="Kimberly Bates" id="1987" address="Kimberly.Bates@ENRON.com"/>
+
+	<cc name="Mollie Gustafson" id="50131" address="Mollie.Gustafson@ENRON.com"/>
+
+	<cc name="Loretta Brooks" id="1297" address="Loretta_Brooks@ENRON.net"/>
+
+	<cc name="Lisa Shoemake" id="1654" address="Lisa.Shoemake@ENRON.com"/>
+
+	<cc name="Tina Rode" id="1212" address="Tina.Rode@ENRON.com"/>
+
+	<cc name="Jessica Presas" id="4803" address="Jessica.Presas@ENRON.com"/>
+
+	<to name="Frank Vickers" id="905" address="fvicker@enron.com"/>
+
+	<to name="Christopher F Calger" id="18656" address="ccalger@enron.com"/>
+
+	<to name="W David Duran" id="3567" address="Dduran@ENRON.com"/>
+
+	<to name="Barry Tycholiz" id="899" address="Btychol@ENRON.com"/>
+
+	<to name="David Forster" id="28701" address="DFORSTER@ENRON.com"/>
+
+	<from name="Tammie Schoppe" id="111105" address="Tstaggs@ENRON.com"/>
+
+	<cc name="David W Delainey" id="755" address="8457a31d-410531b8-62569fb-57d0fe@ENRON.com"/>
+
+	<cc name="Kimberly Bates" id="1987" address="Kbates@ENRON.com"/>
+
+	<cc name="Mollie Gustafson" id="50131" address="Mgustaf@ENRON.com"/>
+
+	<cc name="Loretta Brooks" id="1297" address="LBROOKS@ENRON.com"/>
+
+	<cc name="Lisa Shoemake" id="1654" address="Lshoema@ENRON.com"/>
+
+	<cc name="Tina Rode" id="1212" address="Trode@ENRON.com"/>
+
+	<cc name="Jessica Presas" id="4803" address="Jpresas@ENRON.com"/>
+
+
+
+	<parent_id></parent_id>
+
+
+
+	<subject>Mtg. w/EES</subject>
+
+
+
+	<date_time>2001-10-19 12:40:49</date_time>
+
+
+
+	<content>
+
+    
+
+M1.1. Please plan to attend the below meeting on Tuesday, Oct. 23rd. [Y]
+
+[Inform: recipients should attend 10/23 meeting whose details are below]
+
+Sflink1.1
+
+M1.2. Topic:	ENA & EES Coverage
+
+[Inform: topic]
+
+M1.3. Place:	EB 872
+
+[Inform: place]
+
+M1.4. Time:	4:30-5:30 p.m.
+
+[Inform: time]
+
+M1.5. Date:	October 23, 2001
+
+[Inform: date]
+
+M1.6. Attendees:	Frank Vickers
+
+M1.7. Chris Calger(by phone)
+
+M1.8. Louise Kitchen
+
+M1.9. John Lavorato
+
+M1.10. David Forster
+
+M1.11. Dave Duran
+
+M1.12. Barry Tycholiz
+
+M1.13. Dave Delainey
+
+M1.14. Janet Dietrich
+
+M1.15. Jeff Ader
+
+M1.16. Mark Bernstein
+
+[Inform: list of attendees]
+
+M1.17. Mollie:
+
+[Conventional: salutation]
+
+M1.18. Chris can dial into the conf. room-the number is (713) 646-8061.
+
+[Inform: Chris can dial into conference room with given phone number]
+
+M1.19. Please let me know if you have any questions.
+
+[Inform: recipients should tell Tammie if they have questions]
+
+M1.20. Thanks!
+
+[Conventional: thanks]
+
+
+
+	</content>
+
+</message>
+
+<message>
+
+
+
+	<thread_id>135189</thread_id>
+
+
+
+	<depth>1</depth>
+
+
+
+	<type>ThreadNode</type>
+
+
+
+	<message_id>721028</message_id>
+
+	<to name="Jessica Presas" id="4803" address="Jpresas@ENRON.com"/>
+
+	<from name="Barry Tycholiz" id="899" address="Btychol@ENRON.com"/>
+
+
+
+	<parent_id>720813</parent_id>
+
+
+
+	<subject>Mtg. w/EES</subject>
+
+
+
+	<date_time>2001-10-22 09:55:16</date_time>
+
+
+
+	<content>
+
+    
+
+M2.1. is this on my calendar already..
+
+[Request-Information: is this event on Barry's calendar already]
+
+Blink1.1
+
+Flink2.1
+
+M2.2. if not, pls add. [Y]
+
+[Request-Action: add it if it is not on calendar]
+
+Flink2.2
+
+M2.3. BT
+
+[Conventional: signature]
+
+
+
+	</content>
+
+</message>
+
+</xml>

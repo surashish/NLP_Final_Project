@@ -1,0 +1,155 @@
+<xml>
+
+<message>
+
+
+
+	<thread_id>149648</thread_id>
+
+
+
+	<depth>0</depth>
+
+
+
+	<type>ThreadNode</type>
+
+
+
+	<message_id>1297710</message_id>
+
+	<to name="Chris Kennedy" id="23303" address="ckennedy@patinaoil.com"/>
+
+	<from name="Dan J Bump" id="27451" address="dan.j.bump@enron.com"/>
+
+	<cc name="Ken Choyce" id="64829" address="Ken.Choyce@ENRON.com"/>
+
+	<cc name="Mark Whitt" id="1141" address="Mark.Whitt@ENRON.com"/>
+
+	<from name="Dan J Bump" id="27451" address="DBUMP@ENRON.com"/>
+
+	<cc name="Ken Choyce" id="64829" address="Kchoyc2@ENRON.com"/>
+
+	<cc name="Mark Whitt" id="1141" address="mwhitt@enron.com"/>
+
+
+
+	<parent_id></parent_id>
+
+
+
+	<subject>Gas Analysis</subject>
+
+
+
+	<date_time>2001-11-13 15:45:43</date_time>
+
+
+
+	<content>
+
+    
+
+M1.1. Chris--
+
+[Conventional: salutation]
+
+M1.2. Could you find out if Patina has performed a gas analysis on the zone to be completed at your new well. [Y]
+
+[Request-Information: find out if Patina has performed a gas analysis on well zone]
+
+Flink1.2
+
+M1.3. If/when you receive a gas analysis, our operations guys like to review this data for all new interconnects (obviously, this information is kept confidential).
+
+[Inform: if Chris receives a gas analysis, operations guys would like to review data]
+
+Sflink1.3
+
+M1.4. Thanks.
+
+[Conventional: thanks]
+
+M1.5. Dan
+
+[Conventional: signature]
+
+M1.6. P.S.  As we approach an "in-service date" (which is estimated to be during the first half of December), let's get together with Mark Whitt to discuss and coordinate gathering and marketing strategies. [Y]
+
+[Inform: as they approach "in-service date", Dan would like to have a discussion with Chris and Mark Whitt]
+
+
+
+	</content>
+
+</message>
+
+<message>
+
+
+
+	<thread_id>149648</thread_id>
+
+
+
+	<depth>1</depth>
+
+
+
+	<type>ThreadNode</type>
+
+
+
+	<message_id>1297715</message_id>
+
+	<to name="Dan J Bump" id="27451" address="dan.j.bump@enron.com"/>
+
+	<from name="Chris Kennedy" id="23303" address="ckennedy@patinaoil.com"/>
+
+	<cc name="Ken Choyce" id="64829" address="Ken.Choyce@ENRON.com"/>
+
+	<cc name="Mark Whitt" id="1141" address="Mark.Whitt@ENRON.com"/>
+
+	<to name="Dan J Bump" id="27451" address="DBUMP@ENRON.com"/>
+
+	<cc name="Ken Choyce" id="64829" address="Kchoyc2@ENRON.com"/>
+
+	<cc name="Mark Whitt" id="1141" address="mwhitt@enron.com"/>
+
+
+
+	<parent_id>1297710</parent_id>
+
+
+
+	<subject>Gas Analysis</subject>
+
+
+
+	<date_time>2001-11-14 10:14:40</date_time>
+
+
+
+	<content>
+
+    
+
+M2.1. No..they have not done a gas analysis..
+
+[Inform: Patina has not done a gas analysis]
+
+Blink1.2
+
+M2.2. but will certainly pass it along when we have one.
+
+[Inform: Chris will pass along data after analysis is performed]
+
+Blink1.3
+
+
+
+	</content>
+
+</message>
+
+</xml>

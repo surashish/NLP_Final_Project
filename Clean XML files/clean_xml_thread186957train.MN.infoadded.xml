@@ -1,0 +1,181 @@
+<xml>
+
+<message>
+
+
+
+	<thread_id>186957</thread_id>
+
+
+
+	<depth>0</depth>
+
+
+
+	<type>ThreadNode</type>
+
+
+
+	<message_id>1258753</message_id>
+
+	<to name="Sara Shackleton" id="64528" address="Sara.Shackleton@ENRON.com"/>
+
+	<from name="Becky Spencer" id="5613" address="Becky.Spencer@ENRON.com"/>
+
+	<to name="Sara Shackleton" id="64528" address="sshackl@enron.com"/>
+
+	<from name="Becky Spencer" id="5613" address="Bspencer@ENRON.com"/>
+
+
+
+	<parent_id></parent_id>
+
+
+
+	<subject>Time</subject>
+
+
+
+	<date_time>2002-03-14 14:37:09</date_time>
+
+
+
+	<content>
+
+    
+
+M1.1. Sara,
+
+[Conventional: salutation]
+
+
+
+M1.2. I need to report time.
+
+[Inform: Becky needs to report time]
+
+M1.3. Were you out in the last two weeks?
+
+[Request-Information: was Sara out at any point during the last 2 weeks]
+
+Flink1.3
+
+
+
+M1.4. Becky
+
+[Conventional: signature]
+
+
+
+	</content>
+
+</message>
+
+<message>
+
+
+
+	<thread_id>186957</thread_id>
+
+
+
+	<depth>1</depth>
+
+
+
+	<type>ThreadNode</type>
+
+
+
+	<message_id>1258992</message_id>
+
+	<to name="Becky Spencer" id="5613" address="Bspencer@ENRON.com"/>
+
+	<from name="Sara Shackleton" id="64528" address="sshackl@enron.com"/>
+
+
+
+	<parent_id>1258753</parent_id>
+
+
+
+	<subject>Time</subject>
+
+
+
+	<date_time>2002-03-14 15:23:52</date_time>
+
+
+
+	<content>
+
+    
+
+M2.1. no
+
+[Inform: no, Sara was not out]
+
+Blink1.3
+
+
+
+	</content>
+
+</message>
+
+<message>
+
+
+
+	<thread_id>186957</thread_id>
+
+
+
+	<depth>2</depth>
+
+
+
+	<type>ThreadNode</type>
+
+
+
+	<message_id>1258740</message_id>
+
+	<to name="Sara Shackleton" id="64528" address="Sara.Shackleton@ENRON.com"/>
+
+	<from name="Becky Spencer" id="5613" address="Becky.Spencer@ENRON.com"/>
+
+	<to name="Sara Shackleton" id="64528" address="sshackl@enron.com"/>
+
+	<from name="Becky Spencer" id="5613" address="Bspencer@ENRON.com"/>
+
+
+
+	<parent_id>1258992</parent_id>
+
+
+
+	<subject>Time</subject>
+
+
+
+	<date_time>2002-03-14 15:28:40</date_time>
+
+
+
+	<content>
+
+    
+
+M3.1. Thank you!
+
+[Conventional: thanks]
+
+
+
+	</content>
+
+</message>
+
+</xml>

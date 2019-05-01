@@ -1,0 +1,113 @@
+<xml>
+
+<message>
+
+
+
+	<thread_id>174009</thread_id>
+
+
+
+	<depth>0</depth>
+
+
+
+	<type>ThreadNode</type>
+
+
+
+	<message_id>1263495</message_id>
+
+	<to name="Teb Lokey" id="42499" address="Teb.Lokey@ENRON.com"/>
+
+	<from name="Lorraine Lindberg" id="72738" address="Lorraine.Lindberg@ENRON.com"/>
+
+	<to name="Teb Lokey" id="42499" address="tlokey@enron.com"/>
+
+	<from name="Lorraine Lindberg" id="72738" address="llindbe@enron.com"/>
+
+
+
+	<parent_id></parent_id>
+
+
+
+	<subject>Why markers don't make good Christmas gifts...</subject>
+
+
+
+	<date_time>2002-01-16 10:57:50</date_time>
+
+
+
+	<content>
+
+M1.1. Teb -
+
+[Conventional: salutation]
+
+M1.2. Even though PPL has a discounted rate for Red Rock, will we have to file it as a negotiated rate because the fuel is locked in at 5% for the term of the contract?
+
+[Request-Information: will PPL's discounted rate for Red Rock have to be filed as a negotiated rate because of fuel percentage that is locked in as per contract term]
+
+Flink1.2
+
+
+
+	</content>
+
+</message>
+
+<message>
+
+
+
+	<thread_id>174009</thread_id>
+
+
+
+	<depth>1</depth>
+
+
+
+	<type>ThreadNode</type>
+
+
+
+	<message_id>1263207</message_id>
+
+	<to name="Lorraine Lindberg" id="72738" address="llindbe@enron.com"/>
+
+	<from name="Teb Lokey" id="42499" address="tlokey@enron.com"/>
+
+
+
+	<parent_id>1263495</parent_id>
+
+
+
+	<subject>Why markers don't make good Christmas gifts...</subject>
+
+
+
+	<date_time>2002-01-16 11:44:42</date_time>
+
+
+
+	<content>
+
+    
+
+M2.1. Yes.
+
+[Inform: yes, it will have to be filed as a negotiated rate]
+
+Blink1.2
+
+
+
+	</content>
+
+</message>
+
+</xml>

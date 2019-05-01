@@ -1,0 +1,269 @@
+<xml>
+
+<message>
+
+
+
+	<thread_id>74480</thread_id>
+
+
+
+	<depth>0</depth>
+
+
+
+	<type>ThreadNode</type>
+
+
+
+	<message_id>703471</message_id>
+
+	<to name="Don Hawkins" id="31795" address="Don.Hawkins@ENRON.com"/>
+
+	<from name="Chris H Foster" id="2615" address="Chris.H.Foster@ENRON.com"/>
+
+	<cc name="Kim S Ward" id="18442" address="Kim.Ward@ENRON.com"/>
+
+
+
+	<parent_id></parent_id>
+
+
+
+	<subject>Citizens</subject>
+
+
+
+	<date_time>2001-03-26 00:48:00</date_time>
+
+
+
+	<content>
+
+    
+
+M1.1. I am available on Wed.
+
+[Inform: Chris is available on Wednesday]
+
+M1.2. Afternoon ias better for me say 3:00 Houston time?
+
+[Inform: the afternoon, around 3:00 Houston time, is better for Chris]
+
+M1.3. C
+
+[Conventional: signature]
+
+
+
+	</content>
+
+</message>
+
+<message>
+
+
+
+	<thread_id>74480</thread_id>
+
+
+
+	<depth>1</depth>
+
+
+
+	<type>ThreadNodeBubble</type>
+
+
+
+	<message_id>2003815</message_id>
+
+
+
+	<parent_id>703471</parent_id>
+
+
+
+	<subject>Citizens</subject>
+
+
+
+	<date_time>2001-03-26 02:18:30</date_time>
+
+
+
+	<content>
+
+    
+
+M2.1. Are we still looking at June through Oct only?
+
+[Request-Information: looking at June through October only]
+
+Flink2.1
+
+
+
+	</content>
+
+</message>
+
+<message>
+
+
+
+	<thread_id>74480</thread_id>
+
+
+
+	<depth>1</depth>
+
+
+
+	<type>ThreadNode</type>
+
+
+
+	<message_id>762702</message_id>
+
+	<to name="Chris H Foster" id="2615" address="Chris.H.Foster/HOU/ECT@ECT"/>
+
+	<from name="Kim S Ward" id="18442" address="Kim.Ward@ENRON.com"/>
+
+
+
+	<parent_id>703471</parent_id>
+
+
+
+	<subject>Citizens</subject>
+
+
+
+	<date_time>2001-03-26 15:19:00</date_time>
+
+
+
+	<content>
+
+    
+
+M3.1. Are we still looking at June through Oct only?
+
+[Request-Information: looking at June through October only]
+
+Flink3.1
+
+
+
+	</content>
+
+</message>
+
+<message>
+
+
+
+	<thread_id>74480</thread_id>
+
+
+
+	<depth>2</depth>
+
+
+
+	<type>ThreadNode</type>
+
+
+
+	<message_id>703478</message_id>
+
+	<to name="Kim S Ward" id="18442" address="Kim.Ward@ENRON.com"/>
+
+	<from name="Chris H Foster" id="2615" address="Chris.H.Foster@ENRON.com"/>
+
+
+
+	<parent_id>2003815</parent_id>
+
+
+
+	<subject>Citizens</subject>
+
+
+
+	<date_time>2001-03-26 03:49:00</date_time>
+
+
+
+	<content>
+
+    
+
+M4.1. Through MArch '02
+
+[Inform: through March 2002]
+
+Blink3.1
+
+Sflink4.1
+
+
+
+	</content>
+
+</message>
+
+<message>
+
+
+
+	<thread_id>74480</thread_id>
+
+
+
+	<depth>3</depth>
+
+
+
+	<type>ThreadNode</type>
+
+
+
+	<message_id>762700</message_id>
+
+	<to name="Chris H Foster" id="2615" address="Chris.H.Foster/HOU/ECT@ECT"/>
+
+	<from name="Kim S Ward" id="18442" address="Kim.Ward@ENRON.com"/>
+
+
+
+	<parent_id>703478</parent_id>
+
+
+
+	<subject>Citizens</subject>
+
+
+
+	<date_time>2001-03-26 17:13:00</date_time>
+
+
+
+	<content>
+
+    
+
+M5.1. Desk is currently looking at this.
+
+[Inform: Desk is looking at something, presumably involving previously mentioned dates]
+
+Blink4.1
+
+
+
+	</content>
+
+</message>
+
+</xml>

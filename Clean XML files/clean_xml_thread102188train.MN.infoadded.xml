@@ -1,0 +1,63 @@
+<xml>
+
+<message>
+
+
+
+	<thread_id>102188</thread_id>
+
+
+
+	<depth>0</depth>
+
+
+
+	<type>ThreadNode</type>
+
+
+
+	<message_id>1097786</message_id>
+
+	<to name="Vince J Kaminski" id="63574" address="vkamins@enron.com"/>
+
+	<from name="Lu" id="73932" address="Lu@ENRON.com"/>
+
+	<from name="Lu" id="73932" address="Zimin@ENRON.com"/>
+
+
+
+	<parent_id></parent_id>
+
+
+
+	<subject>P Plus Pricing Model</subject>
+
+
+
+	<date_time>2001-06-06 18:43:01</date_time>
+
+
+
+	<content>
+
+    
+
+M1.1. Vince,
+
+[Conventional: salutation]
+
+M1.2. Here is the pricing model and documentation for the P Plus project from Stinson.
+
+[Inform: presumably attached documents are pricing model and documentation for a P Plus project]
+
+M1.3. Zimin
+
+[Conventional: signature]
+
+
+
+	</content>
+
+</message>
+
+</xml>

@@ -1,0 +1,257 @@
+<xml>
+
+<message>
+
+
+
+	<thread_id>188078</thread_id>
+
+
+
+	<depth>0</depth>
+
+
+
+	<type>ThreadNode</type>
+
+
+
+	<message_id>43417</message_id>
+
+	<to name="Kay Mann" id="239" address="kmann@enron.com"/>
+
+	<to name="Mark Knippa" id="76124" address="Mknippa@ENRON.com"/>
+
+	<from name="Chris Germany" id="3471" address="cgerman@enron.com"/>
+
+	<cc name="Jack Wise" id="837" address="Jwise@ENRON.com"/>
+
+	<cc name="Ed McMichael Jr" id="1599" address="Emcmich@ENRON.com"/>
+
+	<cc name="Ruth Concannon" id="24606" address="rconcan@enron.com"/>
+
+	<cc name="Sabra L Dinari" id="101073" address="Sdinari@ENRON.com"/>
+
+	<cc name="Scott Mills" id="1704" address="Smills@ENRON.com"/>
+
+	<cc name="Torrey Moorer" id="1990" address="Gcouch@ENRON.com"/>
+
+
+
+	<parent_id></parent_id>
+
+
+
+	<subject>Enron Compressor Services</subject>
+
+
+
+	<date_time>2002-04-02 10:06:52</date_time>
+
+
+
+	<content>
+
+    
+
+M1.1. I sold 3,253 dth per day of  Florida Zone 3 gas at $3.60 to Bob Crites (713-420-2499) at El Paso effective 4/3/02 - 4/30/02.
+
+[Inform: amount per day, type, price, recipient, location, and dates of gas sold]
+
+M1.2. I'm leaving this deal out of Sitara because its an Enron Compressor Services deal, not ENA.
+
+[Inform: Chris is leaving this deal out of Sitara because of deal type]
+
+
+
+M1.3. Kay,
+
+[Conventional: salutation]
+
+M1.4. I need to send a GISB agreement as Enron Compressor Services to El Paso.
+
+[Inform: Chris needs Kay to send a GISB agreement to El Paso]
+
+M1.5. Would you work on that? [Y]
+
+[Request-Information: would Kay work on this]
+
+Flink1.5
+
+
+
+M1.6. Mark,
+
+[Conventional: salutation]
+
+M1.7. I'm not sure who at Enron to notify about this deal.
+
+[Inform: Chris is not sure who to notify at Enron about deal]
+
+M1.8. You and I can chat about that later.
+
+[Inform: Chris would like to discuss this with Mark later]
+
+
+
+M1.9. I only asked for 2 bids for the April gas.
+
+[Inform: Chris asked for 2 bids for April gas]
+
+M1.10. Reliant showed me a bid of $3.58 and El Paso shoed me a bid of $3.60.
+
+[Inform: Reliant Energy and El Paso bids]
+
+
+
+	</content>
+
+</message>
+
+<message>
+
+
+
+	<thread_id>188078</thread_id>
+
+
+
+	<depth>1</depth>
+
+
+
+	<type>ThreadNode</type>
+
+
+
+	<message_id>42000</message_id>
+
+	<to name="Chris Germany" id="3471" address="cgerman@enron.com"/>
+
+	<to name="Kay Mann" id="239" address="kmann@enron.com"/>
+
+	<to name="Mark Knippa" id="76124" address="Mknippa@ENRON.com"/>
+
+	<to name="Jim Coffey Jr" id="53570" address="Jcoffey@ENRON.com"/>
+
+	<from name="Chris Germany" id="3471" address="cgerman@enron.com"/>
+
+	<cc name="Jack Wise" id="837" address="Jwise@ENRON.com"/>
+
+	<cc name="Ed McMichael Jr" id="1599" address="Emcmich@ENRON.com"/>
+
+	<cc name="Ruth Concannon" id="24606" address="rconcan@enron.com"/>
+
+	<cc name="Sabra L Dinari" id="101073" address="Sdinari@ENRON.com"/>
+
+	<cc name="Scott Mills" id="1704" address="Smills@ENRON.com"/>
+
+	<cc name="Torrey Moorer" id="1990" address="Gcouch@ENRON.com"/>
+
+	<cc name="Troy Denetsosie" id="111779" address="Tdenets@ENRON.com"/>
+
+
+
+	<parent_id>43417</parent_id>
+
+
+
+	<subject>Enron Compressor Services</subject>
+
+
+
+	<date_time>2002-04-02 10:17:57</date_time>
+
+
+
+	<content>
+
+    
+
+M2.1. Mark,
+
+[Conventional: salutation]
+
+M2.2. per your request I've copied Jim Coffey and Troy Denetsosie.
+
+[Inform: Chris copied Jim and Troy]
+
+
+
+M2.3. I will work with legal and El Paso to set up a GISB agreement.
+
+[Inform: Chris will work with legal and El Paso to set up GISB agreement]
+
+
+
+	</content>
+
+</message>
+
+<message>
+
+
+
+	<thread_id>188078</thread_id>
+
+
+
+	<depth>2</depth>
+
+
+
+	<type>ThreadNode</type>
+
+
+
+	<message_id>41992</message_id>
+
+	<to name="Chris Germany" id="3471" address="Chris.Germany@ENRON.com"/>
+
+	<from name="Sabra L Dinari" id="101073" address="Sabra.L.Dinari@ENRON.com"/>
+
+	<to name="Chris Germany" id="3471" address="cgerman@enron.com"/>
+
+	<from name="Sabra L Dinari" id="101073" address="Sdinari@ENRON.com"/>
+
+
+
+	<parent_id>42000</parent_id>
+
+
+
+	<subject>Enron Compressor Services</subject>
+
+
+
+	<date_time>2002-04-03 10:39:02</date_time>
+
+
+
+	<content>
+
+    
+
+M3.1. Do I need to do something about this?
+
+[Request-Information: does Sabra need to do something about gas deal]
+
+Flink3.1
+
+M3.2. Who is nominating this or where did you get the gas, is it a buy/sell?
+
+[Request-Information: nominator, where gas came from, whether buy/sell]
+
+Flink3.2  
+
+M3.3. Just curious...I was out yesterday.
+
+[Inform: Sabra was out yesterday and is curious]
+
+
+
+	</content>
+
+</message>
+
+</xml>

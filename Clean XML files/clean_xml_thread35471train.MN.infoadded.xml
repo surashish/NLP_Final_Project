@@ -1,0 +1,219 @@
+<xml>
+
+<message>
+
+
+
+	<thread_id>35471</thread_id>
+
+
+
+	<depth>0</depth>
+
+
+
+	<type>ThreadNode</type>
+
+
+
+	<message_id>21948</message_id>
+
+	<to name="Kenneth Lay" id="40164" address="Kenneth.Lay@ENRON.com"/>
+
+	<from name="Michael S Telle" id="67913" address="mtelle@velaw.com"/>
+
+	<cc name="John Watson" id="59838" address="jwatson@velaw.com"/>
+
+
+
+	<parent_id></parent_id>
+
+
+
+	<subject>Referendum Campaign</subject>
+
+
+
+	<date_time>2000-10-02 06:18:00</date_time>
+
+
+
+	<content>
+
+    
+
+M1.1. Mr. Lay--
+
+[Conventional: salutation]
+
+M1.2. During the negotiations with the Rockets as to how much each party would
+
+contribute to the Arena referendum campaign, Mike Goldberg of Baker & Botts
+
+suggested that the Rockets would like to net their contribution obligation
+
+against other contributions that they solicited.
+
+[Inform: Mike Goldberg's suggestion during negotiations with the Rockets]
+
+M1.3. After a conversation with you, John Watson and I advised Mike Goldberg that
+
+you did not want to be competing with the Rockets in soliciting
+
+contributions to the Arena referendum campaign.
+
+[Inform: John Watson and sender's advisement to Mike after talking to Ken Lay]
+
+M1.4. Mike Goldberg called Friday and asked whether it would be acceptable for the
+
+Rockets to net against their contribution obligation contributions that they
+
+have solicited from Baker & Botts, Jim MacInvale and Tilman Fertitta.
+
+[Inform: Mike Goldberg's request for permission on behalf of the Rockets when he called Friday]
+
+M1.5. Mike
+
+suggested that these three persons would be the only outside persons that
+
+would be solicited by the Rockets.
+
+[Inform: Mike's belief that Baker & Botts, Jim McInvale, and Tilman Fertitta are only entities that the Rockets would solicit]
+
+M1.6. Would you please let me know if this is acceptable to you. [Y]
+
+[Request-Information: whether the above is acceptable to Ken Lay]
+
+Flink1.6
+
+M1.7. You or Rosalee
+
+may call me at 713-758-2350 or send me a response e-mail at
+
+mtelle@velaw.com.
+
+[Inform: Ken Lay or Rosalee can call Michael at phone number provided or email at address provided]
+
+M1.8. Sincerely,
+
+[Conventional: (beginning of a) signature]
+
+
+
+	</content>
+
+</message>
+
+<message>
+
+
+
+	<thread_id>35471</thread_id>
+
+
+
+	<depth>1</depth>
+
+
+
+	<type>ThreadNode</type>
+
+
+
+	<message_id>21949</message_id>
+
+	<to name="Michael S Telle" id="67913" address="mtelle@velaw.com"/>
+
+	<from name="Rosalee Fleming" id="40264" address="Rosalee.Fleming@ENRON.com"/>
+
+
+
+	<parent_id>21948</parent_id>
+
+
+
+	<subject>Referendum Campaign</subject>
+
+
+
+	<date_time>2000-10-02 06:27:00</date_time>
+
+
+
+	<content>
+
+    
+
+M2.1. Hi Michael -
+
+[Conventional: salutation]
+
+M2.2. Mr. Lay is returning from his trip today.
+
+M2.3. He will be in the office tomorrow.
+
+[Inform: Ken Lay is returning from a trip today and will be in the office tomorrow]
+
+
+
+	</content>
+
+</message>
+
+<message>
+
+
+
+	<thread_id>35471</thread_id>
+
+
+
+	<depth>2</depth>
+
+
+
+	<type>ThreadNode</type>
+
+
+
+	<message_id>22001</message_id>
+
+	<to name="Michael S Telle" id="67913" address="mtelle@velaw.com"/>
+
+	<from name="Rosalee Fleming" id="40264" address="Rosalee.Fleming@ENRON.com"/>
+
+
+
+	<parent_id>21949</parent_id>
+
+
+
+	<subject>Referendum Campaign</subject>
+
+
+
+	<date_time>2000-10-04 14:45:00</date_time>
+
+
+
+	<content>
+
+    
+
+M3.1. Michael -
+
+[Conventional: salutation]
+
+M3.2. Ken Lay said to tell you this is fine.
+
+[Inform: Ken Lay grants permission to Mike Goldberg]
+
+Blink1.6
+
+
+
+	</content>
+
+</message>
+
+</xml>

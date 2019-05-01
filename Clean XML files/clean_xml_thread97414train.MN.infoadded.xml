@@ -1,0 +1,83 @@
+<xml>
+
+<message>
+
+
+
+	<thread_id>97414</thread_id>
+
+
+
+	<depth>1</depth>
+
+
+
+	<type>ThreadNode</type>
+
+
+
+	<message_id>285264</message_id>
+
+	<to name="Vince J Kaminski" id="63574" address="mcuilla@enron.com"/>
+
+	<from name="Kevin Ruscitti" id="66165" address="kruscit@enron.com"/>
+
+
+
+	<parent_id>282894</parent_id>
+
+
+
+	<subject>If you haven't gotten already...start at bottom and read up</subject>
+
+
+
+	<date_time>2001-06-01 12:41:19</date_time>
+
+
+
+	<content>
+
+    
+
+M1.1. The reason I asked about Chris Sevrens is that he was on the list (you'll see) of this email.
+
+[Inform-AnswerOffline: Kevin asked about Chris because he was on the list of a presumably forwarded email]
+
+M1.2. I don't know if you heard about it but
+
+the author of the email got fired shortly after it circulated through Wall St.
+
+[Inform: author of email got fired a short time after it circulated through Wall Street]
+
+M1.3. Anyway, thought you might find it amusing.
+
+[Inform: sender thought Vince (M?) might find this amusing]
+
+M1.4. Start from
+
+the bottom of this email and work your way up.
+
+[Inform: Vince (M?) should read email from the bottom up]
+
+M1.5. It's interesting to see the path it took to so many people.
+
+[Inform: Kevin thinks it is interesting to see the path it took to reach many people]
+
+M1.6. You'll see Sevrens name
+
+near the bottom.
+
+[Inform: Chris' name is near the bottom]
+
+M1.7. KR
+
+[Conventional: signature]
+
+
+
+	</content>
+
+</message>
+
+</xml>

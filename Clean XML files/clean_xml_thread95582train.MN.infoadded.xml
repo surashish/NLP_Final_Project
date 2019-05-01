@@ -1,0 +1,209 @@
+<xml>
+
+<message>
+
+
+
+	<thread_id>95582</thread_id>
+
+
+
+	<depth>0</depth>
+
+
+
+	<type>ThreadNode</type>
+
+
+
+	<message_id>272057</message_id>
+
+	<to name="Mark Taylor" id="2378" address="Mark.Taylor@ENRON.com"/>
+
+	<from name="Mark E Haedicke" id="19235" address="Mark.E.Haedicke@ENRON.com"/>
+
+
+
+	<parent_id></parent_id>
+
+
+
+	<subject>Conference Calls</subject>
+
+
+
+	<date_time>2001-05-23 10:00:00</date_time>
+
+
+
+	<content>
+
+    
+
+M1.1. Please review and set up a meeting with me to establish a plan for this
+
+committee. [Y]
+
+[Request-Action: review presumably attached document and set up a meeting with Mark Haedicke]
+
+Flink1.1
+
+M1.2. Mark
+
+[Conventional: signature]
+
+
+
+	</content>
+
+</message>
+
+<message>
+
+
+
+	<thread_id>95582</thread_id>
+
+
+
+	<depth>1</depth>
+
+
+
+	<type>ThreadNode</type>
+
+
+
+	<message_id>272076</message_id>
+
+	<to name="Stacy Carey" id="102444" address="SCAREY@ISDA.ORG"/>
+
+	<from name="Mark E Haedicke" id="19235" address="Mark.E.Haedicke@ENRON.com"/>
+
+	<cc name="Ruth Ainslie" id="93697" address="RAinslie@isda.org"/>
+
+
+
+	<parent_id>272057</parent_id>
+
+
+
+	<subject>Conference Calls</subject>
+
+
+
+	<date_time>2001-05-24 13:52:00</date_time>
+
+
+
+	<content>
+
+    
+
+M2.1. Stacy and Ruth:
+
+[Conventional: salutation]
+
+M2.2. I propose the following agenda for the NA energy committee:
+
+[Inform: following is proposal of agenda for NA energy committee]
+
+M2.3. 1.  convergence of commodity forms -- need to build a team to pursue this
+
+M2.4. 2.  California energy issues/solutions
+
+M2.5. 3.  standardized provisions for master energy contracts -- setoff, netting,
+
+termination, etc.
+
+M2.6. 4.  bankruptcy
+
+M2.7. 5.  CFTC study of retail derivatives
+
+M2.8. 6.  emerging market forms for paper, steel, etc.
+
+[Inform: list of 6 items that Mark Haedicke would like to be the agenda]
+
+M2.9. Mark Taylor will send a list of proposed topics for the European conference.
+
+[Inform: Mark Taylor will send a list of proposed topics for European conference]
+
+M2.10. Let me know what you think.
+
+[Request-Information: Stacy and Ruth's thoughts]
+
+Flink2.10
+
+M2.11. Regards,
+
+[Conventional: beginning of signature]
+
+
+
+	</content>
+
+</message>
+
+<message>
+
+
+
+	<thread_id>95582</thread_id>
+
+
+
+	<depth>2</depth>
+
+
+
+	<type>ThreadNode</type>
+
+
+
+	<message_id>1106390</message_id>
+
+	<to name="Mark Taylor" id="2378" address="Mark.Taylor/HOU/ECT@ECT"/>
+
+	<from name="Mark E Haedicke" id="19235" address="Mark.E.Haedicke/HOU/ECT@ECT"/>
+
+
+
+	<parent_id></parent_id>
+
+
+
+	<subject>Conference Calls</subject>
+
+
+
+	<date_time>2001-05-23 20:00:00</date_time>
+
+
+
+	<content>
+
+    
+
+[DUPLICATE OF MESSAGE 1]    
+
+    
+
+M3.1. Please review and set up a meeting with me to establish a plan for this
+
+committee.
+
+[Request-Action: review presumably attached document and set up a meeting with Mark Haedicke]
+
+Flink3.1
+
+M3.2. Mark
+
+[Conventional: signature]
+
+
+
+	</content>
+
+</message>
+
+</xml>

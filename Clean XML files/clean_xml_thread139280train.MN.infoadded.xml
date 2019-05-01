@@ -1,0 +1,244 @@
+<xml>
+
+<message>
+
+
+
+	<thread_id>139280</thread_id>
+
+
+
+	<depth>0</depth>
+
+
+
+	<type>ThreadNode</type>
+
+
+
+	<message_id>1316977</message_id>
+
+	<to name="Paula Corey" id="24885" address="Pcorey@ENRON.com"/>
+
+	<from name="Vince J Kaminski" id="63574" address="vkamins@enron.com"/>
+
+
+
+	<parent_id></parent_id>
+
+
+
+	<subject>Dynegy vs. Enron: A "Tale of Two Companies"</subject>
+
+
+
+	<date_time>2001-10-24 17:30:33</date_time>
+
+
+
+	<content>
+
+    
+
+M1.1. Where?
+[Request-Information: where should Vince meet Paula]
+Flink1.1
+M1.2 I am in a meeting.
+[Inform: Vince is in a meeting]
+
+M1.3. Vince
+
+M1.4. --------------------------vince kaminski
+
+[Conventional: signature]
+
+
+
+	</content>
+
+</message>
+
+<message>
+
+
+
+	<thread_id>139280</thread_id>
+
+
+
+	<depth>1</depth>
+
+
+
+	<type>ThreadNode</type>
+
+
+
+	<message_id>1360725</message_id>
+
+	<to name="Vince J Kaminski" id="63574" address="Vince.J.Kaminski@ENRON.com"/>
+
+	<from name="Paula Corey" id="24885" address="Paula.PEC.Corey@ENRON.com"/>
+
+	<to name="Vince J Kaminski" id="63574" address="vkamins@enron.com"/>
+
+	<from name="Paula Corey" id="24885" address="Pcorey@ENRON.com"/>
+
+
+
+	<parent_id>1316977</parent_id>
+
+
+
+	<subject>Dynegy vs. Enron: A "Tale of Two Companies"</subject>
+
+
+
+	<date_time>2001-10-24 17:31:50</date_time>
+
+
+
+	<content>
+
+    
+
+M2.1. Brian and I will meet you at 5:00 outside 3AC at 5:00
+
+[Inform: time and place where Brian and Paula will meet Vince]
+
+Blink1.1
+Sflink2.1
+
+
+
+	</content>
+
+</message>
+
+<message>
+
+
+
+	<thread_id>139280</thread_id>
+
+
+
+	<depth>2</depth>
+
+
+
+	<type>ThreadNode</type>
+
+
+
+	<message_id>1316978</message_id>
+
+	<to name="Paula Corey" id="24885" address="Pcorey@ENRON.com"/>
+
+	<from name="Vince J Kaminski" id="63574" address="vkamins@enron.com"/>
+
+
+
+	<parent_id>1360725</parent_id>
+
+
+
+	<subject>Dynegy vs. Enron: A "Tale of Two Companies"</subject>
+
+
+
+	<date_time>2001-10-24 17:36:02</date_time>
+
+
+
+	<content>
+
+    
+
+M3.1. I may run afew minslate.
+
+[Inform: Vince may be slightly late]
+
+Blink2.1
+
+M3.2. Ninfa's?
+
+[Request-Information: is Vince's restaurant suggestion a good place to go]
+
+Flink3.2
+
+M3.3. --------------------------vince kaminski
+
+[Conventional: signature]
+
+
+
+	</content>
+
+</message>
+
+<message>
+
+
+
+	<thread_id>139280</thread_id>
+
+
+
+	<depth>2</depth>
+
+
+
+	<type>ThreadNode</type>
+
+
+
+	<message_id>1316979</message_id>
+
+	<to name="Paula Corey" id="24885" address="Paula.PEC.Corey@ENRON.com"/>
+
+	<from name="Vince J Kaminski" id="63574" address="vkamins@enron.com"/>
+
+
+
+	<parent_id>1360725</parent_id>
+
+
+
+	<subject>Dynegy vs. Enron: A "Tale of Two Companies"</subject>
+
+
+
+	<date_time>2001-10-24 17:42:33</date_time>
+
+
+
+	<content>
+
+    
+
+M4.1. Where do we go?
+
+[Request-Information: where will Brian, Vince, and Paula go]
+
+Blink2.1
+
+Flink4.1
+
+M4.2. 8 may be few mins late.
+
+[Inform: Vince may run slightly late]
+
+M4.3. Vince
+
+M4.4. --------------------------vince kaminski
+
+[Conventional: signature]
+
+
+
+	</content>
+
+</message>
+
+</xml>

@@ -1,0 +1,349 @@
+<xml>
+
+<message>
+
+
+
+	<thread_id>22055</thread_id>
+
+
+
+	<depth>0</depth>
+
+
+
+	<type>ThreadNode</type>
+
+
+
+	<message_id>953815</message_id>
+
+	<to name="Steve Collins" id="102755" address="scollins@vailresorts.com"/>
+
+	<from name="Shirley Crenshaw" id="25496" address="Shirley.Crenshaw@ENRON.com"/>
+
+	<cc name="Vince J Kaminski" id="63574" address="Vince.J.Kaminski@ENRON.com"/>
+
+
+
+	<parent_id></parent_id>
+
+
+
+	<subject>Enron Offsite</subject>
+
+
+
+	<date_time>2000-06-27 10:28:00</date_time>
+
+
+
+	<content>
+
+    
+
+M1.1. Let's do it!
+
+[Inform: Shirley agrees to do something]
+
+M1.2. August 18 - 20 is our first choice!
+
+[Inform: Shirley et al.'s first choice is August 18-20]
+
+Sflink1.2
+
+
+
+M1.3. Please send me all the information and then we will discuss the
+
+particulars. [Y]
+
+[Inform: Steve should send Shirley all information before they discuss details]
+
+
+
+M1.4. I will get Vince to sign it immediately.
+
+[Inform: Shirley will get Vince to sign something (contract?) right away]
+
+Sflink1.4
+
+
+
+
+
+M1.5. Thanks Steve!
+
+[Conventional: thanks]
+
+
+
+M1.6. Shirley
+
+[Conventional: signature]
+
+
+
+	</content>
+
+</message>
+
+<message>
+
+
+
+	<thread_id>22055</thread_id>
+
+
+
+	<depth>1</depth>
+
+
+
+	<type>ThreadNodeBubble</type>
+
+
+
+	<message_id>2002100</message_id>
+
+
+
+	<parent_id>953815</parent_id>
+
+
+
+	<subject>Enron Offsite</subject>
+
+
+
+	<date_time>2000-06-28 07:19:30</date_time>
+
+
+
+	<content>
+
+    
+
+M2.1. Rates are a LITTLE higher in August than they are in April (August is high
+
+season for summer), but I can do those rooms at $125 (your April rate was
+
+$105).
+
+[Inform: room rates for April and August]
+
+Blink1.2
+
+
+
+M2.2. What kind of meeting space will you need?
+
+[Request-Information: what kind of meeting space will Shirley need]
+
+Flink2.2
+
+M2.3. If you can get me a tentative
+
+agenda, I will get the contract drawn up right away.
+
+[Inform: if Shirley can provide Steve with a tentative agenda he will get contract drawn up pronto]
+
+Blink1.4
+
+Sflink2.3
+
+
+
+M2.4. Thanks again!
+
+[Conventional: thanks]
+
+
+
+M2.5. Steve
+
+[Conventional: signature]
+
+
+
+	</content>
+
+</message>
+
+<message>
+
+
+
+	<thread_id>22055</thread_id>
+
+
+
+	<depth>2</depth>
+
+
+
+	<type>ThreadNode</type>
+
+
+
+	<message_id>953770</message_id>
+
+	<to name="Steve Collins" id="102755" address="scollins@vailresorts.com"/>
+
+	<from name="Shirley Crenshaw" id="25496" address="Shirley.Crenshaw@ENRON.com"/>
+
+	<cc name="Vince J Kaminski" id="63574" address="Vince.J.Kaminski@ENRON.com"/>
+
+
+
+	<parent_id>2002100</parent_id>
+
+
+
+	<subject>Enron Offsite</subject>
+
+
+
+	<date_time>2000-06-29 04:11:00</date_time>
+
+
+
+	<content>
+
+    
+
+M3.1. Hi Steve:
+
+[Conventional: salutation]
+
+M3.2. Listed below is the information you will need.
+
+[Inform: information about meeting is below]
+
+Blink2.3
+
+M3.3. If I have left out anything,
+
+please let me know.
+
+[Inform: Steve should tell Shirley if she left out anything]
+
+******************************************************************************
+
+**********
+
+M3.4. Friday, August 18th
+
+M3.5. 2:00 - 4:00 PM  Arrival in Denver (two separate flights)
+
+[Inform: date and time of arrival in Denver]
+
+M3.6. Can you arrange for shuttle to pick up? [Y]
+
+[Request-Action: arrange for shuttle to pick up attendees]
+
+Flink3.6
+
+M3.7. 6:30 - 8:00 PM  Dinner at the lodge
+
+[Inform: time/place of dinner]
+
+M3.8. Saturday, August 19th
+
+M3.9. We will need a conference room that will hold 12-15 people.
+
+M3.10. from 8:00 AM until 4:00 PM.
+
+[Inform: size of conference room needed on Saturday and time needed]
+
+Blink2.2
+
+M3.11. 8:00 AM   Breakfast buffet set up in meeting room
+
+M3.12. 10:00 AM  Break - bring in fresh coffee and water
+
+M3.13. 11:30 - 1:00 PM  Lunch (lunch buffet in meeting room?)
+
+M3.14. 1:00  PM  Meeting resumes
+
+M3.15. 2:30 PM   Break - bring in coffee, juice, cokes and water
+
+M3.16. 4:00 PM   Meeting ends.
+
+[Inform: more specific agenda for Saturday]
+
+M3.17. We will need an overhead projector and an LCD Projector.
+
+[Inform: projectors needed]
+
+M3.18. We will have dinner somewhere in the village on Saturday night,
+
+any suggestions?
+
+[Request-Information: dinner suggestions]
+
+Flink3.18
+
+M3.19. Sunday, August 20th
+
+M3.20. 8:00 - 11:00   Check out and return to Denver for flight to Houston
+
+[Inform: Sunday agenda]
+
+M3.21. Can you arrange shuttle to Denver? [Y]
+
+[Request-Action: arrange shuttle to Denver]
+
+Flink3.21
+
+******************************************************************************
+
+***********
+
+M3.22. Steve:
+
+[Conventional: salutation]
+
+M3.23. Some of the guys may bring their family (will share the same room)
+
+and stay a couple of days after the meeting ends.
+
+[Inform: some people will bring their families and stay after meeting ends]
+
+M3.24. Is there a problem with
+
+them staying on at the lodge?
+
+[Request-Information: whether families staying at lodge after meeting is a problem]
+
+Flink3.24
+
+M3.25. If not, please let me know how soon you
+
+need to know how long they plan on staying.
+
+[Request-Information: if/by when Steve needs to know how long they will stay]
+
+Flink3.25
+
+M3.26. This is all I can think of right now.
+
+M3.27. If anything else comes up I will let
+
+you
+
+know.
+
+[Inform: Shirley will let Steve know if she thinks of anything else, or if anything comes up]
+
+M3.28. Thanks and have a great day!
+
+[Conventional: thanks, have a great day]
+
+
+
+	</content>
+
+</message>
+
+</xml>

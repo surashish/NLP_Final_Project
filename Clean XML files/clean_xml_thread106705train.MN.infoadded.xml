@@ -1,0 +1,175 @@
+<xml>
+
+<message>
+
+
+
+	<thread_id>106705</thread_id>
+
+
+
+	<depth>0</depth>
+
+
+
+	<type>ThreadNode</type>
+
+
+
+	<message_id>531971</message_id>
+
+	<to name="Jeff Dasovich" id="27095" address="Joseph.Alamo@ENRON.com"/>
+
+	<from name="Jeff Dasovich" id="27095" address="Jeff.Dasovich@ENRON.com"/>
+
+
+
+	<parent_id></parent_id>
+
+
+
+	<subject>Friday whereabouts?</subject>
+
+
+
+	<date_time>2001-06-29 08:12:00</date_time>
+
+
+
+	<content>
+
+    
+
+M1.1. i  wish.
+
+[Inform-AnswerOffline: Jeff wishes something that was asked of him offline]
+
+M1.2. leaving to return to SF in a little bit.
+
+[Inform: Jeff is leaving for San Francisco in a little while]
+
+M1.3. should be back in town
+
+around 2 PM.
+
+[Inform: Jeff should be back around 2:00 PM]
+
+Sflink1.3
+
+
+
+	</content>
+
+</message>
+
+<message>
+
+
+
+	<thread_id>106705</thread_id>
+
+
+
+	<depth>1</depth>
+
+
+
+	<type>ThreadNodeBubble</type>
+
+
+
+	<message_id>2004614</message_id>
+
+
+
+	<parent_id>531971</parent_id>
+
+
+
+	<subject>Friday whereabouts?</subject>
+
+
+
+	<date_time>2001-06-29 19:26:00</date_time>
+
+
+
+	<content>
+
+    
+
+M2.1. hmmmmmmm....still no sign of you at 3 pm...
+
+[Inform: Jeff is not back an hour after he said he would be]
+
+Blink1.3
+
+M2.2. so....how many vacation hours shall I put you down for then, hmm??
+
+[Request-Information: how many vacation hours should Joseph put Jeff down for]
+
+Flink2.2
+
+M2.3. LOL
+
+[Inform: Joseph thinks this is funny]
+
+
+
+	</content>
+
+</message>
+
+<message>
+
+
+
+	<thread_id>106705</thread_id>
+
+
+
+	<depth>2</depth>
+
+
+
+	<type>ThreadNode</type>
+
+
+
+	<message_id>531986</message_id>
+
+	<to name="Jeff Dasovich" id="27095" address="Joseph.Alamo@ENRON.com"/>
+
+	<from name="Jeff Dasovich" id="27095" address="Jeff.Dasovich@ENRON.com"/>
+
+
+
+	<parent_id>2004614</parent_id>
+
+
+
+	<subject>Friday whereabouts?</subject>
+
+
+
+	<date_time>2001-06-30 06:40:00</date_time>
+
+
+
+	<content>
+
+    
+
+M3.1. zero
+
+[Inform: Joseph should not put Jeff down for any vacation hours]
+
+Blink2.2
+
+
+
+	</content>
+
+</message>
+
+</xml>

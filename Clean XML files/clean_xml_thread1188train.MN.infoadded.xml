@@ -1,0 +1,543 @@
+<xml>
+
+<message>
+
+
+
+	<thread_id>1188</thread_id>
+
+
+
+	<depth>0</depth>
+
+
+
+	<type>ThreadNode</type>
+
+
+
+	<message_id>83487</message_id>
+
+	<to name="Chris Mallory" id="3493" address="Chris.Mallory@ENRON.com"/>
+
+	<to name="Michael M Driscoll" id="2671" address="Michael.M.Driscoll@ENRON.com"/>
+
+	<to name="Holden Salisbury" id="2269" address="Holden.Salisbury@ENRON.com"/>
+
+	<to name="Bill Williams III" id="14326" address="Bill.Williams.III@ENRON.com"/>
+
+	<to name="Jeffrey Oh" id="2442" address="Jeffrey.Oh@ENRON.com"/>
+
+	<to name="Fredrik Eriksson" id="1584" address="Fredrik.Eriksson@ENRON.com"/>
+
+	<to name="Andy Chen" id="5472" address="Andy.Chen@ENRON.com"/>
+
+	<to name="Geir Solberg" id="43566" address="Geir.Solberg@ENRON.com"/>
+
+	<to name="Darren Cavanaugh" id="28154" address="Darren.Cavanaugh@ENRON.com"/>
+
+	<to name="John Oh" id="59061" address="john.oh@ENRON.com"/>
+
+	<to name="Serena Bishop" id="102268" address="Serena.Bishop@ENRON.com"/>
+
+	<to name="Susan Rance" id="107359" address="Susan.Rance@ENRON.com"/>
+
+	<to name="Timothy Coffing" id="2813" address="Timothy.Coffing@ENRON.com"/>
+
+	<to name="Nicholas Warner" id="86447" address="Nicholas.Warner@ENRON.com"/>
+
+	<to name="Mo Elafandi" id="687" address="Mo.Elafandi@ENRON.com"/>
+
+	<to name="Chris Mumm" id="22260" address="Chris.Mumm@ENRON.com"/>
+
+	<to name="James Bruce" id="51572" address="James.Bruce@ENRON.com"/>
+
+	<to name="Gray Calvert" id="20876" address="Gray.Calvert@ENRON.com"/>
+
+	<to name="David Guillaume" id="26988" address="David.Guillaume@ENRON.com"/>
+
+	<to name="Ryan Slinger" id="100052" address="Ryan.Slinger@ENRON.com"/>
+
+	<to name="Chris Stokley" id="3680" address="Chris.Stokley@ENRON.com"/>
+
+	<to name="David Frost" id="2893" address="David_Frost@ENRON.net"/>
+
+	<to name="Kourtney Nelson" id="4277" address="Kourtney.Nelson@ENRON.com"/>
+
+	<from name="Julie Kearney" id="3464" address="Julie.Kearney@ENRON.com"/>
+
+	<cc name="Grace Rodriguez" id="45588" address="Grace.Rodriguez@ENRON.com"/>
+
+	<cc name="Josie Jarnagin" id="57114" address="Josie.Jarnagin@ENRON.com"/>
+
+	<to name="Chris Mallory" id="3493" address="cmallor@enron.com"/>
+
+	<to name="Michael M Driscoll" id="2671" address="mdrisc3@enron.com"/>
+
+	<to name="Holden Salisbury" id="2269" address="Hsalisbu@ENRON.com"/>
+
+	<to name="Bill Williams III" id="14326" address="bwillia5@enron.com"/>
+
+	<to name="Jeffrey Oh" id="2442" address="Joh@ENRON.com"/>
+
+	<to name="Fredrik Eriksson" id="1584" address="Feriksso@ENRON.com"/>
+
+	<to name="Andy Chen" id="5472" address="Achen@ENRON.com"/>
+
+	<to name="Geir Solberg" id="43566" address="Gsolber@ENRON.com"/>
+
+	<to name="Darren Cavanaugh" id="28154" address="Dcavanau@ENRON.com"/>
+
+	<to name="John Oh" id="59061" address="Joh2@ENRON.com"/>
+
+	<to name="Serena Bishop" id="102268" address="Sbishop3@ENRON.com"/>
+
+	<to name="Susan Rance" id="107359" address="Srance@ENRON.com"/>
+
+	<to name="Timothy Coffing" id="2813" address="tcoffing@enron.com"/>
+
+	<to name="Nicholas Warner" id="86447" address="Nwarner@ENRON.com"/>
+
+	<to name="Mo Elafandi" id="687" address="Melafand@ENRON.com"/>
+
+	<to name="Chris Mumm" id="22260" address="Cmumm@ENRON.com"/>
+
+	<to name="James Bruce" id="51572" address="Jbruce2@ENRON.com"/>
+
+	<to name="Gray Calvert" id="20876" address="Gcalver@ENRON.com"/>
+
+	<to name="David Guillaume" id="26988" address="Dguillau@ENRON.com"/>
+
+	<to name="Ryan Slinger" id="100052" address="Rslinger@ENRON.com"/>
+
+	<to name="Chris Stokley" id="3680" address="Mstokle@ENRON.com"/>
+
+	<to name="David Frost" id="2893" address="Dfrost@ENRON.com"/>
+
+	<to name="Kourtney Nelson" id="4277" address="Knelson@ENRON.com"/>
+
+	<from name="Julie Kearney" id="3464" address="Jkearney@ENRON.com"/>
+
+	<cc name="Grace Rodriguez" id="45588" address="Grodriq@ENRON.com"/>
+
+	<cc name="Josie Jarnagin" id="57114" address="Jjarnagi@ENRON.com"/>
+
+
+
+	<parent_id></parent_id>
+
+
+
+	<subject>Happy Hour!</subject>
+
+
+
+	<date_time>2001-10-26 17:51:58</date_time>
+
+
+
+	<content>
+
+    
+
+M1.1. The Fall Associate and Analyst Recruiting Super Saturdays are scheduled for Saturday, Nov 10 and Saturday, Nov 17.
+
+[Inform: times of Fall Associate and Analyst Recruiting Super Saturdays]
+
+M1.2. The candidates arrive on Friday, are given a tour of the Floor and then presentations will be held thereafter.
+
+[Inform: schedule of events for Friday evening]
+
+M1.3. The November 10 Event will be Analyst-level candidates.
+
+M1.4. The November 17 Event will be Associate-level candidates.
+
+[Inform: which candidates will be recruiting during each weekend]
+
+
+
+M1.5. Now, here's the real info!    :  )
+
+[Inform: the following should be interesting information for recipients]
+
+
+
+M1.6. On both Fridays (Nov 9 & Nov 16) we will be sponsoring a get together (Happy Hour) at the Heathman for all the Associates & Analysts .
+
+[Inform: there will be a happy hour both Fridays]
+
+M1.7. This means FREE drinks and food from 4:30 PM ---> 6:30 PM.
+
+[Inform: this means there will be free drinks and food]
+
+M1.8. This will give you an opportunity to meet the candidates, check them out and if necessary "sell" them on Enron.
+
+[Inform: this is an opportunity to scope out candidates]
+
+
+
+M1.9. We will be sending out more reminders and confirmations, but block out your calendars for these two Fridays. [Y]
+
+[Inform: there will be more reminders, but email recipients should plan to make time for these events]
+
+M1.10. Let me know if you have any questions!
+
+[Inform: recipients should ask Julie any questions they might have]
+
+
+
+M1.11. Julie K
+
+[Conventional: signature]
+
+
+
+	</content>
+
+</message>
+
+<message>
+
+
+
+	<thread_id>1188</thread_id>
+
+
+
+	<depth>1</depth>
+
+
+
+	<type>ThreadNode</type>
+
+
+
+	<message_id>82</message_id>
+
+	<to name="Chris Mallory" id="3493" address="Chris.Mallory@ENRON.com"/>
+
+	<to name="Michael M Driscoll" id="2671" address="Michael.M.Driscoll@ENRON.com"/>
+
+	<to name="Holden Salisbury" id="2269" address="Holden.Salisbury@ENRON.com"/>
+
+	<to name="Bill Williams III" id="14326" address="Bill.Williams.III@ENRON.com"/>
+
+	<to name="Jeffrey Oh" id="2442" address="Jeffrey.Oh@ENRON.com"/>
+
+	<to name="Fredrik Eriksson" id="1584" address="Fredrik.Eriksson@ENRON.com"/>
+
+	<to name="Andy Chen" id="5472" address="Andy.Chen@ENRON.com"/>
+
+	<to name="Geir Solberg" id="43566" address="Geir.Solberg@ENRON.com"/>
+
+	<to name="Darren Cavanaugh" id="28154" address="Darren.Cavanaugh@ENRON.com"/>
+
+	<to name="John Oh" id="59061" address="john.oh@ENRON.com"/>
+
+	<to name="Serena Bishop" id="102268" address="Serena.Bishop@ENRON.com"/>
+
+	<to name="Susan Rance" id="107359" address="Susan.Rance@ENRON.com"/>
+
+	<to name="Timothy Coffing" id="2813" address="Timothy.Coffing@ENRON.com"/>
+
+	<to name="Nicholas Warner" id="86447" address="Nicholas.Warner@ENRON.com"/>
+
+	<to name="Mo Elafandi" id="687" address="Mo.Elafandi@ENRON.com"/>
+
+	<to name="Chris Mumm" id="22260" address="Chris.Mumm@ENRON.com"/>
+
+	<to name="James Bruce" id="51572" address="James.Bruce@ENRON.com"/>
+
+	<to name="Gray Calvert" id="20876" address="Gray.Calvert@ENRON.com"/>
+
+	<to name="David Guillaume" id="26988" address="David.Guillaume@ENRON.com"/>
+
+	<to name="Ryan Slinger" id="100052" address="Ryan.Slinger@ENRON.com"/>
+
+	<to name="Chris Stokley" id="3680" address="Chris.Stokley@ENRON.com"/>
+
+	<to name="David Frost" id="2893" address="David_Frost@ENRON.net"/>
+
+	<to name="Kourtney Nelson" id="4277" address="Kourtney.Nelson@ENRON.com"/>
+
+	<from name="Grace Rodriguez" id="45588" address="Grace.Rodriguez@ENRON.com"/>
+
+	<cc name="Theresa Villeggiante" id="3296" address="Theresa.Villeggiante@ENRON.com"/>
+
+	<cc name="Josie Jarnagin" id="57114" address="Josie.Jarnagin@ENRON.com"/>
+
+	<cc name="Julie Kearney" id="3464" address="Julie.Kearney@ENRON.com"/>
+
+	<to name="Chris Mallory" id="3493" address="cmallor@enron.com"/>
+
+	<to name="Michael M Driscoll" id="2671" address="mdrisc3@enron.com"/>
+
+	<to name="Holden Salisbury" id="2269" address="Hsalisbu@ENRON.com"/>
+
+	<to name="Bill Williams III" id="14326" address="bwillia5@enron.com"/>
+
+	<to name="Jeffrey Oh" id="2442" address="Joh@ENRON.com"/>
+
+	<to name="Fredrik Eriksson" id="1584" address="Feriksso@ENRON.com"/>
+
+	<to name="Andy Chen" id="5472" address="Achen@ENRON.com"/>
+
+	<to name="Geir Solberg" id="43566" address="Gsolber@ENRON.com"/>
+
+	<to name="Darren Cavanaugh" id="28154" address="Dcavanau@ENRON.com"/>
+
+	<to name="John Oh" id="59061" address="Joh2@ENRON.com"/>
+
+	<to name="Serena Bishop" id="102268" address="Sbishop3@ENRON.com"/>
+
+	<to name="Susan Rance" id="107359" address="Srance@ENRON.com"/>
+
+	<to name="Timothy Coffing" id="2813" address="tcoffing@enron.com"/>
+
+	<to name="Nicholas Warner" id="86447" address="Nwarner@ENRON.com"/>
+
+	<to name="Mo Elafandi" id="687" address="Melafand@ENRON.com"/>
+
+	<to name="Chris Mumm" id="22260" address="Cmumm@ENRON.com"/>
+
+	<to name="James Bruce" id="51572" address="Jbruce2@ENRON.com"/>
+
+	<to name="Gray Calvert" id="20876" address="Gcalver@ENRON.com"/>
+
+	<to name="David Guillaume" id="26988" address="Dguillau@ENRON.com"/>
+
+	<to name="Ryan Slinger" id="100052" address="Rslinger@ENRON.com"/>
+
+	<to name="Chris Stokley" id="3680" address="Mstokle@ENRON.com"/>
+
+	<to name="David Frost" id="2893" address="Dfrost@ENRON.com"/>
+
+	<to name="Kourtney Nelson" id="4277" address="Knelson@ENRON.com"/>
+
+	<from name="Grace Rodriguez" id="45588" address="Grodriq@ENRON.com"/>
+
+	<cc name="Theresa Villeggiante" id="3296" address="Tvillegg@ENRON.com"/>
+
+	<cc name="Josie Jarnagin" id="57114" address="Jjarnagi@ENRON.com"/>
+
+	<cc name="Julie Kearney" id="3464" address="Jkearney@ENRON.com"/>
+
+
+
+	<parent_id>83487</parent_id>
+
+
+
+	<subject>CONFIRMING: Happy Hour this Friday, 11.9.01</subject>
+
+
+
+	<date_time>2001-11-07 21:52:51</date_time>
+
+
+
+	<content>
+
+    
+
+M2.1. Howdy all!
+
+[Conventional: greeting]
+
+
+
+M2.2. Just a reminder that you are invited to the Associate/Analyst Happy Hour we will be hosting at the Heathman Hotel on Friday, November 9th (4:30pm-6:30pm).
+
+[Inform: a reminder that recipients are invited to the first happy hour]
+
+M2.3. Please let me know whether or not you are planning to attend. [Y]
+
+[Inform: recipients should RSVP]
+
+
+
+M2.4. I look forward to hearing from you (and seeing you on Friday)! :o)
+
+[Conventional: looking forward to seeing guests]
+
+
+
+M2.5. Enjoy the rest of your week!
+
+[Conventional: enjoy the rest of the week]
+
+
+
+M2.6. x8321
+
+[Inform: Grace's extension number]
+
+
+
+	</content>
+
+</message>
+
+<message>
+
+
+
+	<thread_id>1188</thread_id>
+
+
+
+	<depth>2</depth>
+
+
+
+	<type>ThreadNode</type>
+
+
+
+	<message_id>83416</message_id>
+
+	<to name="Chris Mallory" id="3493" address="Chris.Mallory@ENRON.com"/>
+
+	<to name="Michael M Driscoll" id="2671" address="Michael.M.Driscoll@ENRON.com"/>
+
+	<to name="Holden Salisbury" id="2269" address="Holden.Salisbury@ENRON.com"/>
+
+	<to name="Bill Williams III" id="14326" address="Bill.Williams.III@ENRON.com"/>
+
+	<to name="Jeffrey Oh" id="2442" address="Jeffrey.Oh@ENRON.com"/>
+
+	<to name="Fredrik Eriksson" id="1584" address="Fredrik.Eriksson@ENRON.com"/>
+
+	<to name="Andy Chen" id="5472" address="Andy.Chen@ENRON.com"/>
+
+	<to name="Geir Solberg" id="43566" address="Geir.Solberg@ENRON.com"/>
+
+	<to name="Darren Cavanaugh" id="28154" address="Darren.Cavanaugh@ENRON.com"/>
+
+	<to name="John Oh" id="59061" address="john.oh@ENRON.com"/>
+
+	<to name="Serena Bishop" id="102268" address="Serena.Bishop@ENRON.com"/>
+
+	<to name="Susan Rance" id="107359" address="Susan.Rance@ENRON.com"/>
+
+	<to name="Timothy Coffing" id="2813" address="Timothy.Coffing@ENRON.com"/>
+
+	<to name="Nicholas Warner" id="86447" address="Nicholas.Warner@ENRON.com"/>
+
+	<to name="Mo Elafandi" id="687" address="Mo.Elafandi@ENRON.com"/>
+
+	<to name="Chris Mumm" id="22260" address="Chris.Mumm@ENRON.com"/>
+
+	<to name="James Bruce" id="51572" address="James.Bruce@ENRON.com"/>
+
+	<to name="Gray Calvert" id="20876" address="Gray.Calvert@ENRON.com"/>
+
+	<to name="David Guillaume" id="26988" address="David.Guillaume@ENRON.com"/>
+
+	<to name="Ryan Slinger" id="100052" address="Ryan.Slinger@ENRON.com"/>
+
+	<to name="Chris Stokley" id="3680" address="Chris.Stokley@ENRON.com"/>
+
+	<to name="David Frost" id="2893" address="David_Frost@ENRON.net"/>
+
+	<to name="Kourtney Nelson" id="4277" address="Kourtney.Nelson@ENRON.com"/>
+
+	<from name="Julie Kearney" id="3464" address="Julie.Kearney@ENRON.com"/>
+
+	<cc name="Grace Rodriguez" id="45588" address="Grace.Rodriguez@ENRON.com"/>
+
+	<to name="Chris Mallory" id="3493" address="cmallor@enron.com"/>
+
+	<to name="Michael M Driscoll" id="2671" address="mdrisc3@enron.com"/>
+
+	<to name="Holden Salisbury" id="2269" address="Hsalisbu@ENRON.com"/>
+
+	<to name="Bill Williams III" id="14326" address="bwillia5@enron.com"/>
+
+	<to name="Jeffrey Oh" id="2442" address="Joh@ENRON.com"/>
+
+	<to name="Fredrik Eriksson" id="1584" address="Feriksso@ENRON.com"/>
+
+	<to name="Andy Chen" id="5472" address="Achen@ENRON.com"/>
+
+	<to name="Geir Solberg" id="43566" address="Gsolber@ENRON.com"/>
+
+	<to name="Darren Cavanaugh" id="28154" address="Dcavanau@ENRON.com"/>
+
+	<to name="John Oh" id="59061" address="Joh2@ENRON.com"/>
+
+	<to name="Serena Bishop" id="102268" address="Sbishop3@ENRON.com"/>
+
+	<to name="Susan Rance" id="107359" address="Srance@ENRON.com"/>
+
+	<to name="Timothy Coffing" id="2813" address="tcoffing@enron.com"/>
+
+	<to name="Nicholas Warner" id="86447" address="Nwarner@ENRON.com"/>
+
+	<to name="Mo Elafandi" id="687" address="Melafand@ENRON.com"/>
+
+	<to name="Chris Mumm" id="22260" address="Cmumm@ENRON.com"/>
+
+	<to name="James Bruce" id="51572" address="Jbruce2@ENRON.com"/>
+
+	<to name="Gray Calvert" id="20876" address="Gcalver@ENRON.com"/>
+
+	<to name="David Guillaume" id="26988" address="Dguillau@ENRON.com"/>
+
+	<to name="Ryan Slinger" id="100052" address="Rslinger@ENRON.com"/>
+
+	<to name="Chris Stokley" id="3680" address="Mstokle@ENRON.com"/>
+
+	<to name="David Frost" id="2893" address="Dfrost@ENRON.com"/>
+
+	<to name="Kourtney Nelson" id="4277" address="Knelson@ENRON.com"/>
+
+	<from name="Julie Kearney" id="3464" address="Jkearney@ENRON.com"/>
+
+	<cc name="Grace Rodriguez" id="45588" address="Grodriq@ENRON.com"/>
+
+
+
+	<parent_id>82</parent_id>
+
+
+
+	<subject>CANCELLATION: Happy Hour this Friday, 11.9.01</subject>
+
+
+
+	<date_time>2001-11-08 14:31:21</date_time>
+
+
+
+	<content>
+
+M3.1. Hello All!
+
+[Conventional: salutation]
+
+
+
+M3.2. As with the other Super Saturday events, we will be canceling the Happy Hour for this Friday as well as next Friday, 11/16.
+
+[Inform: all Super Saturday events during both weekends, including happy hours, will be canceled]
+
+
+
+M3.4. Thanks for your support!
+
+[Conventional: thanks]
+
+
+
+M3.5. Julie K
+
+[Conventional: signature]
+
+
+
+	</content>
+
+</message>
+
+</xml>

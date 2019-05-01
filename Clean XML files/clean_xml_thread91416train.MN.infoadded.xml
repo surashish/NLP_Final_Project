@@ -1,0 +1,137 @@
+<xml>
+
+<message>
+
+
+
+	<thread_id>91416</thread_id>
+
+
+
+	<depth>0</depth>
+
+
+
+	<type>ThreadNode</type>
+
+
+
+	<message_id>841492</message_id>
+
+	<to name="Darron C Giron" id="28206" address="Darron.C.Giron@ENRON.com"/>
+
+	<from name="Kent & Karen Pope" id="68977" address="kwpope@pdq.net"/>
+
+
+
+	<parent_id></parent_id>
+
+
+
+	<subject>Answers</subject>
+
+
+
+	<date_time>2001-05-14 03:59:00</date_time>
+
+
+
+	<content>
+
+    
+
+M1.1. ignore the note below to dan--it does not to apply to you! [Y]
+
+[Request-Action: do not read note below, because it only applies to Dan]
+
+Flink1.1
+
+M1.2. scan pretty far
+
+down for answers.
+
+[Inform-AnswerOffline: Darron should scan down the note for answers to questions presumably asked offline]
+
+M1.3. glad we got to see carlos this weekend.
+
+[Inform: Karen is glad to have seen Carlos over the weekend]
+
+M1.4. have a good week
+
+[Conventional: have a good week]
+
+M1.5. karen
+
+[Conventional: signature]
+
+
+
+	</content>
+
+</message>
+
+<message>
+
+
+
+	<thread_id>91416</thread_id>
+
+
+
+	<depth>1</depth>
+
+
+
+	<type>ThreadNode</type>
+
+
+
+	<message_id>841488</message_id>
+
+	<to name="Kent & Karen Pope" id="68977" address="kwpope@pdq.net"/>
+
+	<from name="Darron C Giron" id="28206" address="Darron.C.Giron@ENRON.com"/>
+
+
+
+	<parent_id>841492</parent_id>
+
+
+
+	<subject>Answers</subject>
+
+
+
+	<date_time>2001-05-14 06:22:00</date_time>
+
+
+
+	<content>
+
+    
+
+M2.1. Tell Dan that a glacier moves forward, not backward. [Y]
+
+[Inform: Karen should tell Dan that glaciers only move forward, not backwards]
+
+M2.2. On a balk, the batter
+
+does not advance, only the baserunners.
+
+[Inform: explanation of a baseball term]
+
+M2.3. But he may have a point with cricket.
+
+[Inform: Dan might be right about something he said about cricket]
+
+M2.4. DG
+
+[Conventional: signature]
+
+
+
+	</content>
+
+</message>
+
+</xml>

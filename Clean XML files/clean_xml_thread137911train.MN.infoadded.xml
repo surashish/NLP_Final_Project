@@ -1,0 +1,203 @@
+<xml>
+
+<message>
+
+
+
+	<thread_id>137911</thread_id>
+
+
+
+	<depth>0</depth>
+
+
+
+	<type>ThreadNode</type>
+
+
+
+	<message_id>1362108</message_id>
+
+	<to name="Vince J Kaminski" id="63574" address="Vince.J.Kaminski@ENRON.com"/>
+
+	<from name="Shijie Deng" id="30935" address="deng@isye.gatech.edu"/>
+
+	<cc name="Shirley Crenshaw" id="25496" address="Shirley.Crenshaw@ENRON.com"/>
+
+	<cc name="Shijie Deng" id="30935" address="deng@isye.gatech.edu"/>
+
+	<to name="Vince J Kaminski" id="63574" address="vkamins@enron.com"/>
+
+	<cc name="Shirley Crenshaw" id="26895" address="scrensh@enron.com"/>
+
+
+
+	<parent_id></parent_id>
+
+
+
+	<subject>presentation title and abstract</subject>
+
+
+
+	<date_time>2001-10-23 15:43:50</date_time>
+
+
+
+	<content>
+
+    
+
+M1.1. Vince,
+
+[Conventional: salutation]
+
+
+
+M1.2. As your upcoming visit to our school is on next Thursday, could you please
+
+send me the title and abstract of your talk as soon as possible so
+
+that I could make the seminar announcement to our faculty and students
+
+soon. [Y]
+
+[Request-Information: send title and abstract of Vince's talk since it is forthcoming]
+
+Flink1.2
+
+M1.3. Thanks.
+
+[Conventional: thanks]
+
+
+
+M1.4. Shijie
+
+
+
+M1.5. Shi-Jie Deng
+
+M1.6. Assistant Professor
+
+M1.7. School of ISyE
+
+M1.8. Georgia Institute of Technology
+
+[Conventional: signature]
+
+
+
+M1.9. Office Phone: (404) 894-6519
+
+M1.10. E-mail:       deng@isye.gatech.edu
+
+M1.11. Home page:    http://www.isye.gatech.edu/~deng
+
+[Inform: Shi-Jie's contact information]
+
+
+
+	</content>
+
+</message>
+
+<message>
+
+
+
+	<thread_id>137911</thread_id>
+
+
+
+	<depth>1</depth>
+
+
+
+	<type>ThreadNode</type>
+
+
+
+	<message_id>1317007</message_id>
+
+	<to name="Shijie Deng" id="30935" address="deng@isye.gatech.edu"/>
+
+	<from name="Vince J Kaminski" id="63574" address="vkamins@enron.com"/>
+
+	<cc name="Vince J Kaminski" id="63574" address="vkaminski@aol.com"/>
+
+
+
+	<parent_id>1362108</parent_id>
+
+
+
+	<subject>presentation title and abstract</subject>
+
+
+
+	<date_time>2001-10-29 11:07:18</date_time>
+
+
+
+	<content>
+
+    
+
+M2.1. Shijie,
+
+[Conventional: salutation]
+
+M2.2. My apologies for the delay.
+
+[Inform: Vince is sorry for delay]
+
+M2.3. As you know we have hit some turbulence here at Enron
+
+and I was quite busy.
+
+[Inform: Enron has been turbulent and Vince has been busy]
+
+M2.4. The title of the talk:
+
+M2.5. Measurement of  Volatility in the Energy Markets:
+
+[Inform: title of Vince's talk]
+
+Blink1.2
+
+M2.6. 1. Importance  of volatility in financial engineering
+
+M2.7. a. option pricing
+
+M2.8. b. risk management
+
+M2.9. c. legacy software systems
+
+M2.10. 2. Is volatility the right tool for energy markets?
+
+M2.11. 3. The dynamics of energy prices in the US markets in recent years: a few stylized facts
+
+M2.12. 4. Alternative theoretical tools to represent price dynamics: the importance
+
+of dialogue between academics and practitioners
+
+[Inform: outline of Vince's talk]
+
+Blink1.2
+
+M2.13. Also, can you give me some indication of the timing
+
+of different meetings? [Y]
+
+[Request-Information: timing of different meetings]
+
+Flink2.13
+
+
+
+	</content>
+
+</message>
+
+</xml>

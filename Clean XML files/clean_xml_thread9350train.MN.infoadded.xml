@@ -1,0 +1,55 @@
+<xml>
+
+<message>
+
+
+
+	<thread_id>9350</thread_id>
+
+
+
+	<depth>0</depth>
+
+
+
+	<type>ThreadNode</type>
+
+
+
+	<message_id>1225286</message_id>
+
+	<to name="Robert P Virgo" id="2293" address="Robert.P.Virgo@ENRON.com"/>
+
+	<to name="Mike J Miller" id="81425" address="Mike.J.Miller@ENRON.com"/>
+
+	<from name="Richard B Sanders" id="40537" address="Richard.B.Sanders@ENRON.com"/>
+
+
+
+	<parent_id></parent_id>
+
+
+
+	<subject>Enron/Natole Turbine Schedule</subject>
+
+
+
+	<date_time>2000-01-25 06:23:00</date_time>
+
+
+
+	<content>
+
+    
+
+M1.1. fyi
+
+[Inform: the presumably attached Natole Turbine Schedule is available for Robert's and Mike's information]
+
+
+
+	</content>
+
+</message>
+
+</xml>

@@ -1,0 +1,267 @@
+<xml>
+
+<message>
+
+
+
+	<thread_id>6837</thread_id>
+
+
+
+	<depth>0</depth>
+
+
+
+	<type>ThreadNode</type>
+
+
+
+	<message_id>225550</message_id>
+
+	<to name="Mark Taylor" id="2378" address="Mark.Taylor@ENRON.com"/>
+
+	<from name="Sara Shackleton" id="64528" address="Sara.Shackleton@ENRON.com"/>
+
+
+
+	<parent_id></parent_id>
+
+
+
+	<subject>JAPRO Gruppen Aktiebolag</subject>
+
+
+
+	<date_time>1999-11-09 05:48:00</date_time>
+
+
+
+	<content>
+
+    
+
+M1.1. Martin sent this message to London and Michael advised that Sullivan &
+
+Cromwell be retained.
+
+[Inform: Martin sent a presumably attached message to London, and Michael advised for a law firm to be retained]
+
+M1.2. With respect to interest by the CFTC in  the proposed
+
+transaction, would you agree that the same law firm advise on that issue as
+
+well?
+
+[Request-Information: would Mark agree that the same law firm advise on another issue]
+
+Flink1.2
+
+M1.3. Makes sense to me.
+
+[Inform: this makes sense to Sara]
+
+M1.4. Also, what is Energydesk.com LImited?
+
+[Request-Information: what is Energydesk.com Limited]
+
+Flink1.4
+
+M1.5. Sara
+
+[Conventional: signature]
+
+
+
+	</content>
+
+</message>
+
+<message>
+
+
+
+	<thread_id>6837</thread_id>
+
+
+
+	<depth>1</depth>
+
+
+
+	<type>ThreadNode</type>
+
+
+
+	<message_id>225592</message_id>
+
+	<to name="Mark Taylor" id="2378" address="Mark.Taylor@ENRON.com"/>
+
+	<from name="Sara Shackleton" id="64528" address="Sara.Shackleton@ENRON.com"/>
+
+
+
+	<parent_id>225550</parent_id>
+
+
+
+	<subject>JAPRO Gruppen Aktiebolag</subject>
+
+
+
+	<date_time>1999-11-16 07:21:00</date_time>
+
+
+
+	<content>
+
+    
+
+M2.1. Per my voice mail.
+
+[Inform: something presumably attached is in accordance with Sara's voice mail]
+
+M2.2. Let me know what you think.
+
+[Request-Information: what Mark thinks about this]
+
+Flink2.2
+
+M2.3. SS
+
+[Conventional: signature]
+
+
+
+	</content>
+
+</message>
+
+<message>
+
+
+
+	<thread_id>6837</thread_id>
+
+
+
+	<depth>2</depth>
+
+
+
+	<type>ThreadNode</type>
+
+
+
+	<message_id>1187843</message_id>
+
+	<to name="Sara Shackleton" id="64528" address="Sara.Shackleton@ENRON.com"/>
+
+	<from name="Mark Taylor" id="2378" address="Mark.Taylor@ENRON.com"/>
+
+
+
+	<parent_id>225592</parent_id>
+
+
+
+	<subject>JAPRO Gruppen Aktiebolag</subject>
+
+
+
+	<date_time>1999-11-16 11:01:00</date_time>
+
+
+
+	<content>
+
+    
+
+M3.1. I think S&C is fine - they are helping us with CFTC issues related to online
+
+trading
+
+[Inform: Mark thinks keeping Sullivan & Cromwell is a good idea]
+
+Blink1.2
+
+Sflink3.1
+
+M3.2. and Energy Desk.com seems somwhat related.
+
+[Inform: EnergyDesk.com seems related to CFTC issues]
+
+Blink1.4
+
+
+
+	</content>
+
+</message>
+
+<message>
+
+
+
+	<thread_id>6837</thread_id>
+
+
+
+	<depth>3</depth>
+
+
+
+	<type>ThreadNode</type>
+
+
+
+	<message_id>225598</message_id>
+
+	<to name="Martin Rosell" id="76849" address="martin.rosell@enron.com"/>
+
+	<from name="Sara Shackleton" id="64528" address="Sara.Shackleton@ENRON.com"/>
+
+
+
+	<parent_id>1187843</parent_id>
+
+
+
+	<subject>JAPRO Gruppen Aktiebolag</subject>
+
+
+
+	<date_time>1999-11-17 08:24:00</date_time>
+
+
+
+	<content>
+
+    
+
+M4.1. Martin:
+
+[Conventional: salutation]
+
+M4.2. Sorry for the log jam but I always thought that the law firm was the
+
+best idea.
+
+[Inform: apology for delayed reply, and Sara had always thought that keeping the law firm was the best idea]
+
+Blink3.1
+
+M4.3. Call if you need assistance.
+
+[Inform: Martin can call if he needs help]
+
+M4.4. Sara
+
+[Conventional: signature]
+
+
+
+	</content>
+
+</message>
+
+</xml>

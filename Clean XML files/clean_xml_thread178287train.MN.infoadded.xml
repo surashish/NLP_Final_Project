@@ -1,0 +1,183 @@
+<xml>
+
+<message>
+
+
+
+	<thread_id>178287</thread_id>
+
+
+
+	<depth>0</depth>
+
+
+
+	<type>ThreadNode</type>
+
+
+
+	<message_id>45169</message_id>
+
+	<to name="Jeffrey C Gossett" id="45450" address="Jeffrey.C.Gossett@ENRON.com"/>
+
+	<to name="Darron C Giron" id="28206" address="Darron.C.Giron@ENRON.com"/>
+
+	<to name="Phillip M Love" id="91168" address="Phillip.M.Love@ENRON.com"/>
+
+	<from name="Stacey Richardson" id="40175" address="Stacey.Richardson@ENRON.com"/>
+
+	<cc name="B Scott Palmer" id="11194" address="B.Scott.Palmer@ENRON.com"/>
+
+	<cc name="Bob M Hall" id="360" address="Bob.M.Hall@ENRON.com"/>
+
+	<cc name="Cyndie Balfour-Flanagan" id="1757" address="Cyndie.Balfour-Flanagan@ENRON.com"/>
+
+	<cc name="Kim S Theriot" id="35769" address="Kim.S.Theriot@ENRON.com"/>
+
+	<to name="Jeffrey C Gossett" id="45450" address="Jgosset@ENRON.com"/>
+
+	<to name="Darron C Giron" id="28206" address="dgiron@enron.com"/>
+
+	<to name="Phillip M Love" id="91168" address="plove@enron.com"/>
+
+	<from name="Stacey Richardson" id="40175" address="Srichar2@ENRON.com"/>
+
+	<cc name="B Scott Palmer" id="11194" address="Spalmer@ENRON.com"/>
+
+	<cc name="Bob M Hall" id="360" address="Rhall3@ENRON.com"/>
+
+	<cc name="Cyndie Balfour-Flanagan" id="1757" address="Cbalfou@ENRON.com"/>
+
+	<cc name="Kim S Theriot" id="35769" address="Ktherio@ENRON.com"/>
+
+
+
+	<parent_id></parent_id>
+
+
+
+	<subject>bankruptcy book deals</subject>
+
+
+
+	<date_time>2002-01-28 18:12:58</date_time>
+
+
+
+	<content>
+
+    
+
+M1.1. Hi all,
+
+[Conventional: salutation]
+
+M1.2. Here are a few more stragglers to move into the bankruptcy books:
+
+[Inform: Stacey is attaching some names to be moved into bankruptcy books]
+
+Sflink1.2
+
+M1.3. Please call if you have any questions.
+
+[Inform: recipients should call if they have questions]
+
+M1.4. SBR
+
+[Conventional: signature]
+
+M1.5. x30569
+
+[Inform: Stacey's extension]
+
+
+
+	</content>
+
+</message>
+
+<message>
+
+
+
+	<thread_id>178287</thread_id>
+
+
+
+	<depth>1</depth>
+
+
+
+	<type>ThreadNode</type>
+
+
+
+	<message_id>45167</message_id>
+
+	<to name="Stacey Richardson" id="40175" address="Stacey.Richardson@ENRON.com"/>
+
+	<to name="Jeffrey C Gossett" id="45450" address="Jeffrey.C.Gossett@ENRON.com"/>
+
+	<to name="Darron C Giron" id="28206" address="Darron.C.Giron@ENRON.com"/>
+
+	<from name="Phillip M Love" id="91168" address="Phillip.M.Love@ENRON.com"/>
+
+	<cc name="B Scott Palmer" id="11194" address="B.Scott.Palmer@ENRON.com"/>
+
+	<cc name="Bob M Hall" id="360" address="Bob.M.Hall@ENRON.com"/>
+
+	<cc name="Cyndie Balfour-Flanagan" id="1757" address="Cyndie.Balfour-Flanagan@ENRON.com"/>
+
+	<cc name="Kim S Theriot" id="35769" address="Kim.S.Theriot@ENRON.com"/>
+
+	<to name="Stacey Richardson" id="40175" address="Srichar2@ENRON.com"/>
+
+	<to name="Jeffrey C Gossett" id="45450" address="Jgosset@ENRON.com"/>
+
+	<to name="Darron C Giron" id="28206" address="dgiron@enron.com"/>
+
+	<from name="Phillip M Love" id="91168" address="plove@enron.com"/>
+
+	<cc name="B Scott Palmer" id="11194" address="Spalmer@ENRON.com"/>
+
+	<cc name="Bob M Hall" id="360" address="Rhall3@ENRON.com"/>
+
+	<cc name="Cyndie Balfour-Flanagan" id="1757" address="Cbalfou@ENRON.com"/>
+
+	<cc name="Kim S Theriot" id="35769" address="Ktherio@ENRON.com"/>
+
+
+
+	<parent_id>45169</parent_id>
+
+
+
+	<subject>bankruptcy book deals</subject>
+
+
+
+	<date_time>2002-01-29 10:08:27</date_time>
+
+
+
+	<content>
+
+    
+
+M2.1. Done.
+
+[Inform: Phillip has moved names into bankruptcy books]
+
+Blink1.2
+
+M2.2. PL
+
+[Conventional: signature]
+
+
+
+	</content>
+
+</message>
+
+</xml>

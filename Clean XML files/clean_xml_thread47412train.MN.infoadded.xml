@@ -1,0 +1,147 @@
+<xml>
+
+<message>
+
+
+
+	<thread_id>47412</thread_id>
+
+
+
+	<depth>0</depth>
+
+
+
+	<type>ThreadNode</type>
+
+
+
+	<message_id>780753</message_id>
+
+	<to name="Richard B Sanders" id="40537" address="Richard.B.Sanders@ENRON.com"/>
+
+	<from name="" id="105338" address="SHoward@milbank.com"/>
+
+
+
+	<parent_id></parent_id>
+
+
+
+	<subject>Max Holmes Deposition-Day No. 1</subject>
+
+
+
+	<date_time>2000-11-27 20:06:00</date_time>
+
+
+
+	<content>
+
+    
+
+M1.1. Richard:
+
+[Conventional: salutation]
+
+M1.2. It was another great deposition day for the plaintiffs.
+
+[Inform: today was a great deposition day for plaintiffs]
+
+M1.3. The high point was
+
+an audio taped phone conversation of Max Holmes' calling Stickler a liar.
+
+[Inform: best part was an taped phone conversation of Max Holmes calling Stickler a liar]
+
+M1.4. A
+
+more detailed report is attached.
+
+[Inform: more detailed report attached]
+
+M1.5. Frankly, I don't think McDonald and NatWest can let this case go to trial.
+
+[Inform: Steve doesn't think McDonald and NatWest can let this case go to trial]
+
+M1.6. They will almost surely lose, and lose big, and PaineWebber could be drawn in
+
+too.
+
+[Inform: these two will almost surely lose big, and PaineWebber could be drawn in as well]
+
+M1.7. I think I will make a renewed pitch to Bruce MacLeod (Farallon's lawyer
+
+here this week) to let ECT out.
+
+[Inform: Steve plans to once again ask Farallon's lawyer, Bruce MacLeod, to let ECT out]
+
+M1.8. I will keep you posted.
+
+[Inform: Steve will keep Richard posted]
+
+M1.9. Steve
+
+[Conventional: signature]
+
+
+
+	</content>
+
+</message>
+
+<message>
+
+
+
+	<thread_id>47412</thread_id>
+
+
+
+	<depth>1</depth>
+
+
+
+	<type>ThreadNode</type>
+
+
+
+	<message_id>780754</message_id>
+
+	<to name="Travis McCullough" id="2492" address="Travis.McCullough@ENRON.com"/>
+
+	<to name="Dan Lyons" id="20670" address="Dan.Lyons@ENRON.com"/>
+
+	<from name="Richard B Sanders" id="40537" address="Richard.B.Sanders@ENRON.com"/>
+
+
+
+	<parent_id>780753</parent_id>
+
+
+
+	<subject>Max Holmes Deposition-Day No. 1</subject>
+
+
+
+	<date_time>2000-11-28 01:39:00</date_time>
+
+
+
+	<content>
+
+    
+
+M2.1. Please review and let me know if you have any comments.
+
+[Request-Action: review and give any comments]
+
+Flink2.1
+
+
+
+	</content>
+
+</message>
+
+</xml>

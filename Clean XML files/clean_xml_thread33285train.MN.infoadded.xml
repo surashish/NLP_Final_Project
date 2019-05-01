@@ -1,0 +1,243 @@
+<xml>
+
+<message>
+
+
+
+	<thread_id>33285</thread_id>
+
+
+
+	<depth>0</depth>
+
+
+
+	<type>ThreadNode</type>
+
+
+
+	<message_id>228965</message_id>
+
+	<to name="Sara Shackleton" id="64528" address="Sara.Shackleton@ENRON.com"/>
+
+	<from name="Laurel Adams" id="2097" address="Laurel.Adams@ENRON.com"/>
+
+	<cc name="John Weakly" id="1346" address="John.Weakly@ENRON.com"/>
+
+
+
+	<parent_id></parent_id>
+
+
+
+	<subject>updated authorised trader list</subject>
+
+
+
+	<date_time>2000-09-19 08:51:00</date_time>
+
+
+
+	<content>
+
+    
+
+M1.1. Sara,
+
+[Conventional: salutation]
+
+M1.2. We will need John Weakly added to the authorized trader list for ECT
+
+Investments and ENA (similar to Selena Gonzales and David Vitrella) [Y]
+
+[Inform: John Weakly should be added to authorized trader list for ECT and ENA]
+
+Sflink1.2
+
+M1.3. Please
+
+let me know what info you may need from me to make this happen.
+
+[Inform: Sara should tell Laurel if she needs any info to facilitate this update]
+
+M1.4. Thanks for
+
+your help!
+
+[Conventional: thanks]
+
+
+
+	</content>
+
+</message>
+
+<message>
+
+
+
+	<thread_id>33285</thread_id>
+
+
+
+	<depth>1</depth>
+
+
+
+	<type>ThreadNode</type>
+
+
+
+	<message_id>228972</message_id>
+
+	<to name="Samantha Boyd" id="101372" address="Samantha.Boyd@ENRON.com"/>
+
+	<from name="Sara Shackleton" id="64528" address="Sara.Shackleton@ENRON.com"/>
+
+	<cc name="Tana Jones" id="111168" address="Tana.Jones@ENRON.com"/>
+
+
+
+	<parent_id>228965</parent_id>
+
+
+
+	<subject>updated authorised trader list</subject>
+
+
+
+	<date_time>2000-09-19 10:20:00</date_time>
+
+
+
+	<content>
+
+    
+
+M2.1. are you handling?
+
+[Request-Information: is Samantha handling this update]
+
+Blink1.2
+
+Flink2.1
+
+
+
+	</content>
+
+</message>
+
+<message>
+
+
+
+	<thread_id>33285</thread_id>
+
+
+
+	<depth>2</depth>
+
+
+
+	<type>ThreadNode</type>
+
+
+
+	<message_id>228975</message_id>
+
+	<to name="Sara Shackleton" id="64528" address="Sara.Shackleton@ENRON.com"/>
+
+	<from name="Samantha Boyd" id="101372" address="Samantha.Boyd@ENRON.com"/>
+
+
+
+	<parent_id>228972</parent_id>
+
+
+
+	<subject>updated authorised trader list</subject>
+
+
+
+	<date_time>2000-09-19 11:03:00</date_time>
+
+
+
+	<content>
+
+    
+
+M3.1. Is this a new request?
+
+[Request-Information: is this a new request]
+
+Blink2.1
+
+Flink3.1
+
+M3.2. Please call me to discuss. [Y]
+
+[Request-Action: call Samantha to discuss request]
+
+Flink3.2
+
+
+
+	</content>
+
+</message>
+
+<message>
+
+
+
+	<thread_id>33285</thread_id>
+
+
+
+	<depth>3</depth>
+
+
+
+	<type>ThreadNode</type>
+
+
+
+	<message_id>228979</message_id>
+
+	<to name="Samantha Boyd" id="101372" address="Samantha.Boyd@ENRON.com"/>
+
+	<from name="Sara Shackleton" id="64528" address="Sara.Shackleton@ENRON.com"/>
+
+
+
+	<parent_id>228975</parent_id>
+
+
+
+	<subject>updated authorised trader list</subject>
+
+
+
+	<date_time>2000-09-19 11:21:00</date_time>
+
+
+
+	<content>
+
+    
+
+M4.1. yes, you can call Laurel for details.
+
+[Inform: yes, this is a new request and Laurel can be called for details]
+
+Blink3.1
+
+
+
+	</content>
+
+</message>
+
+</xml>

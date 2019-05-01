@@ -1,0 +1,227 @@
+<xml>
+
+<message>
+
+
+
+	<thread_id>29892</thread_id>
+
+
+
+	<depth>0</depth>
+
+
+
+	<type>ThreadNode</type>
+
+
+
+	<message_id>116583</message_id>
+
+	<to name="Sara Shackleton" id="64528" address="Sara.Shackleton@ENRON.com"/>
+
+	<to name="Mary Cook" id="492" address="Mary.Cook@ENRON.com"/>
+
+	<from name="Carol St Clair" id="3773" address="Carol.St.Clair@ENRON.com"/>
+
+
+
+	<parent_id></parent_id>
+
+
+
+	<subject>Project Tahiti</subject>
+
+
+
+	<date_time>2000-08-29 04:11:00</date_time>
+
+
+
+	<content>
+
+    
+
+M1.1. Carol St. Clair
+
+M1.2. EB 3892
+
+[Conventional: signature]
+
+M1.3. 713-853-3989 (Phone)
+
+M1.4. 713-646-3393 (Fax)
+
+M1.5. carol.st.clair@enron.com
+
+[Inform: Carol's contact information]
+
+
+
+	</content>
+
+</message>
+
+<message>
+
+
+
+	<thread_id>29892</thread_id>
+
+
+
+	<depth>1</depth>
+
+
+
+	<type>ThreadNode</type>
+
+
+
+	<message_id>228436</message_id>
+
+	<to name="Sara Shackleton" id="64528" address="Sara.Shackleton@ENRON.com"/>
+
+	<from name="Mary Cook" id="492" address="Mary.Cook@ENRON.com"/>
+
+
+
+	<parent_id>116583</parent_id>
+
+
+
+	<subject>Project Tahiti</subject>
+
+
+
+	<date_time>2000-08-29 04:14:00</date_time>
+
+
+
+	<content>
+
+    
+
+M2.1. Is this more Hawaii that you are handling?
+
+[Request-Information: is attachment presumably sent with previous email regarding Hawaii, and is Sara handling it]
+
+Flink2.1
+
+M2.2. Mary
+
+[Conventional: signature]
+
+
+
+	</content>
+
+</message>
+
+<message>
+
+
+
+	<thread_id>29892</thread_id>
+
+
+
+	<depth>1</depth>
+
+
+
+	<type>ThreadNode</type>
+
+
+
+	<message_id>228456</message_id>
+
+	<to name="Sara Shackleton" id="64528" address="Kaye.Ellis@ENRON.com"/>
+
+	<from name="Sara Shackleton" id="64528" address="Sara.Shackleton@ENRON.com"/>
+
+
+
+	<parent_id>116583</parent_id>
+
+
+
+	<subject>Project Tahiti</subject>
+
+
+
+	<date_time>2000-08-29 07:38:00</date_time>
+
+
+
+	<content>
+
+    
+
+M3.1. and I need to print these also
+
+[Inform: Sara needs to print something, presumably from attachment regarding Hawaii]
+
+
+
+	</content>
+
+</message>
+
+<message>
+
+
+
+	<thread_id>29892</thread_id>
+
+
+
+	<depth>2</depth>
+
+
+
+	<type>ThreadNode</type>
+
+
+
+	<message_id>228439</message_id>
+
+	<to name="Mary Cook" id="492" address="Mary.Cook@ENRON.com"/>
+
+	<from name="Sara Shackleton" id="64528" address="Sara.Shackleton@ENRON.com"/>
+
+
+
+	<parent_id>228436</parent_id>
+
+
+
+	<subject>Project Tahiti</subject>
+
+
+
+	<date_time>2000-08-29 04:16:00</date_time>
+
+
+
+	<content>
+
+    
+
+M4.1. I haven't read all of the emails, but, Mark was going to handle Hawaii.
+
+[Inform: Sara hasn't read all emails, but Mark was supposed to take care of the thing regarding Hawaii]
+
+Blink2.1
+
+M4.2. SS
+
+[Conventional: signature]
+
+
+
+	</content>
+
+</message>
+
+</xml>

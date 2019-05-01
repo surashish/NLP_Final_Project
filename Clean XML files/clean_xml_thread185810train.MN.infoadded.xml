@@ -1,0 +1,405 @@
+<xml>
+
+<message>
+
+
+
+	<thread_id>185810</thread_id>
+
+
+
+	<depth>0</depth>
+
+
+
+	<type>ThreadNode</type>
+
+
+
+	<message_id>1242733</message_id>
+
+	<to name="Lynn Blair" id="2243" address="Lynn.Blair@ENRON.com"/>
+
+	<to name="Scott Clark" id="12213" address="Scott.Clark@ENRON.com"/>
+
+	<to name="Shelley Corman" id="102777" address="Shelley.Corman@ENRON.com"/>
+
+	<to name="David Gaines" id="28723" address="David.Gaines@ENRON.com"/>
+
+	<to name="Tom Gilbert" id="36129" address="Tom.Gilbert@ENRON.com"/>
+
+	<to name="Morgan Gottsponer" id="79922" address="morgan.gottsponer@dynegy.com"/>
+
+	<to name="Randy Howard" id="1888" address="Randy.Howard@ENRON.com"/>
+
+	<to name="Fred Jordan" id="40727" address="Fred.Jordan@ENRON.com"/>
+
+	<to name="Terry Kowalke" id="3344" address="Terry.Kowalke@ENRON.com"/>
+
+	<to name="Randy LeBeau" id="36995" address="Randy.LeBeau@ENRON.com"/>
+
+	<to name="RR McGillivray" id="35817" address="RR.McGillivray@ENRON.com"/>
+
+	<to name="Dave W Miller" id="3410" address="Dave.W.Miller@ENRON.com"/>
+
+	<to name="David Noyes" id="767" address="David.Noyes@ENRON.com"/>
+
+	<to name="Dave Odneal" id="1594" address="Dave.Odneal@ENRON.com"/>
+
+	<to name="Brian Poock" id="16080" address="Brian.Poock@ENRON.com"/>
+
+	<to name="Randy Rice" id="94073" address="Randy.Rice@ENRON.com"/>
+
+	<to name="Tom Rice" id="35827" address="Tom.Rice@ENRON.com"/>
+
+	<to name="LD Stephens" id="70528" address="LD.Stephens@ENRON.com"/>
+
+	<to name="Steve Thomas" id="18399" address="steven.d.thomas@dynegy.com"/>
+
+	<to name="Wally Tippin" id="2143" address="Wally.Tippin@ENRON.com"/>
+
+	<to name="Jo Williams" id="11311" address="jo.williams@dynegy.com"/>
+
+	<to name="Walt Williams" id="40657" address="Walt.Williams@ENRON.com"/>
+
+	<to name="Byron Wood" id="1673" address="Byron.Wood@ENRON.com"/>
+
+	<to name="DL-ETS Gas Controllers" id="6022" address="DL-ETSGasControllers@ENRON.com"/>
+
+	<to name="Steve January" id="105707" address="Steve.January@ENRON.com"/>
+
+	<to name="Ken Anderson" id="1269" address="ken.anderson@dynegy.com"/>
+
+	<to name="Doug Aschwege" id="28254" address="doug.aschwege@dynegy.com"/>
+
+	<to name="Judy Beck" id="2518" address="judy.beck@dynegy.com"/>
+
+	<to name="Carolyn Descoteaux" id="2799" address="carolyn.l.descoteaux@dynegy.com"/>
+
+	<to name="Dan Dobbins" id="2466" address="dan.dobbins@dynegy.com"/>
+
+	<to name="Robert L Johnson" id="97222" address="robert.l.johnson@dynegy.com"/>
+
+	<to name="David Kolarik" id="1843" address="david.kolarik@dynegy.com"/>
+
+	<to name="Keith Petersen" id="65175" address="Keith.Petersen@dynegy.com"/>
+
+	<to name="Bryan Reinecke" id="557" address="bryan.reinecke@dynegy.com"/>
+
+	<to name="Becki Sans Souci" id="503" address="rebecca.j.sanssouci@dynegy.com"/>
+
+	<to name="Roger Westfall" id="29836" address="roger.westfall@dynegy.com"/>
+
+	<from name="Jerry Graves" id="2377" address="Jerry.Graves@ENRON.com"/>
+
+	<to name="Lynn Blair" id="2243" address="lblair@enron.com"/>
+
+	<to name="Scott Clark" id="12213" address="Sclark4@ENRON.com"/>
+
+	<to name="Shelley Corman" id="102777" address="scorman@enron.com"/>
+
+	<to name="David Gaines" id="28723" address="Dgaines@ENRON.com"/>
+
+	<to name="Tom Gilbert" id="36129" address="Tgilber@ENRON.com"/>
+
+	<to name="Gottsponer" id="45460" address="Gottsponer@ENRON.com"/>
+
+	<to name="Randy Howard" id="1888" address="Rhoward2@ENRON.com"/>
+
+	<to name="Fred Jordan" id="40727" address="feb89ebb-5eaab20f-86256735-75f1bf@ENRON.com"/>
+
+	<to name="Terry Kowalke" id="3344" address="tkowalk@enron.com"/>
+
+	<to name="Randy LeBeau" id="36995" address="Rlebeau@ENRON.com"/>
+
+	<to name="RR McGillivray" id="35817" address="rmcgill@enron.com"/>
+
+	<to name="Dave W Miller" id="3410" address="8c81da82-8cb6f9c1-8625672f-55a205@ENRON.com"/>
+
+	<to name="David Noyes" id="767" address="Dnoyes@ENRON.com"/>
+
+	<to name="Dave Odneal" id="1594" address="Dodneal@ENRON.com"/>
+
+	<to name="Brian Poock" id="16080" address="Bpoock@ENRON.com"/>
+
+	<to name="Randy Rice" id="94073" address="Rrice2@ENRON.com"/>
+
+	<to name="Tom Rice" id="35827" address="Trice4@ENRON.com"/>
+
+	<to name="LD Stephens" id="70528" address="Lstephe@ENRON.com"/>
+
+	<to name="Thomas" id="33930" address="Thomas@ENRON.com"/>
+
+	<to name="Wally Tippin" id="2143" address="Wtippin@ENRON.com"/>
+
+	<to name="Robert C Williams" id="98057" address="Williams@ENRON.com"/>
+
+	<to name="Walt Williams" id="40657" address="fd19e369-442d4a0b-86256730-4fad74@ENRON.com"/>
+
+	<to name="Byron Wood" id="1673" address="4aefe74c-a00ec259-8625674c-4ba2a8@ENRON.com"/>
+
+	<to name="Steve January" id="105707" address="Sjanuary@ENRON.com"/>
+
+	<to name="Michael Anderson" id="8466" address="Anderson@ENRON.com"/>
+
+	<to name="Aschwege" id="10331" address="Aschwege@ENRON.com"/>
+
+	<to name="beck" id="12863" address="Beck@ENRON.com"/>
+
+	<to name="DesCoteaux" id="31266" address="DesCoteaux@ENRON.com"/>
+
+	<to name="Dobbins" id="33450" address="Dobbins@ENRON.com"/>
+
+	<to name="Johnson" id="52088" address="Johnson@ENRON.com"/>
+
+	<to name="Kolarik" id="67869" address="Kolarik@ENRON.com"/>
+
+	<to name="petersen" id="90703" address="Petersen@ENRON.com"/>
+
+	<to name="Reinecke" id="95430" address="Reinecke@ENRON.com"/>
+
+	<to name="Sans Souci" id="101800" address="Sans.Souci@ENRON.com"/>
+
+	<to name="Westfall" id="119314" address="Westfall@ENRON.com"/>
+
+	<from name="Jerry Graves" id="2377" address="jgraves@enron.com"/>
+
+
+
+	<parent_id></parent_id>
+
+
+
+	<subject>NNG Outage Weekly</subject>
+
+
+
+	<date_time>2002-02-28 18:28:18</date_time>
+
+
+
+	<content>
+
+    
+
+M1.1. The Outages attached below have some potential flow impact, or are points of interest. (NNG)
+
+[Inform: attached NNG outages have potential flow impact, or are points of interest]
+
+
+
+M1.2. Jerry Graves
+
+[Conventional: signature]
+
+M1.3. 713-345-8923
+
+[Inform: Jerry's phone number]
+
+
+
+	</content>
+
+</message>
+
+<message>
+
+
+
+	<thread_id>185810</thread_id>
+
+
+
+	<depth>1</depth>
+
+
+
+	<type>ThreadNode</type>
+
+
+
+	<message_id>1241961</message_id>
+
+	<to name="Jerry Graves" id="2377" address="Jerry.Graves@ENRON.com"/>
+
+	<to name="Lynn Blair" id="2243" address="Lynn.Blair@ENRON.com"/>
+
+	<to name="Scott Clark" id="12213" address="Scott.Clark@ENRON.com"/>
+
+	<to name="Shelley Corman" id="102777" address="Shelley.Corman@ENRON.com"/>
+
+	<to name="David Gaines" id="28723" address="David.Gaines@ENRON.com"/>
+
+	<to name="Tom Gilbert" id="36129" address="Tom.Gilbert@ENRON.com"/>
+
+	<to name="Morgan Gottsponer" id="79922" address="morgan.gottsponer@dynegy.com"/>
+
+	<to name="Randy Howard" id="1888" address="Randy.Howard@ENRON.com"/>
+
+	<to name="Fred Jordan" id="40727" address="Fred.Jordan@ENRON.com"/>
+
+	<to name="Terry Kowalke" id="3344" address="Terry.Kowalke@ENRON.com"/>
+
+	<to name="Randy LeBeau" id="36995" address="Randy.LeBeau@ENRON.com"/>
+
+	<to name="RR McGillivray" id="35817" address="RR.McGillivray@ENRON.com"/>
+
+	<to name="Dave W Miller" id="3410" address="Dave.W.Miller@ENRON.com"/>
+
+	<to name="David Noyes" id="767" address="David.Noyes@ENRON.com"/>
+
+	<to name="Dave Odneal" id="1594" address="Dave.Odneal@ENRON.com"/>
+
+	<to name="Brian Poock" id="16080" address="Brian.Poock@ENRON.com"/>
+
+	<to name="Randy Rice" id="94073" address="Randy.Rice@ENRON.com"/>
+
+	<to name="Tom Rice" id="35827" address="Tom.Rice@ENRON.com"/>
+
+	<to name="LD Stephens" id="70528" address="LD.Stephens@ENRON.com"/>
+
+	<to name="Steve Thomas" id="18399" address="steven.d.thomas@dynegy.com"/>
+
+	<to name="Wally Tippin" id="2143" address="Wally.Tippin@ENRON.com"/>
+
+	<to name="Jo Williams" id="11311" address="jo.williams@dynegy.com"/>
+
+	<to name="Walt Williams" id="40657" address="Walt.Williams@ENRON.com"/>
+
+	<to name="Byron Wood" id="1673" address="Byron.Wood@ENRON.com"/>
+
+	<to name="DL-ETS Gas Controllers" id="6022" address="DL-ETSGasControllers@ENRON.com"/>
+
+	<to name="Steve January" id="105707" address="Steve.January@ENRON.com"/>
+
+	<to name="Ken Anderson" id="1269" address="ken.anderson@dynegy.com"/>
+
+	<to name="Doug Aschwege" id="28254" address="doug.aschwege@dynegy.com"/>
+
+	<to name="Judy Beck" id="2518" address="judy.beck@dynegy.com"/>
+
+	<to name="Carolyn Descoteaux" id="2799" address="carolyn.l.descoteaux@dynegy.com"/>
+
+	<to name="Dan Dobbins" id="2466" address="dan.dobbins@dynegy.com"/>
+
+	<to name="Robert L Johnson" id="97222" address="robert.l.johnson@dynegy.com"/>
+
+	<to name="David Kolarik" id="1843" address="david.kolarik@dynegy.com"/>
+
+	<to name="Keith Petersen" id="65175" address="Keith.Petersen@dynegy.com"/>
+
+	<to name="Bryan Reinecke" id="557" address="bryan.reinecke@dynegy.com"/>
+
+	<to name="Becki Sans Souci" id="503" address="rebecca.j.sanssouci@dynegy.com"/>
+
+	<to name="Roger Westfall" id="29836" address="roger.westfall@dynegy.com"/>
+
+	<from name="Jerry Graves" id="2377" address="Jerry.Graves@ENRON.com"/>
+
+	<to name="Jerry Graves" id="2377" address="jgraves@enron.com"/>
+
+	<to name="Lynn Blair" id="2243" address="lblair@enron.com"/>
+
+	<to name="Scott Clark" id="12213" address="Sclark4@ENRON.com"/>
+
+	<to name="Shelley Corman" id="102777" address="scorman@enron.com"/>
+
+	<to name="David Gaines" id="28723" address="Dgaines@ENRON.com"/>
+
+	<to name="Tom Gilbert" id="36129" address="Tgilber@ENRON.com"/>
+
+	<to name="Gottsponer" id="45460" address="Gottsponer@ENRON.com"/>
+
+	<to name="Randy Howard" id="1888" address="Rhoward2@ENRON.com"/>
+
+	<to name="Fred Jordan" id="40727" address="feb89ebb-5eaab20f-86256735-75f1bf@ENRON.com"/>
+
+	<to name="Terry Kowalke" id="3344" address="tkowalk@enron.com"/>
+
+	<to name="Randy LeBeau" id="36995" address="Rlebeau@ENRON.com"/>
+
+	<to name="RR McGillivray" id="35817" address="rmcgill@enron.com"/>
+
+	<to name="Dave W Miller" id="3410" address="8c81da82-8cb6f9c1-8625672f-55a205@ENRON.com"/>
+
+	<to name="David Noyes" id="767" address="Dnoyes@ENRON.com"/>
+
+	<to name="Dave Odneal" id="1594" address="Dodneal@ENRON.com"/>
+
+	<to name="Brian Poock" id="16080" address="Bpoock@ENRON.com"/>
+
+	<to name="Randy Rice" id="94073" address="Rrice2@ENRON.com"/>
+
+	<to name="Tom Rice" id="35827" address="Trice4@ENRON.com"/>
+
+	<to name="LD Stephens" id="70528" address="Lstephe@ENRON.com"/>
+
+	<to name="Thomas" id="33930" address="Thomas@ENRON.com"/>
+
+	<to name="Wally Tippin" id="2143" address="Wtippin@ENRON.com"/>
+
+	<to name="Robert C Williams" id="98057" address="Williams@ENRON.com"/>
+
+	<to name="Walt Williams" id="40657" address="fd19e369-442d4a0b-86256730-4fad74@ENRON.com"/>
+
+	<to name="Byron Wood" id="1673" address="4aefe74c-a00ec259-8625674c-4ba2a8@ENRON.com"/>
+
+	<to name="Steve January" id="105707" address="Sjanuary@ENRON.com"/>
+
+	<to name="Michael Anderson" id="8466" address="Anderson@ENRON.com"/>
+
+	<to name="Aschwege" id="10331" address="Aschwege@ENRON.com"/>
+
+	<to name="beck" id="12863" address="Beck@ENRON.com"/>
+
+	<to name="DesCoteaux" id="31266" address="DesCoteaux@ENRON.com"/>
+
+	<to name="Dobbins" id="33450" address="Dobbins@ENRON.com"/>
+
+	<to name="Johnson" id="52088" address="Johnson@ENRON.com"/>
+
+	<to name="Kolarik" id="67869" address="Kolarik@ENRON.com"/>
+
+	<to name="petersen" id="90703" address="Petersen@ENRON.com"/>
+
+	<to name="Reinecke" id="95430" address="Reinecke@ENRON.com"/>
+
+	<to name="Sans Souci" id="101800" address="Sans.Souci@ENRON.com"/>
+
+	<to name="Westfall" id="119314" address="Westfall@ENRON.com"/>
+
+	<from name="Jerry Graves" id="2377" address="jgraves@enron.com"/>
+
+
+
+	<parent_id>1242733</parent_id>
+
+
+
+	<subject>NNG Outage Weekly</subject>
+
+
+
+	<date_time>2002-03-01 11:09:36</date_time>
+
+
+
+	<content>
+
+    
+
+M2.1. FYI,
+
+[Inform: the following is for recipients' information]
+
+M2.2. Here are updates for NNG outage weekly.
+
+[Inform: updates for NNG outage weekly are presumably attached]
+
+
+
+	</content>
+
+</message>
+
+</xml>

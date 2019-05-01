@@ -1,0 +1,113 @@
+<xml>
+
+<message>
+
+
+
+	<thread_id>37606</thread_id>
+
+
+
+	<depth>0</depth>
+
+
+
+	<type>ThreadNode</type>
+
+
+
+	<message_id>350003</message_id>
+
+	<to name="Steven J Kean" id="18327" address="steve.kean@enron.com"/>
+
+	<to name="Steven J Kean" id="18327" address="Maureen.McVicker@ENRON.com"/>
+
+	<to name="Ginger Dernehl" id="20406" address="Ginger.Dernehl@ENRON.com"/>
+
+	<from name="Paul Kaufman" id="742" address="Paul.Kaufman@ENRON.com"/>
+
+
+
+	<parent_id></parent_id>
+
+
+
+	<subject>Message points</subject>
+
+
+
+	<date_time>2000-10-13 01:00:00</date_time>
+
+
+
+	<content>
+
+    
+
+M1.1. I've revised both the backgrounder and message point documents.
+
+[Inform: Paul revised backgrounder and message point documents]
+
+Sflink1.1
+
+
+
+	</content>
+
+</message>
+
+<message>
+
+
+
+	<thread_id>37606</thread_id>
+
+
+
+	<depth>1</depth>
+
+
+
+	<type>ThreadNode</type>
+
+
+
+	<message_id>350032</message_id>
+
+	<to name="Steven J Kean" id="18327" address="Maureen.McVicker@ENRON.com"/>
+
+	<from name="Steven J Kean" id="18327" address="Steven.J.Kean@ENRON.com"/>
+
+
+
+	<parent_id>350003</parent_id>
+
+
+
+	<subject>Message points</subject>
+
+
+
+	<date_time>2000-10-16 06:19:00</date_time>
+
+
+
+	<content>
+
+    
+
+M2.1. please print [Y]
+
+[Request-Action: print documents]
+
+Blink1.1
+
+Flink2.1
+
+
+
+	</content>
+
+</message>
+
+</xml>

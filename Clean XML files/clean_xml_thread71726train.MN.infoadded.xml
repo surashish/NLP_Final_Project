@@ -1,0 +1,139 @@
+<xml>
+
+<message>
+
+
+
+	<thread_id>71726</thread_id>
+
+
+
+	<depth>0</depth>
+
+
+
+	<type>ThreadNode</type>
+
+
+
+	<message_id>948164</message_id>
+
+	<to name="NESA MEMBERS" id="39609" address="NESAMembers@nesanet.org"/>
+
+	<from name="Lana Moore" id="69378" address="Lana.Moore@nesanet.org"/>
+
+	<cc name="NESA MEMBERS" id="39609" address="eva.pollard@nesanet.org"/>
+
+	<cc name="Teresa Knight" id="112234" address="teresa.knight@nesanet.org"/>
+
+	<cc name="Todd Carroll" id="114487" address="ToddCarroll@interim.com"/>
+
+
+
+	<parent_id></parent_id>
+
+
+
+	<subject>Complexity Science and the Energy Industry Brown Bag</subject>
+
+
+
+	<date_time>2001-03-14 11:10:00</date_time>
+
+
+
+	<content>
+
+    
+
+M1.1. <<Complexity Science>>
+
+[Inform: title of event]
+
+
+
+M1.2. PLEASE JOIN NESA/HEA AT THE "COMPLEXITY SCIENCE AND THE ENERGY INDUSTRY
+
+BROWN BAG" ~ APRIL 18TH, 2001
+
+[Request-Action: attend event on April 18]
+
+Flink1.2
+
+
+
+M1.3. IF YOU HAVE ANY QUESTIONS, PLEASE CALL LANA MOORE AT (713) 856-6525.
+
+[Inform: questions can be directed to Lana Moore, whose phone number is given]
+
+
+
+M1.4. THANKS AND HAVE A GREAT DAY!!
+
+[Conventional: thanks, have a great day]
+
+
+
+	</content>
+
+</message>
+
+<message>
+
+
+
+	<thread_id>71726</thread_id>
+
+
+
+	<depth>1</depth>
+
+
+
+	<type>ThreadNode</type>
+
+
+
+	<message_id>948033</message_id>
+
+	<to name="Shirley Crenshaw" id="25496" address="Shirley.Crenshaw@ENRON.com"/>
+
+	<from name="Vince J Kaminski" id="63574" address="Vince.J.Kaminski@ENRON.com"/>
+
+
+
+	<parent_id>948164</parent_id>
+
+
+
+	<subject>Complexity Science and the Energy Industry Brown Bag</subject>
+
+
+
+	<date_time>2001-03-22 02:26:00</date_time>
+
+
+
+	<content>
+
+    
+
+M2.1. Shirley,
+
+[Conventional: signature]
+
+M2.2. Please, register me. [Y]
+
+[Request-Action: register Vince for event]
+
+Blink1.2
+
+Flink2.2
+
+
+
+	</content>
+
+</message>
+
+</xml>

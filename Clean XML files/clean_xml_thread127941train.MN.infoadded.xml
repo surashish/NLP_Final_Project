@@ -1,0 +1,595 @@
+<xml>
+
+<message>
+
+
+
+	<thread_id>127941</thread_id>
+
+
+
+	<depth>0</depth>
+
+
+
+	<type>ThreadNode</type>
+
+
+
+	<message_id>763333</message_id>
+
+	<to name="Sara Shackleton" id="64528" address="sshackl@enron.com"/>
+
+	<from name="Kim S Ward" id="18442" address="kward@enron.com"/>
+
+
+
+	<parent_id></parent_id>
+
+
+
+	<subject>City of Glendale</subject>
+
+
+
+	<date_time>2001-10-05 14:59:07</date_time>
+
+
+
+	<content>
+
+    
+
+M1.1. Sara,
+
+[Conventional: salutation]
+
+M1.2. Believe it or not, we are very close getting our signed ISDA from the City of Glendale.
+
+[Inform: Kim et al. are getting close to getting a signed ISDA from the City of Glendale]
+
+M1.3. Steve Lins, the City attorney had a couple of questions which I will attempt to relay without having a copy of the documents.
+
+[Inform: Steve Lins, the City attorney, had some questions, which Kim is attempting to relay]
+
+M1.4. 1)  I am assuming that he obtained a for legal opinion letter or document of some sort.
+
+M1.5. This document references a confirmation and we are not sure what this references.
+
+M1.6. Typically, it references a transaction, which in this case, there are no transactions yet.
+
+M1.7. He feels this reference should be deleted.
+
+[Inform: Steve Lins thinks an unclear reference should be deleted from a document]
+
+M1.8. What is your opinion regarding this?
+
+[Request-Information: Sara's opinion on this]
+
+Flink1.8
+
+M1.9. 2)  We sent him a couple of form documents to facilitate the documents required under the ISDA.
+
+M1.10. One form ws a form resolution.
+
+M1.11. They have already received City Council approval to enter into financial tranactions and to enter into an ISDA with us.
+
+M1.12. Steve is going to get a certified copy of this Resolution.
+
+[Inform: Kim et al. sent Steve Lins some form documents to facilitate documents required under the ISDA, including a form resolution, of which Steve is going to get a certified copy, since they already have City Council approval]
+
+M1.13. Will this suffice?
+
+[Request-Information: is this good enough]
+
+Flink1.13
+
+M1.14. When you return, I may try to do one last conference call to alleviate any unanswered questions.
+
+[Inform: when Sara returns, Kim may attempt one more conference call to resolve her unanswered questions]
+
+M1.15. I think we will have an executed ISDA with the City of Glendale by the end of next week.
+
+M1.16. I am going to be out there meeting with them on Wednesday.
+
+[Inform: Kim thinks they will get an executed ISDA with Glendale by the end of next week, and she will be there to meet with officials on Wednesday]
+
+M1.17. Thanks for your help,
+
+[Conventional: thanks]
+
+
+
+	</content>
+
+</message>
+
+<message>
+
+
+
+	<thread_id>127941</thread_id>
+
+
+
+	<depth>1</depth>
+
+
+
+	<type>ThreadNode</type>
+
+
+
+	<message_id>874438</message_id>
+
+	<to name="Kim S Ward" id="18442" address="Kim.Ward@ENRON.com"/>
+
+	<from name="Sara Shackleton" id="64528" address="Sara.Shackleton@ENRON.com"/>
+
+	<cc name="Marie Heard" id="40104" address="Marie.Heard@ENRON.com"/>
+
+	<to name="Kim S Ward" id="18442" address="kward@enron.com"/>
+
+	<from name="Sara Shackleton" id="64528" address="sshackl@enron.com"/>
+
+	<cc name="Marie Heard" id="40104" address="Mheard@ENRON.com"/>
+
+
+
+	<parent_id>763333</parent_id>
+
+
+
+	<subject>City of Glendale</subject>
+
+
+
+	<date_time>2001-10-08 09:02:56</date_time>
+
+
+
+	<content>
+
+    
+
+M2.1. Kim:
+
+[Conventional: salutation]
+
+M2.2. Can you obtain the name of Glendale's bond counsel (lawyer's name, phone number, email, etc.)? [Y]
+
+[Request-Information: name, number, and email of Glendale's bond counsel]
+
+Flink2.2
+
+M2.3. Thanks.
+
+[Conventional: thanks]
+
+M2.4. SS
+
+[Conventional: signature]
+
+
+
+	</content>
+
+</message>
+
+<message>
+
+
+
+	<thread_id>127941</thread_id>
+
+
+
+	<depth>2</depth>
+
+
+
+	<type>ThreadNode</type>
+
+
+
+	<message_id>763334</message_id>
+
+	<to name="Sara Shackleton" id="64528" address="sshackl@enron.com"/>
+
+	<from name="Kim S Ward" id="18442" address="kward@enron.com"/>
+
+
+
+	<parent_id>874438</parent_id>
+
+
+
+	<subject>City of Glendale</subject>
+
+
+
+	<date_time>2001-10-08 09:26:50</date_time>
+
+
+
+	<content>
+
+    
+
+M3.1. Glendale's City Attorney is Steve Lins.
+
+M3.2. His phone number is 818-548-2080 and his email is slins@ci.glendale.ca.us.
+
+[Inform: name, number, and email of Glendale's City Attorney]
+
+Blink2.2
+
+Sflink3.2
+
+M3.3. Please let me know if you need anything else.
+
+[Inform: Sara should let Kim know if she needs anything else]
+
+M3.4. I will be in their offices on Wednesday.
+
+[Inform: Kim will be in Glendale's offices on Wednesday]
+
+
+
+	</content>
+
+</message>
+
+<message>
+
+
+
+	<thread_id>127941</thread_id>
+
+
+
+	<depth>2</depth>
+
+
+
+	<type>ThreadNode</type>
+
+
+
+	<message_id>874028</message_id>
+
+	<to name="Sara Shackleton" id="64528" address="sshackl@enron.com"/>
+
+	<from name="Marie Heard" id="40104" address="Mheard@ENRON.com"/>
+
+
+
+	<parent_id>874438</parent_id>
+
+
+
+	<subject>City of Glendale</subject>
+
+
+
+	<date_time>2001-10-08 10:15:27</date_time>
+
+
+
+	<content>
+
+
+
+M4.1. Sara:
+
+[Conventional: salutation]
+
+M4.2. I do not see a copy of an opinion in the file nor have we received one since I sent the execution copies of the ISDA to Steve Lins.
+
+[Inform: Marie doesn't see a copy of an opinion in file and has not received one since sending execution copies of ISDA to Steve Lins]
+
+
+
+	</content>
+
+</message>
+
+<message>
+
+
+
+	<thread_id>127941</thread_id>
+
+
+
+	<depth>2</depth>
+
+
+
+	<type>ThreadNode</type>
+
+
+
+	<message_id>763337</message_id>
+
+	<to name="slins@ci.glendale.ca.us" id="106187" address="slins@ci.glendale.ca.us"/>
+
+	<from name="Kim S Ward" id="18442" address="kward@enron.com"/>
+
+
+
+	<parent_id>874438</parent_id>
+
+
+
+	<subject>City of Glendale</subject>
+
+
+
+	<date_time>2001-10-08 16:18:22</date_time>
+
+
+
+	<content>
+
+    
+
+M5.1. Steve,
+
+[Conventional: salutation]
+
+M5.2. could you provide the name, phone number, etc. of your bond council for our attorney, Sara Shackleton? [Y]
+
+[Request-Information: name and contact information of bond counsel for Sara]
+
+Blink2.2
+
+Flink5.2
+
+M5.3. Thanks,
+
+[Conventional: thanks]
+
+
+
+	</content>
+
+</message>
+
+<message>
+
+
+
+	<thread_id>127941</thread_id>
+
+
+
+	<depth>3</depth>
+
+
+
+	<type>ThreadNode</type>
+
+
+
+	<message_id>1117626</message_id>
+
+	<to name="Kim S Ward" id="18442" address="kward@enron.com"/>
+
+	<from name="Sara Shackleton" id="64528" address="sshackl@enron.com"/>
+
+
+
+	<parent_id>763334</parent_id>
+
+
+
+	<subject>City of Glendale</subject>
+
+
+
+	<date_time>2001-10-08 09:27:29</date_time>
+
+
+
+	<content>
+
+    
+
+M6.1. I need the city's bond counsel (outside counsel). [Y]
+
+[Inform: Sara needs city's bond counsel's information, not city attorney's information]
+
+Blink3.2
+
+Sflink6.1
+
+
+
+	</content>
+
+</message>
+
+<message>
+
+
+
+	<thread_id>127941</thread_id>
+
+
+
+	<depth>4</depth>
+
+
+
+	<type>ThreadNode</type>
+
+
+
+	<message_id>763335</message_id>
+
+	<to name="Sara Shackleton" id="64528" address="sshackl@enron.com"/>
+
+	<from name="Kim S Ward" id="18442" address="kward@enron.com"/>
+
+
+
+	<parent_id>1117626</parent_id>
+
+
+
+	<subject>City of Glendale</subject>
+
+
+
+	<date_time>2001-10-08 10:03:53</date_time>
+
+
+
+	<content>
+
+    
+
+M7.1. Is this to obtain outside opinion?
+
+[Request-Information: is this to get outside opinion]
+
+Blink6.1
+
+Flink7.1
+
+M7.2. I thought we were going to do that at our own expense.
+
+[Inform: Kim thought this was to be at their own expense]
+
+Sflink7.2
+
+
+
+	</content>
+
+</message>
+
+<message>
+
+
+
+	<thread_id>127941</thread_id>
+
+
+
+	<depth>5</depth>
+
+
+
+	<type>ThreadNode</type>
+
+
+
+	<message_id>763443</message_id>
+
+	<to name="Kim S Ward" id="18442" address="Kim.Ward@ENRON.com"/>
+
+	<from name="Sara Shackleton" id="64528" address="Sara.Shackleton@ENRON.com"/>
+
+	<to name="Kim S Ward" id="18442" address="kward@enron.com"/>
+
+	<from name="Sara Shackleton" id="64528" address="sshackl@enron.com"/>
+
+
+
+	<parent_id>763335</parent_id>
+
+
+
+	<subject>City of Glendale</subject>
+
+
+
+	<date_time>2001-10-08 10:38:46</date_time>
+
+
+
+	<content>
+
+    
+
+M8.1. We are going to do this at our own expense.
+
+[Inform: this will be at Sara's and others' own expense]
+
+Blink7.2
+
+M8.2. But we would like to hire Glendale's bond counsel.
+
+[Inform: Sara et al. would like to hire Glendale's bond counsel]
+
+M8.3. I don't know the name of Glendale's bond counsel or how to get in touch with them.
+
+[Inform: Sara doesn't know bond counsel's name or contact information]
+
+Sflink8.3
+
+
+
+	</content>
+
+</message>
+
+<message>
+
+
+
+	<thread_id>127941</thread_id>
+
+
+
+	<depth>6</depth>
+
+
+
+	<type>ThreadNode</type>
+
+
+
+	<message_id>763336</message_id>
+
+	<to name="Sara Shackleton" id="64528" address="sshackl@enron.com"/>
+
+	<from name="Kim S Ward" id="18442" address="kward@enron.com"/>
+
+
+
+	<parent_id>763443</parent_id>
+
+
+
+	<subject>City of Glendale</subject>
+
+
+
+	<date_time>2001-10-08 11:43:20</date_time>
+
+
+
+	<content>
+
+    
+
+M9.1. I will work on this for you - and will be in touch.
+
+[Inform: Kim will find out information about bond counsel for Sara]
+
+Blink8.3
+
+M9.2. Thanks!
+
+[Conventional: thanks]
+
+
+
+	</content>
+
+</message>
+
+</xml>

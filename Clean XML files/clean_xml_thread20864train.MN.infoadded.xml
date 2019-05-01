@@ -1,0 +1,213 @@
+<xml>
+
+<message>
+
+
+
+	<thread_id>20864</thread_id>
+
+
+
+	<depth>0</depth>
+
+
+
+	<type>ThreadNode</type>
+
+
+
+	<message_id>1189976</message_id>
+
+	<to name="Paul Simons" id="89569" address="paul.simons@enron.com"/>
+
+	<from name="David Minns" id="2940" address="david.minns@enron.com"/>
+
+	<cc name="Mark Taylor" id="2378" address="Mark.Taylor@ENRON.com"/>
+
+	<cc name="Paul Quilkey" id="987" address="paul.quilkey@enron.com"/>
+
+
+
+	<parent_id></parent_id>
+
+
+
+	<subject>Guarantee from EEFT of Enron Australia Finance</subject>
+
+
+
+	<date_time>2000-06-16 13:16:00</date_time>
+
+
+
+	<content>
+
+    
+
+M1.1. Paul
+
+[Conventional: salutation]
+
+M1.2. further to my email/voicemail on our attempts to get an Exempt Market
+
+Declaration issued to Enron Australia Finance Pty Ltd (EAF).
+
+[Inform: this email is a follow-up to previous email and voicemail]
+
+M1.3. I now have a
+
+specific request to put to you.
+
+[Inform: David has a request for Paul]
+
+M1.4. It appears that we would qualify for such a  Declaration thereby allowing EAF
+
+to use the safe harbour provisions under the Australian Corporations Law for
+
+trading through EnronOnline if EAF had get a guarantee from  Enron Europe
+
+Finance and Trading Ltd.
+
+[Inform: it seems that David et al. qualify for an Exempt Market Declaration, allowing EAF to use safe harbor provisions for trading through EOL]
+
+M1.5. We would be able to take advantage of a specific
+
+provision in the policy guideline of the Australian Securities and
+
+Investments Commission on the grant of Declarations known as Policy Statement
+
+70.
+
+[Inform: provision they can take advantage of is in Policy Statement 70]
+
+M1.6. (Below is a summary of the relevant provisions of the Policy Statement.)
+
+[Inform: summary of relevant provisions presumably attached]
+
+M1.7. Would the provision of such a guarantee be possible?
+
+[Request-Information: would provision of such a guarantee be possible]
+
+Flink1.7
+
+M1.8. Clearly an issue to consider would be any possible impact on EEFT's
+
+prudential requirements under the Financial Services Act.
+
+[Inform: possible impact on EEFT's prudential requirements needs to be considered]
+
+M1.9. If this were an
+
+issue perhaps could it be overcome if there was a back to back guaranty from
+
+say Enron Corp. to EEFT.
+
+[Inform: possible way to overcome such an impact]
+
+M1.10. This mean that effectively EEFT would have no
+
+additional exposure.
+
+[Inform: in this case, EEFT would have no additional exposure]
+
+
+
+	</content>
+
+</message>
+
+<message>
+
+
+
+	<thread_id>20864</thread_id>
+
+
+
+	<depth>1</depth>
+
+
+
+	<type>ThreadNode</type>
+
+
+
+	<message_id>1189998</message_id>
+
+	<to name="Paul Simons" id="89569" address="paul.simons@enron.com"/>
+
+	<from name="David Minns" id="2940" address="david.minns@enron.com"/>
+
+	<cc name="Mark Taylor" id="2378" address="Mark.Taylor@ENRON.com"/>
+
+	<cc name="Paul Quilkey" id="987" address="paul.quilkey@enron.com"/>
+
+	<cc name="Alan Aronowitz" id="3611" address="Alan.Aronowitz@ENRON.com"/>
+
+
+
+	<parent_id>1189976</parent_id>
+
+
+
+	<subject>Guarantee from EEFT of Enron Australia Finance</subject>
+
+
+
+	<date_time>2000-06-19 13:07:00</date_time>
+
+
+
+	<content>
+
+    
+
+M2.1. Paul,
+
+[Conventional: salutation]
+
+M2.2. further to our discussion last Friday.
+
+[Inform: this email is a follow-up to discussion in previous email]
+
+M2.3. Attached is a complete copy of
+
+Policy Statement 70 referenced in my earlier email.
+
+[Inform: Policy Statement 70 attached]
+
+M2.4. Paragraph PS70.50
+
+contains the statement that authorisation under the SFA is considered to be
+
+an adequate regime for monitoring capital adequacy.
+
+[Inform: relevant paragraph pointed out]
+
+M2.5. The SFA oversight  must
+
+apply to either the entity that is trading under the Australian Exempt Market
+
+Declaration as  or its guarantor.
+
+[Inform: what SFA oversight must apply to]
+
+M2.6. It is also in the this paragraph that the
+
+reference to "low risk firms" is made.
+
+[Inform: reference to "low risk firms" made in previously pointed out paragraph]
+
+M2.7. Once you get a response to your enquiries we look forward to hearing whether
+
+the provision of the guarantee is feasible.
+
+[Inform: David et al. would like to know whether provision of guarantee is feasible after Paul's inquiries are responded to]
+
+
+
+	</content>
+
+</message>
+
+</xml>

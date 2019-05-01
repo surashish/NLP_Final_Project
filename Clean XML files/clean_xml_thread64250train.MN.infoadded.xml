@@ -1,0 +1,411 @@
+<xml>
+
+<message>
+
+
+
+	<thread_id>64250</thread_id>
+
+
+
+	<depth>0</depth>
+
+
+
+	<type>ThreadNode</type>
+
+
+
+	<message_id>864885</message_id>
+
+	<to name="Timothy Blanchard" id="3499" address="Timothy.Blanchard@ENRON.com"/>
+
+	<to name="Matthew Lenhart" id="40160" address="Matthew.Lenhart@ENRON.com"/>
+
+	<to name="Chad Landry" id="2711" address="Chad.Landry@ENRON.com"/>
+
+	<to name="Steve Venturatos" id="3023" address="Steve.Venturatos@ENRON.com"/>
+
+	<to name="Bryan Hull" id="14032" address="Bryan.Hull@ENRON.com"/>
+
+	<to name="Phillip M Love" id="91168" address="Phillip.M.Love@ENRON.com"/>
+
+	<to name="David Baumbach" id="1411" address="David.Baumbach@ENRON.com"/>
+
+	<to name="Jay Reitmeyer" id="18492" address="Jay.Reitmeyer@ENRON.com"/>
+
+	<from name="Eric Bass" id="33554" address="Eric.Bass@ENRON.com"/>
+
+
+
+	<parent_id></parent_id>
+
+
+
+	<subject>Tiger recruiting #1</subject>
+
+
+
+	<date_time>2001-02-08 07:47:00</date_time>
+
+
+
+	<content>
+
+    
+
+M1.1. Sorry, but this is funny . . .
+
+M1.2. http://auburn.nu/board/display.cgi?read=236745
+
+[Inform: Eric thinks pasted website is funny]
+
+Sflink1.2
+
+
+
+	</content>
+
+</message>
+
+<message>
+
+
+
+	<thread_id>64250</thread_id>
+
+
+
+	<depth>1</depth>
+
+
+
+	<type>ThreadNode</type>
+
+
+
+	<message_id>551876</message_id>
+
+	<to name="Eric Bass" id="33554" address="Eric.Bass@ENRON.com"/>
+
+	<from name="Matthew Lenhart" id="40160" address="Matthew.Lenhart@ENRON.com"/>
+
+	<cc name="Timothy Blanchard" id="3499" address="Timothy.Blanchard@ENRON.com"/>
+
+	<cc name="Chad Landry" id="2711" address="Chad.Landry@ENRON.com"/>
+
+	<cc name="Steve Venturatos" id="3023" address="Steve.Venturatos@ENRON.com"/>
+
+	<cc name="Bryan Hull" id="14032" address="Bryan.Hull@ENRON.com"/>
+
+	<cc name="Phillip M Love" id="91168" address="Phillip.M.Love@ENRON.com"/>
+
+	<cc name="David Baumbach" id="1411" address="David.Baumbach@ENRON.com"/>
+
+	<cc name="Jay Reitmeyer" id="18492" address="Jay.Reitmeyer@ENRON.com"/>
+
+
+
+	<parent_id>864885</parent_id>
+
+
+
+	<subject>Tiger recruiting #1</subject>
+
+
+
+	<date_time>2001-02-08 07:53:00</date_time>
+
+
+
+	<content>
+
+    
+
+M2.1. these videos are pretty good.
+
+[Inform: Matthew agrees that videos are good]
+
+Blink1.2
+
+M2.2. i saw the texas video the last two years.
+
+[Inform: Matthew saw Texas video for last two years]
+
+Sflink2.2
+
+
+
+	</content>
+
+</message>
+
+<message>
+
+
+
+	<thread_id>64250</thread_id>
+
+
+
+	<depth>1</depth>
+
+
+
+	<type>ThreadNode</type>
+
+
+
+	<message_id>551877</message_id>
+
+	<to name="Eric Bass" id="33554" address="Eric.Bass@ENRON.com"/>
+
+	<from name="Matthew Lenhart" id="40160" address="Matthew.Lenhart@ENRON.com"/>
+
+	<cc name="Timothy Blanchard" id="3499" address="Timothy.Blanchard@ENRON.com"/>
+
+	<cc name="Chad Landry" id="2711" address="Chad.Landry@ENRON.com"/>
+
+	<cc name="Steve Venturatos" id="3023" address="Steve.Venturatos@ENRON.com"/>
+
+	<cc name="Bryan Hull" id="14032" address="Bryan.Hull@ENRON.com"/>
+
+	<cc name="Phillip M Love" id="91168" address="Phillip.M.Love@ENRON.com"/>
+
+	<cc name="David Baumbach" id="1411" address="David.Baumbach@ENRON.com"/>
+
+	<cc name="Jay Reitmeyer" id="18492" address="Jay.Reitmeyer@ENRON.com"/>
+
+
+
+	<parent_id>864885</parent_id>
+
+
+
+	<subject>Tiger recruiting #1</subject>
+
+
+
+	<date_time>2001-02-08 08:00:00</date_time>
+
+
+
+	<content>
+
+    
+
+M3.1. go to www.mrfebruary.com.
+
+[Inform: Matthew thinks recipients should check out pasted website]
+
+M3.2. i am not sure what it means, but i think that is
+
+the nickname for mack brown "mr. february".
+
+[Inform: Matthew gives his interpretation of name in URL]
+
+
+
+	</content>
+
+</message>
+
+<message>
+
+
+
+	<thread_id>64250</thread_id>
+
+
+
+	<depth>1</depth>
+
+
+
+	<type>ThreadNode</type>
+
+
+
+	<message_id>1080384</message_id>
+
+	<to name="" id="33025" address="dlove8847@aol.com"/>
+
+	<to name="boo boo dobbs" id="104374" address="Shane.Dobbs@fctg.com"/>
+
+	<to name="James Love" id="51728" address="James.Love@msl.redstone.army.mil"/>
+
+	<to name="Jason Dobbs" id="58167" address="jmjaked@mindspring.com"/>
+
+	<from name="Phillip M Love" id="91168" address="Phillip.M.Love@ENRON.com"/>
+
+
+
+	<parent_id>864885</parent_id>
+
+
+
+	<subject>Tiger recruiting #1</subject>
+
+
+
+	<date_time>2001-02-08 08:13:00</date_time>
+
+
+
+	<content>
+
+    
+
+M4.1. A Texas grad I work with found this on one of his alum sites.
+
+[Inform: a Texas grad Phillip works with found an attached file on one of his alum sites]
+
+Sflink4.1
+
+M4.2. The guy
+
+that
+
+put this out - Flea- is the auburn guy who runs thetigeronline.com.
+
+[Inform: a website that creator of attached file runs]
+
+M4.3. Pretty
+
+funny.
+
+[Inform: Phillip thinks sent file is funny]
+
+M4.4. PL
+
+[Conventional: signature]
+
+
+
+	</content>
+
+</message>
+
+<message>
+
+
+
+	<thread_id>64250</thread_id>
+
+
+
+	<depth>2</depth>
+
+
+
+	<type>ThreadNode</type>
+
+
+
+	<message_id>864884</message_id>
+
+	<to name="Matthew Lenhart" id="40160" address="Matthew.Lenhart@ENRON.com"/>
+
+	<from name="Eric Bass" id="33554" address="Eric.Bass@ENRON.com"/>
+
+	<cc name="Timothy Blanchard" id="3499" address="Timothy.Blanchard@ENRON.com"/>
+
+	<cc name="Chad Landry" id="2711" address="Chad.Landry@ENRON.com"/>
+
+	<cc name="Steve Venturatos" id="3023" address="Steve.Venturatos@ENRON.com"/>
+
+	<cc name="Bryan Hull" id="14032" address="Bryan.Hull@ENRON.com"/>
+
+	<cc name="Phillip M Love" id="91168" address="Phillip.M.Love@ENRON.com"/>
+
+	<cc name="David Baumbach" id="1411" address="David.Baumbach@ENRON.com"/>
+
+	<cc name="Jay Reitmeyer" id="18492" address="Jay.Reitmeyer@ENRON.com"/>
+
+
+
+	<parent_id>551876</parent_id>
+
+
+
+	<subject>Tiger recruiting #1</subject>
+
+
+
+	<date_time>2001-02-08 08:00:00</date_time>
+
+
+
+	<content>
+
+    
+
+M5.1. do you have a link for that b/c I never saw them
+
+[Request-Information: link for Texas video(s)]
+
+Blink2.2
+
+Flink5.1
+
+
+
+	</content>
+
+</message>
+
+<message>
+
+
+
+	<thread_id>64250</thread_id>
+
+
+
+	<depth>2</depth>
+
+
+
+	<type>ThreadNodeBubble</type>
+
+
+
+	<message_id>2003458</message_id>
+
+
+
+	<parent_id>1080384</parent_id>
+
+
+
+	<subject>Tiger recruiting #1</subject>
+
+
+
+	<date_time>2001-02-08 19:28:00</date_time>
+
+
+
+	<content>
+
+    
+
+M6.1. I cannot open this.
+
+[Inform: sender cannot open sent file]
+
+Blink4.1
+
+M6.2. Please resend to me at the university. [Y]
+
+[Request-Action: resend file to sender's university email address]
+
+Flink6.2
+
+
+
+	</content>
+
+</message>
+
+</xml>

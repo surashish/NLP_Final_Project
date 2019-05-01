@@ -1,0 +1,229 @@
+<xml>
+
+<message>
+
+
+
+	<thread_id>110251</thread_id>
+
+
+
+	<depth>0</depth>
+
+
+
+	<type>ThreadNode</type>
+
+
+
+	<message_id>1105753</message_id>
+
+	<to name="Linda Hayman" id="71526" address="lhayman@skadden.com"/>
+
+	<from name="Mark Taylor" id="2378" address="Mtaylo1@ENRON.com"/>
+
+
+
+	<parent_id></parent_id>
+
+
+
+	<subject>QE2</subject>
+
+
+
+	<date_time>2001-07-20 09:48:56</date_time>
+
+
+
+	<content>
+
+    
+
+M1.1. I have tentatively booked us on the QE2 sailing from Southampton at 5pm on August 29, arriving New York at 7:30am on September 4.
+
+[Inform: Mark tentatively booked places for Linda and him on QE2]
+
+M1.2. You and Amanda have a Caronia class cabin at $2045.32 per person, including air from New York to London (with a business class upgrade on Continental).
+
+[Inform: cost of cabin for Linda and Amanda, including airfare]
+
+M1.3. I have a single in the same class (so we eat in the same restaurant).
+
+[Inform: Mark has a room in same class as Linda and Amanda, so they will eat in the same restaurant]
+
+M1.4. My plan would be to fly over on Sunday evening - the 26th - since I have to be in Ohio that morning.
+
+[Inform: when Mark plans to fly to London]
+
+M1.5. With that in mind I have also booked jr. suites for us at "41" the all-inclusive London hotel near Buckingham Palace that I've mentioned to you before.
+
+[Inform: Mark booked suites at a hotel in London]
+
+M1.6. They are at 275 GBP per night (2 nights).
+
+[Inform: nightly cost of suites]
+
+M1.7. Of course, if you guys wanted to go earlier to spend more time in London, I am sure that would be possible.
+
+[Inform: it is ok if Linda and Amanda want to arrive in London earlier than Mark]
+
+M1.8. The difficulty is that Amanda has indicated an interest in staying in Europe longer - certainly understandable.
+
+[Inform: Amanda wants to stay in Europe longer]
+
+M1.9. Her preference would be to go over on the boat leaving NY on September 5, arriving in Southampton Sept. 10 and then stay in Europe for a few weeks.
+
+[Inform: Amanda wants to take the return boat ride, from New York to London]
+
+Sflink1.9   
+
+M1.10. That doesn't work quite as well for me because I only have 6 vacation days left and on that routing I get one less day in London - i.e. we get off the boat on Monday morning and I have to fly back Tuesday morning.
+
+[Inform: Mark doesn't like this plan as much]
+
+M1.11. On the other hand, we wouldn't be jet lagged on arrival in London!
+
+[Inform: the plus side is that they will not be jet-lagged when they get to London]
+
+M1.12. They will hold the reservation until tomorrow.
+
+[Inform: reservation held until tomorrow]
+
+M1.13. What's your preference?
+
+[Request-Information: Linda's preference]
+
+Flink1.13
+
+
+
+	</content>
+
+</message>
+
+<message>
+
+
+
+	<thread_id>110251</thread_id>
+
+
+
+	<depth>1</depth>
+
+
+
+	<type>ThreadNode</type>
+
+
+
+	<message_id>1106240</message_id>
+
+	<to name="Mark Taylor" id="2378" address="Mark.Taylor@ENRON.com"/>
+
+	<from name="Linda Hayman" id="71526" address="lhayman@skadden.com"/>
+
+	<to name="Mark Taylor" id="2378" address="Mtaylo1@ENRON.com"/>
+
+
+
+	<parent_id>1105753</parent_id>
+
+
+
+	<subject>QE2</subject>
+
+
+
+	<date_time>2001-07-20 10:00:46</date_time>
+
+
+
+	<content>
+
+    
+
+M2.1. What kind of a fool do you think I am.
+
+[Inform: joke about Mark thinking Linda is a fool]
+
+M2.2. No way I am getting in the middle of you and Amanda on vacation plans.
+
+[Inform: joke about not wanting to get between Mark and Amanda on their vacation plans]
+
+Blink1.9
+
+M2.3. I'll just pack my little bag and wait at the dock until you two show up.
+
+[Inform: joke about Linda packing her bag and waiting for Mark and Amanda to show up]
+
+M2.4. I will however give you both a credit card number - it is 5410 6584 0536 6574  exp 11/01
+
+[Inform: Linda's credit card number]
+
+Sflink2.4
+
+
+
+	</content>
+
+</message>
+
+<message>
+
+
+
+	<thread_id>110251</thread_id>
+
+
+
+	<depth>2</depth>
+
+
+
+	<type>ThreadNode</type>
+
+
+
+	<message_id>1105771</message_id>
+
+	<to name="Linda Hayman" id="71526" address="lhayman@skadden.com"/>
+
+	<from name="Mark Taylor" id="2378" address="Mtaylo1@ENRON.com"/>
+
+
+
+	<parent_id>1106240</parent_id>
+
+
+
+	<subject>QE2</subject>
+
+
+
+	<date_time>2001-07-24 12:57:02</date_time>
+
+
+
+	<content>
+
+    
+
+M3.1. Your reservations went through on the card you wanted.
+
+[Inform: Linda's reservations went through on her credit card]
+
+Blink2.4
+
+M3.2. I asked for 9/12 as your return date and 9/26 as Amanda's.
+
+[Inform: different return dates requested for Linda and Amanda]
+
+
+
+	</content>
+
+</message>
+
+</xml>

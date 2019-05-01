@@ -1,0 +1,573 @@
+<xml>
+
+<message>
+
+
+
+	<thread_id>2876</thread_id>
+
+
+
+	<depth>0</depth>
+
+
+
+	<type>ThreadNode</type>
+
+
+
+	<message_id>68102</message_id>
+
+	<to name="Mike Maggi" id="3774" address="Mike.Maggi@ENRON.com"/>
+
+	<from name="Michelle Nelson" id="81118" address="Michelle.Nelson@ENRON.com"/>
+
+	<to name="Mike Maggi" id="3774" address="mmaggi@enron.com"/>
+
+	<from name="Michelle Nelson" id="81118" address="MNELSON3@ENRON.com"/>
+
+
+
+	<parent_id></parent_id>
+
+
+
+	<subject></subject>
+
+
+
+	<date_time>2002-01-17 13:06:59</date_time>
+
+
+
+	<content>
+
+    
+
+M1.1. come down here and visit me [Y]
+
+[Request-Action: come and visit Michelle]
+
+Flink1.1
+
+
+
+	</content>
+
+</message>
+
+<message>
+
+
+
+	<thread_id>2876</thread_id>
+
+
+
+	<depth>1</depth>
+
+
+
+	<type>ThreadNodeBubble</type>
+
+
+
+	<message_id>2001194</message_id>
+
+
+
+	<parent_id>68102</parent_id>
+
+
+
+	<subject></subject>
+
+
+
+	<date_time>2002-01-17 13:10:17</date_time>
+
+
+
+	<content>
+
+    
+
+M2.1. i have to go back into lavo's office in a few minutes, then i have to go to lunch with john and one of our research guys from chicago,
+
+M2.2. i will be back around 1:30
+
+[Inform: Mike has plans now but will be back later]
+
+Blink1.1
+
+Sflink2.2
+
+
+
+	</content>
+
+</message>
+
+<message>
+
+
+
+	<thread_id>2876</thread_id>
+
+
+
+	<depth>2</depth>
+
+
+
+	<type>ThreadNode</type>
+
+
+
+	<message_id>68100</message_id>
+
+	<to name="Mike Maggi" id="3774" address="Mike.Maggi@ENRON.com"/>
+
+	<from name="Michelle Nelson" id="81118" address="Michelle.Nelson@ENRON.com"/>
+
+	<to name="Mike Maggi" id="3774" address="mmaggi@enron.com"/>
+
+	<from name="Michelle Nelson" id="81118" address="MNELSON3@ENRON.com"/>
+
+
+
+	<parent_id>2001194</parent_id>
+
+
+
+	<subject></subject>
+
+
+
+	<date_time>2002-01-17 13:13:35</date_time>
+
+
+
+	<content>
+
+    
+
+M3.1. that's not acceptable.
+
+[Inform: Michelle is not pleased with this response]
+
+Blink2.2
+
+M3.2. come play now. [Y]
+
+[Request-Action: Michelle would like to meet with Mike now]
+
+Flink3.2
+
+M3.3. ok so where can laura and i go?
+
+[Request-Information: where can Michelle and Laura go]
+
+Flink3.3
+
+
+
+	</content>
+
+</message>
+
+<message>
+
+
+
+	<thread_id>2876</thread_id>
+
+
+
+	<depth>3</depth>
+
+
+
+	<type>ThreadNodeBubble</type>
+
+
+
+	<message_id>2001195</message_id>
+
+
+
+	<parent_id>68100</parent_id>
+
+
+
+	<subject></subject>
+
+
+
+	<date_time>2002-01-17 13:14:09</date_time>
+
+
+
+	<content>
+
+    
+
+M4.1. dinking, i will meet you around 2:30
+
+[Inform: Michelle and Laura should go drinking]
+
+Blink3.3
+
+Sflink4.1
+
+
+
+	</content>
+
+</message>
+
+<message>
+
+
+
+	<thread_id>2876</thread_id>
+
+
+
+	<depth>4</depth>
+
+
+
+	<type>ThreadNode</type>
+
+
+
+	<message_id>68098</message_id>
+
+	<to name="Mike Maggi" id="3774" address="Mike.Maggi@ENRON.com"/>
+
+	<from name="Michelle Nelson" id="81118" address="Michelle.Nelson@ENRON.com"/>
+
+	<to name="Mike Maggi" id="3774" address="mmaggi@enron.com"/>
+
+	<from name="Michelle Nelson" id="81118" address="MNELSON3@ENRON.com"/>
+
+
+
+	<parent_id>2001195</parent_id>
+
+
+
+	<subject></subject>
+
+
+
+	<date_time>2002-01-17 13:14:44</date_time>
+
+
+
+	<content>
+
+    
+
+M5.1. dinking?  do you mean drinking?
+
+[Request-Information: confirmation of spelling error]
+
+Blink4.1
+
+Flink5.1
+
+M5.2. i know, but where
+
+[Request-Information: where should Michelle and Laura go]
+
+Blink4.1
+
+Flink5.2
+
+
+
+	</content>
+
+</message>
+
+<message>
+
+
+
+	<thread_id>2876</thread_id>
+
+
+
+	<depth>4</depth>
+
+
+
+	<type>ThreadNode</type>
+
+
+
+	<message_id>68097</message_id>
+
+	<to name="Mike Maggi" id="3774" address="Mike.Maggi@ENRON.com"/>
+
+	<from name="Michelle Nelson" id="81118" address="Michelle.Nelson@ENRON.com"/>
+
+	<to name="Mike Maggi" id="3774" address="mmaggi@enron.com"/>
+
+	<from name="Michelle Nelson" id="81118" address="MNELSON3@ENRON.com"/>
+
+
+
+	<parent_id>2001195</parent_id>
+
+
+
+	<subject></subject>
+
+
+
+	<date_time>2002-01-17 13:17:33</date_time>
+
+
+
+	<content>
+
+    
+
+M6.1. i think that we are going to go workout and then we can all go somewhere.
+
+[Inform: Michelle is going to work out and then meet with Mike]
+
+M6.2. is that ok?
+
+[Request-Information: is this acceptable to Mike]
+
+Flink6.2
+
+
+
+	</content>
+
+</message>
+
+<message>
+
+
+
+	<thread_id>2876</thread_id>
+
+
+
+	<depth>5</depth>
+
+
+
+	<type>ThreadNodeBubble</type>
+
+
+
+	<message_id>2001196</message_id>
+
+
+
+	<parent_id>68097</parent_id>
+
+
+
+	<subject></subject>
+
+
+
+	<date_time>2002-01-17 13:19:33</date_time>
+
+
+
+	<content>
+
+    
+
+M7.1. i guess so
+
+[Inform: this is ok with Mike]
+
+Blink6.2
+
+
+
+	</content>
+
+</message>
+
+<message>
+
+
+
+	<thread_id>2876</thread_id>
+
+
+
+	<depth>5</depth>
+
+
+
+	<type>ThreadNodeBubble</type>
+
+
+
+	<message_id>2001197</message_id>
+
+
+
+	<parent_id>68097</parent_id>
+
+
+
+	<subject></subject>
+
+
+
+	<date_time>2002-01-17 13:19:05</date_time>
+
+
+
+	<content>
+
+    
+
+M8.1. i guess so
+
+[Inform: this is ok with Mike]
+
+Blink6.2
+
+Sflink8.1
+
+
+
+	</content>
+
+</message>
+
+<message>
+
+
+
+	<thread_id>2876</thread_id>
+
+
+
+	<depth>6</depth>
+
+
+
+	<type>ThreadNode</type>
+
+
+
+	<message_id>68094</message_id>
+
+	<to name="Mike Maggi" id="3774" address="Mike.Maggi@ENRON.com"/>
+
+	<from name="Michelle Nelson" id="81118" address="Michelle.Nelson@ENRON.com"/>
+
+	<to name="Mike Maggi" id="3774" address="mmaggi@enron.com"/>
+
+	<from name="Michelle Nelson" id="81118" address="MNELSON3@ENRON.com"/>
+
+
+
+	<parent_id>2001196</parent_id>
+
+
+
+	<subject></subject>
+
+
+
+	<date_time>2002-01-17 13:21:34</date_time>
+
+
+
+	<content>
+
+    
+
+M9.1. ok call me on my cell later. [Y]
+
+[Inform: in this case, Mike should call Michelle's cell phone later]
+
+Blink8.1
+
+M9.2. i think that we are going to go shopping and then we will meet you somewhere to drink.
+
+[Inform: Michelle is going shopping, and will meet Mike for drinking afterwards]
+
+
+
+	</content>
+
+</message>
+
+<message>
+
+
+
+	<thread_id>2876</thread_id>
+
+
+
+	<depth>6</depth>
+
+
+
+	<type>ThreadNode</type>
+
+
+
+	<message_id>68095</message_id>
+
+	<to name="Mike Maggi" id="3774" address="Mike.Maggi@ENRON.com"/>
+
+	<from name="Michelle Nelson" id="81118" address="Michelle.Nelson@ENRON.com"/>
+
+	<to name="Mike Maggi" id="3774" address="mmaggi@enron.com"/>
+
+	<from name="Michelle Nelson" id="81118" address="MNELSON3@ENRON.com"/>
+
+
+
+	<parent_id>2001197</parent_id>
+
+
+
+	<subject></subject>
+
+
+
+	<date_time>2002-01-17 13:20:37</date_time>
+
+
+
+	<content>
+
+    
+
+M10.1. you are annoying me.
+
+[Inform: Michelle finds Mike annoying]
+
+M10.2. what do you want to do?
+
+[Request-Information: clarification on what Mike wants to do]
+
+Flink10.2
+
+
+
+	</content>
+
+</message>
+
+</xml>

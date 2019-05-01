@@ -1,0 +1,191 @@
+<xml>
+
+<message>
+
+
+
+	<thread_id>3646</thread_id>
+
+
+
+	<depth>0</depth>
+
+
+
+	<type>ThreadNode</type>
+
+
+
+	<message_id>77218</message_id>
+
+	<to name="ICE Admin" id="49849" address="ice-administration@intcx.com"/>
+
+	<from name="Bert Stipelcovich" id="13360" address="Bert.Stipelcovich@bridgeline.net"/>
+
+	<cc name="Randall Curry" id="93938" address="Randall.Curry@Bridgeline.NET"/>
+
+	<cc name="Joe Parks" id="58825" address="Joe.Parks@bridgeline.net"/>
+
+	<from name="Bert Stipelcovich" id="13360" address="Bstipelc@ENRON.com"/>
+
+	<cc name="Randall Curry" id="93938" address="Rcurry@ENRON.com"/>
+
+	<cc name="Joe Parks" id="58825" address="jparks@enron.com"/>
+
+
+
+	<parent_id></parent_id>
+
+
+
+	<subject>Joe Parks - Change status from Trader to Super User</subject>
+
+
+
+	<date_time>2002-04-24 16:55:57</date_time>
+
+
+
+	<content>
+
+    
+
+M1.1. Please change the status of Joe Parks from Trader to Super User. [Y]
+
+[Request-Action: change Joe Park's status from Trader to Super User]
+
+Flink1.1
+
+
+
+M1.2. Thanks,
+
+[Conventional: thanks]
+
+
+
+
+
+M1.3. Bert Stipelcovich<?xml:namespace prefix = o ns = "urn:schemas-microsoft-com:office:office" />
+
+
+
+M1.4. ICE Administrator
+
+
+
+M1.5. Manager, Information Systems
+
+
+
+M1.6. Bridgeline Holdings, L.P.
+
+[Conventional: signature]
+
+
+
+M1.7. 832.851.2880 Office     713.516.2230 Cell
+
+[Inform: Bert's phone numbers]
+
+
+
+	</content>
+
+</message>
+
+<message>
+
+
+
+	<thread_id>3646</thread_id>
+
+
+
+	<depth>2</depth>
+
+
+
+	<type>ThreadNode</type>
+
+
+
+	<message_id>77216</message_id>
+
+	<to name="Joe Parks" id="58825" address="Joe.Parks@bridgeline.net"/>
+
+	<from name="Bert Stipelcovich" id="13360" address="Bert.Stipelcovich@bridgeline.net"/>
+
+	<cc name="Randall Curry" id="93938" address="Randall.Curry@Bridgeline.NET"/>
+
+	<to name="Joe Parks" id="58825" address="jparks@enron.com"/>
+
+	<from name="Bert Stipelcovich" id="13360" address="Bstipelc@ENRON.com"/>
+
+	<cc name="Randall Curry" id="93938" address="Rcurry@ENRON.com"/>
+
+
+
+	<parent_id></parent_id>
+
+
+
+	<subject>Joe Parks - Change status from Trader to Super User</subject>
+
+
+
+	<date_time>2002-04-25 07:46:13</date_time>
+
+
+
+	<content>
+
+    
+
+M2.1. Joe,
+
+[Conventional: salutation]
+
+
+
+M2.2. As requested, your status has been changed from Trader to Super User, which allows you to modify credit settings.
+
+[Inform: Joe's status has been changed, so he can now modify credit settings]
+
+Blink1.1
+
+
+
+M2.3. Thanks,
+
+[Conventional: thanks]
+
+
+
+
+
+M2.4. Bert Stipelcovich
+
+
+
+M2.5. Manager, Information Systems
+
+
+
+M2.6. Bridgeline Holdings, L.P.
+
+[Conventional: signature]
+
+
+
+M2.7. 832.851.2880 Office     713.516.2230 Cell
+
+[Inform: Bert's phone numbers]
+
+
+
+	</content>
+
+</message>
+
+</xml>

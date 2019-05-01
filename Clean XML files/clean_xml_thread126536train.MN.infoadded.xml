@@ -1,0 +1,131 @@
+<xml>
+
+<message>
+
+
+
+	<thread_id>126536</thread_id>
+
+
+
+	<depth>0</depth>
+
+
+
+	<type>ThreadNode</type>
+
+
+
+	<message_id>878895</message_id>
+
+	<to name="Mark McConnell" id="3520" address="Mark_mcconnell@enron.net"/>
+
+	<from name="" id="58132" address="jmil@ou.edu"/>
+
+	<to name="Mark McConnell" id="76165" address="MMcConne@ENRON.com"/>
+
+
+
+	<parent_id></parent_id>
+
+
+
+	<subject>Internship</subject>
+
+
+
+	<date_time>2001-10-02 13:13:21</date_time>
+
+
+
+	<content>
+
+    
+
+M1.1. Sorry Mr. McConnell but didn't attach on first email.
+
+[Inform: Jonathan is sorry to Mr. McConnell for not attaching something (possibly his resume?) to a previous email]
+
+
+
+	</content>
+
+</message>
+
+<message>
+
+
+
+	<thread_id>126536</thread_id>
+
+
+
+	<depth>1</depth>
+
+
+
+	<type>ThreadNode</type>
+
+
+
+	<message_id>879088</message_id>
+
+	<to name="" id="58132" address="jmil@ou.edu"/>
+
+	<from name="Mark McConnell" id="76165" address="MMcConne@ENRON.com"/>
+
+
+
+	<parent_id>878895</parent_id>
+
+
+
+	<subject>Internship</subject>
+
+
+
+	<date_time>2001-10-02 14:21:49</date_time>
+
+
+
+	<content>
+
+    
+
+M2.1. Jonathan,
+
+[Conventional: salutation]
+
+M2.2. Thanks for the email.
+
+[Conventional: thanks]
+
+M2.3. I enjoyed the evening in Norman as well.
+
+M2.4. I also enjoyed the game vs KSU.
+
+[Inform: Mark enjoyed evening in Norman and game vs. KSU]
+
+M2.5. Your resume looks very impressive.
+
+[Inform: Jonathan's resume looks impressive]
+
+M2.6. I would continue to work through the university and make sure that you get on the interview schedule when we come back up.
+
+[Inform: Jonathan should work through university and make sure he gets an interview with Enron when its employees come back]
+
+M2.7. I'll hold on to your resume and pass it on to people in the pipeline group that may be looking for an intern.
+
+[Inform: Mark will pass on Jonathan's resume to people at pipeline group interested in an intern]
+
+M2.8. Best of luck,
+
+[Conventional: best of luck]
+
+
+
+	</content>
+
+</message>
+
+</xml>

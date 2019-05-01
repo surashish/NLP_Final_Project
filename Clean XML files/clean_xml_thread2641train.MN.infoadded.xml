@@ -1,0 +1,145 @@
+<xml>
+
+<message>
+
+
+
+	<thread_id>2641</thread_id>
+
+
+
+	<depth>0</depth>
+
+
+
+	<type>ThreadNode</type>
+
+
+
+	<message_id>1242668</message_id>
+
+	<to name="DL-ETS Gas Controllers" id="6022" address="DL-ETSGasControllers@ENRON.com"/>
+
+	<from name="Ron Spain" id="40565" address="Ron.Spain@ENRON.com"/>
+
+	<from name="Ron Spain" id="40565" address="RSPAIN@ENRON.com"/>
+
+
+
+	<parent_id></parent_id>
+
+
+
+	<subject>Storage 2/15/02</subject>
+
+
+
+	<date_time>2002-02-14 15:22:49</date_time>
+
+
+
+	<content>
+
+    
+
+M1.1. CUNNINGHAM: 400 max. wdl. 450 max. inj.
+
+
+
+M1.2. REDFIELD: 255 max. wdl.
+
+
+
+M1.3. LYONS: 32 max. wdl. thru the weekend
+
+
+
+M1.4. sWRENSHALL/GARNER: Both available for vaporizing up to 300.
+
+[Inform: list of items and their maximum storage caabilities, presumably]
+
+
+
+	</content>
+
+</message>
+
+<message>
+
+
+
+	<thread_id>2641</thread_id>
+
+
+
+	<depth>1</depth>
+
+
+
+	<type>ThreadNode</type>
+
+
+
+	<message_id>1242841</message_id>
+
+	<to name="DL-ETS Gas Controllers" id="6022" address="DL-ETSGasControllers@ENRON.com"/>
+
+	<from name="Gaynel Henley" id="29533" address="Gaynel.Henley@ENRON.com"/>
+
+	<cc name="" id="109127" address="steven.v.thomas@dynegy.com"/>
+
+	<from name="Gaynel Henley" id="29533" address="GHENLEY@ENRON.com"/>
+
+
+
+	<parent_id>1242668</parent_id>
+
+
+
+	<subject>Storage 2/21/02</subject>
+
+
+
+	<date_time>2002-02-21 14:58:44</date_time>
+
+
+
+	<content>
+
+    
+
+M2.1. Storage Notes
+
+[Inform: the following is a chart of storage notes]
+
+
+
+
+
+M2.2. CUNNINGHAM: 	390m2 max. wdl. with Macksville horsepower on /490m2 max. inj.
+
+
+
+M2.3. REDFIELD: 		185m2 max. wdl. decreasing in volume of approximately 5 m2 a day
+
+
+
+M2.4. LYONS: 			23-25m2 max. wdl. thru the weekend
+
+
+
+M2.5. WRENSHALL: 		Min. 35m2  Max 300m2
+
+
+
+M2.6. GARNER: 		Min. 40m2  Max 300m2
+
+[Inform: list of items and their maximum and/or minimum capabilities for storage, presumably]
+
+
+
+	</content>
+
+</message>
+
+</xml>

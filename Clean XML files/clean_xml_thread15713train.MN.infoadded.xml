@@ -1,0 +1,153 @@
+<xml>
+
+<message>
+
+
+
+	<thread_id>15713</thread_id>
+
+
+
+	<depth>0</depth>
+
+
+
+	<type>ThreadNode</type>
+
+
+
+	<message_id>226756</message_id>
+
+	<to name="DOCUMENTS" id="33487" address="documents@isda.org"/>
+
+	<from name="Sara Shackleton" id="64528" address="Sara.Shackleton@ENRON.com"/>
+
+
+
+	<parent_id></parent_id>
+
+
+
+	<subject>UG315</subject>
+
+
+
+	<date_time>2000-04-24 04:41:00</date_time>
+
+
+
+	<content>
+
+    
+
+M1.1. Please send the current DRAFT to the User's Guide to 1999 ISDA Credit
+
+Derivatives Definitions to my attention. [Y]
+
+[Request-Action: send current draft of a user's guide to Sara's attention]
+
+Flink1.1 
+
+M1.2. I understand that these can be sent
+
+to reply mail.
+
+[Inform: Sara has been informed that such drafts can be sent to reply mail]
+
+M1.3. You can reach me by phone at 713/853-5620 if you have any
+
+problems.
+
+[Inform: Sara's phone number]
+
+M1.4. Thanks.
+
+[Conventional: thanks]
+
+M1.5. Sara Shackleton [Enron North America Corp.]
+
+[Conventional: signature]
+
+
+
+	</content>
+
+</message>
+
+<message>
+
+
+
+	<thread_id>15713</thread_id>
+
+
+
+	<depth>1</depth>
+
+
+
+	<type>ThreadNode</type>
+
+
+
+	<message_id>226766</message_id>
+
+	<to name="DOCUMENTS" id="33487" address="documents@isda.org"/>
+
+	<from name="Sara Shackleton" id="64528" address="Sara.Shackleton@ENRON.com"/>
+
+	<cc name="Robert Pickel" id="99637" address="RPICKEL@isda.org"/>
+
+
+
+	<parent_id>226756</parent_id>
+
+
+
+	<subject>UG315</subject>
+
+
+
+	<date_time>2000-04-24 08:38:00</date_time>
+
+
+
+	<content>
+
+    
+
+M2.1. Is it possible to obtain a copy of the draft "User's Guide to 1999 ISDA
+
+Credit Derivatives Definitions" today?
+
+[Request-Information: possible to obtain a copy of the draft today]
+
+Flink2.1
+
+M2.2. I would very much appreciate receipt
+
+as soon as possible. [Y]
+
+[Inform: Sara would like to receive it ASAP]
+
+M2.3. Enron is a member of ISDA.
+
+[Inform: Enron is a member of ISDA]
+
+M2.4. Thanks again.
+
+[Conventional: thanks]
+
+M2.5. Sara
+
+Shackleton
+
+[Conventional: signature]
+
+
+
+	</content>
+
+</message>
+
+</xml>

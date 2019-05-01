@@ -1,0 +1,241 @@
+<xml>
+
+<message>
+
+
+
+	<thread_id>27557</thread_id>
+
+
+
+	<depth>0</depth>
+
+
+
+	<type>ThreadNode</type>
+
+
+
+	<message_id>144778</message_id>
+
+	<to name="Gerald Nemec" id="1191" address="Gerald.Nemec@ENRON.com"/>
+
+	<to name="Shonnie Daniel" id="1160" address="Shonnie.Daniel@ENRON.com"/>
+
+	<from name="Eva Neufeld" id="38229" address="Eva.Neufeld@ENRON.com"/>
+
+	<cc name="Paul Miller" id="89515" address="Paul.Miller@ENRON.com"/>
+
+	<cc name="Gaye Lynn Schaffart" id="43153" address="gaye.lynn.schaffart@enron.com"/>
+
+	<cc name="Robert Hill" id="96152" address="Robert.Hill@ENRON.com"/>
+
+	<cc name="Janet Place" id="40065" address="Janet.Place@ENRON.com"/>
+
+
+
+	<parent_id></parent_id>
+
+
+
+	<subject>Revisions to LOU</subject>
+
+
+
+	<date_time>2000-08-11 09:54:00</date_time>
+
+
+
+	<content>
+
+    
+
+M1.1. Here are the revisions that I mentioned that Paul provided earlier today:
+
+[Inform: the following are revisions to LOU that Eva mentioned that Paul provided earlier]
+
+M1.2. Revise the second sentence of Certain Proprietary Rights  to:
+
+M1.3. "The Purchase Agreement will include an exhibit listing other transactions
+
+involving assets in the Specified Geographical Area, which transactions are
+
+pending or under development by Seller, including those developed by the
+
+Transferred Employees, and are evidenced by a written agreement between a
+
+third party and Seller.
+
+[Inform: revision of second sentence of Certain Proprietary Rights]
+
+Sflink1.3
+
+
+
+	</content>
+
+</message>
+
+<message>
+
+
+
+	<thread_id>27557</thread_id>
+
+
+
+	<depth>1</depth>
+
+
+
+	<type>ThreadNode</type>
+
+
+
+	<message_id>144779</message_id>
+
+	<to name="Mark Whitt" id="1141" address="Mark.Whitt@ENRON.com"/>
+
+	<from name="Shonnie Daniel" id="1160" address="Shonnie.Daniel@ENRON.com"/>
+
+	<cc name="Gerald Nemec" id="1191" address="Gerald.Nemec@ENRON.com"/>
+
+
+
+	<parent_id>144778</parent_id>
+
+
+
+	<subject>Revisions to LOU</subject>
+
+
+
+	<date_time>2000-08-11 10:01:00</date_time>
+
+
+
+	<content>
+
+    
+
+M2.1. what do you think?
+
+[Request-Information: recipients' thoughts]
+
+Blink1.3
+
+Flink2.1
+
+
+
+	</content>
+
+</message>
+
+<message>
+
+
+
+	<thread_id>27557</thread_id>
+
+
+
+	<depth>1</depth>
+
+
+
+	<type>ThreadNode</type>
+
+
+
+	<message_id>144815</message_id>
+
+	<to name="Eva Neufeld" id="38229" address="Eva.Neufeld@ENRON.com"/>
+
+	<from name="Robert Hill" id="96152" address="Robert.Hill@ENRON.com"/>
+
+	<cc name="Shonnie Daniel" id="1160" address="Shonnie.Daniel@ENRON.com"/>
+
+	<cc name="Gerald Nemec" id="1191" address="Gerald.Nemec@ENRON.com"/>
+
+	<cc name="Janet Place" id="40065" address="Janet.Place@ENRON.com"/>
+
+	<cc name="Paul Miller" id="89515" address="Paul.Miller@ENRON.com"/>
+
+	<cc name="Brian Bierbach" id="12295" address="Brian.Bierbach@ENRON.com"/>
+
+
+
+	<parent_id>144778</parent_id>
+
+
+
+	<subject>Revisions to LOU</subject>
+
+
+
+	<date_time>2000-08-16 11:53:00</date_time>
+
+
+
+	<content>
+
+    
+
+M3.1. I have the org chart that Brian showed to the Denver employees last Friday.
+
+[Inform: Robert has org chart that Brian showed to Denver employees last Friday]
+
+M3.2. First let me emphasize that the org chart reflects positions to be held by
+
+the Denver employees in the asset company now named and known as NBP Energy
+
+Pipelines LLC.
+
+[Inform: org chart shows positions to be held by Denver employees in NBP Energy]
+
+M3.3. (The Denver employees are engaged in selecting a new name for
+
+the asset company.)
+
+[Inform: Denver employees are choosing a new name for asset company]
+
+M3.4. For example, the fact that Dan Bump will be a Vice
+
+President at the asset company does not mean that he is a VP at ENA or at
+
+GPG.
+
+[Inform: even though Dan will be a VP at asset company doesn't mean he is a VP at ENA or GPG]
+
+M3.5. The reason for the lengthy explanation is that the org chart
+
+incorrectly is titled "NBP Services Corporation Organization."
+
+[Inform: incorrect title of org chart, which accounts for long explanation]
+
+M3.6. Also that
+
+document was prepared in Denver and I can not attach it to this note.
+
+[Inform: document was prepared in Denver and Robert cannot attach it to this email]
+
+M3.7. The
+
+chart needs to be retitled and attached to the LOU.
+
+[Inform: chart needs to be renamed and attached to LOU]
+
+M3.8. I will carry the chart
+
+(with its incorrect title to Eva).
+
+[Inform: Robert will carry chart with incorrect title to Eva]
+
+
+
+	</content>
+
+</message>
+
+</xml>

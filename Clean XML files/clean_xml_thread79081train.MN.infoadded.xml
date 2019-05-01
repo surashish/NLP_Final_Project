@@ -1,0 +1,147 @@
+<xml>
+
+<message>
+
+
+
+	<thread_id>79081</thread_id>
+
+
+
+	<depth>0</depth>
+
+
+
+	<type>ThreadNode</type>
+
+
+
+	<message_id>213954</message_id>
+
+	<to name="Richard Shapiro" id="2482" address="Richard.Shapiro@ENRON.com"/>
+
+	<to name="Steven J Kean" id="18327" address="Steven.J.Kean@ENRON.com"/>
+
+	<from name="Lisa Yoho" id="1502" address="Lisa.Yoho@ENRON.com"/>
+
+	<cc name="Chris Long" id="1492" address="Chris.Long@ENRON.com"/>
+
+
+
+	<parent_id></parent_id>
+
+
+
+	<subject>Enron's 201 Strategy</subject>
+
+
+
+	<date_time>2001-04-10 11:11:00</date_time>
+
+
+
+	<content>
+
+    
+
+M1.1. Rick and Steve -
+
+[Conventional: salutation]
+
+M1.2. Attached is Enron's government affairs strategy with respect to the potential
+
+threat of "201" restrictions on steel imports.
+
+[Inform: Enron's government affairs strategy attached]
+
+M1.3. This was developed with the
+
+input of the DC office and outside counsel.
+
+[Inform: document was developed with input of DC office and outside counsel]
+
+M1.4. We will be meeting with Eric
+
+Thode later this week to discuss the public relations piece.
+
+[Inform: Lisa et al. will meet with Eric later in the week to discuss PR piece]
+
+M1.5. Let me know if you have any questions, or if you would like background
+
+information on section 201.
+
+[Inform: Rick and Steve should ask Lisa questions, or ask for background info on section 201 if they need it]
+
+
+
+	</content>
+
+</message>
+
+<message>
+
+
+
+	<thread_id>79081</thread_id>
+
+
+
+	<depth>1</depth>
+
+
+
+	<type>ThreadNode</type>
+
+
+
+	<message_id>213962</message_id>
+
+	<to name="Richard Shapiro" id="2482" address="Richard.Shapiro@ENRON.com"/>
+
+	<to name="Steven J Kean" id="18327" address="Steven.J.Kean@ENRON.com"/>
+
+	<from name="Lisa Yoho" id="1502" address="Lisa.Yoho@ENRON.com"/>
+
+	<cc name="Chris Long" id="1492" address="Chris.Long@ENRON.com"/>
+
+
+
+	<parent_id>213954</parent_id>
+
+
+
+	<subject>Enron's 201 Strategy</subject>
+
+
+
+	<date_time>2001-04-11 09:54:00</date_time>
+
+
+
+	<content>
+
+    
+
+M2.1. I sent the draft strategy in yesterday's email to you.
+
+[Inform: draft strategy sent yesterday]
+
+M2.2. Here is the final
+
+version that we shared with Jeff.
+
+[Inform: currently attached strategy is final version]
+
+M2.3. I apologize for any confusion that this
+
+caused.
+
+[Inform: apology for any confusion caused]
+
+
+
+	</content>
+
+</message>
+
+</xml>

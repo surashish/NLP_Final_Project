@@ -1,0 +1,241 @@
+<xml>
+
+<message>
+
+
+
+	<thread_id>145117</thread_id>
+
+
+
+	<depth>0</depth>
+
+
+
+	<type>ThreadNode</type>
+
+
+
+	<message_id>1310810</message_id>
+
+	<to name="Mitch Taylor" id="82075" address="Mitchell.Taylor@ENRON.com"/>
+
+	<to name="Brian Terp" id="1320" address="Brian.Terp@ENRON.com"/>
+
+	<to name="Mark Wadlington" id="76323" address="Mark.Wadlington@ENRON.com"/>
+
+	<to name="Jeff Donahue" id="3526" address="Jeff.Donahue@ENRON.com"/>
+
+	<from name="Mark Wadlington" id="76323" address="Mark.Wadlington@ENRON.com"/>
+
+	<cc name="Rod Hayslett" id="5425" address="Rod.Hayslett@ENRON.com"/>
+
+	<cc name="Jayshree Desai" id="2204" address="Jayshree.Desai@ENRON.com"/>
+
+	<to name="Mitch Taylor" id="82075" address="Mtaylo2@ENRON.com"/>
+
+	<to name="Brian Terp" id="1320" address="Bterp@ENRON.com"/>
+
+	<to name="Mark Wadlington" id="76323" address="Mwadling@ENRON.com"/>
+
+	<to name="Jeff Donahue" id="3526" address="Jdonahu@ENRON.com"/>
+
+	<from name="Mark Wadlington" id="76323" address="Mwadling@ENRON.com"/>
+
+	<cc name="Rod Hayslett" id="5425" address="rhaysle@ENRON.COM"/>
+
+	<cc name="Jayshree Desai" id="2204" address="jdesai@enron.com"/>
+
+
+
+	<parent_id></parent_id>
+
+
+
+	<subject>nwn</subject>
+
+
+
+	<date_time>2001-11-01 14:11:25</date_time>
+
+
+
+	<content>
+
+    
+
+M1.1. still waiting for the formal pubcomps and acqcomps from JPMorgan and SSB.
+
+[Inform: Mark is still waiting for pubcomps and acqcomps from JP Morgan and SSB]
+
+M1.2. I spent years in NY doing the math though and spoke to Rod for his help (he had great color).
+
+[Inform: Mark spent years in NY doing math and got help from Rod, who seemingly has a tan]
+
+M1.3. The answer is 8-10x ebitda.
+
+[Inform: multiple of earnings before interest, taxes, depreciation and amortization]
+
+M1.4. as an extra check, we put in another multiple for the duke/westcoast deal (approx. 1.7x rate base).
+
+[Inform: as a precaution, another multiple was put in for another deal]
+
+M1.5. Same answer both times.
+
+[Inform: each calculation produced the same result]
+
+M1.6. EV 2.0-2.3 (with a sales hat maybe 2.5), equity value 1.6-1.8.
+
+[Inform: EV, with and without sales hat, and equity value numbers]
+
+Sflink1.6
+
+M1.7. I wouldnt push the sales hat too far though, the duration of contracts on this pipeline do not favorably compare to those on most pipelines in general -- in other words, you could be staring at a "hole" in '04.
+
+[Inform: Mark recommends not pushing sales hat too far, for reasons given]
+
+Sflink1.7
+
+M1.8. (Once I get the precise numbers from the bankers, I'll plug them in -- the answer shouldnt change more than 5%).
+
+[Inform: Mark will plug in precise numbers when he gets them from bankers]
+
+M1.9. What's the next step for me?
+
+[Request-Information: next step for Mark]
+
+Flink1.9
+
+M1.10. Want me to forward to muller/jeff golden?
+
+[Request-Information: should Mark forward this email to Muller or Jeff Golden]
+
+Flink1.10
+
+
+
+	</content>
+
+</message>
+
+<message>
+
+
+
+	<thread_id>145117</thread_id>
+
+
+
+	<depth>2</depth>
+
+
+
+	<type>ThreadNode</type>
+
+
+
+	<message_id>1310335</message_id>
+
+	<to name="Rod Hayslett" id="5425" address="Rod.Hayslett@ENRON.com"/>
+
+	<from name="Kevin A Howard" id="65990" address="Kevin_Howard@ENRON.net"/>
+
+	<to name="Rod Hayslett" id="5425" address="rhaysle@ENRON.COM"/>
+
+	<from name="Kevin A Howard" id="66221" address="Khoward@ENRON.com"/>
+
+
+
+	<parent_id></parent_id>
+
+
+
+	<subject>nwn</subject>
+
+
+
+	<date_time>2001-11-01 14:49:43</date_time>
+
+
+
+	<content>
+
+    
+
+M2.1. I'm glad Mark came to the same conclusion regarding valuation -
+
+[Inform: Kevin is glad Mark came to the same conclusion regarding valuation]
+
+Blink1.6
+
+M2.2. Mitch seemed to indicate a much higher number.
+
+[Inform: Mitch thought the number was much higher]
+
+M2.3. I hope Mark understands that the "hole" in '04 is highly unlikely given the demand and competitve positions.
+
+[Inform: Kevin hopes Mark realizes the so-called hole mentioned earlier is very unlikely]
+
+Blink1.7
+
+Sflink2.3
+
+
+
+	</content>
+
+</message>
+
+<message>
+
+
+
+	<thread_id>145117</thread_id>
+
+
+
+	<depth>3</depth>
+
+
+
+	<type>ThreadNode</type>
+
+
+
+	<message_id>1309797</message_id>
+
+	<to name="Kevin A Howard" id="66221" address="Khoward@ENRON.com"/>
+
+	<from name="Rod Hayslett" id="5425" address="rhaysle@ENRON.COM"/>
+
+
+
+	<parent_id>1310335</parent_id>
+
+
+
+	<subject>nwn</subject>
+
+
+
+	<date_time>2001-11-01 15:25:13</date_time>
+
+
+
+	<content>
+
+    
+
+M3.1. Hole is unlikely, but is a real weak point in any sales discussion.
+
+[Inform: sender agrees that this hole is unlikely, but thinks it is a major weak point in sales discussions]
+
+Blink2.3
+
+
+
+	</content>
+
+</message>
+
+</xml>

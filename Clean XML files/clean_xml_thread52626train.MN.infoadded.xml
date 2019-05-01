@@ -1,0 +1,123 @@
+<xml>
+
+<message>
+
+
+
+	<thread_id>52626</thread_id>
+
+
+
+	<depth>0</depth>
+
+
+
+	<type>ThreadNode</type>
+
+
+
+	<message_id>950482</message_id>
+
+	<to name="Thor Lien" id="36988" address="thor.lien@enron.com"/>
+
+	<from name="Vince J Kaminski" id="63574" address="Vince.J.Kaminski@ENRON.com"/>
+
+	<cc name="Vince J Kaminski" id="63574" address="Vince.J.Kaminski@ENRON.com"/>
+
+	<cc name="Paulo Issler" id="89761" address="Paulo.Issler@ENRON.com"/>
+
+
+
+	<parent_id></parent_id>
+
+
+
+	<subject>Double-up Swap</subject>
+
+
+
+	<date_time>2000-12-12 03:18:00</date_time>
+
+
+
+	<content>
+
+    
+
+M1.1. Thor,
+
+[Conventional: salutation]
+
+
+
+M1.2. We have modeled this structure a few times in the past.
+
+[Inform: Vince et al. have modeled a structure a few times previously]
+
+M1.3. Paulo Issler will call you shortly to talk about it.
+
+[Inform: Paulo Issler will call Thor soon to talk about it]
+
+
+
+M1.4. Vince
+
+[Conventional: signature]
+
+
+
+	</content>
+
+</message>
+
+<message>
+
+
+
+	<thread_id>52626</thread_id>
+
+
+
+	<depth>1</depth>
+
+
+
+	<type>ThreadNode</type>
+
+
+
+	<message_id>950477</message_id>
+
+	<to name="Vince J Kaminski" id="63574" address="Vince.J.Kaminski@ENRON.com"/>
+
+	<from name="Thor Lien" id="36988" address="thor.lien@enron.com"/>
+
+
+
+	<parent_id>950482</parent_id>
+
+
+
+	<subject>Double-up Swap</subject>
+
+
+
+	<date_time>2000-12-12 10:27:00</date_time>
+
+
+
+	<content>
+
+    
+
+M2.1. Thanks
+
+[Conventional: thanks]
+
+
+
+	</content>
+
+</message>
+
+</xml>

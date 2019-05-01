@@ -1,0 +1,123 @@
+<xml>
+
+<message>
+
+
+
+	<thread_id>11598</thread_id>
+
+
+
+	<depth>0</depth>
+
+
+
+	<type>ThreadNode</type>
+
+
+
+	<message_id>226231</message_id>
+
+	<to name="Mark Taylor" id="2378" address="Mark.Taylor@ENRON.com"/>
+
+	<from name="Sara Shackleton" id="64528" address="Sara.Shackleton@ENRON.com"/>
+
+
+
+	<parent_id></parent_id>
+
+
+
+	<subject>Telephone conference</subject>
+
+
+
+	<date_time>2000-02-28 11:18:00</date_time>
+
+
+
+	<content>
+
+    
+
+M1.1. Brent, Andrea and I were hoping you might be available for a 30-minute call
+
+on Tuesday after 5pm (BA time) or 2pm (Houston time) on Tuesday, Feb. 29.
+
+[Inform: Sara, as well as Brent and Andrea, would like Mark to participate in a phone call on Tuesday]
+
+M1.2. The BA office had a meeting last Friday afternoon and has apparently set some
+
+rather lofty goals, such as online trading for Q3, etc.
+
+[Inform: BA office had a meeting last Friday and set some lofty goals]
+
+M1.3. Please let me or
+
+Brent know if you are available and/or alternative times. [Y]
+
+[Request-Information: whether Mark is available and/or would prefer a different time for the call]
+
+Flink1.3
+
+
+
+	</content>
+
+</message>
+
+<message>
+
+
+
+	<thread_id>11598</thread_id>
+
+
+
+	<depth>1</depth>
+
+
+
+	<type>ThreadNode</type>
+
+
+
+	<message_id>1188701</message_id>
+
+	<to name="Sara Shackleton" id="64528" address="Sara.Shackleton@ENRON.com"/>
+
+	<from name="Mark Taylor" id="2378" address="Mark.Taylor@ENRON.com"/>
+
+
+
+	<parent_id>226231</parent_id>
+
+
+
+	<subject>Telephone conference</subject>
+
+
+
+	<date_time>2000-02-28 11:55:00</date_time>
+
+
+
+	<content>
+
+    
+
+M2.1. Can we do the call at 3:00 Houston time?
+
+[Request-Information: can they do the call at 3:00 Houston time]
+
+Blink1.3
+
+Flink2.1
+
+
+
+	</content>
+
+</message>
+
+</xml>

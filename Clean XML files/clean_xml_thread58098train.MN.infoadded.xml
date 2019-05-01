@@ -1,0 +1,177 @@
+<xml>
+
+<message>
+
+
+
+	<thread_id>58098</thread_id>
+
+
+
+	<depth>0</depth>
+
+
+
+	<type>ThreadNode</type>
+
+
+
+	<message_id>89119</message_id>
+
+	<to name="Kimberly Hundl" id="35815" address="Kimberly.Hundl@ENRON.com"/>
+
+	<from name="Kate Symes" id="11426" address="Kate.Symes@ENRON.com"/>
+
+
+
+	<parent_id></parent_id>
+
+
+
+	<subject>Deal #493273 Anaheim</subject>
+
+
+
+	<date_time>2001-01-10 09:31:00</date_time>
+
+
+
+	<content>
+
+    
+
+M1.1. Contact is Sue Stevens @714-765-4132.
+
+[Inform: contact name and number]
+
+M1.2. Sorry for the delay.
+
+[Inform: apology for delay]
+
+
+
+	</content>
+
+</message>
+
+<message>
+
+
+
+	<thread_id>58098</thread_id>
+
+
+
+	<depth>1</depth>
+
+
+
+	<type>ThreadNode</type>
+
+
+
+	<message_id>89113</message_id>
+
+	<to name="Kate Symes" id="11426" address="Kate.Symes@ENRON.com"/>
+
+	<from name="Kimberly Hundl" id="35815" address="Kimberly.Hundl@ENRON.com"/>
+
+	<cc name="Sharen Cason" id="3305" address="Sharen.Cason@ENRON.com"/>
+
+
+
+	<parent_id>89119</parent_id>
+
+
+
+	<subject>Deal #493273 Anaheim</subject>
+
+
+
+	<date_time>2001-01-10 11:14:00</date_time>
+
+
+
+	<content>
+
+    
+
+M2.1. Hi Kate,
+
+[Conventional: salutation]
+
+M2.2. I need to verbally confirm this deal and I can't find a good phone number.
+
+[Inform: Kim needs to verbally confirm deal #493273 but needs a phone number]
+
+M2.3. Can you get the contact name and number for me please? [Y]
+
+[Request-Information: contact name and number]
+
+Flink2.3
+
+M2.4. Thanks!
+
+[Conventional: thanks]
+
+M2.5. Kim
+
+[Conventional: signature]
+
+
+
+	</content>
+
+</message>
+
+<message>
+
+
+
+	<thread_id>58098</thread_id>
+
+
+
+	<depth>1</depth>
+
+
+
+	<type>ThreadNode</type>
+
+
+
+	<message_id>89130</message_id>
+
+	<to name="Kate Symes" id="11426" address="Kate.Symes@ENRON.com"/>
+
+	<from name="Kimberly Hundl" id="35815" address="Kimberly.Hundl@ENRON.com"/>
+
+
+
+	<parent_id>89119</parent_id>
+
+
+
+	<subject>Deal #493273 Anaheim</subject>
+
+
+
+	<date_time>2001-01-11 05:03:00</date_time>
+
+
+
+	<content>
+
+    
+
+M3.1. thanks!
+
+[Conventional: thanks]
+
+
+
+	</content>
+
+</message>
+
+</xml>

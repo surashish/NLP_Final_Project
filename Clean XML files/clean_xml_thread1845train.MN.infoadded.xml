@@ -1,0 +1,293 @@
+<xml>
+
+<message>
+
+
+
+	<thread_id>1845</thread_id>
+
+
+
+	<depth>0</depth>
+
+
+
+	<type>ThreadNode</type>
+
+
+
+	<message_id>685325</message_id>
+
+	<to name="James D Steffes" id="7320" address="James.D.Steffes@ENRON.com"/>
+
+	<to name="Jeff Dasovich" id="27095" address="Jeff.Dasovich@ENRON.com"/>
+
+	<to name="Richard B Sanders" id="40537" address="Richard.B.Sanders@ENRON.com"/>
+
+	<to name="Richard Shapiro" id="2482" address="Richard.Shapiro@ENRON.com"/>
+
+	<to name="Mike Day" id="78792" address="mday@gmssr.com"/>
+
+	<to name="John Klauberg" id="57413" address="jklauber@llgm.com"/>
+
+	<from name="Robert C Williams" id="98057" address="Robert.C.Williams@ENRON.com"/>
+
+	<cc name="Vicki Sharp" id="29838" address="Vicki.Sharp@ENRON.com"/>
+
+	<to name="James D Steffes" id="7319" address="jsteffe@enron.com"/>
+
+	<to name="Jeff Dasovich" id="28265" address="jdasovic@enron.com"/>
+
+	<to name="Richard B Sanders" id="40537" address="rsander@enron.com"/>
+
+	<to name="Richard Shapiro" id="270" address="rshapiro@enron.com"/>
+
+	<from name="Robert C Williams" id="98057" address="rwillia2@enron.com"/>
+
+	<cc name="Vicki Sharp" id="29838" address="DC350363-F761E300-862564C2-54998E@ENRON.com"/>
+
+
+
+	<parent_id></parent_id>
+
+
+
+	<subject>Negative CTC Issues</subject>
+
+
+
+	<date_time>2001-10-10 11:32:03</date_time>
+
+
+
+	<content>
+
+    
+
+M1.1. Two questions:
+
+[Inform: Robert has two questions]
+
+M1.2. 1.  How do we fight the notion that a FERC retroactive determination of "just and reasonable rates" should be re-injected into the calculation of negative CTCs?
+
+[Request-Information: how do Robert et al. argue against a new calculation of negative CTCs by the FERC]
+
+Flink1.2
+
+M1.3. It seems to me that there are at least equitable arguments against that.
+
+[Inform: Robert believes there are equitable arguments against this]
+
+Sflink1.3
+
+M1.4. Will this be a CPUC or FERC issue?
+
+[Request-Information: is this a CPUC or FERC issue]
+
+Flink1.4
+
+M1.5. 2.  Can we use the utilities' underscheduling to push them back on this, legally or in negotiations?
+
+[Request-Information: can Robert et al. use the utilities' underscheduling to push them back on this]
+
+Flink1.5
+
+M1.6. Since they contributed to the market disfunction, shouldn't they have to live with the consequences?
+
+[Request-Information: if they contributed to the market dysfunction, should they not suffer the consequences]
+
+Flink1.6
+
+
+
+	</content>
+
+</message>
+
+<message>
+
+
+
+	<thread_id>1845</thread_id>
+
+
+
+	<depth>1</depth>
+
+
+
+	<type>ThreadNode</type>
+
+
+
+	<message_id>685331</message_id>
+
+	<to name="Robert C Williams" id="98057" address="Robert.C.Williams@ENRON.com"/>
+
+	<to name="Jeff Dasovich" id="27095" address="Jeff.Dasovich@ENRON.com"/>
+
+	<to name="Richard B Sanders" id="40537" address="Richard.B.Sanders@ENRON.com"/>
+
+	<to name="Richard Shapiro" id="2482" address="Richard.Shapiro@ENRON.com"/>
+
+	<to name="Mike Day" id="78792" address="mday@gmssr.com"/>
+
+	<to name="John Klauberg" id="57413" address="jklauber@llgm.com"/>
+
+	<to name="Ray Alvarez" id="2659" address="Ray.Alvarez@ENRON.com"/>
+
+	<to name="Dan Watkiss" id="35489" address="dwatkiss@bracepatt.com"/>
+
+	<to name="Susan J Mara" id="3364" address="Susan.J.Mara@ENRON.com"/>
+
+	<from name="James D Steffes" id="7320" address="James.D.Steffes@ENRON.com"/>
+
+	<cc name="Vicki Sharp" id="29838" address="Vicki.Sharp@ENRON.com"/>
+
+	<to name="Robert C Williams" id="98057" address="rwillia2@enron.com"/>
+
+	<to name="Jeff Dasovich" id="28265" address="jdasovic@enron.com"/>
+
+	<to name="Richard B Sanders" id="40537" address="rsander@enron.com"/>
+
+	<to name="Richard Shapiro" id="270" address="rshapiro@enron.com"/>
+
+	<to name="Ray Alvarez" id="36178" address="Ralvare2@ENRON.com"/>
+
+	<to name="Susan J Mara" id="3364" address="smara@enron.com"/>
+
+	<from name="James D Steffes" id="7319" address="jsteffe@enron.com"/>
+
+	<cc name="Vicki Sharp" id="29838" address="DC350363-F761E300-862564C2-54998E@ENRON.com"/>
+
+
+
+	<parent_id>685325</parent_id>
+
+
+
+	<subject>Negative CTC Issues</subject>
+
+
+
+	<date_time>2001-10-10 14:20:26</date_time>
+
+
+
+	<content>
+
+    
+
+M2.1. On point #1 - I think that at the end of the day, FERC will not deal with the Negative CTC directly.
+
+M2.2. All they will do is reset prices.
+
+[Inform: FERC will not deal with the negative CTC directly, but will only reset prices]
+
+Blink1.4
+
+M2.3. The Utilities and the CPUC will then have to decide the legality and the equity of modifying the PX Credit and hence the Negative CTC.
+
+[Inform: Utilities and CPUC will decide legality and equity of modifying PX Credit and thus negative CTC]
+
+Blink1.3
+
+M2.4. We have tried in the CA Refund process to highlight the fact that much of the "high" prices were due to inappropriate policy and actions of the CPUC, Governor, and Utilities.
+
+[Inform: Jim et al. have tried to stress that the CPUC, governor, and Utilities were responsible for so-called high prices]
+
+M2.5. The core problem with this line of argument is that the Refund process didn't ask the first question - what or who is to blame.
+
+M2.6. It simply took dysfunction and ran.
+
+[Inform: the problem with this argument is that the Refund process didn't ask who/what was to blame]
+
+M2.7. We are trying in the context of the Rehearing case to ask FERC to restart with the right question.
+
+[Inform: Jim et. al. are trying to ask FERC to ask first who is to blame in the context of the Rehearing case]
+
+M2.8. Also, remember that we aren't going to have a solution in the FERC case until sometime next year, probably after SCE gets its money.
+
+[Inform: they likely won't have a solution in this case until after SCE gets its money next year]
+
+M2.9. Finally, I think that the right policy decision is not to "re-bill" Negative CTC but rather to prospectively recover the costs.
+
+[Inform: Jim thinks that the right thing to do is prospectively recover costs, not re-bill negative CTC]
+
+Blink1.2
+
+M2.10. On point #2 - See point above.
+
+[Inform: the above point that Jim made relates to second point in previous email]
+
+M2.11. I doubt, however, that all "high" prices can be seen as just a result of underscheduling.
+
+[Inform: Jim doubts that all so-called high prices can be seen as just the result of underscheduling]
+
+Blink1.5
+
+M2.12. Jim
+
+[Conventional: signature]
+
+
+
+	</content>
+
+</message>
+
+<message>
+
+
+
+	<thread_id>1845</thread_id>
+
+
+
+	<depth>2</depth>
+
+
+
+	<type>ThreadNode</type>
+
+
+
+	<message_id>742938</message_id>
+
+	<to name="James D Steffes" id="7320" address="James.D.Steffes@ENRON.com"/>
+
+	<from name="Robert C Williams" id="98057" address="Robert.C.Williams@ENRON.com"/>
+
+	<to name="James D Steffes" id="7319" address="jsteffe@enron.com"/>
+
+	<from name="Robert C Williams" id="98057" address="rwillia2@enron.com"/>
+
+
+
+	<parent_id>685331</parent_id>
+
+
+
+	<subject>Negative CTC Issues</subject>
+
+
+
+	<date_time>2001-10-10 15:34:36</date_time>
+
+
+
+	<content>
+
+    
+
+M3.1. thanks.
+
+[Conventional: thanks]
+
+
+
+	</content>
+
+</message>
+
+</xml>

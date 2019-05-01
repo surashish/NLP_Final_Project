@@ -1,0 +1,185 @@
+<xml>
+
+<message>
+
+
+
+	<thread_id>62689</thread_id>
+
+
+
+	<depth>0</depth>
+
+
+
+	<type>ThreadNode</type>
+
+
+
+	<message_id>1080425</message_id>
+
+	<to name="Cathy Sprowls" id="19793" address="Cathy.Sprowls@ENRON.com"/>
+
+	<from name="Phillip M Love" id="91168" address="Phillip.M.Love@ENRON.com"/>
+
+
+
+	<parent_id></parent_id>
+
+
+
+	<subject>Negative Originations</subject>
+
+
+
+	<date_time>2001-02-01 13:04:00</date_time>
+
+
+
+	<content>
+
+    
+
+M1.1. did this ever get resolved?
+
+[Request-Information: did something attached or previously mentioned get resolved]
+
+Flink1.1
+
+M1.2. PL
+
+[Conventional: signature]
+
+
+
+	</content>
+
+</message>
+
+<message>
+
+
+
+	<thread_id>62689</thread_id>
+
+
+
+	<depth>1</depth>
+
+
+
+	<type>ThreadNodeBubble</type>
+
+
+
+	<message_id>2003409</message_id>
+
+
+
+	<parent_id>1080425</parent_id>
+
+
+
+	<subject>Negative Originations</subject>
+
+
+
+	<date_time>2001-02-01 13:18:00</date_time>
+
+
+
+	<content>
+
+    
+
+M2.1. No
+
+[Inform: no, it did not get resolved]
+
+Blink1.1
+
+Sflink2.1
+
+
+
+	</content>
+
+</message>
+
+<message>
+
+
+
+	<thread_id>62689</thread_id>
+
+
+
+	<depth>2</depth>
+
+
+
+	<type>ThreadNode</type>
+
+
+
+	<message_id>1080424</message_id>
+
+	<to name="Cathy Sprowls" id="19793" address="Cathy.Sprowls@ENRON.com"/>
+
+	<to name="Jim Little" id="56724" address="Jim.Little@ENRON.com"/>
+
+	<from name="Phillip M Love" id="91168" address="Phillip.M.Love@ENRON.com"/>
+
+
+
+	<parent_id>2003409</parent_id>
+
+
+
+	<subject>Negative Originations</subject>
+
+
+
+	<date_time>2001-02-01 13:32:00</date_time>
+
+
+
+	<content>
+
+    
+
+M3.1. Jim,
+
+[Conventional: salutation]
+
+M3.2. would you mind setting up a meeting with the appropriate people so that
+
+we can get this resolved, [Y]
+
+[Request-Action: set up a meeting to resolve issue]
+
+Blink2.1
+
+Flink3.2
+
+M3.3. I was assured by Misti Day the first week of
+
+December that this would be fixed.
+
+[Inform: Phillip was told 2 months ago that this issue would be resolved]
+
+M3.4. Thanks for your help.
+
+[Conventional: thanks]
+
+M3.5. PL
+
+[Conventional: signature]
+
+
+
+	</content>
+
+</message>
+
+</xml>

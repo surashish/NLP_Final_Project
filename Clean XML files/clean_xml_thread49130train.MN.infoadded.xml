@@ -1,0 +1,109 @@
+<xml>
+
+<message>
+
+
+
+	<thread_id>49130</thread_id>
+
+
+
+	<depth>0</depth>
+
+
+
+	<type>ThreadNode</type>
+
+
+
+	<message_id>950663</message_id>
+
+	<to name="" id="98515" address="Roberts_John@gsb.stanford.edu"/>
+
+	<to name="" id="13162" address="benjamin_beth@gsb.stanford.edu"/>
+
+	<from name="Christie Patrick" id="3324" address="Christie.Patrick@ENRON.com"/>
+
+	<cc name="Vince J Kaminski" id="63574" address="Vince.J.Kaminski@ENRON.com"/>
+
+	<cc name="Steven J Kean" id="18327" address="Steven.J.Kean@ENRON.com"/>
+
+	<cc name="Mark Palmer" id="1277" address="Mark.Palmer@ENRON.com"/>
+
+	<cc name="Greg Whalley" id="27104" address="Greg.Whalley@ENRON.com"/>
+
+	<cc name="Kristin Gandy" id="66351" address="Kristin.Gandy@ENRON.com"/>
+
+	<cc name="Paul Lebeau" id="89491" address="Paul.LeBeau@ENRON.com"/>
+
+	<cc name="Jeff Skilling" id="20805" address="Jeff.Skilling@ENRON.com"/>
+
+
+
+	<parent_id></parent_id>
+
+
+
+	<subject>Enron/GLOBE</subject>
+
+
+
+	<date_time>2000-12-01 07:55:00</date_time>
+
+
+
+	<content>
+
+    
+
+M1.1. Dear Drs. Roberts and Benjamin,
+
+[Conventional: salutation]
+
+
+
+M1.2. Vince Kaminski and I enjoyed and appreciated the opportunity to speak with
+
+you this morning.
+
+[Inform: Chrstie and Vince enjoyed speaking with Drs. Roberts and Benjamin]
+
+M1.3. Enron is very happy to agree to participate in Stanford's
+
+GLOBE project (being conducted in partnership with McKinsey & Company).
+
+[Inform: Enron is happy to participate in Stanford's GLOBE project]
+
+
+
+M1.4. Attached please find my business card with all of my contact information.
+
+[Inform: Christie's business card is attached]
+
+
+
+M1.5. I look forward to hearing from Dr. Benjamin in the near future to begin
+
+Enron's involvement.
+
+[Inform: Christie looks forward to hearing from Dr. Benjamin to begin Enron's involvement]
+
+
+
+M1.6. Thank you!
+
+[Conventional: thanks]
+
+
+
+M1.7. --Christie.
+
+[Conventional: signature]
+
+
+
+	</content>
+
+</message>
+
+</xml>

@@ -1,0 +1,67 @@
+<xml>
+
+<message>
+
+
+
+	<thread_id>89307</thread_id>
+
+
+
+	<depth>1</depth>
+
+
+
+	<type>ThreadNode</type>
+
+
+
+	<message_id>1073802</message_id>
+
+	<to name="Matthew Lenhart" id="40160" address="Matthew.Lenhart@ENRON.com"/>
+
+	<from name="Christa Winfrey" id="22435" address="Christa.Winfrey@ENRON.com"/>
+
+
+
+	<parent_id>552513</parent_id>
+
+
+
+	<subject>Children Books</subject>
+
+
+
+	<date_time>2001-05-08 13:16:00</date_time>
+
+
+
+	<content>
+
+    
+
+M1.1. were these the bedtime stories your parents read to you?
+
+[Request-Information: were presumably previously mentioned bedtime stories ones Matthew's parents read to him]
+
+Flink1.1
+
+M1.2. a couple sounded
+
+kind of familiar to me, but i've forgotten a lot of that stuff.
+
+[Inform: some sounded familiar to Christa, though she has forgotten many of these stories]
+
+M1.3. later,
+
+M1.4. christa
+
+[Conventional: signature]
+
+
+
+	</content>
+
+</message>
+
+</xml>

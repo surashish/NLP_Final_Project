@@ -1,0 +1,61 @@
+<xml>
+
+<message>
+
+
+
+	<thread_id>7010</thread_id>
+
+
+
+	<depth>0</depth>
+
+
+
+	<type>ThreadNode</type>
+
+
+
+	<message_id>414473</message_id>
+
+	<to name="Carol St Clair" id="3773" address="Carol.St.Clair@ENRON.com"/>
+
+	<to name="Shari Stack" id="2525" address="Shari.Stack@ENRON.com"/>
+
+	<to name="Sara Shackleton" id="64528" address="Sara.Shackleton@ENRON.com"/>
+
+	<from name="Tana Jones" id="111168" address="Tana.Jones@ENRON.com"/>
+
+	<cc name="Taffy Milligan" id="110956" address="Taffy.Milligan@ENRON.com"/>
+
+
+
+	<parent_id></parent_id>
+
+
+
+	<subject>Cell phone numbers</subject>
+
+
+
+	<date_time>1999-11-19 09:14:00</date_time>
+
+
+
+	<content>
+
+    
+
+M1.1. If you need to get hold of us next week, Mark and my cell phone numbers are
+
+as follows:
+
+[Inform: Mark's and Tana's cell phone numbers (though we can't see them), in case Carol, Shari, and Sara (and possibly Taffy) need to get in touch with them]
+
+
+
+	</content>
+
+</message>
+
+</xml>

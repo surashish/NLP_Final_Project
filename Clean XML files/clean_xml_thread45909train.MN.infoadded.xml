@@ -1,0 +1,169 @@
+<xml>
+
+<message>
+
+
+
+	<thread_id>45909</thread_id>
+
+
+
+	<depth>0</depth>
+
+
+
+	<type>ThreadNode</type>
+
+
+
+	<message_id>204588</message_id>
+
+	<to name="Michelle Lokay" id="81014" address="Michelle.Lokay@ENRON.com"/>
+
+	<to name="TK Lohman" id="112973" address="TK.Lohman@ENRON.com"/>
+
+	<from name="Kevin Hyatt" id="66073" address="Kevin.Hyatt@ENRON.com"/>
+
+
+
+	<parent_id></parent_id>
+
+
+
+	<subject>new EOG well</subject>
+
+
+
+	<date_time>2000-11-20 03:44:00</date_time>
+
+
+
+	<content>
+
+    
+
+M1.1. FYI, Kevin
+
+[Inform: presumably attached document is from Kevin]
+
+
+
+	</content>
+
+</message>
+
+<message>
+
+
+
+	<thread_id>45909</thread_id>
+
+
+
+	<depth>1</depth>
+
+
+
+	<type>ThreadNode</type>
+
+
+
+	<message_id>204591</message_id>
+
+	<to name="Bob Burleson" id="12413" address="Bob.Burleson@ENRON.com"/>
+
+	<from name="Michelle Lokay" id="81014" address="Michelle.Lokay@ENRON.com"/>
+
+
+
+	<parent_id>204588</parent_id>
+
+
+
+	<subject>new EOG well</subject>
+
+
+
+	<date_time>2000-11-20 04:03:00</date_time>
+
+
+
+	<content>
+
+    
+
+M2.1. FYI...we did it!
+
+[Inform: for Bob's information, Michelle et al. did something they are proud of]
+
+M2.2. Over the first 6 days, they averaged over 25,000.
+
+[Inform: over first 6 days, they averaged more than 25,000 (units of oil pumped? dollars?)]
+
+
+
+	</content>
+
+</message>
+
+<message>
+
+
+
+	<thread_id>45909</thread_id>
+
+
+
+	<depth>2</depth>
+
+
+
+	<type>ThreadNode</type>
+
+
+
+	<message_id>204593</message_id>
+
+	<to name="Michelle Lokay" id="81014" address="Michelle.Lokay@ENRON.com"/>
+
+	<from name="Bob Burleson" id="12413" address="Bob.Burleson@ENRON.com"/>
+
+
+
+	<parent_id>204591</parent_id>
+
+
+
+	<subject>new EOG well</subject>
+
+
+
+	<date_time>2000-11-20 04:42:00</date_time>
+
+
+
+	<content>
+
+    
+
+M3.1. We will need to keep reminding them of how much money they are making when
+
+they start to complain about the construction cost.
+
+[Inform: Bob et al. need to remind others of how much money they are making if they complain about construction cost]
+
+M3.2. By the time we get power
+
+there, install the flow control equipment, and install the new EFM, we will
+
+probably be close to $70,000.
+
+[Inform: by the time Bob et al. get power to and install equipment and EFM for the new EOG well (presumably), they will have spent almost $70,000]
+
+
+
+	</content>
+
+</message>
+
+</xml>
