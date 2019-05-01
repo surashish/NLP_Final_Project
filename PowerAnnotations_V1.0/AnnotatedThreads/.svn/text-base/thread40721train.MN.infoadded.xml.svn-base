@@ -1,0 +1,184 @@
+40721train
+Annotation for intention:
+
+Collaboration-on-information-product: Mark's approval of two trips
+
+Annotation for control:
+James D Steffes(address:"Elizabeth.Sager@ENRON.com"): Elizabeth Sager (or James D Steffes?) asks Mark Haedicke for his approval of two business trips.
+
+
+
+<xml>
+
+<message>
+
+
+
+	<thread_id>40721</thread_id>
+
+
+
+	<depth>0</depth>
+
+
+
+	<type>ThreadNode</type>
+
+
+
+	<message_id>790897</message_id>
+
+	<to name="Mark E Haedicke" id="19235" address="Mark.E.Haedicke@ENRON.com"/>
+
+	<from name="James D Steffes" id="7320" address="Elizabeth.Sager@ENRON.com"/>
+
+
+
+	<parent_id></parent_id>
+
+
+
+	<subject>Travel and Seminars</subject>
+
+
+
+	<date_time>2000-10-30 07:02:00</date_time>
+
+
+
+	<content>
+
+    
+
+M1.1. Mark -
+
+[Conventional: salutation]
+
+M1.2. for your approval
+
+[Inform: Elizabeth (James?) is presenting the following for Mark to approve]
+
+
+
+M1.3. 1.  Trip for me to San Diego to attend WSPP meeting.
+
+[Inform: Elizabeth/James would like to go to San Diego to attend WSPP meeting]
+
+Sflink1.3
+
+
+
+M1.4. 2  Trip for Shari to Portland in November while Christian is on Thanksgiving
+
+holiday.
+
+[Inform: Shari would like to go to Portland while Christian has a Thanksgiving holiday]
+
+Sflink1.4
+
+
+
+M1.5. Thanks
+
+[Conventional: thanks]
+
+
+
+M1.6. ps - I will schedule a meeting with you this week to discuss Shari/staffing
+
+in Portland office.
+
+[Inform: Elizabeth/James will schedule a meeting to discuss Shari and Portland office staffing]
+
+
+
+	</content>
+
+</message>
+
+<message>
+
+
+
+	<thread_id>40721</thread_id>
+
+
+
+	<depth>1</depth>
+
+
+
+	<type>ThreadNode</type>
+
+
+
+	<message_id>270761</message_id>
+
+	<to name="James D Steffes" id="7320" address="Elizabeth.Sager@ENRON.com"/>
+
+	<from name="Mark E Haedicke" id="19235" address="Mark.E.Haedicke@ENRON.com"/>
+
+
+
+	<parent_id>790897</parent_id>
+
+
+
+	<subject>Travel and Seminars</subject>
+
+
+
+	<date_time>2000-10-30 08:23:00</date_time>
+
+
+
+	<content>
+
+    
+
+M2.1. ok
+
+[Inform: Mark gives his approval]
+
+Blink1.3
+
+Blink1.4
+
+
+
+	</content>
+
+</message>
+
+</xml>
+
+Hierarchical Power Annotation:
+Person_1: Mark E Haedicke
+Person_2: James D Steffes(address:"Elizabeth.Sager@ENRON.com")
+Reason: In message 1, Elizabeth (James?) asks Mark for his permission on behalf of herself (himself?) and Shari to go on two particular business trips.
+
+Situational Power Annotation:
+Person_1: Mark E Haedicke
+Person_2: James D Steffes(address:"Elizabeth.Sager@ENRON.com")
+Reason: In message 1, Elizabeth (James?) asks Mark for his permission on behalf of herself (himself?) and Shari to go on two particular business trips.
+
+
+Attempt at Exercising Power Annotation: N/A
+DFUs: 
+Person_1:
+Person_2:
+Type:
+Successful?:
+Reason: 
+
+Influence Annotation: N/A
+Person_1:
+Person_2:
+Reason:
+
+Attempt at Influence Annotation: N/A
+DFUs: 
+Person_1:
+Person_2:
+Successful?:
+Reason: 

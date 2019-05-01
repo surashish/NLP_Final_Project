@@ -1,0 +1,169 @@
+<custom>
+
+	<row>
+
+		<thread_id>100</thread_id>
+
+		<depth>0</depth>
+
+		<type>ThreadNode</type>
+
+		<message_id>16377</message_id>
+
+	<from name="Andy Zipper" id="5063" address="Andy.Zipper@ENRON.com"/>
+
+	<from name="Andy Zipper" id="5063" address="Zipper@ENRON.com"/>
+
+	<from name="Andy Zipper" id="5063" address="Andy@ENRON.com"/>
+
+		<parent_id>NULL</parent_id>
+
+		<subject>Celebration EnronOnline's Millionth Transaction - REVISED LINK</subject>
+
+		<date_time>2001-05-25 16:51:53</date_time>
+
+		<content>
+
+M1.1. In celebration of EnronOnline's one millionth transaction this week, we would like to invite you to a celebration party on 	Thursday, June 7th from 5- 8 p.m. at The Grasshopper (506 Main Street @ Prairie in downtown).
+
+[Inform: time and place of party celebrating EnronOnline's millionth transaction]
+
+Sflink1.1
+
+M1.2. Please RSVP as soon as 	possible by clicking on the link below. [Y]
+
+http://207.21.193.94/invitation/
+
+[Inform: website where guests can RSVP]
+
+Sflink1.2
+
+M1.3. I hope to see you there.
+
+[Conventional: Andy hopes to see recipients there]
+
+Sflink1.3
+
+
+
+</content>
+
+	</row>
+
+	<row>
+
+		<thread_id>100</thread_id>
+
+		<depth>1</depth>
+
+		<type>ThreadNode</type>
+
+		<message_id>292377</message_id>
+
+	<to name="Andy Zipper" id="5063" address="Andy.Zipper@ENRON.com"/>
+
+	<from name="Fletcher J Sturm" id="827" address="Fletcher.J.Sturm@ENRON.com"/>
+
+	<to name="Andy Zipper" id="5063" address="azipper@enron.com"/>
+
+	<from name="Fletcher J Sturm" id="827" address="fsturm@enron.com"/>
+
+		<parent_id>16377</parent_id>
+
+		<subject>Celebration EnronOnline's Millionth Transaction - REVISED LINK</subject>
+
+		<date_time>2001-05-29 11:42:44</date_time>
+
+		<content>
+
+M2.1. I clicked on the link below and it didn't work...
+
+[Inform: link for RSVP did not work]
+
+Blink1.2
+
+M2.2. I'm RSVP'ing that I'll be there.
+
+[Inform: Fletch will be there]
+
+Blink1.3
+
+M2.3. Fletch
+
+[Conventional: signature]
+
+M2.4. p.s.  who did the trade? (customer/ENE market maker)
+
+[Request-Information: who did the millionth transaction]
+
+Blink1.1
+
+Flink2.4
+
+
+
+</content>
+
+	</row>
+
+	<row>
+
+		<thread_id>100</thread_id>
+
+		<depth>1</depth>
+
+		<type>ThreadNode</type>
+
+		<message_id>292361</message_id>
+
+	<to name="Andy Zipper" id="5063" address="Andy.Zipper@ENRON.com"/>
+
+	<from name="Jeff Dasovich" id="27095" address="Jeffrey.A.Shankman@ENRON.com"/>
+
+	<cc name="Mark Tawney" id="76296" address="Mark.Tawney@ENRON.com"/>
+
+	<to name="Andy Zipper" id="5063" address="azipper@enron.com"/>
+
+	<from name="Jeff Dasovich" id="28265" address="jshankm@enron.com"/>
+
+	<cc name="Mark Tawney" id="76296" address="Mtawney@ENRON.com"/>
+
+		<parent_id>16377</parent_id>
+
+		<subject>Celebration EnronOnline's Millionth Transaction - REVISED LINK</subject>
+
+		<date_time>2001-05-29 16:00:20</date_time>
+
+		<content>
+
+M3.1. Cool on 1 million.
+
+[Inform: Jeff is impressed that EOL has had 1 million transactions]
+
+M3.2. On another note, I've talked to Mark Tawney about your talking to Claudio.
+
+[Inform: Jeff talked to Mark about recipient talking to Claudio]
+
+M3.3. While I would never want to hurt or hinder anyone's career, I've told Mark that I wand Claudio to stay in our group, and he in not currently available to join you.
+
+[Inform: Jeff told Mark that he wants Claudio to stay in Jeff's group]
+
+M3.4. I'll be happy to look at this again in the future, but he is doing a lot of very valuable work for us.
+
+[Inform: Jeff will consider looking into transferring Claudio in the future, but needs him for now]
+
+M3.5. Thanks for understanding.
+
+[Conventional: thanks]
+
+M3.6. Jeff
+
+[Conventional: signature]
+
+
+
+</content>
+
+	</row>
+
+	</custom>

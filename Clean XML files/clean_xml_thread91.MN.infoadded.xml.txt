@@ -1,0 +1,179 @@
+<custom>
+
+	<row>
+
+		<thread_id>91</thread_id>
+
+		<depth>0</depth>
+
+		<type>ThreadNode</type>
+
+		<message_id>290135</message_id>
+
+	<to name="V Charles Weldon" id="11307" address="V.Charles.Weldon@ENRON.com"/>
+
+	<from name="John Kiani-Aslani" id="57358" address="John.Kiani@ENRON.com"/>
+
+	<cc name="Maria Tefel" id="2499" address="Maria.Tefel@ENRON.com"/>
+
+	<to name="V Charles Weldon" id="11307" address="Vweldon@ENRON.com"/>
+
+	<from name="John Kiani-Aslani" id="57358" address="Jkiani@ENRON.com"/>
+
+	<cc name="Maria Tefel" id="2499" address="Mtefel@ENRON.com"/>
+
+		<parent_id>NULL</parent_id>
+
+		<subject>Stagecoach</subject>
+
+		<date_time>2001-05-24 18:26:58</date_time>
+
+		<content>
+
+M1.1. Charlie,
+
+[Conventional: salutation]
+
+M1.2. Here is an update on Stagecoach:
+
+[Inform: the following is an update on Stagecoach]
+
+M1.3. Tennessee Gas Pipeline had to re-file their case with the FERC,
+
+M1.4. which will unfortunately delay the deal and push it out of Q2 and into Q3 or Q4.
+
+[Inform: Tennessee Gas Pipeline had to re-file their case with the FERC, which will delay a deal and change the Q number]
+
+Sflink1.4
+
+M1.5. We were told to update the model (and all pricing) so we know where we stand on our valuation at this point.
+
+[Inform: they were told to update the model and pricing]
+
+M1.6. Can you please update the gas price for us when you have a chance? [Y]
+
+[Request-Information: updated gas price]
+
+Flink1.6
+
+M1.7. The load factors and the associated volumes are unchanged from the last information that we sent to you.
+
+[Inform: load factors and associated volumes are the same as previous]
+
+M1.8. Please let me know if you have any questions or need more information.
+
+[Request-Information: questions or whether more info is needed]
+
+Flink1.8
+
+M1.9. Thanks,
+
+[Conventional: thanks]
+
+
+
+</content>
+
+	</row>
+
+	<row>
+
+		<thread_id>91</thread_id>
+
+		<depth>1</depth>
+
+		<type>ThreadNodeBubble</type>
+
+		<message_id>2000028</message_id>
+
+		<parent_id>290135</parent_id>
+
+		<subject>Stagecoach</subject>
+
+		<date_time>2001-05-25 02:26:47</date_time>
+
+		<content>
+
+M2.1. John,
+
+[Conventional: salutation]
+
+
+
+M2.2. Thanks for the upate.
+
+[Conventional: thanks]
+
+M2.3. Sorry to hear this deal has been further delayed.
+
+[Inform: expressing regret about deal delay]
+
+Blink1.4
+
+M2.4. The updated gas price is 4.625 as of last night's curves.
+
+[Inform: updated gas price]
+
+Blink1.6
+
+
+
+
+
+M2.5. Thanks,
+
+[Conventional: thanks]
+
+
+
+M2.6. Charlie
+
+[Conventional: signature]
+
+
+
+</content>
+
+	</row>
+
+	<row>
+
+		<thread_id>91</thread_id>
+
+		<depth>2</depth>
+
+		<type>ThreadNode</type>
+
+		<message_id>290312</message_id>
+
+	<to name="V Charles Weldon" id="11307" address="V.Charles.Weldon@ENRON.com"/>
+
+	<from name="John Kiani-Aslani" id="57358" address="John.Kiani@ENRON.com"/>
+
+	<to name="V Charles Weldon" id="11307" address="Vweldon@ENRON.com"/>
+
+	<from name="John Kiani-Aslani" id="57358" address="Jkiani@ENRON.com"/>
+
+		<parent_id>2000028</parent_id>
+
+		<subject>Stagecoach</subject>
+
+		<date_time>2001-05-25 10:26:36</date_time>
+
+		<content>
+
+M3.1. Thanks for all of your help, we appreciate it.
+
+[Conventional: thanks]
+
+M3.2. JK
+
+[Conventional: signature]
+
+
+
+</content>
+
+	</row>
+
+	</custom>

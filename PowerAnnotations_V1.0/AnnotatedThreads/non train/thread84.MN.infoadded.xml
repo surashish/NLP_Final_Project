@@ -1,0 +1,305 @@
+84
+
+Annotation for intention:
+
+External-event-planning: gathering information to be able to make an offer to a customer
+
+
+Annotation for control:
+Mark Knippa: Mark initiates the thread, and asks the Bay Gas team to review his outline of the offer to the customer in message 1. In message 2, he asks some additional people for assistance in preparing the offer.
+
+
+
+<?xml version="1.0"?>
+
+
+
+<!--
+
+-
+
+- Sequel Pro dump
+
+- Version 155
+
+- http://code.google.com/p/sequel-pro
+
+-
+
+- Host: 127.0.0.1 (MySQL 5.0.67)
+
+- Database: enron
+
+- Generation Time: 2008-12-01 15:21:15 -0500
+
+-
+
+-->
+
+
+
+	<custom>
+
+	<row>
+
+		<thread_id>84</thread_id>
+
+		<depth>0</depth>
+
+		<type>ThreadNode</type>
+
+		<message_id>284998</message_id>
+
+	<to name="Eric Boyt" id="341" address="Eric.Boyt@ENRON.com"/>
+
+	<to name="Scott Neal" id="85818" address="Scott.Neal@ENRON.com"/>
+
+	<from name="Mark Knippa" id="76124" address="Mark.Knippa@ENRON.com"/>
+
+	<cc name="Peter Bennett" id="89898" address="Peter.Bennett@ENRON.com"/>
+
+	<to name="Eric Boyt" id="341" address="Eboyt@ENRON.com"/>
+
+	<to name="Scott Neal" id="85818" address="sneal@enron.com"/>
+
+	<from name="Mark Knippa" id="76124" address="Mknippa@ENRON.com"/>
+
+	<cc name="Peter Bennett" id="89898" address="pbennet@enron.com"/>
+
+		<parent_id>NULL</parent_id>
+
+		<subject>Bay Gas Storage - Parking Provision discussions</subject>
+
+		<date_time>2001-05-23 15:50:25</date_time>
+
+		<content>
+
+M1.1. Team,
+
+[Conventional: salutation]
+
+M1.2. I'm not sure what the latest discussions you've had since our last meeting,
+
+M1.3. but I need to get this
+
+concept outlined and in the hands of my customer.
+
+[Inform: Mark needs to get a concept outlined and to a customer]
+
+M1.4. They are making their decision any day now
+
+M1.5. and I believe this structure will add to the value of our Compression Service
+
+M1.6. and reduce our
+
+dependence on the minimum load factor.
+
+[Inform: a decision is being made ASAP/Mark thinks this structure will be useful for Compression Service and reduce dependence on the min. load factor]
+
+M1.7. I've attached a basic outline as I see it.
+
+M1.8. Please review or we will discuss at our 3:00 meeting today. [Y]
+
+[Inform: Mark has attached a basic outline, which s/he would like the team to review or to discuss today]
+
+M1.9. I would like to define or understand our (Enron's) wish list as well as a relative value at a minimum.
+
+[Inform: Mark would like to define/understand Enron's wish list and relative value, at least]
+
+M1.10. I need to get the specifics to my customer tomorrow since it's not going to happen today.
+
+[Inform: needs to get specifics to customer by tomorrow]
+
+M1.11. I ultimately need to have a price for the gas that ECS would be receiving ASAP. [Y]
+
+[Inform: needs a price for gas that ECS will receive]
+
+M1.12. Thanks,
+
+[Conventional: thanks]
+
+M1.13. mk
+
+[Conventional: signature]
+
+
+
+</content>
+
+	</row>
+
+	<row>
+
+		<thread_id>84</thread_id>
+
+		<depth>1</depth>
+
+		<type>ThreadNode</type>
+
+		<message_id>285010</message_id>
+
+	<to name="Eric Boyt" id="341" address="Eric.Boyt@ENRON.com"/>
+
+	<to name="Scott Neal" id="85818" address="Scott.Neal@ENRON.com"/>
+
+	<to name="Peter Bennett" id="89898" address="Peter.Bennett@ENRON.com"/>
+
+	<from name="Mark Knippa" id="76124" address="Mark.Knippa@ENRON.com"/>
+
+	<cc name="Chris Hilgert" id="21930" address="Chris.Hilgert@ENRON.com"/>
+
+	<cc name="Mark Knippa" id="76124" address="Mark.Knippa@ENRON.com"/>
+
+	<to name="Eric Boyt" id="341" address="Eboyt@ENRON.com"/>
+
+	<to name="Scott Neal" id="85818" address="sneal@enron.com"/>
+
+	<to name="Peter Bennett" id="89898" address="pbennet@enron.com"/>
+
+	<from name="Mark Knippa" id="76124" address="Mknippa@ENRON.com"/>
+
+	<cc name="Chris Hilgert" id="21930" address="Chilger@ENRON.com"/>
+
+	<cc name="Mark Knippa" id="76124" address="Mknippa@ENRON.com"/>
+
+		<parent_id>284998</parent_id>
+
+		<subject>Bay Gas Storage - Parking Provision discussions</subject>
+
+		<date_time>2001-05-29 11:45:16</date_time>
+
+		<content>
+
+M2.1. I submitted the Parking Provision outline to Bay Gas last week after our meeting.
+
+[Inform: Mark submitted Parking Provision outline to Bay Gas]
+
+
+
+M2.2. I need to circle back to determine where we are relative to getting pricing pulled together
+
+for the gas portion.
+
+[Inform: Mark needs to backtrack to see where company is in regards to getting pricing for gas portion]
+
+M2.3. I've been in need to put a hard offer in front of this customer for several
+
+weeks now.
+
+[Inform: Mark has needed to make a hard offer to a customer for a few weeks]
+
+M2.4. They are in the process of making a critical decision
+
+M2.5. &amp; I would like to have
+
+something in hand that values the Parking optionality.
+
+[Inform: "they" are making a critical decision/Mark would like to have something that values Parking optionality]
+
+
+
+M2.6. Thanks
+
+[Conventional: thanks]
+
+M2.7. mk
+
+[Conventional: signature]
+
+
+
+</content>
+
+	</row>
+
+	<row>
+
+		<thread_id>84</thread_id>
+
+		<depth>2</depth>
+
+		<type>ThreadNode</type>
+
+		<message_id>284714</message_id>
+
+	<to name="Scott Neal" id="85818" address="Scott.Neal@ENRON.com"/>
+
+	<from name="Eric Boyt" id="341" address="Eric.Boyt@ENRON.com"/>
+
+	<cc name="Barry Tycholiz" id="899" address="Eric.Moon@ENRON.com"/>
+
+	<to name="Scott Neal" id="85818" address="sneal@enron.com"/>
+
+	<from name="Eric Boyt" id="341" address="Eboyt@ENRON.com"/>
+
+	<cc name="Barry Tycholiz" id="899" address="Emoon@ENRON.com"/>
+
+		<parent_id>285010</parent_id>
+
+		<subject>Bay Gas Storage - Parking Provision discussions</subject>
+
+		<date_time>2001-05-30 07:41:04</date_time>
+
+		<content>
+
+M3.1. Scott,
+
+[Conventional: salutation]
+
+
+
+M3.2. Let me know what Eric and I can do to help with the evaluation.
+
+[Inform: Eric Boyt and Eric Moon are willing to help with evaluation]
+
+M3.3. I will stop by later today to discuss.
+
+[Inform: Eric Boyt will stop by later to discuss it]
+
+
+
+</content>
+
+	</row>
+
+	</custom>
+
+
+Hierarchical Power Annotation: N/A
+Person_1: 
+Person_2: 
+Reason: 
+
+Situational Power Annotation:
+Person_1: Mark Knippa
+Person_2: Eric Boyt, Scott Neal, Peter Bennett, Chris Hilgert
+Reason: Mark asks these four people to help him put together an offer to give a customer in messages 1 and 2. He seems to be the one directing this project, and they seem to be the ones doing the grunt work.
+
+Attempt at Exercising Power Annotation:
+DFUs: M1.8, M1.11
+Person_1: Mark Knippa
+Person_2: Eric Boyt
+Type: Situational
+Successful?: Y
+Reason: After Mark asks Eric Boyt and the others to review and figure out a gas price, Eric offers to help in message 3.
+
+DFUs: M2.2-M2.5
+Person_1: Mark Knippa
+Person_2: Eric Boyt
+Type: Situational
+Successful?: Y
+Reason: In M3.2-M3.3 Eric offers to help Scott prepare an evaluation that seems to be what Mark had asked for in message 2.
+
+Influence Annotation: N/A
+Person_1:
+Person_2:
+Reason:
+
+Attempt at Influence Annotation: N/A
+DFUs: 
+Person_1:
+Person_2:
+Successful?:
+Reason: 
+
+

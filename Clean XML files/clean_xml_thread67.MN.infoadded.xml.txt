@@ -1,0 +1,191 @@
+<custom>
+
+	<row>
+
+		<thread_id>67</thread_id>
+
+		<depth>0</depth>
+
+		<type>ThreadNode</type>
+
+		<message_id>275755</message_id>
+
+	<to name="Chris Abel" id="1607" address="Chris.Abel@ENRON.com"/>
+
+	<to name="Beth Apollo" id="11750" address="Beth.Apollo@ENRON.com"/>
+
+	<to name="Kristin Albrecht" id="30084" address="Kristin.Albrecht@ENRON.com"/>
+
+	<to name="Sally Beck" id="46153" address="Sally.Beck@ENRON.com"/>
+
+	<to name="Debbie R Brackett" id="29749" address="Debbie.R.Brackett@ENRON.com"/>
+
+	<to name="Rick Buy" id="47799" address="Rick.Buy@ENRON.com"/>
+
+	<to name="Stephen Freshour" id="11355" address="Stephen.Freshour@ENRON.com"/>
+
+	<to name="David Hardy" id="3030" address="david.hardy@enron.com"/>
+
+	<to name="Mike Jordan" id="18363" address="mike.jordan@enron.com"/>
+
+	<to name="Christy Lobusch" id="5165" address="Christy.Lobusch@ENRON.com"/>
+
+	<to name="Burton McIntyre" id="15112" address="Burton.McIntyre@ENRON.com"/>
+
+	<to name="Al Miralles" id="2616" address="Al.Miralles@ENRON.com"/>
+
+	<to name="James New" id="40196" address="james.new@enron.com"/>
+
+	<to name="David Port" id="1112" address="David.Port@ENRON.com"/>
+
+	<to name="Ganapathy Ramesh" id="42650" address="Ganapathy.Ramesh@ENRON.com"/>
+
+	<to name="Gary Stadler" id="2719" address="Gary.Stadler@ENRON.com"/>
+
+	<to name="Cassi Wallace" id="19628" address="Cassi.Wallace@ENRON.com"/>
+
+	<to name="Shona Wilson" id="4708" address="Shona.Wilson@ENRON.com"/>
+
+	<to name="Sue Vasan" id="109671" address="Sue.Vasan@ENRON.com"/>
+
+	<to name="Stephen Stock" id="107801" address="Stephen.Stock@ENRON.com"/>
+
+	<from name="Susan Trevino" id="4681" address="Susan.D.Trevino@ENRON.com"/>
+
+	<to name="Chris Abel" id="1607" address="47c1b49-a28949d7-8625676f-7566de@ENRON.com"/>
+
+	<to name="Beth Apollo" id="11750" address="bapollo@enron.com"/>
+
+	<to name="Kristin Albrecht" id="30084" address="dd8a2285-6997d570-88256942-59419e@ENRON.com"/>
+
+	<to name="Sally Beck" id="46153" address="Sbeck@ENRON.com"/>
+
+	<to name="Debbie R Brackett" id="29749" address="Dbracke@ENRON.com"/>
+
+	<to name="Rick Buy" id="47799" address="RBuy@enron.com"/>
+
+	<to name="Stephen Freshour" id="11355" address="b5e5abf3-abc21bad-8825695f-7af577@ENRON.com"/>
+
+	<to name="David Hardy" id="3030" address="83a9b4e7-c7ceec4a-8625653f-454098@ENRON.com"/>
+
+	<to name="Mike Jordan" id="18363" address="mjordan2@ENRON.com"/>
+
+	<to name="Christy Lobusch" id="5165" address="ABCDCC3C-E4E5E829-862569C9-67F268@ENRON.com"/>
+
+	<to name="Burton McIntyre" id="15112" address="Bmcinty@ENRON.com"/>
+
+	<to name="Al Miralles" id="2616" address="71c097bd-d3528901-88256999-646e4d@ENRON.com"/>
+
+	<to name="James New" id="40196" address="JNew@ENRON.com"/>
+
+	<to name="David Port" id="1112" address="Dport@ENRON.com"/>
+
+	<to name="Ganapathy Ramesh" id="42650" address="GRAMESH@ENRON.com"/>
+
+	<to name="Gary Stadler" id="2719" address="7564fd38-f1b2566-8825695e-50714f@ENRON.com"/>
+
+	<to name="Cassi Wallace" id="19628" address="d5bd3a73-5da3a77a-862569b5-4e895b@ENRON.com"/>
+
+	<to name="Shona Wilson" id="4708" address="A2A6890E-4BBECE71-862568E1-76B49B@ENRON.com"/>
+
+	<to name="Sue Vasan" id="109671" address="Svasan2@ENRON.com"/>
+
+	<to name="Stephen Stock" id="107801" address="Sstock@ENRON.com"/>
+
+	<from name="Susan Trevino" id="4681" address="a1d22316-67dbf037-86256490-741256@ENRON.com"/>
+
+		<parent_id>NULL</parent_id>
+
+		<subject>Weekly Summary of Daily Log</subject>
+
+		<date_time>2001-05-21 17:52:21</date_time>
+
+		<content>
+
+
+
+M1.1. Attached are graphs of the weekly summary log.
+
+[Inform: graphs of weekly summary log are attached]
+
+M1.2. The daily log will be distributed in the morning.
+
+[Inform: daily log will be distributed in the morning]
+
+
+
+M1.3. Regards,
+
+M1.4. Susan Trevino
+
+[Conventional: signature]
+
+
+
+x3-1462</content>
+
+	</row>
+
+	<row>
+
+		<thread_id>67</thread_id>
+
+		<depth>1</depth>
+
+		<type>ThreadNode</type>
+
+		<message_id>275768</message_id>
+
+	<to name="Sally Beck" id="46153" address="Sally.Beck@ENRON.com"/>
+
+	<from name="Beth Apollo" id="11750" address="Beth.Apollo@ENRON.com"/>
+
+	<to name="Sally Beck" id="46153" address="Sbeck@ENRON.com"/>
+
+	<from name="Beth Apollo" id="11750" address="bapollo@enron.com"/>
+
+		<parent_id>275755</parent_id>
+
+		<subject>New Item</subject>
+
+		<date_time>2001-05-23 17:50:40</date_time>
+
+		<content>
+
+
+
+M2.1. I know you get this daily log stuff all of the time, and probably ignore it,
+
+[Inform: Beth knows Sally gets things like this a lot and ignores them]
+
+M2.2. but wanted you to check out the new  - more summarized reporting that we are instituting at the 8:30 meeting.
+
+[Inform: wants Sally to check out new reporting being instituted at 8:30 meeting]
+
+M2.3. I think Rick Buy liked it this week,
+
+[Inform: Beth thinks Rick Buy liked it this week]
+
+M2.4. and hopefully this will lead us to more conclusions/trends than just reporting incidents that appear random.
+
+[Inform: this may lead to more conclusions and trends, fewer random data]
+
+
+
+M2.5. A small step, but one in the right direction...
+
+[Inform: this is a small step, but in the right direction]
+
+
+
+M2.6. Beth
+
+[Conventional: signature]
+
+
+
+</content>
+
+	</row>
+
+	</custom>

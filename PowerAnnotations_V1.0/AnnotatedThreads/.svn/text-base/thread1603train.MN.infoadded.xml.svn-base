@@ -1,0 +1,169 @@
+1603
+Annotation for intention:
+
+Knowledge-Acquisition: TPC and NNG's investments in non-pipeline assets
+
+Annotation for control:
+Kevin A Howard: Kevin initializes the thread and attempts to acquire information about these assets.
+
+
+
+<xml>
+
+<message>
+
+
+
+	<thread_id>1603</thread_id>
+
+
+
+	<depth>0</depth>
+
+
+
+	<type>ThreadNode</type>
+
+
+
+	<message_id>1315840</message_id>
+
+	<to name="Tracy Geaccone" id="112633" address="Tracy.Geaccone@ENRON.com"/>
+
+	<to name="James Saunders" id="51816" address="James.Saunders@ENRON.com"/>
+
+	<from name="Kevin A Howard" id="65990" address="Kevin_Howard@ENRON.net"/>
+
+	<to name="Tracy Geaccone" id="112633" address="tgeacco@enron.com"/>
+
+	<to name="James Saunders" id="51816" address="jsaunde@enron.com"/>
+
+	<from name="Kevin A Howard" id="66221" address="Khoward@ENRON.com"/>
+
+
+
+	<parent_id></parent_id>
+
+
+
+	<subject>Pipeline investments</subject>
+
+
+
+	<date_time>2001-11-06 13:05:51</date_time>
+
+
+
+	<content>
+
+    
+
+M1.1. Does TPC or NNG have any investments in any non-pipeline assets (financial or otherwise)?
+
+[Request-Information: do TPC or NNG have any investments in any non-pipeline assets]
+
+Flink1.1
+
+M1.2. I was not aware of any but we need to disclose these.
+
+[Inform: Kevin was not aware of any, but they need to be disclosed]
+
+
+
+	</content>
+
+</message>
+
+<message>
+
+
+
+	<thread_id>1603</thread_id>
+
+
+
+	<depth>1</depth>
+
+
+
+	<type>ThreadNode</type>
+
+
+
+	<message_id>1315841</message_id>
+
+	<to name="Kevin A Howard" id="65990" address="Kevin_Howard@ENRON.net"/>
+
+	<to name="Tracy Geaccone" id="112633" address="Tracy.Geaccone@ENRON.com"/>
+
+	<from name="James Saunders" id="51816" address="James.Saunders@ENRON.com"/>
+
+	<to name="Kevin A Howard" id="66221" address="Khoward@ENRON.com"/>
+
+	<to name="Tracy Geaccone" id="112633" address="tgeacco@enron.com"/>
+
+	<from name="James Saunders" id="51816" address="jsaunde@enron.com"/>
+
+
+
+	<parent_id>1315840</parent_id>
+
+
+
+	<subject>Pipeline investments</subject>
+
+
+
+	<date_time>2001-11-06 13:51:51</date_time>
+
+
+
+	<content>
+
+    
+
+M2.1. both have investments in financial instruments; but they are in support of the base pipeline business
+
+M2.2. both have a huge stake in enron via ene notes!!
+
+[Inform: both of them have investments in financial instruments, and have a large stake in Enron via ENE notes]
+
+Blink1.1
+
+
+
+	</content>
+
+</message>
+
+</xml>
+
+Hierarchical Power Annotation: N/A
+Person_1: 
+Person_2: 
+Reason: 
+
+Situational Power Annotation:
+Person_1: Kevin A Howard
+Person_2: James Saunders
+Reason: From Kevin's tone in M1.2 (he seems somewhat annoyed), it appears that James was supposed to tell him about the investments earlier than he does in message 2.
+
+Attempt at Exercising Power Annotation: N/A
+DFUs: 
+Person_1:
+Person_2:
+Type:
+Successful?:
+Reason: 
+
+Influence Annotation: N/A
+Person_1:
+Person_2:
+Reason:
+
+Attempt at Influence Annotation: N/A
+DFUs: 
+Person_1:
+Person_2:
+Successful?:
+Reason: 

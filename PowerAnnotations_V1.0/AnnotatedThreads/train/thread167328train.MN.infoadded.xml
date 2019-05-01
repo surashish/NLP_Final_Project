@@ -1,0 +1,221 @@
+167328train
+Annotation for intention:
+
+Collaboration-on-information-product: obtaining information about Enron's assets that BP is interested in buying
+
+Annotation for control:
+Stephen Plauche: Stephen initiates the thread and asks Tom Martin and Hunter Shively for the information about Enron's assets.
+
+
+
+<xml>
+
+<message>
+
+
+
+	<thread_id>167328</thread_id>
+
+
+
+	<depth>0</depth>
+
+
+
+	<type>ThreadNode</type>
+
+
+
+	<message_id>69102</message_id>
+
+	<to name="Thomas A Martin" id="71768" address="Thomas.A.Martin@ENRON.com"/>
+
+	<to name="Hunter S Shively" id="43716" address="Hunter.S.Shively@ENRON.com"/>
+
+	<from name="Stephen Plauche" id="107214" address="Stephen.Plauche@ENRON.com"/>
+
+	<cc name="Kay Mann" id="239" address="Stuart.Zisman@ENRON.com"/>
+
+	<cc name="Torrey Moorer" id="1990" address="Don.Miller@ENRON.com"/>
+
+	<to name="Thomas A Martin" id="71768" address="tmartin@enron.com"/>
+
+	<to name="Hunter S Shively" id="43716" address="hshivel@enron.com"/>
+
+	<from name="Stephen Plauche" id="107214" address="Splauch@ENRON.com"/>
+
+	<cc name="Kay Mann" id="239" address="Szisman@ENRON.com"/>
+
+	<cc name="Torrey Moorer" id="1990" address="Dmille2@ENRON.com"/>
+
+
+
+	<parent_id></parent_id>
+
+
+
+	<subject>Firm Transport Contracts and available storage space</subject>
+
+
+
+	<date_time>2001-12-26 17:46:17</date_time>
+
+
+
+	<content>
+
+    
+
+M1.1. Tom and Hunter,
+
+[Conventional: salutation]
+
+
+
+M1.2. I am an Associate working in Don Miller's ENA estate management group.
+
+[Inform: Stephen is an associate in Don Miller's ENA estate management group]  
+
+M1.3. British Petroleum has inquired about Enron's existing Firm NG Transport Contracts and available storage contracts.
+
+[Inform: BP has inquired about some of Enron's contracts]
+
+M1.4. They specifically listed these types of assets as ones that BP would be interested in looking at buying from Enron.
+
+[Inform: BP is specifically interested in buying aforementioned assets]
+
+M1.5. Can the two of you get back to either Stuart or myself with respect to what is available and some indication of pricing for these assets. [Y]
+
+[Request-Information: what is available, and prices for assets]
+
+Flink1.5
+
+M1.6. Thanks.
+
+[Conventional: thanks]
+
+
+
+M1.7. Regards,
+
+
+
+M1.8. Stephen Plauche, Associate
+
+M1.9. Enron North America
+
+[Conventional: signature]
+
+M1.10. 713-853-3890
+
+[Inform: Stephen's phone number]
+
+
+
+	</content>
+
+</message>
+
+<message>
+
+
+
+	<thread_id>167328</thread_id>
+
+
+
+	<depth>1</depth>
+
+
+
+	<type>ThreadNode</type>
+
+
+
+	<message_id>69101</message_id>
+
+	<to name="Stephen Plauche" id="107214" address="Stephen.Plauche@ENRON.com"/>
+
+	<to name="Thomas A Martin" id="71768" address="Thomas.A.Martin@ENRON.com"/>
+
+	<to name="Hunter S Shively" id="43716" address="Hunter.S.Shively@ENRON.com"/>
+
+	<from name="Torrey Moorer" id="1990" address="Don.Miller@ENRON.com"/>
+
+	<cc name="Kay Mann" id="239" address="Stuart.Zisman@ENRON.com"/>
+
+	<to name="Stephen Plauche" id="107214" address="Splauch@ENRON.com"/>
+
+	<to name="Thomas A Martin" id="71768" address="tmartin@enron.com"/>
+
+	<to name="Hunter S Shively" id="43716" address="hshivel@enron.com"/>
+
+	<from name="Torrey Moorer" id="1990" address="Dmille2@ENRON.com"/>
+
+	<cc name="Kay Mann" id="239" address="Szisman@ENRON.com"/>
+
+
+
+	<parent_id>69102</parent_id>
+
+
+
+	<subject>Firm Transport Contracts and available storage space</subject>
+
+
+
+	<date_time>2001-12-26 22:05:10</date_time>
+
+
+
+	<content>
+
+    
+
+M2.1. Stephen,
+
+[Conventional: salutation]
+
+M2.2. Ed McMichael has all this info.
+
+[Inform: Ed McMichael has info that Stephen asked for]
+
+Blink1.5
+
+
+
+	</content>
+
+</message>
+
+</xml>
+
+Hierarchical Power Annotation:
+Person_1: Torrey Moorer(address:"Don.Miller@ENRON.com")
+Person_2: Stephen Plauche
+Reason: In M1.2, Stephen says he is an associate working in Don's (Torrey's) group.
+
+Situational Power Annotation: N/A
+Person_1: 
+Person_2: 
+Reason:
+
+Attempt at Exercising Power Annotation:
+DFUs: M1.5
+Person_1: Stephen Plauche
+Person_2: Hunter S Shively, Thomas A Martin
+Type: Situational
+Successful?: N
+Reason: In message 1 Stephen asks for information about assets that BP wants to buy, and in message 2 Don tells him to contact someone else instead of Hunter and Tom in order to obtain this information.
+
+Influence Annotation: N/A
+Person_1:
+Person_2:
+Reason:
+
+Attempt at Influence Annotation: N/A
+DFUs: 
+Person_1:
+Person_2:
+Successful?:
+Reason: 

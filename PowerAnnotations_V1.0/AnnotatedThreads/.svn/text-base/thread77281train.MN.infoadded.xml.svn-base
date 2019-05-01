@@ -1,0 +1,255 @@
+77281train
+Annotation for intention:
+
+Knowledge-Acquisition: Sun Microsystems employee who is investigating provision of direct access
+
+Annotation for control:
+Karen Denne: Karen initiates the thread and informs the others about the investigation into the provision of direct access.
+
+
+
+<xml>
+
+<message>
+
+
+
+	<thread_id>77281</thread_id>
+
+
+
+	<depth>0</depth>
+
+
+
+	<type>ThreadNode</type>
+
+
+
+	<message_id>178526</message_id>
+
+	<to name="Janel Guerrero" id="2841" address="Janel.Guerrero@ENRON.com"/>
+
+	<to name="Paul Kaufman" id="742" address="Paul.Kaufman@ENRON.com"/>
+
+	<to name="James D Steffes" id="7320" address="James.D.Steffes@ENRON.com"/>
+
+	<to name="Jeff Dasovich" id="27095" address="Jeff.Dasovich@ENRON.com"/>
+
+	<to name="Susan J Mara" id="3364" address="Susan.J.Mara@ENRON.com"/>
+
+	<to name="Sandra McCubbin" id="101554" address="Sandra.McCubbin@ENRON.com"/>
+
+	<to name="jkradin" id="57476" address="jkradin@marathon-com.com"/>
+
+	<to name="syamane" id="110714" address="syamane@marathon-com.com"/>
+
+	<to name="Steven J Kean" id="18327" address="Steven.J.Kean@ENRON.com"/>
+
+	<to name="Richard Shapiro" id="2482" address="Richard.Shapiro@ENRON.com"/>
+
+	<from name="Karen Denne" id="40948" address="Karen.Denne@ENRON.com"/>
+
+	<cc name="Karen Denne" id="40948" address="Karen.Denne@ENRON.com"/>
+
+
+
+	<parent_id></parent_id>
+
+
+
+	<subject>Sun Microsystems</subject>
+
+
+
+	<date_time>2001-04-04 13:17:00</date_time>
+
+
+
+	<content>
+
+    
+
+M1.1. Ken Lay put a call in today to Scott McNealy.
+
+[Inform: Ken Lay called CEO of Sun Microsystems today]
+
+M1.2. His office called back to find
+
+out what specific bill included direct access.
+
+[Inform: Scott McNealy's office called back to see what specfic bill included direct access]
+
+M1.3. When I called back, they put
+
+me in touch with Mavis Toscano, who's in Sun Microsystems' state and local
+
+government affairs office.
+
+[Inform: when Karen called back, she was put in touch with Mavis, in Sun's state and local gov't affairs office]
+
+M1.4. She's Scott's point person on public policy, and
+
+she's been working on the energy issue.
+
+[Inform: Mavis is Scott's point person on public policy and has been working on energy issue]
+
+M1.5. Mavis had done some checking and no
+
+one had heard anything about direct access.
+
+[Inform: Mavis did some checking and no one had heard anything about direct access]
+
+M1.6. Sun is active in three main trade associations: the Chamber, the American
+
+Electronics Association (AEA) and Technet.
+
+[Inform: three main trade associations Sun is active in]
+
+Sflink1.6
+
+M1.7. None of those organizations said
+
+their members were asking for direct access, but Mavis promised to put calls
+
+in to them and get direct access on the radar screen.
+
+[Inform: none of these organizations said their members were asking for direct access, but Mavis promised to call them and probe further]
+
+M1.8. Although she said
+
+they're not inclined to send letters, Mavis said she'd make some calls into
+
+the legislators, specifically Bowen.
+
+[Inform: Mavis said she would call legislators such as Bowen, even though they might not send letters]
+
+M1.9. Contact info:
+
+M1.10. Mavis Toscano
+
+M1.11. 901 San Antonio Road
+
+MS PAL 01-554
+
+Palo Alto, CA 94303
+
+M1.12. 650-336-7115
+
+M1.13. 650-336-0835 - fax
+
+M1.14. mavis.toscano@sun.com
+
+[Inform: Mavis' contact information]
+
+
+
+	</content>
+
+</message>
+
+<message>
+
+
+
+	<thread_id>77281</thread_id>
+
+
+
+	<depth>1</depth>
+
+
+
+	<type>ThreadNode</type>
+
+
+
+	<message_id>178527</message_id>
+
+	<to name="Karen Denne" id="40948" address="Karen.Denne@ENRON.com"/>
+
+	<from name="Jeff Dasovich" id="27095" address="Jeff.Dasovich@ENRON.com"/>
+
+	<cc name="James D Steffes" id="7320" address="James.D.Steffes@ENRON.com"/>
+
+	<cc name="Janel Guerrero" id="2841" address="Janel.Guerrero@ENRON.com"/>
+
+	<cc name="jkradin" id="57476" address="jkradin@marathon-com.com"/>
+
+	<cc name="Karen Denne" id="40948" address="Karen.Denne@ENRON.com"/>
+
+	<cc name="Paul Kaufman" id="742" address="Paul.Kaufman@ENRON.com"/>
+
+	<cc name="Richard Shapiro" id="2482" address="Richard.Shapiro@ENRON.com"/>
+
+	<cc name="Sandra McCubbin" id="101554" address="Sandra.McCubbin@ENRON.com"/>
+
+	<cc name="Steven J Kean" id="18327" address="Steven.J.Kean@ENRON.com"/>
+
+	<cc name="Susan J Mara" id="3364" address="Susan.J.Mara@ENRON.com"/>
+
+	<cc name="syamane" id="110714" address="syamane@marathon-com.com"/>
+
+
+
+	<parent_id>178526</parent_id>
+
+
+
+	<subject>Sun Microsystems</subject>
+
+
+
+	<date_time>2001-04-04 13:21:00</date_time>
+
+
+
+	<content>
+
+    
+
+M2.1. FYI.  Lauren Ipsen at Cisco told me that she forwarded our package of
+
+letters, etc. to the AEA.
+
+[Inform: Lauren at Cisco told Jeff that she forwarded Jeff et al.'s package to AEA]
+
+Blink1.6
+
+
+
+	</content>
+
+</message>
+
+</xml>
+
+Hierarchical Power Annotation: N/A
+Person_1: 
+Person_2: 
+Reason: 
+
+Situational Power Annotation:
+Person_1: Karen Denne
+Person_2: Jeff Dasovich, To(1)
+Reason: Karen initiates the thread and informs the others about the investigation into the provision of direct access.
+
+Attempt at Exercising Power Annotation: N/A
+DFUs: 
+Person_1:
+Person_2:
+Type:
+Successful?:
+Reason: 
+
+Influence Annotation: N/A
+Person_1:
+Person_2:
+Reason:
+
+Attempt at Influence Annotation: N/A
+DFUs: 
+Person_1:
+Person_2:
+Successful?:
+Reason: 

@@ -1,0 +1,237 @@
+6098train
+Annotation for intention:
+
+Collaboration-on-information-product/Knowledge-Acquisition: sending copies of two questionnaires/details regarding questionnaires
+
+
+Annotation for control:
+Michael E Taylor(address:"Mark.E.Taylor@ENRON.com"): Mark (Michael) initiates the thread and asks for the questionnaires.
+
+
+<xml>
+
+<message>
+
+
+
+	<thread_id>6098</thread_id>
+
+
+
+	<depth>0</depth>
+
+
+
+	<type>ThreadNode</type>
+
+
+
+	<message_id>1187590</message_id>
+
+	<to name="Justin Boyd" id="890" address="justin.boyd@enron.com"/>
+
+	<to name="Edmund Cooper" id="36383" address="edmund.cooper@enron.com"/>
+
+	<from name="Michael E Taylor" id="75886" address="Mark.E.Taylor@ENRON.com"/>
+
+
+
+	<parent_id></parent_id>
+
+
+
+	<subject>Local Counsel Questions</subject>
+
+
+
+	<date_time>1999-09-30 14:52:00</date_time>
+
+
+
+	<content>
+
+    
+
+M1.1. Can you guys please send over a copy of the questions that were submitted to
+
+local counsel in Europe relating to the online trading project? [Y]
+
+[Request-Information: a copy of questions about online trading project sent to Europe]
+
+Flink1.1
+
+M1.2. Alan needs
+
+it for Australia and Louise has asked me to deal with Columbia.
+
+[Inform: Alan needs a copy for Australia, and Mark needs one for Colombia]
+
+M1.3. Thanks,
+
+[Conventional: thanks]
+
+
+
+	</content>
+
+</message>
+
+<message>
+
+
+
+	<thread_id>6098</thread_id>
+
+
+
+	<depth>1</depth>
+
+
+
+	<type>ThreadNode</type>
+
+
+
+	<message_id>1187591</message_id>
+
+	<to name="Michael E Taylor" id="75886" address="Mark.E.Taylor@ENRON.com"/>
+
+	<to name="David Minns" id="2940" address="david.minns@enron.com"/>
+
+	<to name="Alan Aronowitz" id="3611" address="Alan.Aronowitz@ENRON.com"/>
+
+	<from name="Edmund Cooper" id="36383" address="edmund.cooper@enron.com"/>
+
+	<cc name="Justin Boyd" id="890" address="justin.boyd@enron.com"/>
+
+
+
+	<parent_id>1187590</parent_id>
+
+
+
+	<subject>Local Counsel Questions</subject>
+
+
+
+	<date_time>1999-10-01 05:18:00</date_time>
+
+
+
+	<content>
+
+    
+
+M2.1. Dear All,
+
+[Conventional: salutation]
+
+M2.2. Following Mark's and David's request for the due diligence questionnaires
+
+that we have used in Europe for EOL, I am pleased to attach the following:
+
+[Inform: following Mark's and David's request for questionnaires, Edmund is attaching the following]
+
+Blink1.1
+
+M2.3. 1. Questionnaire regarding internet trading
+
+M2.4. 2. Questionnaire regarding commodity derivatives trading
+
+[Inform: two attached files are questionnaire regarding internet trading, and questionnaire regarding commodity derivatives trading]
+
+M2.5. A couple of points I'd like to make:
+
+[Inform: the following are some points Edmund would like to make]
+
+M2.6. - the internet questionnaire refers to the European Economic Area "passport"
+
+(entitling you to trade in one EEA country by vitue of being regulated by
+
+another EEA country).
+
+M2.7. Obviously this is not appropriate for S. America or
+
+Oceania and Asia.
+
+[Inform: internet questionnaire refers to European Economic Area passport, which is inappropriate for South America, Oceania, or Asia]
+
+M2.8. It is possible that you have some similar mechanism.
+
+[Inform: it is possible that recipients have a similar mechanism]
+
+M2.9. - the energy commodity questionnaire considers commodity derivatives trading.
+
+[Inform: energy commodity questionnaire considers commodity derivatives trading]
+
+M2.10. This questionniare was only sent to local counsel in jurisdictions for which
+
+we had not already undertaken derivatives due diligence.
+
+[Inform: questionnaire was only sent to jurisdictions where derivatives due diligence had not already been undertaken]
+
+M2.11. In respect of
+
+physical commodity trading, based on the due diligence we have done to date
+
+in Europe, we have not undertaken any further due diligence for trading via
+
+EOL.
+
+[Inform: Edmund et al. have not undertaken further due diligence for trading via Enron Online]
+
+M2.12. If you feel that you need to undertake any physical trading due
+
+diligence, we have a set of questionnaires which I would be happy to pass on
+
+to you to use as you see fit.
+
+[Inform: if recipients need to undertake physical trading due diligence, Edmund will send more questionnaires]
+
+M2.13. Please feel free to contact me if you have any queries or questions about any
+
+of the above -
+
+[Inform: recipients should contact Edmund if they have any questions]
+
+M2.14. otherwise, happy hunting!
+
+[Conventional: happy hunting]
+
+
+
+	</content>
+
+</message>
+
+</xml>
+
+Hierarchical Power Annotation: N/A
+Person_1: 
+Person_2: 
+Reason: 
+
+Situational Power Annotation:
+Person_1: Michael E Taylor(address:"Mark.E.Taylor@ENRON.com")
+Person_2: Edmund Cooper
+Reason: In message 1, Mark (Michael) asks for some questionnaires, which Edmund attaches in message 2.
+
+Attempt at Exercising Power Annotation:
+DFUs: M1.1-M1.2
+Person_1: Michael E Taylor(address:"Mark.E.Taylor@ENRON.com")
+Person_2: Edmund Cooper
+Type: Situational
+Successful?: Y
+Reason: In message 1, Mark (Michael) asks for some questions, which Edmund attaches in message 2.
+
+Influence Annotation: N/A
+Person_1:
+Person_2:
+Reason:
+
+Attempt at Influence Annotation: N/A
+DFUs: 
+Person_1:
+Person_2:
+Successful?:
+Reason: 

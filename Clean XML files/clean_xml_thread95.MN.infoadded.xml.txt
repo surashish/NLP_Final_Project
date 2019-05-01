@@ -1,0 +1,165 @@
+<custom>
+
+	<row>
+
+		<thread_id>95</thread_id>
+
+		<depth>0</depth>
+
+		<type>ThreadNode</type>
+
+		<message_id>279444</message_id>
+
+	<to name="Kimberly Bates" id="1987" address="Kimberly.Bates@ENRON.com"/>
+
+	<from name="Dalton Hogan" id="27390" address="Dalton.Hogan@ENRON.com"/>
+
+	<cc name="Chris Germany" id="3471" address="Chris.Germany@ENRON.com"/>
+
+	<cc name="David Kowalczyk" id="28863" address="David.Kowalczyk@ENRON.com"/>
+
+	<cc name="Felix Buitron" id="40591" address="Felix.Buitron@ENRON.com"/>
+
+	<to name="Kimberly Bates" id="1987" address="Kbates@ENRON.com"/>
+
+	<from name="Dalton Hogan" id="27390" address="Dhogan@ENRON.com"/>
+
+	<cc name="Chris Germany" id="3471" address="cgerman@enron.com"/>
+
+	<cc name="David Kowalczyk" id="28863" address="DKOWALC@ENRON.com"/>
+
+	<cc name="Felix Buitron" id="40591" address="Fbuitro@ENRON.com"/>
+
+		<parent_id>NULL</parent_id>
+
+		<subject>Chris Germany's PC</subject>
+
+		<date_time>2001-05-25 18:35:24</date_time>
+
+		<content>
+
+M1.1. Kim,
+
+[Conventional: salutation]
+
+M1.2. Please order Chris a power strip. [Y]
+
+[Request-Action: order Chris a power strip]
+
+Flink1.2
+
+M1.3. I was not able to power on his PC because he did not have a free outlet.
+
+[Inform: Dalton could not turn on PC because there was no free outlet]
+
+M1.4. Please call the Resolution Center (3-1411) to request IDF 6F4A-B be activated. [Y]
+
+[Request-Action: call Resolution Center to request a number to be activated]
+
+Flink1.4
+
+M1.5. I would have done this myself,
+
+M1.6. but the Network Team is now requiring a Co. and RC #.
+
+[Inform: could not do this himself because he does not have the requisite #'s]
+
+M1.7. One more thing, Chris is requesting Monitor Arms.
+
+M1.8. If you do order them for him, he will need two sets of Vertical Arms.
+
+M1.9. These Arms can be ordered via e-mail from Reggie Wilson.
+
+[Inform: Chris needs 2 sets of Vertical Arms, that can be ordered via email from Reggie Wilson]
+
+M1.10. Chris,
+
+[Conventional: salutation]
+
+M1.11. As soon as the power strip comes in and the port is activated I can come by and complete the install.
+
+[Inform: after the power strip arrives the sender can complete an install]
+
+M1.12. If you have any questions please call me.
+
+[Inform: Chris can call if there are any questions]
+
+M1.13. thanks,
+
+[Conventional: thanks]
+
+
+
+</content>
+
+	</row>
+
+	<row>
+
+		<thread_id>95</thread_id>
+
+		<depth>2</depth>
+
+		<type>ThreadNode</type>
+
+		<message_id>279458</message_id>
+
+	<to name="Chris Germany" id="3471" address="Chris.Germany@ENRON.com"/>
+
+	<from name="Dalton Hogan" id="27390" address="Dalton.Hogan@ENRON.com"/>
+
+	<to name="Chris Germany" id="3471" address="cgerman@enron.com"/>
+
+	<from name="Dalton Hogan" id="27390" address="Dhogan@ENRON.com"/>
+
+		<parent_id>NULL</parent_id>
+
+		<subject>Chris Germany's PC</subject>
+
+		<date_time>2001-06-04 14:09:04</date_time>
+
+		<content>
+
+M2.1. Chris,
+
+[Conventional: salutation]
+
+
+
+M2.2. I'm right in the middle of imaging a PC.
+
+[Inform: dalton is in the middle of imaging a PC]
+
+M2.3. Please leave your power supply under your desk [Y]
+
+M2.4. and I will come by around 2:30 and complete the install.
+
+[Inform: if Chris leaves the power supply under his desk, dalton will come by to complete the install]
+
+M2.5. Also, do you have any info on your Arm's request.
+
+[Request-Information: any info on Vertical Arms request]
+
+Flink2.5
+
+
+
+M2.6. thanks,
+
+[Conventional: thanks]
+
+
+
+M2.7. dalton
+
+M2.8. ext. 3-0356
+
+[Conventional: signature + ext. number]
+
+
+
+</content>
+
+	</row>
+
+	</custom>

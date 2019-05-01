@@ -1,0 +1,181 @@
+16249
+Annotation for intention:
+
+Knowledge-Acquisition: Bill's run for a position on a school board
+
+Annotation for control:
+Carol St Clair: Carol initiates the thread and informs Steve van Hooser of Bill's candidacy.
+
+
+
+<xml>
+
+<message>
+
+
+
+	<thread_id>16249</thread_id>
+
+
+
+	<depth>0</depth>
+
+
+
+	<type>ThreadNode</type>
+
+
+
+	<message_id>115664</message_id>
+
+	<to name="Steve Van Hooser" id="40914" address="Steve.Van.Hooser@ENRON.com"/>
+
+	<from name="Carol St Clair" id="3773" address="Carol.St.Clair@ENRON.com"/>
+
+
+
+	<parent_id></parent_id>
+
+
+
+	<subject>School Board Election</subject>
+
+
+
+	<date_time>2000-04-28 11:15:00</date_time>
+
+
+
+	<content>
+
+    
+
+M1.1. Steve:
+
+[Conventional: salutation]
+
+M1.2. Just wanted to let you know that Bill is running for an open position on the
+
+Cy-Fair School Board.
+
+[Inform: Bill is running for a position on the Cypress-Fairbanks school board]
+
+M1.3. The election is Saturday May 6th at Emmott but early
+
+voting takes place tomorrow from 8-12 at the instructional Support Building
+
+on Jones Road.
+
+[Inform: times and locations of election day and early voting]
+
+M1.4. If you and Julie are planning on voting and are undecided, I
+
+hope to solicit your support.
+
+[Inform: Carol would like Steve's and Julie's support]
+
+Sflink1.4
+
+M1.5. His opponent is Don Ryan.
+
+[Inform: Bill's opponent is Don Ryan]
+
+M1.6. Carol
+
+[Conventional: signature]
+
+
+
+	</content>
+
+</message>
+
+<message>
+
+
+
+	<thread_id>16249</thread_id>
+
+
+
+	<depth>1</depth>
+
+
+
+	<type>ThreadNodeBubble</type>
+
+
+
+	<message_id>2001920</message_id>
+
+
+
+	<parent_id>115664</parent_id>
+
+
+
+	<subject>School Board Election</subject>
+
+
+
+	<date_time>2000-04-28 11:59:30</date_time>
+
+
+
+	<content>
+
+    
+
+M2.1. Of course we support Bill.
+
+[Inform: Steve and Julie enthusiastically support Bill]
+
+Blink1.4
+
+M2.2. We'd be willing to put a sign in our yard.
+
+[Inform: they would be willing to put a sign up in their yard]
+
+
+
+M2.3. Steve
+
+[Conventional: signature]
+
+
+
+	</content>
+
+</message>
+
+</xml>
+
+Hierarchical Power Annotation: N/A
+Person_1: 
+Person_2: 
+Reason: 
+
+Situational Power Annotation: N/A
+Person_1:
+Person_2:
+Reason: 
+
+Attempt at Exercising Power Annotation: N/A
+DFUs: 
+Person_1:
+Person_2:
+Type:
+Successful?:
+Reason: 
+
+Influence Annotation:
+Person_1: Carol St Clair
+Person_2: Steve Van Hooser
+Reason: In message 1, Carol asks Steve to vote for Bill, which he agrees to in message 2.
+
+Attempt at Influence Annotation:
+DFUs: M1.4
+Person_1: Carol St Clair
+Person_2: Steve Van Hooser
+Successful?: Y
+Reason: After Carol asks Steve to vote for Bill in message 1, in message 2, Steve expresses his support for Bill and offers to put a sign up in his yard.

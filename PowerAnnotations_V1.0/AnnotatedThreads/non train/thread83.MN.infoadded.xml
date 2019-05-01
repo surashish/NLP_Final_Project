@@ -1,0 +1,587 @@
+83
+
+Annotation for intention:
+
+Knowledge-Acquisition: discrepancy between PG&E's PX credit amounts, as specified in Schedule F and as calculated in May
+
+Annotation for control:
+Michael Tribolet: Michael initiates the thread, telling everyone about this discrepancy in message 1, and gives Robert (Bob) further details in message 3 after Robert asks for them in message 2. 
+
+
+
+<?xml version="1.0"?>
+
+
+
+<!--
+
+-
+
+- Sequel Pro dump
+
+- Version 155
+
+- http://code.google.com/p/sequel-pro
+
+-
+
+- Host: 127.0.0.1 (MySQL 5.0.67)
+
+- Database: enron
+
+- Generation Time: 2008-12-01 15:20:59 -0500
+
+-
+
+-->
+
+
+
+	<custom>
+
+	<row>
+
+		<thread_id>83</thread_id>
+
+		<depth>0</depth>
+
+		<type>ThreadNode</type>
+
+		<message_id>1033960</message_id>
+
+	<to name="Rick Buy" id="47799" address="Rick.Buy@ENRON.com"/>
+
+	<to name="David Gorte" id="28747" address="David.Gorte@ENRON.com"/>
+
+	<to name="William S Bradford" id="118798" address="William.S.Bradford@ENRON.com"/>
+
+	<to name="Steven J Kean" id="18327" address="Steven.J.Kean@ENRON.com"/>
+
+	<to name="Richard Shapiro" id="2482" address="Richard.Shapiro@ENRON.com"/>
+
+	<to name="James D Steffes" id="7320" address="James.D.Steffes@ENRON.com"/>
+
+	<to name="Harry Kingerski" id="3720" address="Harry.Kingerski@ENRON.com"/>
+
+	<to name="Mark Koenig" id="12786" address="Mark.Koenig@ENRON.com"/>
+
+	<to name="Mark Palmer" id="1277" address="Mark.Palmer@ENRON.com"/>
+
+	<to name="Karen Denne" id="40948" address="Karen.Denne@ENRON.com"/>
+
+	<to name="Mark E Haedicke" id="19235" address="Mark.E.Haedicke@ENRON.com"/>
+
+	<to name="Lisa Mellencamp" id="4897" address="Lisa.Mellencamp@ENRON.com"/>
+
+	<to name="James D Steffes" id="7320" address="Elizabeth.Sager@ENRON.com"/>
+
+	<to name="Travis McCullough" id="2492" address="Travis.McCullough@ENRON.com"/>
+
+	<to name="Vicki Sharp" id="29838" address="Vicki.Sharp@ENRON.com"/>
+
+	<to name="Mike D Smith" id="1004" address="Mike.D.Smith@ENRON.com"/>
+
+	<to name="Robert C Williams" id="98057" address="Robert.C.Williams@ENRON.com"/>
+
+	<to name="Wanda Curry" id="2038" address="Wanda.Curry@ENRON.com"/>
+
+	<to name="Jeff Dasovich" id="27095" address="Jeff.Dasovich@ENRON.com"/>
+
+	<to name="Susan J Mara" id="3364" address="Susan.J.Mara@ENRON.com"/>
+
+	<to name="Bennett Young" id="18171" address="byoung@llgm.com"/>
+
+	<to name="John Klauberg" id="57413" address="jklauber@llgm.com"/>
+
+	<to name="Greg Whalley" id="27104" address="Greg.Whalley@ENRON.com"/>
+
+	<to name="John Lavorato" id="2273" address="John.J.Lavorato@ENRON.com"/>
+
+	<to name="David W Delainey" id="755" address="David.W.Delainey@ENRON.com"/>
+
+	<to name="Janet Dietrich" id="1233" address="Janet.R.Dietrich@ENRON.com"/>
+
+	<to name="Marty Sunde" id="35981" address="Marty.Sunde@ENRON.com"/>
+
+	<to name="Dan Leff" id="3740" address="Dan.Leff@ENRON.com"/>
+
+	<from name="Michael Tribolet" id="80801" address="Michael.Tribolet@ENRON.com"/>
+
+	<to name="Rick Buy" id="47799" address="RBuy@enron.com"/>
+
+	<to name="David Gorte" id="28747" address="Dgorte@ENRON.com"/>
+
+	<to name="William S Bradford" id="118798" address="wbradfo@enron.com"/>
+
+	<to name="Steven Kean" id="11407" address="b86dc838-ecafdc13-8625693c-57fa6d@ENRON.com"/>
+
+	<to name="Richard Shapiro" id="2482" address="6CEDF0C-82C4A03C-8625696C-7693A4@ENRON.com"/>
+
+	<to name="James Steffes" id="6087" address="afb3d0fa-ccb03d20-86256962-56fda5@ENRON.com"/>
+
+	<to name="Harry Kingerski" id="3720" address="9B14A5E5-777B6B1F-86256961-4924E9@ENRON.com"/>
+
+	<to name="Mark Koenig" id="12786" address="mkoenig@enron.com"/>
+
+	<to name="Mark Palmer" id="1277" address="3A5030B0-C53BCDB0-862566EF-7E3318@ENRON.com"/>
+
+	<to name="Karen Denne" id="40948" address="fff576cf-eeb54616-86256694-4a18dd@ENRON.com"/>
+
+	<to name="Mark Haedicke" id="1633" address="496812c-a8259b42-8625650e-6a1dc1@ENRON.com"/>
+
+	<to name="Lisa Mellencamp" id="4897" address="AA88371D-DD9548A2-8625670C-72AE70@ENRON.com"/>
+
+	<to name="Elizabeth Sager" id="1829" address="50751F83-C6A72356-862564EA-583FAA@ENRON.com"/>
+
+	<to name="Travis McCullough" id="2492" address="6D7EDA08-59F03CE9-8625647D-5C0AD0@ENRON.com"/>
+
+	<to name="Vicki Sharp" id="29838" address="DC350363-F761E300-862564C2-54998E@ENRON.com"/>
+
+	<to name="Mike D Smith" id="1004" address="2EE97F18-211E482A-862564FF-5A6314@ENRON.com"/>
+
+	<to name="Robert C Williams" id="98057" address="rwillia2@enron.com"/>
+
+	<to name="Wanda Curry" id="2038" address="597f9d3f-a5fdbcc6-8625698b-741310@ENRON.com"/>
+
+	<to name="Jeff Dasovich" id="27095" address="da220740-3e85e661-86256962-4f9c13@ENRON.com"/>
+
+	<to name="Susan J Mara" id="3364" address="8a20ece9-992cf340-8625697d-7146e9@ENRON.com"/>
+
+	<to name="" id="121175" address="young@llgm.com"/>
+
+	<to name="" id="12428" address="bBuy@ENRON.Rick"/>
+
+	<to name="j klauber@llgm.com" id="50934" address="j.klauber@llgm.com"/>
+
+	<to name="Greg Whalley" id="27104" address="DA82494B-FC99BFE6-862565DA-5FA576@ENRON.com"/>
+
+	<to name="John Lavorato" id="2273" address="JLAVORA@ENRON.com"/>
+
+	<to name="David W Delainey" id="755" address="28fc501b-22d3a001-62569fb-57caaa@ENRON.com"/>
+
+	<to name="Janet Dietrich" id="1233" address="384eca1e-36846ef5-62569fb-57dcf1@ENRON.com"/>
+
+	<to name="Marty Sunde" id="35981" address="EA9FFF7E-4450F0AA-862564DB-689FAE@ENRON.com"/>
+
+	<to name="Dan Leff" id="3740" address="9BB28634-F7B2062D-862564DE-77878A@ENRON.com"/>
+
+	<from name="michael" id="80846" address="Tribolet@ENRON.com"/>
+
+	<from name="michael" id="80846" address="Michael@ENRON.com"/>
+
+		<parent_id>NULL</parent_id>
+
+		<subject>PX credits &amp; Schedule F in the PG&amp;E bankruptcy</subject>
+
+		<date_time>2001-05-23 16:01:42</date_time>
+
+		<content>
+
+M1.1. PG&amp;E filed their Schedule F which displays its nonpriority unsecured claims.
+
+[Inform: Pacific Gas & Electric filed Schedule F, which displays non-priority unsecured claims]
+
+M1.2. Many of the claims were listed as unknown in amount.
+
+[Inform: many claims were listed as unknown in amount]
+
+M1.3. The PX credit amounts
+
+were listed as disputed.
+
+[Inform: PX credit amounts listed as disputed]
+
+M1.4. Two PX credit amounts were specified in the
+
+Schedule F:
+
+M1.5. Enron Energy Marketing      $201,964,905.64
+
+M1.6. Enron Energy Services       $ 19,737,979.97
+
+M1.7. Total disclosed PX credit   $221,702,885.61
+
+[Inform: 2 PX credit amounts that were specified, plus total]
+
+M1.8. Note that in the claims that were listed as unknown in amount, none were
+
+described as PX Credit in nature.
+
+[Inform: no claims whose amount was unknown was described as PX Credit]
+
+M1.9. Two points to be made:
+
+M1.10. 1) this information is now public
+
+M1.11. (but on page 5,066
+
+of 17,096 on a CD),
+
+M1.12. along with $53,985,167 in other Enron related claims,
+
+[Inform: first of 2 points, this information is public and on a CD, as well as some other Enron-related claims]
+
+M1.13. and
+
+2) our calculation of the PX credit was $392,416,534 at the beginning of May.
+
+[Inform: amount of PX credit calculated at beginning of May, which is a different number]
+
+Sflink1.13
+
+M1.14. Regards,
+
+[Conventional: regards]
+
+
+
+</content>
+
+	</row>
+
+	<row>
+
+		<thread_id>83</thread_id>
+
+		<depth>1</depth>
+
+		<type>ThreadNode</type>
+
+		<message_id>1033961</message_id>
+
+	<to name="Michael Tribolet" id="80801" address="Michael.Tribolet@ENRON.com"/>
+
+	<to name="Rick Buy" id="47799" address="Rick.Buy@ENRON.com"/>
+
+	<to name="David Gorte" id="28747" address="David.Gorte@ENRON.com"/>
+
+	<to name="William S Bradford" id="118798" address="William.S.Bradford@ENRON.com"/>
+
+	<to name="Steven J Kean" id="18327" address="Steven.J.Kean@ENRON.com"/>
+
+	<to name="Richard Shapiro" id="2482" address="Richard.Shapiro@ENRON.com"/>
+
+	<to name="James D Steffes" id="7320" address="James.D.Steffes@ENRON.com"/>
+
+	<to name="Harry Kingerski" id="3720" address="Harry.Kingerski@ENRON.com"/>
+
+	<to name="Mark Koenig" id="12786" address="Mark.Koenig@ENRON.com"/>
+
+	<to name="Mark Palmer" id="1277" address="Mark.Palmer@ENRON.com"/>
+
+	<to name="Karen Denne" id="40948" address="Karen.Denne@ENRON.com"/>
+
+	<to name="Mark E Haedicke" id="19235" address="Mark.E.Haedicke@ENRON.com"/>
+
+	<to name="Lisa Mellencamp" id="4897" address="Lisa.Mellencamp@ENRON.com"/>
+
+	<to name="James D Steffes" id="7320" address="Elizabeth.Sager@ENRON.com"/>
+
+	<to name="Travis McCullough" id="2492" address="Travis.McCullough@ENRON.com"/>
+
+	<to name="Vicki Sharp" id="29838" address="Vicki.Sharp@ENRON.com"/>
+
+	<to name="Mike D Smith" id="1004" address="Mike.D.Smith@ENRON.com"/>
+
+	<to name="Wanda Curry" id="2038" address="Wanda.Curry@ENRON.com"/>
+
+	<to name="Jeff Dasovich" id="27095" address="Jeff.Dasovich@ENRON.com"/>
+
+	<to name="Susan J Mara" id="3364" address="Susan.J.Mara@ENRON.com"/>
+
+	<to name="Bennett Young" id="18171" address="byoung@llgm.com"/>
+
+	<to name="John Klauberg" id="57413" address="jklauber@llgm.com"/>
+
+	<to name="Greg Whalley" id="27104" address="Greg.Whalley@ENRON.com"/>
+
+	<to name="John Lavorato" id="2273" address="John.J.Lavorato@ENRON.com"/>
+
+	<to name="David W Delainey" id="755" address="David.W.Delainey@ENRON.com"/>
+
+	<to name="Janet Dietrich" id="1233" address="Janet.R.Dietrich@ENRON.com"/>
+
+	<to name="Marty Sunde" id="35981" address="Marty.Sunde@ENRON.com"/>
+
+	<to name="Dan Leff" id="3740" address="Dan.Leff@ENRON.com"/>
+
+	<from name="Robert C Williams" id="98057" address="Robert.C.Williams@ENRON.com"/>
+
+	<to name="Michael Tribolet" id="80801" address="Mtribole@ENRON.com"/>
+
+	<to name="Rick Buy" id="47799" address="RBuy@enron.com"/>
+
+	<to name="David Gorte" id="28747" address="Dgorte@ENRON.com"/>
+
+	<to name="William S Bradford" id="118798" address="wbradfo@enron.com"/>
+
+	<to name="Steven Kean" id="11407" address="b86dc838-ecafdc13-8625693c-57fa6d@ENRON.com"/>
+
+	<to name="Richard Shapiro" id="2482" address="6CEDF0C-82C4A03C-8625696C-7693A4@ENRON.com"/>
+
+	<to name="James Steffes" id="6087" address="afb3d0fa-ccb03d20-86256962-56fda5@ENRON.com"/>
+
+	<to name="Harry Kingerski" id="3720" address="9B14A5E5-777B6B1F-86256961-4924E9@ENRON.com"/>
+
+	<to name="Mark Koenig" id="12786" address="mkoenig@enron.com"/>
+
+	<to name="Mark Palmer" id="1277" address="3A5030B0-C53BCDB0-862566EF-7E3318@ENRON.com"/>
+
+	<to name="Karen Denne" id="40948" address="fff576cf-eeb54616-86256694-4a18dd@ENRON.com"/>
+
+	<to name="Mark Haedicke" id="1633" address="496812c-a8259b42-8625650e-6a1dc1@ENRON.com"/>
+
+	<to name="Lisa Mellencamp" id="4897" address="AA88371D-DD9548A2-8625670C-72AE70@ENRON.com"/>
+
+	<to name="Elizabeth Sager" id="1829" address="50751F83-C6A72356-862564EA-583FAA@ENRON.com"/>
+
+	<to name="Travis McCullough" id="2492" address="6D7EDA08-59F03CE9-8625647D-5C0AD0@ENRON.com"/>
+
+	<to name="Vicki Sharp" id="29838" address="DC350363-F761E300-862564C2-54998E@ENRON.com"/>
+
+	<to name="Mike D Smith" id="1004" address="2EE97F18-211E482A-862564FF-5A6314@ENRON.com"/>
+
+	<to name="Wanda Curry" id="2038" address="597f9d3f-a5fdbcc6-8625698b-741310@ENRON.com"/>
+
+	<to name="Jeff Dasovich" id="27095" address="da220740-3e85e661-86256962-4f9c13@ENRON.com"/>
+
+	<to name="Susan J Mara" id="3364" address="8a20ece9-992cf340-8625697d-7146e9@ENRON.com"/>
+
+	<to name="" id="121175" address="young@llgm.com"/>
+
+	<to name="" id="17753" address="bTribolet@ENRON.Michael"/>
+
+	<to name="j klauber@llgm.com" id="50934" address="j.klauber@llgm.com"/>
+
+	<to name="Greg Whalley" id="27104" address="DA82494B-FC99BFE6-862565DA-5FA576@ENRON.com"/>
+
+	<to name="John Lavorato" id="2273" address="JLAVORA@ENRON.com"/>
+
+	<to name="David W Delainey" id="755" address="28fc501b-22d3a001-62569fb-57caaa@ENRON.com"/>
+
+	<to name="Janet Dietrich" id="1233" address="384eca1e-36846ef5-62569fb-57dcf1@ENRON.com"/>
+
+	<to name="Marty Sunde" id="35981" address="EA9FFF7E-4450F0AA-862564DB-689FAE@ENRON.com"/>
+
+	<to name="Dan Leff" id="3740" address="9BB28634-F7B2062D-862564DE-77878A@ENRON.com"/>
+
+	<from name="Robert C Williams" id="98057" address="Williams@ENRON.com"/>
+
+	<from name="Robert C Williams" id="98057" address="Robert.C@ENRON.com"/>
+
+		<parent_id>1033960</parent_id>
+
+		<subject>PX credits &amp; Schedule F in the PG&amp;E bankruptcy</subject>
+
+		<date_time>2001-05-23 18:32:59</date_time>
+
+		<content>
+
+M2.1. Michael, how can we get with PG&amp;E to determine where the discrepancy lies?
+
+[Request-Information: how can they get in touch with PG&E to find out where the PX credit discrepancy lies]
+
+Blink1.13
+
+Flink2.1
+
+
+
+</content>
+
+	</row>
+
+	<row>
+
+		<thread_id>83</thread_id>
+
+		<depth>2</depth>
+
+		<type>ThreadNode</type>
+
+		<message_id>1033962</message_id>
+
+	<to name="Robert C Williams" id="98057" address="Robert.C.Williams@ENRON.com"/>
+
+	<to name="Rick Buy" id="47799" address="Rick.Buy@ENRON.com"/>
+
+	<to name="David Gorte" id="28747" address="David.Gorte@ENRON.com"/>
+
+	<to name="William S Bradford" id="118798" address="William.S.Bradford@ENRON.com"/>
+
+	<to name="Steven J Kean" id="18327" address="Steven.J.Kean@ENRON.com"/>
+
+	<to name="Richard Shapiro" id="2482" address="Richard.Shapiro@ENRON.com"/>
+
+	<to name="James D Steffes" id="7320" address="James.D.Steffes@ENRON.com"/>
+
+	<to name="Harry Kingerski" id="3720" address="Harry.Kingerski@ENRON.com"/>
+
+	<to name="Mark Koenig" id="12786" address="Mark.Koenig@ENRON.com"/>
+
+	<to name="Mark Palmer" id="1277" address="Mark.Palmer@ENRON.com"/>
+
+	<to name="Karen Denne" id="40948" address="Karen.Denne@ENRON.com"/>
+
+	<to name="Mark E Haedicke" id="19235" address="Mark.E.Haedicke@ENRON.com"/>
+
+	<to name="Lisa Mellencamp" id="4897" address="Lisa.Mellencamp@ENRON.com"/>
+
+	<to name="James D Steffes" id="7320" address="Elizabeth.Sager@ENRON.com"/>
+
+	<to name="Travis McCullough" id="2492" address="Travis.McCullough@ENRON.com"/>
+
+	<to name="Vicki Sharp" id="29838" address="Vicki.Sharp@ENRON.com"/>
+
+	<to name="Mike D Smith" id="1004" address="Mike.D.Smith@ENRON.com"/>
+
+	<to name="Wanda Curry" id="2038" address="Wanda.Curry@ENRON.com"/>
+
+	<to name="Jeff Dasovich" id="27095" address="Jeff.Dasovich@ENRON.com"/>
+
+	<to name="Susan J Mara" id="3364" address="Susan.J.Mara@ENRON.com"/>
+
+	<to name="Bennett Young" id="18171" address="byoung@llgm.com"/>
+
+	<to name="John Klauberg" id="57413" address="jklauber@llgm.com"/>
+
+	<to name="Greg Whalley" id="27104" address="Greg.Whalley@ENRON.com"/>
+
+	<to name="John Lavorato" id="2273" address="John.J.Lavorato@ENRON.com"/>
+
+	<to name="David W Delainey" id="755" address="David.W.Delainey@ENRON.com"/>
+
+	<to name="Janet Dietrich" id="1233" address="Janet.R.Dietrich@ENRON.com"/>
+
+	<to name="Marty Sunde" id="35981" address="Marty.Sunde@ENRON.com"/>
+
+	<to name="Dan Leff" id="3740" address="Dan.Leff@ENRON.com"/>
+
+	<from name="Michael Tribolet" id="80801" address="Michael.Tribolet@ENRON.com"/>
+
+	<to name="Robert C Williams" id="98057" address="rwillia2@enron.com"/>
+
+	<to name="Rick Buy" id="47799" address="RBuy@enron.com"/>
+
+	<to name="David Gorte" id="28747" address="Dgorte@ENRON.com"/>
+
+	<to name="William S Bradford" id="118798" address="wbradfo@enron.com"/>
+
+	<to name="Steven Kean" id="11407" address="b86dc838-ecafdc13-8625693c-57fa6d@ENRON.com"/>
+
+	<to name="Richard Shapiro" id="2482" address="6CEDF0C-82C4A03C-8625696C-7693A4@ENRON.com"/>
+
+	<to name="James Steffes" id="6087" address="afb3d0fa-ccb03d20-86256962-56fda5@ENRON.com"/>
+
+	<to name="Harry Kingerski" id="3720" address="9B14A5E5-777B6B1F-86256961-4924E9@ENRON.com"/>
+
+	<to name="Mark Koenig" id="12786" address="mkoenig@enron.com"/>
+
+	<to name="Mark Palmer" id="1277" address="3A5030B0-C53BCDB0-862566EF-7E3318@ENRON.com"/>
+
+	<to name="Karen Denne" id="40948" address="fff576cf-eeb54616-86256694-4a18dd@ENRON.com"/>
+
+	<to name="Mark Haedicke" id="1633" address="496812c-a8259b42-8625650e-6a1dc1@ENRON.com"/>
+
+	<to name="Lisa Mellencamp" id="4897" address="AA88371D-DD9548A2-8625670C-72AE70@ENRON.com"/>
+
+	<to name="Elizabeth Sager" id="1829" address="50751F83-C6A72356-862564EA-583FAA@ENRON.com"/>
+
+	<to name="Travis McCullough" id="2492" address="6D7EDA08-59F03CE9-8625647D-5C0AD0@ENRON.com"/>
+
+	<to name="Vicki Sharp" id="29838" address="DC350363-F761E300-862564C2-54998E@ENRON.com"/>
+
+	<to name="Mike D Smith" id="1004" address="2EE97F18-211E482A-862564FF-5A6314@ENRON.com"/>
+
+	<to name="Wanda Curry" id="2038" address="597f9d3f-a5fdbcc6-8625698b-741310@ENRON.com"/>
+
+	<to name="Jeff Dasovich" id="27095" address="da220740-3e85e661-86256962-4f9c13@ENRON.com"/>
+
+	<to name="Susan J Mara" id="3364" address="8a20ece9-992cf340-8625697d-7146e9@ENRON.com"/>
+
+	<to name="" id="121175" address="young@llgm.com"/>
+
+	<to name="" id="18111" address="bWilliams@ENRON.Robert.C"/>
+
+	<to name="j klauber@llgm.com" id="50934" address="j.klauber@llgm.com"/>
+
+	<to name="Greg Whalley" id="27104" address="DA82494B-FC99BFE6-862565DA-5FA576@ENRON.com"/>
+
+	<to name="John Lavorato" id="2273" address="JLAVORA@ENRON.com"/>
+
+	<to name="David W Delainey" id="755" address="28fc501b-22d3a001-62569fb-57caaa@ENRON.com"/>
+
+	<to name="Janet Dietrich" id="1233" address="384eca1e-36846ef5-62569fb-57dcf1@ENRON.com"/>
+
+	<to name="Marty Sunde" id="35981" address="EA9FFF7E-4450F0AA-862564DB-689FAE@ENRON.com"/>
+
+	<to name="Dan Leff" id="3740" address="9BB28634-F7B2062D-862564DE-77878A@ENRON.com"/>
+
+	<from name="michael" id="80846" address="Tribolet@ENRON.com"/>
+
+	<from name="michael" id="80846" address="Michael@ENRON.com"/>
+
+		<parent_id>1033961</parent_id>
+
+		<subject>PX credits &amp; Schedule F in the PG&amp;E bankruptcy</subject>
+
+		<date_time>2001-05-23 18:39:48</date_time>
+
+		<content>
+
+M3.1. Bob:
+
+[Conventional: salutation]
+
+M3.2. Bill Bradford and I have a phone call with PG&amp;E at noon tomorrow.
+
+[Inform: author of email and Bill Bradford have a call with PG&E tomorrow]
+
+Blink2.1
+
+M3.3. We will
+
+advise everyone of what we learn.
+
+[Inform: they will tell everyone what they find out]
+
+
+
+</content>
+
+	</row>
+
+	</custom>
+
+
+Hierarchical Power Annotation: N/A
+Person_1: 
+Person_2: 
+Reason: 
+
+Situational Power Annotation:
+Person_1: Michael Tribolet, William S Bradford
+Person_2: Robert C Williams
+Reason: Michael and Bill are scheduled to talk with Pacific Gas & Electric the next day in order to resolve the discrepancy (as Michael says in message 3), while Bob will have to wait to hear what they say in order to find out more information.
+
+Attempt at Exercising Power Annotation: N/A
+DFUs: 
+Person_1:
+Person_2:
+Type:
+Successful?:
+Reason: 
+
+Influence Annotation: N?A
+Person_1: 
+Person_2: 
+Reason:
+
+Attempt at Influence Annotation: N/A
+DFUs: 
+Person_1:
+Person_2:
+Successful?:
+Reason: 
+
+

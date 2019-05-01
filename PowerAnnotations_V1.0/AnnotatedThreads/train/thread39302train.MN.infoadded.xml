@@ -1,0 +1,233 @@
+39302train
+Annotation for intention:
+
+Knowledge-Acquisition: Utilicorp's, Calpine's, and Constellation's authorities to trade power (or lack thereof)
+
+Annotation for control:
+Leslie Hansen: Leslie initiates the thread and informs Tana Jones of the three companies' authority or lack of authority to trade power.
+
+
+
+<xml>
+
+<message>
+
+
+
+	<thread_id>39302</thread_id>
+
+
+
+	<depth>1</depth>
+
+
+
+	<type>ThreadNode</type>
+
+
+
+	<message_id>419771</message_id>
+
+	<to name="Tana Jones" id="111168" address="Tana.Jones@ENRON.com"/>
+
+	<from name="Leslie Hansen" id="11220" address="Leslie.Hansen@ENRON.com"/>
+
+
+
+	<parent_id>419770</parent_id>
+
+
+
+	<subject>EOL Credit Responses 10/23/00</subject>
+
+
+
+	<date_time>2000-10-23 12:16:00</date_time>
+
+
+
+	<content>
+
+    
+
+M1.1. Tana:
+
+[Conventional: salutation]
+
+M1.2. No change to profiles for Utilicorp. United Inc. or Calpine Power Services
+
+Company --
+
+[Inform: there are no changes to profiles for Utilicorp or Calpine]
+
+M1.3. these entities are authorized to trade US power.
+
+[Inform: these entities are authorized to trade US power]
+
+Sflink1.3
+
+M1.4. Constellation Energy Source, Inc. is NOT authorized -- restricted by credit.
+
+[Inform: Constellation is not authorized to trade, as it is restricted by credit]
+
+
+
+	</content>
+
+</message>
+
+<message>
+
+
+
+	<thread_id>39302</thread_id>
+
+
+
+	<depth>2</depth>
+
+
+
+	<type>ThreadNode</type>
+
+
+
+	<message_id>419792</message_id>
+
+	<to name="Leslie Hansen" id="11220" address="Leslie.Hansen@ENRON.com"/>
+
+	<from name="Tana Jones" id="111168" address="Tana.Jones@ENRON.com"/>
+
+
+
+	<parent_id>419771</parent_id>
+
+
+
+	<subject>EOL Credit Responses 10/23/00</subject>
+
+
+
+	<date_time>2000-10-24 09:22:00</date_time>
+
+
+
+	<content>
+
+    
+
+M2.1. Just confirming...for Utilicorp. we previously had them open for Enron Sales
+
+only....
+
+[Inform: Tana would like to confirm that Utilicorp was previously open for Enron sales only]
+
+Blink1.3
+
+Sflink2.1
+
+
+
+	</content>
+
+</message>
+
+<message>
+
+
+
+	<thread_id>39302</thread_id>
+
+
+
+	<depth>3</depth>
+
+
+
+	<type>ThreadNode</type>
+
+
+
+	<message_id>419795</message_id>
+
+	<to name="Tana Jones" id="111168" address="Tana.Jones@ENRON.com"/>
+
+	<from name="Leslie Hansen" id="11220" address="Leslie.Hansen@ENRON.com"/>
+
+
+
+	<parent_id>419792</parent_id>
+
+
+
+	<subject>EOL Credit Responses 10/23/00</subject>
+
+
+
+	<date_time>2000-10-24 10:09:00</date_time>
+
+
+
+	<content>
+
+    
+
+M3.1. Tana:
+
+[Conventional: salutation]
+
+M3.2. Thanks for following up --
+
+[Conventional: thanks]
+
+M3.3. Utilicorp. was initially set up for Sales only but
+
+subsequently opened up for Sales and Purchases.
+
+[Inform: Utilicorp originally set up for only Sales but then opened up for Sales and Purchases]
+
+Blink2.1
+
+M3.4. So, they should be open for
+
+US power.
+
+[Inform: Utilicorp should be open for US power]
+
+
+
+	</content>
+
+</message>
+
+</xml>
+
+Hierarchical Power Annotation: N/A
+Person_1: 
+Person_2: 
+Reason: 
+
+Situational Power Annotation: N/A
+Person_1: 
+Person_2: 
+Reason: 
+
+Attempt at Exercising Power Annotation: N/A
+DFUs: 
+Person_1:
+Person_2:
+Type:
+Successful?:
+Reason: 
+
+Influence Annotation: N/A
+Person_1:
+Person_2:
+Reason:
+
+Attempt at Influence Annotation: N/A
+DFUs: 
+Person_1:
+Person_2:
+Successful?:
+Reason: 

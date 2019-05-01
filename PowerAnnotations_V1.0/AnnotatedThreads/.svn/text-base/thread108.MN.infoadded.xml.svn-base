@@ -1,0 +1,311 @@
+108
+Annotation for intention:
+
+Knowledge-Acquisition: corrected deal numbers for sales volumes
+
+Annotation for control:
+Mary Ellenberger: Mary initiates the thread [which continues from thread 102] and tells Tess and Daren the information about the gas deals that they need.
+
+
+<?xml version="1.0"?>
+
+
+
+<!--
+
+-
+
+- Sequel Pro dump
+
+- Version 155
+
+- http://code.google.com/p/sequel-pro
+
+-
+
+- Host: 127.0.0.1 (MySQL 5.0.67)
+
+- Database: enron
+
+- Generation Time: 2008-12-12 17:39:29 -0500
+
+-
+
+-->
+
+
+
+	<custom>
+
+	<row>
+
+		<thread_id>108</thread_id>
+
+		<depth>0</depth>
+
+		<type>ThreadNode</type>
+
+		<message_id>277075</message_id>
+
+	<to name="Tess Ray" id="49473" address="tess.ray@ENRON.com"/>
+
+	<from name="Mary Ellenberger" id="37728" address="Mary.Ellenberger@ENRON.com"/>
+
+	<cc name="Daren J Farmer" id="28042" address="Daren.J.Farmer@ENRON.com"/>
+
+	<to name="Tess Ray" id="49473" address="TRAY2@ENRON.com"/>
+
+	<from name="Mary Ellenberger" id="595" address="1d1ab0b7-ea9cbefb-8625687e-777977@ENRON.com"/>
+
+	<cc name="Daren J Farmer" id="28042" address="dfarmer@enron.com"/>
+
+		<parent_id>NULL</parent_id>
+
+		<subject>March 2001 Invoice</subject>
+
+		<date_time>2001-04-26 17:44:31</date_time>
+
+		<content>
+
+        
+
+M1.1. The question is not that &quot;cut and dry&quot;.
+
+[Inform-AnswerOffline: the question asked (in thread 102, M5.2 or M5.4) was not that "cut and dry"]
+
+M1.2. However, for the month of March Enron paid Spinnaker @ IF HSC -$0.085.
+
+[Inform: payment from Enron to Spinnaker during March]
+
+Sflink1.2
+
+M1.3. Currently the volume is posted under deal ticket  #144271 with is the deal tick for gas daily production.
+
+M1.4. This production should be moved to Deal ticket  #144264 with is the IF.
+
+[Inform: deal ticket that volume is currently posted under, and deal ticket that it should be moved to]
+
+Sflink1.4
+
+
+
+</content>
+
+	</row>
+
+	<row>
+
+		<thread_id>108</thread_id>
+
+		<depth>1</depth>
+
+		<type>ThreadNode</type>
+
+		<message_id>277076</message_id>
+
+	<to name="Mary Ellenberger" id="37728" address="Mary.Ellenberger@ENRON.com"/>
+
+	<from name="Tess Ray" id="49473" address="tess.ray@ENRON.com"/>
+
+	<cc name="Daren J Farmer" id="28042" address="Daren.J.Farmer@ENRON.com"/>
+
+	<cc name="Julie Meyers" id="4832" address="Julie.Meyers@ENRON.com"/>
+
+	<to name="Mary Ellenberger" id="595" address="1d1ab0b7-ea9cbefb-8625687e-777977@ENRON.com"/>
+
+	<from name="Tess Ray" id="49473" address="TRAY2@ENRON.com"/>
+
+	<cc name="Daren J Farmer" id="28042" address="dfarmer@enron.com"/>
+
+	<cc name="Julie Meyers" id="4832" address="A8131D50-2229AC72-862564B4-7573B7@ENRON.com"/>
+
+		<parent_id>277075</parent_id>
+
+		<subject>March 2001 Invoice</subject>
+
+		<date_time>2001-04-27 08:47:38</date_time>
+
+		<content>
+
+        
+
+M2.1. Thanks Mary!
+
+[Conventional: thanks]
+
+M2.2. Daren, is the info that you need?
+
+[Request-Information: is this the info that Daren needs]
+
+Blink1.2
+
+Blink1.4
+
+Flink2.2
+
+
+
+</content>
+
+	</row>
+
+	<row>
+
+		<thread_id>108</thread_id>
+
+		<depth>2</depth>
+
+		<type>ThreadNodeBubble</type>
+
+		<message_id>2000033</message_id>
+
+		<parent_id>277076</parent_id>
+
+		<subject>March 2001 Invoice</subject>
+
+		<date_time>2001-04-27 11:12:29</date_time>
+
+		<content>
+
+        
+
+M3.1. Ok, We should be paying Dow based on the index price.
+
+M3.2. But, it should be IF HSC - .07 instead of -.06.
+
+[Inform: they should be paying Dow based on the index price, but index price is incorrect]
+
+M3.3. Sales volumes should be allocated to deal 639612.
+
+[Inform: deal number that sales volumes should be allocated to]
+
+Sflink3.3
+
+M3.4. D
+
+[Conventional: signature]
+
+
+
+</content>
+
+	</row>
+
+	<row>
+
+		<thread_id>108</thread_id>
+
+		<depth>3</depth>
+
+		<type>ThreadNode</type>
+
+		<message_id>277077</message_id>
+
+	<to name="Joyce Viltz" id="60904" address="joyce.viltz@ENRON.com"/>
+
+	<to name="Julie Meyers" id="4832" address="Julie.Meyers@ENRON.com"/>
+
+	<from name="Tess Ray" id="49473" address="tess.ray@ENRON.com"/>
+
+	<cc name="Daren J Farmer" id="28042" address="Daren.J.Farmer@ENRON.com"/>
+
+	<to name="Joyce Viltz" id="60904" address="JVILTZ@ENRON.com"/>
+
+	<to name="Julie Meyers" id="4832" address="A8131D50-2229AC72-862564B4-7573B7@ENRON.com"/>
+
+	<from name="Tess Ray" id="49473" address="TRAY2@ENRON.com"/>
+
+	<cc name="Daren J Farmer" id="28042" address="dfarmer@enron.com"/>
+
+		<parent_id>2000033</parent_id>
+
+		<subject>March 2001 Invoice</subject>
+
+		<date_time>2001-04-27 13:37:20</date_time>
+
+		<content>
+
+        
+
+M4.1. Julie -
+
+[Conventional: salutation]
+
+M4.2. Per Daren's repsonse below, can you correct price on this deal for 03/01. [Y]
+
+M4.3. Currently under 639615.
+
+[Inform: the current vs. the correct price on deal, per Daren's response]
+
+Blink3.3
+
+M4.4. Joyce-
+
+[Conventional: salutation]
+
+M4.5. Per Daren's message below, the sales volumes are currently under deal # SA639615.
+
+[Inform: as Daren says, sales volumes are currently under deal #SA639615]
+
+M4.6. Let me know when they've been reallocated to 639612. [Y]
+
+[Request-Information: let Tess know when sales volumes have been reallocated]
+
+Flink4.6
+
+
+
+</content>
+
+	</row>
+
+	</custom>
+
+Hierarchical Power Annotation: N/A
+Person_1: 
+Person_2: 
+Reason:
+
+Situational Power Annotation:
+Person_1: Tess Ray
+Person_2: Mary Ellenberger
+Reason: In message 1, Mary provides Tess with some information that Tess had previously asked her for.
+
+Person_1: Tess Ray
+Person_2: Julie Meyers
+Reason: In M4.2, Tess asks Julie to correct the price on a deal.
+
+Person_1: Tess Ray
+Person_2: Joyce Viltz
+Reason: In M4.6, Tess asks Joyce to tell her when some sales volumes have been reallocated.
+
+Person_1: Daren J Farmer
+Person_2: Tess Ray
+Reason: In M3.1, Daren tells Julie a corrected price, which she proceeds to ask others to fix.
+
+Attempt at Exercising Power Annotation:
+DFUs: M4.2
+Person_1: Tess Ray
+Person_2: Julie Meyers
+Type: Situational
+Successful?: No Reply
+Reason: In M4.2, Tess asks Julie to correct the price on a deal.
+
+DFUs: M4.6
+Person_1: Tess Ray
+Person_2: Joyce Viltz
+Type: Situational
+Successful?: No Reply
+Reason: In M4.6, Tess asks Joyce to tell her when some sales volumes have been reallocated.
+
+Influence Annotation: N/A
+Person_1:
+Person_2:
+Reason:
+
+Attempt at Influence Annotation: N/A
+DFUs: 
+Person_1:
+Person_2:
+Successful?:
+Reason: 

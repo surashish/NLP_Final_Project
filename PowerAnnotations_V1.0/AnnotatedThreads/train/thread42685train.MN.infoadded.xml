@@ -1,0 +1,344 @@
+42685train
+Annotation for intention:
+
+External-event-planning: setting up a time to meet and go over a finance case
+
+Annotation for control:
+Jeff Dasovich: Jeff makes the first suggestion as to when and where to meet (it seems like message 2 was actually sent before message 1).
+
+
+
+<xml>
+
+<message>
+
+
+
+	<thread_id>42685</thread_id>
+
+
+
+	<depth>0</depth>
+
+
+
+	<type>ThreadNode</type>
+
+
+
+	<message_id>163901</message_id>
+
+	<to name="Jeff Dasovich" id="27095" address="Jeff.Dasovich@ENRON.com"/>
+
+	<to name="Jacqueline Kelly" id="51295" address="JKelly@FairIsaac.com"/>
+
+	<to name="Kimberly Kupiecki" id="67317" address="kkupiecki@arpartners.com"/>
+
+	<to name="Ted Chin" id="112109" address="tedchin@hotmail.com"/>
+
+	<from name="Jacqueline Kelly" id="51295" address="JKelly@FairIsaac.com"/>
+
+
+
+	<parent_id></parent_id>
+
+
+
+	<subject>Meet</subject>
+
+
+
+	<date_time>2000-11-07 09:28:00</date_time>
+
+
+
+	<content>
+
+    
+
+M1.1. I agree that we need to get together.
+
+[Inform: Jacqueline agrees that she and recipients need to get together]
+
+M1.2. I am going to grind out a spreadsheet
+
+tomorrow night.
+
+[Inform: Jacqueline will produce a spreadsheet tomorrow]
+
+M1.3. Unfortunately, my friends birthday dinner is Thursday
+
+night.
+
+[Inform: Jacqueline's friend's birthday dinner is Thursday night]
+Blink2.1
+
+M1.4. I know Ted is going to be gone for the weekend.
+
+[Inform: Jacqueline knows Ted is gone for the weekend]
+
+Sflink1.4
+
+M1.5. Can we get together tomorrow or over the weekend without Ted?
+
+[Request-Information: can Jacqueline and recipients meet during the weekend without Ted]
+
+Flink1.5
+
+M1.6. Ted is going
+
+to do some research on the discount rate, which can be dropped in to any
+
+analysis that we come up with.
+
+[Inform: Ted will do research on discount rate, which can be added to analysis Jacqueline and recipients will put forth]
+
+M1.7. What do you think?
+
+[Request-Information: recipients' thoughts]
+
+Flink1.7
+
+
+
+	</content>
+
+</message>
+
+<message>
+
+
+
+	<thread_id>42685</thread_id>
+
+
+
+	<depth>1</depth>
+
+
+
+	<type>ThreadNode</type>
+
+
+
+	<message_id>163898</message_id>
+
+	<to name="Jacqueline Kelly" id="51295" address="JKelly@FairIsaac.com"/>
+
+	<to name="Kimberly Kupiecki" id="67317" address="kkupiecki@arpartners.com"/>
+
+	<to name="Ted Chin" id="112109" address="tedchin@hotmail.com"/>
+
+	<from name="Jeff Dasovich" id="27095" address="Jeff.Dasovich@ENRON.com"/>
+
+
+
+	<parent_id>163901</parent_id>
+
+
+
+	<subject>Meet</subject>
+
+
+
+	<date_time>2000-11-07 11:20:00</date_time>
+
+
+
+	<content>
+
+    
+
+M2.1. Hey, I know it's a pain, but I think there would be value in getting together
+
+(if folks are available) on Thursday evening from 7-10 with (lots of) beer
+
+and pizza and grind through the finance case.
+
+[Inform: Jeff thinks it would be a good idea to meet on Thursday evening to go through finance case and eat and drink]
+Sflink2.1
+
+M2.2. We can do it at my apartment,
+
+or anywhere else you folks would like to do it.
+
+[Inform: location can be Jeff's apartment or elsewhere]
+
+M2.3. Thoughts?
+
+[Request-Information: recipients' thoughts]
+
+Flink2.3
+
+
+
+	</content>
+
+</message>
+
+<message>
+
+
+
+	<thread_id>42685</thread_id>
+
+
+
+	<depth>1</depth>
+
+
+
+	<type>ThreadNode</type>
+
+
+
+	<message_id>163906</message_id>
+
+	<to name="Jacqueline Kelly" id="51295" address="JKelly@FairIsaac.com"/>
+
+	<from name="Jeff Dasovich" id="27095" address="Jeff.Dasovich@ENRON.com"/>
+
+	<cc name="Jacqueline Kelly" id="51295" address="JKelly@FairIsaac.com"/>
+
+	<cc name="Kimberly Kupiecki" id="67317" address="kkupiecki@arpartners.com"/>
+
+	<cc name="Ted Chin" id="112109" address="tedchin@hotmail.com"/>
+
+
+
+	<parent_id>163901</parent_id>
+
+
+
+	<subject>Meet</subject>
+
+
+
+	<date_time>2000-11-07 12:43:00</date_time>
+
+
+
+	<content>
+
+    
+
+M3.1. as far as i'm concerned ted' off the team, period.  (we kid!)
+
+[Inform: joke that Ted should be kicked off of this project]
+
+Blink1.4
+
+M3.2. Tomorrow's fine with me.
+
+[Inform: tomorrow is ok with Jeff]
+
+Blink1.5
+
+
+
+	</content>
+
+</message>
+
+<message>
+
+
+
+	<thread_id>42685</thread_id>
+
+
+
+	<depth>1</depth>
+
+
+
+	<type>ThreadNode</type>
+
+
+
+	<message_id>163965</message_id>
+
+	<to name="Jacqueline Kelly" id="51295" address="JKelly@FairIsaac.com"/>
+
+	<from name="Jeff Dasovich" id="27095" address="Jeff.Dasovich@ENRON.com"/>
+
+	<cc name="Kimberly Kupiecki" id="67317" address="kkupiecki@arpartners.com"/>
+
+	<cc name="Ted Chin" id="112109" address="tedchin@hotmail.com"/>
+
+
+
+	<parent_id>163901</parent_id>
+
+
+
+	<subject>Meet</subject>
+
+
+
+	<date_time>2000-11-08 09:59:00</date_time>
+
+
+
+	<content>
+
+    
+
+M4.1. Hey:  we meeting tonite?
+
+[Request-Information: are Jeff and recipients meeting tonight]
+
+Blink1.5
+
+Flink4.1
+
+M4.2. can you BELIEVE this bloody election?
+
+[Request-Information: recipients' opinions on presidential election]
+
+Flink4.2
+
+
+
+	</content>
+
+</message>
+
+</xml>
+
+Hierarchical Power Annotation: N/A
+Person_1: 
+Person_2: 
+Reason: 
+
+Situational Power Annotation: N/A
+Person_1: 
+Person_2: 
+Reason: 
+
+Attempt at Exercising Power Annotation:
+DFUs: M2.1-M2.2
+Person_1: Jeff Dasovich
+Person_2: Jacqueline Kelly
+Type: Situational
+Successful?: N
+Reason: After Jeff suggests meeting on Thursday in message 2, in message 1 (which seems to have been sent after message 2, as a response to it), Jacqueline tells him she can't make it on Thursday.
+
+DFUs: M1.5
+Person_1: Jacqueline Kelly
+Person_2: Jeff Dasovich
+Type: Situational
+Successful?: Y
+Reason: After Jacqueline suggests meeting the next day (Wednesday), in message 3 Jeff agrees to meeting on Wednesday.
+
+Influence Annotation:
+Person_1: Jeff Dasovich
+Person_2: Jacqueline Kelly
+Reason: In message 2 (which seems to have been sent before message 1), Jeff suggests getting together. Jacqueline agrees that they should in message 1.
+
+Attempt at Influence Annotation: N/A
+DFUs: 
+Person_1:
+Person_2:
+Successful?:
+Reason: 

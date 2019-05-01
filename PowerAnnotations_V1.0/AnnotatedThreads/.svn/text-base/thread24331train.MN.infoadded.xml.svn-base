@@ -1,0 +1,177 @@
+24331train
+Annotation for intention:
+
+Knowledge-Acquisition: what Brian should do with files
+
+Annotation for control:
+Robin Rodrigue: Robin sends the only one of the two messages that contains a body, and tells Brian Kristjansen what to do with the files.
+
+
+
+<xml>
+
+<message>
+
+
+
+	<thread_id>24331</thread_id>
+
+
+
+	<depth>0</depth>
+
+
+
+	<type>ThreadNode</type>
+
+
+
+	<message_id>1092083</message_id>
+
+	<to name="Robin Rodrigue" id="40281" address="Robin.Rodrigue@ENRON.com"/>
+
+	<from name="Brian Kristjansen" id="1552" address="Brian.Kristjansen@ENRON.com"/>
+
+
+
+	<parent_id></parent_id>
+
+
+
+	<subject>TXT file</subject>
+
+
+
+	<date_time>2000-07-17 13:18:00</date_time>
+
+
+
+	<content>
+
+    
+
+M1.1. Hi Robin,
+
+[Conventional: salutation]
+
+
+
+	</content>
+
+</message>
+
+<message>
+
+
+
+	<thread_id>24331</thread_id>
+
+
+
+	<depth>1</depth>
+
+
+
+	<type>ThreadNode</type>
+
+
+
+	<message_id>1092081</message_id>
+
+	<to name="Brian Kristjansen" id="1552" address="Brian.Kristjansen@ENRON.com"/>
+
+	<from name="Robin Rodrigue" id="40281" address="Robin.Rodrigue@ENRON.com"/>
+
+
+
+	<parent_id>1092083</parent_id>
+
+
+
+	<subject>TXT file</subject>
+
+
+
+	<date_time>2000-07-17 16:22:00</date_time>
+
+
+
+	<content>
+
+    
+
+M2.1. Brian,
+
+[Conventional: salutation]
+
+M2.2. Everything was fine with the file.
+
+[Inform: everything was fine with file]
+
+M2.3. From now on could you please divide it
+
+into three separate files? [Y]
+
+[Request-Action: divide file into three separate files in the future]
+
+Flink1.3
+
+M2.4. I've attached the files that I loaded for the
+
+17th,
+
+[Inform: Robin attached files that s/he loaded for the 17th]
+
+M2.5. so if you just keep the same name (just update the date everyday) that
+
+would help me a lot. [Y]
+
+[Inform: if Brian keeps the same name with updated dates this would help Robin]
+
+M2.6. As for the master deal id, as long as they are all
+
+unique what you had was fine.
+
+[Inform: as long as master deal IDs are all unique, what Brian had was fine]
+
+M2.7. If you have any more questions just give me a call.
+
+[Inform: Brian should call if he has more questions]
+
+
+
+	</content>
+
+</message>
+
+</xml>
+
+Hierarchical Power Annotation: N/A
+Person_1: 
+Person_2: 
+Reason: 
+
+Situational Power Annotation:
+Person_1: Robin Rodrigue
+Person_2: Brian Kristjansen
+Reason: In message 2, Robin tells Brian how he should update and divide up files.
+
+Attempt at Exercising Power Annotation:
+DFUs: M2.3, M2.5
+Person_1: Robin Rodrigue
+Person_2: Brian Kristjansen
+Type: Situational
+Successful?: No Reply
+Reason: In message 2, Robin tells Brian how he should update and divide up files.
+
+Influence Annotation: N/A
+Person_1:
+Person_2:
+Reason:
+
+Attempt at Influence Annotation: N/A
+DFUs: 
+Person_1:
+Person_2:
+Successful?:
+Reason: 

@@ -1,0 +1,193 @@
+121912train
+Annotation for intention:
+
+Argumentation/Knowledge-Acquisition: why document/room/other #41 shouldn't be cleared/what happened to moving
+
+Annotation for control:
+Danny McCarty: Danny is the only sender of messages in this thread, and gives Pam Daily his argument about why 41 shouldn't be cleared, and asks her about moving.
+
+
+
+<xml>
+
+<message>
+
+
+
+	<thread_id>121912</thread_id>
+
+
+
+	<depth>0</depth>
+
+
+
+	<type>ThreadNode</type>
+
+
+
+	<message_id>725024</message_id>
+
+	<to name="Pamela Daily" id="880" address="pdaily@enron.com"/>
+
+	<from name="Danny McCarty" id="304" address="dmccarty@ENRON.COM"/>
+
+	<cc name="Rod Hayslett" id="5425" address="rhaysle@ENRON.COM"/>
+
+
+
+	<parent_id></parent_id>
+
+
+
+	<subject>Furniture</subject>
+
+
+
+	<date_time>2001-09-18 09:41:49</date_time>
+
+
+
+	<content>
+
+    
+
+M1.1. Pam,
+
+[Conventional: salutation]
+
+M1.2. I don't see why the clearing of 41 is a prerequisite.
+
+[Inform: Dan doesn't know why 41 must be cleared]
+
+M1.3. Let's just get it moved from 4th to where ever so people can see it.
+
+[Inform: they should move 41 (or its contents, if it is a room) to somewhere more visible]  
+
+M1.4. I've got a whole floor of people apprehensive about the move and wasting time talking about what the working enviornment might be like when we finally move back.
+
+[Inform: Dan knows many people who are unhappy about the move]
+
+M1.5. We've got enough to worry about, this isn't worth the noise.
+
+[Inform: Dan thinks this isn't worth all the noise that will ensue]
+
+M1.6. If people just see it, they will understand that this is not going to be a minimum footprint sardine pack, and any noise will stop.
+
+[Inform: if people see this, noise will end]
+
+M1.7. When can we expect it to be available for viewing.
+
+[Request-Information: when can 41 be available for viewing]
+
+Flink1.7
+
+M1.8. Do you want me to have Julie arrange it with Claudia?
+
+[Request-Information: should Julie arrange this with Claudia]
+
+Flink1.8
+
+M1.9. Also, What has happened to our move?
+
+[Request-Information: what happened to the move]
+
+Flink1.9
+
+M1.10. We were supposed to move yesterday, we're all packed up in boxes, and nobody seems to know what happened or when we are moving now.
+
+[Inform: moving was supposed to occur yesterday, and nobody knows what happened]
+
+M1.11. Dan
+
+[Conventional: signature]
+
+
+
+	</content>
+
+</message>
+
+<message>
+
+
+
+	<thread_id>121912</thread_id>
+
+
+
+	<depth>1</depth>
+
+
+
+	<type>ThreadNode</type>
+
+
+
+	<message_id>725028</message_id>
+
+	<to name="Pamela Daily" id="880" address="pdaily@enron.com"/>
+
+	<from name="Danny McCarty" id="304" address="dmccarty@ENRON.COM"/>
+
+
+
+	<parent_id>725024</parent_id>
+
+
+
+	<subject>Furniture</subject>
+
+
+
+	<date_time>2001-09-19 10:36:08</date_time>
+
+
+
+	<content>
+
+    
+
+M2.1. What about our move????
+
+[Request-Information: what about move]
+
+Flink2.1
+
+
+
+	</content>
+
+</message>
+
+</xml>
+
+Hierarchical Power Annotation: N/A
+Person_1: 
+Person_2: 
+Reason: 
+
+Situational Power Annotation: N/A
+Person_1: 
+Person_2: 
+Reason: 
+
+Attempt at Exercising Power Annotation: N/A
+DFUs: 
+Person_1:
+Person_2:
+Type:
+Successful?:
+Reason: 
+
+Influence Annotation: N/A
+Person_1:
+Person_2:
+Reason:
+
+Attempt at Influence Annotation:
+DFUs: M1.2-M1.6
+Person_1: Danny McCarty
+Person_2: Pamela Daily
+Successful?: No Reply
+Reason: In message 1, Danny gives Pam the reasons why he thinks clearing 41 is unnecessary.

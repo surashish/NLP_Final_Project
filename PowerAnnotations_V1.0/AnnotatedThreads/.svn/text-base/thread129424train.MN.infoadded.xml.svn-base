@@ -1,0 +1,649 @@
+129424train
+Annotation for intention:
+
+Knowledge-Acquisition/External-event-planning: details of summary judgment for TW, which was won through Enron's lawsuit against Oasis Dairy Farms/finding out how to collect this judgment
+
+Annotation for control:
+Kevin Hyatt: Kevin initiates the thread and informs several people of the details of the summary judgment, which then gets forwarded to more people by Kimberly Watson. He also tells Tracy Geaccone that he is working on finding out how to collect the money.
+
+
+
+<xml>
+
+<message>
+
+
+
+	<thread_id>129424</thread_id>
+
+
+
+	<depth>0</depth>
+
+
+
+	<type>ThreadNode</type>
+
+
+
+	<message_id>763816</message_id>
+
+	<to name="Debbie Moseley" id="30133" address="Debbie.Moseley@ENRON.com"/>
+
+	<to name="Kimberly Watson" id="66827" address="Kimberly.Watson@ENRON.com"/>
+
+	<to name="Paul Cherry" id="11446" address="Paul.Cherry@ENRON.com"/>
+
+	<from name="Kevin Hyatt" id="66073" address="Kevin.Hyatt@ENRON.com"/>
+
+	<cc name="Eric Gadd" id="2474" address="Eric.Gadd@ENRON.com"/>
+
+	<cc name="Steven Harris" id="2333" address="Steven.Harris@ENRON.com"/>
+
+	<to name="Debbie Moseley" id="30133" address="Dmosele2@ENRON.com"/>
+
+	<to name="Kimberly Watson" id="66827" address="kwatson@enron.com"/>
+
+	<to name="Paul Cherry" id="11446" address="b9fbefe6-3a4fb3b6-862566d0-70ef78@ENRON.com"/>
+
+	<from name="Kevin Hyatt" id="66073" address="khyatt@enron.com"/>
+
+	<cc name="Eric Gadd" id="2474" address="Egadd@ENRON.com"/>
+
+	<cc name="Steven Harris" id="2333" address="sharris1@enron.com"/>
+
+
+
+	<parent_id></parent_id>
+
+
+
+	<subject>Oasis Dairy Farms Judgement</subject>
+
+
+
+	<date_time>2001-10-10 10:54:04</date_time>
+
+
+
+	<content>
+
+    
+
+M1.1. Earlier this year I requested that the Enron litigation unit file suit against Oasis Dairy for collection of unpaid transport bills on TW.
+
+[Inform: lawsuit against Oasis Dairy earlier this year that Kevin requested, for collection of unpaid transport bills on Transwestern Pipeline]
+
+Sflink1.1
+
+M1.2. The suit was filed in the fifth judicial district court in Chaves County, NM.
+
+[Inform: location of court in which suit was filed]
+
+M1.3. On October 1, 2001, TW was granted summary judgement in the case by the court in the amount of $29,250.56 inclusive of back interest and attorney fees.
+
+[Inform: date on which TW was granted summary judgment, for specified amount]
+
+Sflink1.3
+
+M1.4. This amount will continue to accrue interest at 8.75% per annum until paid by Oasis.
+
+[Inform: annual rate at which interest on this amount will continue to accumulate, until Oasis pays the amount]
+
+M1.5. If you would like a copy of the judgement, please let me know.
+
+[Inform: recipient(s) should tell Kevin if they would like a copy of the judgment]
+
+M1.6. kh
+
+[Conventional: signature]
+
+
+
+	</content>
+
+</message>
+
+<message>
+
+
+
+	<thread_id>129424</thread_id>
+
+
+
+	<depth>1</depth>
+
+
+
+	<type>ThreadNode</type>
+
+
+
+	<message_id>764354</message_id>
+
+	<to name="Kevin Hyatt" id="66073" address="khyatt@enron.com"/>
+
+	<from name="Kimberly Watson" id="66827" address="kwatson@enron.com"/>
+
+
+
+	<parent_id>763816</parent_id>
+
+
+
+	<subject>Oasis Dairy Farms Judgement</subject>
+
+
+
+	<date_time>2001-10-11 17:41:37</date_time>
+
+
+
+	<content>
+
+    
+
+M2.1. Kevin,
+
+[Conventional: salutation]
+
+M2.2. Thanks for keeping up with this.
+
+[Conventional: thanks]
+
+M2.3. Kim :>)
+
+[Conventional: signature]
+
+
+
+	</content>
+
+</message>
+
+<message>
+
+
+
+	<thread_id>129424</thread_id>
+
+
+
+	<depth>1</depth>
+
+
+
+	<type>ThreadNode</type>
+
+
+
+	<message_id>764355</message_id>
+
+	<to name="Lynn Blair" id="2243" address="lblair@enron.com"/>
+
+	<from name="Kimberly Watson" id="66827" address="kwatson@enron.com"/>
+
+
+
+	<parent_id>763816</parent_id>
+
+
+
+	<subject>Oasis Dairy Farms Judgement</subject>
+
+
+
+	<date_time>2001-10-11 17:41:55</date_time>
+
+
+
+	<content>
+
+    
+
+M3.1. Lynn,
+
+[Conventional: salutation]
+
+M3.2. FYI,
+
+[Inform: the first email in the thread is presumably attached]
+
+M3.3. Kim.
+
+[Conventional: signature]
+
+
+
+	</content>
+
+</message>
+
+<message>
+
+
+
+	<thread_id>129424</thread_id>
+
+
+
+	<depth>1</depth>
+
+
+
+	<type>ThreadNode</type>
+
+
+
+	<message_id>764417</message_id>
+
+	<to name="Jan Moore" id="52078" address="Jmoore3@ENRON.com"/>
+
+	<to name="Tracy Geaccone" id="112633" address="tgeacco@enron.com"/>
+
+	<from name="Kimberly Watson" id="66827" address="kwatson@enron.com"/>
+
+
+
+	<parent_id>763816</parent_id>
+
+
+
+	<subject>Oasis Dairy Farms Judgement</subject>
+
+
+
+	<date_time>2001-10-21 16:32:48</date_time>
+
+
+
+	<content>
+
+
+
+M4.1. FYI,
+
+[Inform: the first email in the thread is presumably attached]
+
+M4.2. Kim.
+
+[Conventional: signature]
+
+
+
+	</content>
+
+</message>
+
+<message>
+
+
+
+	<thread_id>129424</thread_id>
+
+
+
+	<depth>2</depth>
+
+
+
+	<type>ThreadNode</type>
+
+
+
+	<message_id>772369</message_id>
+
+	<to name="Terry Kowalke" id="3344" address="tkowalk@enron.com"/>
+
+	<to name="Richard Hanagriff" id="1560" address="Rhanagr@ENRON.com"/>
+
+	<from name="Lynn Blair" id="2243" address="lblair@enron.com"/>
+
+
+
+	<parent_id>764355</parent_id>
+
+
+
+	<subject>Oasis Dairy Farms Judgement</subject>
+
+
+
+	<date_time>2001-10-11 18:41:47</date_time>
+
+
+
+	<content>
+
+    
+
+M5.1. Terry and Richard,
+
+[Conventional: salutation]
+
+M5.2. let's discuss. [Y]
+
+[Inform: Lynn would like to discuss lawsuit]
+
+M5.3. Thanks.
+
+[Conventional: thanks]
+
+M5.4. Lynn
+
+[Conventional: signature]
+
+
+
+	</content>
+
+</message>
+
+<message>
+
+
+
+	<thread_id>129424</thread_id>
+
+
+
+	<depth>2</depth>
+
+
+
+	<type>ThreadNode</type>
+
+
+
+	<message_id>764704</message_id>
+
+	<to name="Kimberly Watson" id="66827" address="Kimberly.Watson@ENRON.com"/>
+
+	<from name="Tracy Geaccone" id="112633" address="Tracy.Geaccone@ENRON.com"/>
+
+	<to name="Kimberly Watson" id="66827" address="kwatson@enron.com"/>
+
+	<from name="Tracy Geaccone" id="112633" address="tgeacco@enron.com"/>
+
+
+
+	<parent_id>764417</parent_id>
+
+
+
+	<subject>Oasis Dairy Farms Judgement</subject>
+
+
+
+	<date_time>2001-10-22 11:34:12</date_time>
+
+
+
+	<content>
+
+    
+
+M6.1. Any idea when or if we will receive the money?
+
+[Request-Information: if or when Tracy and others will receive money]
+
+Blink1.3
+
+Flink6.1
+
+
+
+	</content>
+
+</message>
+
+<message>
+
+
+
+	<thread_id>129424</thread_id>
+
+
+
+	<depth>2</depth>
+
+
+
+	<type>ThreadNode</type>
+
+
+
+	<message_id>764423</message_id>
+
+	<to name="Kevin Hyatt" id="66073" address="khyatt@enron.com"/>
+
+	<from name="Kimberly Watson" id="66827" address="kwatson@enron.com"/>
+
+
+
+	<parent_id></parent_id>
+
+
+
+	<subject>Oasis Dairy Farms Judgement</subject>
+
+
+
+	<date_time>2001-10-22 11:53:48</date_time>
+
+
+
+	<content>
+
+    
+
+M7.1. Kevin,
+
+[Conventional: salutation]
+
+
+
+M7.2. Who in legal have you been working with?
+
+[Request-Information: who has Kevin been working with in legal]
+
+Blink1.1
+
+Flink7.2
+
+M7.3. Tracy was wondering when we thought we would receive the money.
+
+[Inform: Tracy wanted to know when they would receive money]
+
+Blink6.1
+
+Sflink7.3
+
+
+
+M7.4. Thanks, Kim.
+
+[Conventional: thanks, signature]
+
+
+
+	</content>
+
+</message>
+
+<message>
+
+
+
+	<thread_id>129424</thread_id>
+
+
+
+	<depth>3</depth>
+
+
+
+	<type>ThreadNode</type>
+
+
+
+	<message_id>772373</message_id>
+
+	<to name="Richard Hanagriff" id="1560" address="Rhanagr@ENRON.com"/>
+
+	<to name="Terry Kowalke" id="3344" address="tkowalk@enron.com"/>
+
+	<from name="Lynn Blair" id="2243" address="lblair@enron.com"/>
+
+
+
+	<parent_id></parent_id>
+
+
+
+	<subject>Oasis Dairy Farms Judgement</subject>
+
+
+
+	<date_time>2001-10-12 10:54:27</date_time>
+
+
+
+	<content>
+
+    
+
+M8.1. So is there nothing for us to do?
+
+[Request-Information: is there nothing for Lynn et al. to do]
+
+Flink8.1
+
+M8.2. Thanks.
+
+[Conventional: thanks]
+
+M8.3. Lynn
+
+[Conventional: signature]
+
+
+
+	</content>
+
+</message>
+
+<message>
+
+
+
+	<thread_id>129424</thread_id>
+
+
+
+	<depth>3</depth>
+
+
+
+	<type>ThreadNode</type>
+
+
+
+	<message_id>763857</message_id>
+
+	<to name="Kimberly Watson" id="66827" address="Kimberly.Watson@ENRON.com"/>
+
+	<from name="Kevin Hyatt" id="66073" address="Kevin.Hyatt@ENRON.com"/>
+
+	<cc name="Tracy Geaccone" id="112633" address="Tracy.Geaccone@ENRON.com"/>
+
+	<to name="Kimberly Watson" id="66827" address="kwatson@enron.com"/>
+
+	<from name="Kevin Hyatt" id="66073" address="khyatt@enron.com"/>
+
+	<cc name="Tracy Geaccone" id="112633" address="tgeacco@enron.com"/>
+
+
+
+	<parent_id>764423</parent_id>
+
+
+
+	<subject>Oasis Dairy Farms Judgement</subject>
+
+
+
+	<date_time>2001-10-22 13:33:48</date_time>
+
+
+
+	<content>
+
+    
+
+M9.1. Bonnie White is the attorney.
+
+[Inform: name of attorney who Kevin has been working with]
+
+Blink7.2
+
+M9.2. I have already called her to find out what our collection process is (if any).
+
+[Inform: Kevin called Bonnie to find out about collection process, if there is one]
+
+Blink7.3
+
+M9.3. I know some guys named Guido and Mario who'll be happy to do it for 50% of the money.
+
+[Inform: Guido and Mario will work for half price]
+
+M9.4. I'll let you know what I find out.
+
+[Inform: Kevin will let Tracy know what he finds out]
+
+M9.5. kh
+
+[Conventional: signature]
+
+
+
+	</content>
+
+</message>
+
+</xml>
+
+Hierarchical Power Annotation: N/A
+Person_1:
+Person_2:
+Reason:
+
+Situational Power Annotation:
+Person_1: Kevin Hyatt
+Person_2: Kimberly Watson
+Reason: Kevin sends message 1 out to several people to inform them of a settlement Enron got. Messages 3 and 4 are Kim's forwards of this message, and message 7 is a relay from Kim to Kevin of Tracy's question.
+
+Person_1: Kevin Hyatt
+Person_2: Tracy Geaccone
+Reason: In message 6, Tracy asks when they will receive the money, and in message 9 Kevin informs her of what he is doing to find this out. It seems like he is more on top of this than Tracy is.
+
+Attempt at Exercising Power Annotation:
+DFUs: M5.2
+Person_1: Lynn Blair
+Person_2: Terry Kowalke, Richard Hanagriff
+Type: Situational
+Successful?: No Reply
+Reason: In message 5, Lynn asks Terry and Richard to discuss the summary judgment with her. In message 8, she asks them whether there is nothing else to do, but it is unclear whether they ever had a discussion.
+
+Influence Annotation: N/A
+Person_1:
+Person_2:
+Reason:
+
+Attempt at Influence Annotation: N/A
+DFUs: 
+Person_1:
+Person_2:
+Successful?:
+Reason: 

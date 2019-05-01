@@ -1,0 +1,492 @@
+81
+Annotation for intention:
+
+Collaboration-on-information-product/Knowledge-Acquisition: updating trading track rotations document, then discussion of interview plan
+
+
+Annotation for control:
+Karen Buckley: Karen initiates the thread. She sends out directives in Message 1 and Message 3 in order to achieve the intention of updating the trading track rotations document. She sends out information on the interview plan in Message 5.
+
+
+
+<?xml version="1.0"?>
+
+
+
+<!--
+
+-
+
+- Sequel Pro dump
+
+- Version 155
+
+- http://code.google.com/p/sequel-pro
+
+-
+
+- Host: 127.0.0.1 (MySQL 5.0.67)
+
+- Database: enron
+
+- Generation Time: 2008-11-17 16:56:54 -0500
+
+-
+
+-->
+
+
+
+	<custom>
+
+	<row>
+
+		<thread_id>81</thread_id>
+
+		<depth>0</depth>
+
+		<type>ThreadNode</type>
+
+		<message_id>284996</message_id>
+
+	<to name="Doug Gilbert-smith" id="805" address="Doug.Gilbert-Smith@ENRON.com"/>
+
+	<to name="Lloyd Will" id="2796" address="Lloyd.Will@ENRON.com"/>
+
+	<to name="Stacey W White" id="2310" address="Stacey.W.White@ENRON.com"/>
+
+	<to name="Don Baughman Jr" id="6010" address="Don.Baughman@ENRON.com"/>
+
+	<to name="Harry Arora" id="2445" address="Harry.Arora@ENRON.com"/>
+
+	<to name="Mark Dana Davis" id="5075" address="Dana.Davis@ENRON.com"/>
+
+	<to name="Louise Kitchen" id="14758" address="Rogers.Herndon@ENRON.com"/>
+
+	<to name="David Gossett" id="20863" address="David.Gossett@ENRON.com"/>
+
+	<to name="Chris Gaskill" id="12620" address="Chris.Gaskill@ENRON.com"/>
+
+	<to name="Robert Superty" id="3385" address="Robert.Superty@ENRON.com"/>
+
+	<to name="Fred Lagrasta" id="4902" address="Fred.Lagrasta@ENRON.com"/>
+
+	<to name="Ed McMichael Jr" id="1599" address="Ed.McMichael@ENRON.com"/>
+
+	<to name="Scott Neal" id="85818" address="Scott.Neal@ENRON.com"/>
+
+	<from name="Karen Buckley" id="17792" address="Karen.Buckley@ENRON.com"/>
+
+	<to name="Doug Gilbert-smith" id="805" address="252841e-ff4f6af2-86256881-52c8f9@ENRON.com"/>
+
+	<to name="Lloyd Will" id="2796" address="lwill@enron.com"/>
+
+	<to name="Stacey W White" id="2310" address="64b26e5d-217acff6-8625665d-76b99e@ENRON.com"/>
+
+	<to name="Don Baughman Jr" id="6010" address="AEFF4E89-1CD73C39-86256659-5290F3@ENRON.com"/>
+
+	<to name="Harry Arora" id="2445" address="harora@enron.com"/>
+
+	<to name="Mark Dana Davis" id="5075" address="ddavis@enron.com"/>
+
+	<to name="Rogers Herndon" id="2438" address="6AA81A13-79303B50-862566EB-59BF78@ENRON.com"/>
+
+	<to name="David Gossett" id="20863" address="cf2aee90-40a8d4f7-882568d9-4b4af9@ENRON.com"/>
+
+	<to name="Chris Gaskill" id="12620" address="Cgaskill@ENRON.com"/>
+
+	<to name="Robert Superty" id="3385" address="Rsupert@ENRON.com"/>
+
+	<to name="Fred Lagrasta" id="4902" address="Flagras@ENRON.com"/>
+
+	<to name="Ed McMichael Jr" id="1599" address="Emcmich@ENRON.com"/>
+
+	<to name="Scott Neal" id="85818" address="sneal@enron.com"/>
+
+	<from name="Karen Buckley" id="17792" address="Kbuckley@ENRON.com"/>
+
+		<parent_id>NULL</parent_id>
+
+		<subject>Existing Trading Track Rotations</subject>
+
+		<date_time>2001-05-23 12:04:31</date_time>
+
+		<content>
+
+M1.1. Attached is the current list of rotations for the Trading Track participants and future assigned rotations (as decided at the time of hiring).
+
+[Inform: document attached]
+
+
+
+M1.2. Can you please re-confirm you have these people in your group currently,
+
+M1.3. as I appear to have conflicting information. [Y]
+
+[Request-Action: re-confirm list of rotations because there are conflicts now]
+
+Flink1.3
+
+
+
+M1.4. I will re-send, if any changes occur.
+
+[Inform: will re-send list if it needs updating]
+
+
+
+M1.5. If there is any movement of these people between groups can you plese keep me in the loop. [Y]
+
+[Request-Information: ongoing, request to keep her appraised of changes on list]
+
+Flink1.5
+
+
+
+M1.6. Kind regards,
+
+
+
+M1.7. Karen.
+
+M1.8. x54667
+
+[Conventional: signature]
+
+
+
+</content>
+
+	</row>
+
+	<row>
+
+		<thread_id>81</thread_id>
+
+		<depth>1</depth>
+
+		<type>ThreadNode</type>
+
+		<message_id>30994</message_id>
+
+	<to name="Karen Buckley" id="17792" address="Karen.Buckley@ENRON.com"/>
+
+	<to name="Doug Gilbert-smith" id="805" address="Doug.Gilbert-Smith@ENRON.com"/>
+
+	<to name="Stacey W White" id="2310" address="Stacey.W.White@ENRON.com"/>
+
+	<to name="Don Baughman Jr" id="6010" address="Don.Baughman@ENRON.com"/>
+
+	<to name="Harry Arora" id="2445" address="Harry.Arora@ENRON.com"/>
+
+	<to name="Mark Dana Davis" id="5075" address="Dana.Davis@ENRON.com"/>
+
+	<to name="Louise Kitchen" id="14758" address="Rogers.Herndon@ENRON.com"/>
+
+	<to name="David Gossett" id="20863" address="David.Gossett@ENRON.com"/>
+
+	<to name="Chris Gaskill" id="12620" address="Chris.Gaskill@ENRON.com"/>
+
+	<to name="Robert Superty" id="3385" address="Robert.Superty@ENRON.com"/>
+
+	<to name="Fred Lagrasta" id="4902" address="Fred.Lagrasta@ENRON.com"/>
+
+	<to name="Ed McMichael Jr" id="1599" address="Ed.McMichael@ENRON.com"/>
+
+	<to name="Scott Neal" id="85818" address="Scott.Neal@ENRON.com"/>
+
+	<from name="Lloyd Will" id="2796" address="Lloyd.Will@ENRON.com"/>
+
+	<to name="Karen Buckley" id="17792" address="Kbuckley@ENRON.com"/>
+
+	<to name="Doug Gilbert-smith" id="805" address="252841e-ff4f6af2-86256881-52c8f9@ENRON.com"/>
+
+	<to name="Stacey W White" id="2310" address="64b26e5d-217acff6-8625665d-76b99e@ENRON.com"/>
+
+	<to name="Don Baughman Jr" id="6010" address="Dbaughm@ENRON.com"/>
+
+	<to name="Harry Arora" id="2445" address="harora@enron.com"/>
+
+	<to name="Mark Dana Davis" id="5075" address="ddavis@enron.com"/>
+
+	<to name="Rogers Herndon" id="2438" address="6AA81A13-79303B50-862566EB-59BF78@ENRON.com"/>
+
+	<to name="David Gossett" id="20863" address="cf2aee90-40a8d4f7-882568d9-4b4af9@ENRON.com"/>
+
+	<to name="Chris Gaskill" id="12620" address="Cgaskill@ENRON.com"/>
+
+	<to name="Robert Superty" id="3385" address="Rsupert@ENRON.com"/>
+
+	<to name="Fred Lagrasta" id="4902" address="Flagras@ENRON.com"/>
+
+	<to name="Ed McMichael Jr" id="1599" address="Emcmich@ENRON.com"/>
+
+	<to name="Scott Neal" id="85818" address="sneal@enron.com"/>
+
+	<from name="Lloyd Will" id="2796" address="lwill@enron.com"/>
+
+		<parent_id>284996</parent_id>
+
+		<subject>Existing Trading Track Rotations</subject>
+
+		<date_time>2001-05-24 13:54:28</date_time>
+
+		<content>
+
+
+
+M2.1. Karen attached is the latest status of the power trading track folks.
+
+[Inform: updated document attached]
+
+Blink1.3
+
+
+
+M2.2. I will use your template going forward to track changes.
+
+[Commit: will use her document to track updates]
+
+Blink1.5
+
+
+
+M2.3. Thanks.
+
+[Conventional: thanks]
+
+
+
+</content>
+
+	</row>
+
+	<row>
+
+		<thread_id>81</thread_id>
+
+		<depth>1</depth>
+
+		<type>ThreadNode</type>
+
+		<message_id>1033837</message_id>
+
+	<to name="John Lavorato" id="2273" address="John.J.Lavorato@ENRON.com"/>
+
+	<to name="Kimberly Hillis" id="66518" address="Kimberly.Hillis@ENRON.com"/>
+
+	<from name="Karen Buckley" id="17792" address="Karen.Buckley@ENRON.com"/>
+
+	<to name="John Lavorato" id="2273" address="JLAVORA@ENRON.com"/>
+
+	<to name="Kimberly Hillis" id="66518" address="Khillis@ENRON.com"/>
+
+	<from name="Karen Buckley" id="17792" address="Buckley@ENRON.com"/>
+
+	<from name="Karen Denne" id="40948" address="Karen@ENRON.com"/>
+
+		<parent_id>284996</parent_id>
+
+		<subject>Existing Trading Track Rotations</subject>
+
+		<date_time>2001-05-23 12:12:32</date_time>
+
+		<content>
+
+
+
+M3.1. John
+
+[Conventional: salutation]
+
+
+
+M3.2. Following the interviews next week,
+
+M3.3. suggest your management team get together to review the rotations for the Trading Track,
+
+M3.4. to see if they continue to meet business/Employe needs to ensure we have accurate data from a tracking perspective. [Y]
+
+[Request-Action: gather team to review rotations list to ensure they meet business and employee needs and are accurate]
+
+Flink3.4
+
+
+
+M3.5.Karen
+
+[Conventional: signature]
+
+
+
+</content>
+
+	</row>
+
+	<row>
+
+		<thread_id>81</thread_id>
+
+		<depth>2</depth>
+
+		<type>ThreadNodeBubble</type>
+
+		<message_id>2000025</message_id>
+
+		<parent_id>1033837</parent_id>
+
+		<subject>Existing Trading Track Rotations</subject>
+
+		<date_time>2001-05-24 10:38:36</date_time>
+
+		<content>
+
+
+
+M4.1. Great.
+
+[Inform: John received Karen's suggestion to gather team to review rotations list and seems to agree to it]
+
+
+
+M4.2. Do we have any outside people.
+
+[Request-Information: are there outside people]
+
+Flink4.2
+
+
+
+</content>
+
+	</row>
+
+	<row>
+
+		<thread_id>81</thread_id>
+
+		<depth>3</depth>
+
+		<type>ThreadNode</type>
+
+		<message_id>1033836</message_id>
+
+	<to name="John Lavorato" id="2273" address="John.J.Lavorato@ENRON.com"/>
+
+	<from name="Karen Buckley" id="17792" address="Karen.Buckley@ENRON.com"/>
+
+	<to name="John Lavorato" id="2273" address="JLAVORA@ENRON.com"/>
+
+	<from name="Karen Buckley" id="17792" address="Buckley@ENRON.com"/>
+
+	<from name="Karen Denne" id="40948" address="Karen@ENRON.com"/>
+
+		<parent_id>2000025</parent_id>
+
+		<subject>Existing Trading Track Rotations</subject>
+
+		<date_time>2001-05-25 09:04:40</date_time>
+
+		<content>
+
+
+
+M5.1. Yes,   we have 5 externals coming in next  Wednesday.
+
+[Inform: 5 outside people coming]
+
+Blink4.2
+
+
+
+M5.2. From the 32 resumes shortlisted by you
+
+M5.3. 14 of which were interviewed by your direct reports (remainder were not interested in Houston/job)
+
+M5.4. 8 of which were recommeded by your traders
+
+M5.5. 6 of which accepted an 2nd round interview 
+
+M5.6. (five of which are confirmed for next Wednesday, 1 could not make that date)
+
+M5.7. We therefore have a confirmd number of 15 to interview next Wednesday,
+
+M5.8. however I was given additional internal names last night to follow up on this am.
+
+[Inform: breakdown of interview candidates]
+
+
+
+M5.9. I will confirm exact number of interviews later this morning but could be anywhere in the region from 15-20.
+
+[Commit: Karen will confirm exact number this morning]
+
+
+
+M5.10. I have asked the current group in the Trading Track to faciliate an office tour of the trading floors/gas control room.
+
+M5.11. Following which there will be an informal lunch for all of the candidates in one of the conference rooms to include the current Trading Track folks.
+
+M5.12. Interviews will follow at 2.00 pm at the Allen Center.
+
+[Inform: order of events for Wednesday’s interviews]
+
+
+
+M5.13. Schedules are being formalised today and will be forwarded to you.
+
+[Inform: schedules will be sent when they are formalized]
+
+
+
+M5.14. Thanks,
+
+[Conventional: thanks]
+
+
+
+</content>
+
+	</row>
+
+	</custom>
+
+
+Hierarchical Power Annotation: N/A
+Person_1: 
+Person_2: 
+Reason: 
+
+Situational Power Annotation:
+Person_1: Karen Buckley
+Person_2: John Lavorato, Lloyd Will
+Reason: In messages 1 and 3 Karen gives specific directives to John, Lloyd, and the others. In message 2 Lloyd complies with her request from message 1, and in message 4, John seems to agree with her order from message 3.
+
+Attempt at Exercising Power Annotation:
+DFUs: M1.2-M1.5
+Person_1: Karen Buckley
+Person_2: Lloyd Will
+Type: Situational
+Successful?: Y
+Reason: Lloyd complies with Karen’s request in M2.1-M2.2. 
+
+DFUs: M3.2-M3.4
+Person_1: Karen Buckley
+Person_2: John Lavorato
+Type: Situational
+Successful?: Y
+Reason: John complies with Karen's request in M4.1.
+
+Influence Annotation: N/A
+Person_1:
+Person_2:
+Reason:
+
+Attempt at Influence Annotation: N/A
+DFUs: 
+Person_1:
+Person_2:
+Successful?:
+Reason: 
+
+

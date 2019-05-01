@@ -1,0 +1,105 @@
+118220train
+Annotation for intention:
+
+Social: sending a photo
+
+Annotation for control:
+Mark Palmer: Mark is the only sender in this thread and he sends the photo to the others.
+
+
+
+<xml>
+
+<message>
+
+
+
+	<thread_id>118220</thread_id>
+
+
+
+	<depth>0</depth>
+
+
+
+	<type>ThreadNode</type>
+
+
+
+	<message_id>1111940</message_id>
+
+	<to name="Richard Shapiro" id="2482" address="Richard.Shapiro@ENRON.com"/>
+
+	<to name="Steven J Kean" id="18327" address="steve.kean@enron.com"/>
+
+	<from name="Mark Palmer" id="1277" address="Mark.Palmer@ENRON.com"/>
+
+	<to name="Richard Shapiro" id="270" address="rshapiro@enron.com"/>
+
+	<to name="Steven J Kean" id="18327" address="skean@enron.com"/>
+
+	<from name="Mark Palmer" id="1277" address="mpalmer@enron.com"/>
+
+
+
+	<parent_id></parent_id>
+
+
+
+	<subject>My In-Laws</subject>
+
+
+
+	<date_time>2001-08-29 17:36:42</date_time>
+
+
+
+	<content>
+
+    
+
+M1.1. Here's the latest Glamour-Shot of my brother-in-law and his family.
+
+[Inform: presumably attached photo is of Mark's in-laws]  
+
+M1.2. Missouri white trash have never looked better.
+
+[Inform: Mark jokes about his in-laws being white trash from Missouri]
+
+
+
+	</content>
+
+</message>
+
+</xml>
+
+Hierarchical Power Annotation: N/A
+Person_1: 
+Person_2: 
+Reason: 
+
+Situational Power Annotation: N/A
+Person_1: 
+Person_2: 
+Reason: 
+
+Attempt at Exercising Power Annotation: N/A
+DFUs: 
+Person_1:
+Person_2:
+Type:
+Successful?:
+Reason: 
+
+Influence Annotation: N/A
+Person_1:
+Person_2:
+Reason:
+
+Attempt at Influence Annotation: N/A
+DFUs: 
+Person_1:
+Person_2:
+Successful?:
+Reason: 

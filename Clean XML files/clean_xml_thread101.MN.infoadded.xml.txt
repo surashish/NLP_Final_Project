@@ -1,0 +1,151 @@
+<custom>
+
+	<row>
+
+		<thread_id>101</thread_id>
+
+		<depth>0</depth>
+
+		<type>ThreadNode</type>
+
+		<message_id>44503</message_id>
+
+	<to name="Doug Gilbert-smith" id="805" address="Doug.Gilbert-Smith@ENRON.com"/>
+
+	<from name="Stacey W White" id="2310" address="Stacey.W.White@ENRON.com"/>
+
+	<to name="Doug Gilbert-smith" id="805" address="dsmith3@enron.com"/>
+
+	<from name="Stacey W White" id="2310" address="64b26e5d-217acff6-8625665d-76b99e@ENRON.com"/>
+
+		<parent_id>NULL</parent_id>
+
+		<subject>LT Ercot Schedule C</subject>
+
+		<date_time>2001-05-25 16:56:21</date_time>
+
+		<content>
+
+        
+
+M1.1. Did you get this reserve cleared through Lavorato?
+
+[Request-Information: did Doug get a reserve cleared through Lavorato]
+
+Flink1.1
+
+M1.2. If you have not, can you do so immediately. [Y]
+
+[Request-Information: if Doug has not gotten the reserve cleared, can he do so ASAP]
+
+Flink1.2
+
+
+
+</content>
+
+	</row>
+
+	<row>
+
+		<thread_id>101</thread_id>
+
+		<depth>1</depth>
+
+		<type>ThreadNodeBubble</type>
+
+		<message_id>2000031</message_id>
+
+		<parent_id>44503</parent_id>
+
+		<subject>LT Ercot Schedule C</subject>
+
+		<date_time>2001-05-27 15:26:38</date_time>
+
+		<content>
+
+        
+
+M2.1. Kevin,
+
+[Conventional: salutation]
+
+
+
+M2.2. This is for the full requirements uncertainty associated with green mountain and includes a reserve against teh liabilitiy exposure for the QSE agreements.
+
+[Inform: Doug is attaching something including the reserve Kevin asked for]
+
+Blink1.2
+
+
+
+M2.3. Please let me know if you have any other questions,
+
+[Conventional: Kevin should let Doug know if he has other questions]
+
+Sflink2.3
+
+
+
+M2.4. Doug
+
+[Conventional: signature]
+
+
+
+</content>
+
+	</row>
+
+	<row>
+
+		<thread_id>101</thread_id>
+
+		<depth>2</depth>
+
+		<type>ThreadNode</type>
+
+		<message_id>1033889</message_id>
+
+	<to name="John Lavorato" id="2273" address="John.J.Lavorato@ENRON.com"/>
+
+	<from name="Kevin M Presto" id="19920" address="Kevin.M.Presto@ENRON.com"/>
+
+	<to name="John Lavorato" id="2273" address="JLAVORA@ENRON.com"/>
+
+	<from name="Kevin Miller" id="66131" address="Presto@ENRON.com"/>
+
+	<from name="Kevin M Presto" id="19920" address="Kevin.M@ENRON.com"/>
+
+		<parent_id>2000031</parent_id>
+
+		<subject>LT Ercot Schedule C</subject>
+
+		<date_time>2001-05-29 13:56:55</date_time>
+
+		<content>
+
+        
+
+M3.1. I need approval for this ERCOT Schedule C. [Y]
+
+[Inform: Kevin needs approval for the ERCOT Schedule C]
+
+Blink2.3
+
+M3.2. The e-mail from Stacey outlines the details.
+
+[Inform: email from Stacey outlines details]
+
+M3.3. Thanks.
+
+[Conventional: thanks]
+
+
+
+</content>
+
+	</row>
+
+	</custom>

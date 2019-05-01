@@ -1,0 +1,135 @@
+83937train
+Annotation for intention:
+
+External-event-planning: collecting money for a gift certificate for an administrative assistant
+
+Annotation for control:
+Tori Kuykendall: Tori is the only sender in the thread and tells the others they need to contribute to a gift for Ina, the administrative assistant.
+
+
+
+<xml>
+
+<message>
+
+
+
+	<thread_id>83937</thread_id>
+
+
+
+	<depth>0</depth>
+
+
+
+	<type>ThreadNode</type>
+
+
+
+	<message_id>903538</message_id>
+
+	<to name="Monique Sanchez" id="2834" address="Monique.Sanchez@ENRON.com"/>
+
+	<to name="Keith Holst" id="2877" address="Keith.Holst@ENRON.com"/>
+
+	<to name="Phillip K Allen" id="2937" address="Phillip.K.Allen@ENRON.com"/>
+
+	<to name="Frank Ermis" id="5090" address="Frank.Ermis@ENRON.com"/>
+
+	<to name="Mike Grigsby" id="2587" address="Mike.Grigsby@ENRON.com"/>
+
+	<to name="Jane M Tholt" id="52172" address="Jane.M.Tholt@ENRON.com"/>
+
+	<to name="Matthew Lenhart" id="40160" address="Matthew.Lenhart@ENRON.com"/>
+
+	<to name="Randall L Gay" id="93942" address="Randall.L.Gay@ENRON.com"/>
+
+	<to name="Jay Reitmeyer" id="18492" address="Jay.Reitmeyer@ENRON.com"/>
+
+	<to name="Susan Scott" id="18455" address="Susan.M.Scott@ENRON.com"/>
+
+	<from name="Tori Kuykendall" id="1581" address="Tori.Kuykendall@ENRON.com"/>
+
+
+
+	<parent_id></parent_id>
+
+
+
+	<subject>Admin Asst's Day</subject>
+
+
+
+	<date_time>2001-04-24 11:31:00</date_time>
+
+
+
+	<content>
+
+    
+
+M1.1. We need to get something for Ina for Admin Asst's Day - it is tomorrow.
+
+[Inform: recipients need to get something for Ina for Administrative Assistants' Day]
+
+M1.2. I
+
+will take a collection of $10 from each person and get a gift certificate
+
+from Foley's if that is okay with everyone.
+
+[Inform: Tori will collect $10 from everyone and get a gift certificate from Foley's if everyone agrees to it]
+
+M1.3. I will probably have to go get
+
+the gift certificate tonight - so please dont stick me with more than my
+
+share of the bill.
+
+[Inform: Tori will probably have to get gift certificate tonight, so would not like to have to pay more than everyone else]
+
+M1.4. ( Thats what happened last time)
+
+[Inform: last time, Tori ended up paying more than her share]
+
+M1.5. Thanks.
+
+[Conventional: thanks]
+
+
+
+	</content>
+
+</message>
+
+</xml>
+
+Hierarchical Power Annotation: N/A
+Person_1: 
+Person_2: 
+Reason: 
+
+Situational Power Annotation:
+Person_1: Tori Kuykendall
+Person_2: To(1)
+Reason: Tori tells the others to contribute to Ina's gift, showing that Tori is in charge of the collection.
+
+Attempt at Exercising Power Annotation:
+DFUs: M1.1-M1.3
+Person_1: Tori Kuykendall
+Person_2: To(1)
+Type: Situational
+Successful?: No Reply
+Reason: Tori tells the others to contribute to Ina's gift, showing that Tori is in charge of the collection.
+
+Influence Annotation: N/A
+Person_1:
+Person_2:
+Reason:
+
+Attempt at Influence Annotation: N/A
+DFUs: 
+Person_1:
+Person_2:
+Successful?:
+Reason: 

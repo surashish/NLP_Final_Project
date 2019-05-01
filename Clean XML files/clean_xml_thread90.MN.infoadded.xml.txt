@@ -1,0 +1,195 @@
+<custom>
+
+	<row>
+
+		<thread_id>90</thread_id>
+
+		<depth>0</depth>
+
+		<type>ThreadNode</type>
+
+		<message_id>273442</message_id>
+
+	<to name="Louise Kitchen" id="14758" address="Don.Black@ENRON.com"/>
+
+	<to name="Rogers Herndon" id="2438" address="6AA81A13-79303B50-862566EB-59BF78@ENRON.com"/>
+
+	<to name="Jess Hewitt" id="48190" address="Jess.Hewitt@ENRON.com"/>
+
+	<to name="Neil Bresnan" id="29847" address="Neil.Bresnan@ENRON.com"/>
+
+	<to name="Mark Jackson" id="35824" address="Mark.Jackson@ENRON.com"/>
+
+	<to name="Mallik Avs" id="10917" address="Mallik.Avs@ENRON.com"/>
+
+	<to name="James W Lewis" id="51867" address="James.W.Lewis@ENRON.com"/>
+
+	<to name="Mary lynne Ruffer" id="1728" address="MaryLynne.Ruffer@ENRON.com"/>
+
+	<to name="Neil Hong" id="26993" address="Neil.Hong@ENRON.com"/>
+
+	<to name="Meredith M Eggleston" id="79490" address="Meredith.M.Eggleston@ENRON.com"/>
+
+	<to name="Scott Mills" id="1704" address="Scott.Mills@ENRON.com"/>
+
+	<from name="Wade Stubblefield" id="109555" address="Wade.Stubblefield@ENRON.com"/>
+
+	<cc name="Wes Colwell" id="5416" address="Wes.Colwell@ENRON.com"/>
+
+	<cc name="Sally Beck" id="46153" address="Sally.Beck@ENRON.com"/>
+
+	<cc name="Rachel Bryant" id="35773" address="Rachel.Bryant@ENRON.com"/>
+
+	<cc name="Rachel Massey" id="30728" address="Rachel.Massey@ENRON.com"/>
+
+	<cc name="Faith Killen" id="40367" address="Faith.Killen@ENRON.com"/>
+
+	<cc name="Beth Apollo" id="11750" address="Beth.Apollo@ENRON.com"/>
+
+	<to name="Don Black" id="1399" address="3FB677C9-5533A11E-8625699D-71B01E@ENRON.com"/>
+
+	<to name="Jess Hewitt" id="4764" address="A5480D5E-D3F1AEA3-625699F-797DE4@ENRON.com"/>
+
+	<to name="Neil Bresnan" id="29847" address="DC75CF5A-EBD2BACF-862566C5-6B3C9B@ENRON.com"/>
+
+	<to name="Mark Jackson" id="35824" address="E316EE86-3FB94D67-862568D2-50A0F6@ENRON.com"/>
+
+	<to name="Mallik Avs" id="5086" address="ab637232-34eba2e6-86256920-60855e@ENRON.com"/>
+
+	<to name="James Lewis" id="335" address="160d115f-e3a12228-862564cd-53ae9a@ENRON.com"/>
+
+	<to name="Mary lynne Ruffer" id="1728" address="4ca96a86-ff0622d1-862569d1-7961c3@ENRON.com"/>
+
+	<to name="Neil Hong" id="26993" address="d4f733e3-1d5291e1-8625679a-67d0ff@ENRON.com"/>
+
+	<to name="Meredith Eggleston" id="988" address="2de195a1-22f62865-862564e3-6cff73@ENRON.com"/>
+
+	<to name="Scott Mills" id="1704" address="4c0d8397-c4264103-862569ce-57c8ad@ENRON.com"/>
+
+	<from name="Wade Stubblefield" id="1752" address="4dad4484-cce8dee5-862567d2-7524a8@ENRON.com"/>
+
+	<cc name="Wes Colwell" id="5416" address="WCOLWEL@ENRON.com"/>
+
+	<cc name="Sally Beck" id="46153" address="Sbeck@ENRON.com"/>
+
+	<cc name="Rachel Bryant" id="35773" address="E1E1D115-E4984CC1-862569E0-712578@ENRON.com"/>
+
+	<cc name="Rachel Massey" id="30728" address="dee99b83-3e9a38e8-86256942-7322e3@ENRON.com"/>
+
+	<cc name="Faith Killen" id="40367" address="Fkillen@ENRON.com"/>
+
+	<cc name="Beth Apollo" id="11750" address="bapollo@enron.com"/>
+
+		<parent_id>NULL</parent_id>
+
+		<subject>Transfers from EES</subject>
+
+		<date_time>2001-05-24 18:25:04</date_time>
+
+		<content>
+
+M1.1. Attached is the latest version of the cost center assignments for the transfers out of EES.
+
+[Inform: latest version of cost center assgts for EES transfers is attached]
+
+M1.2. These transfers will be effective July 1, 2001
+
+M1.3. and I need to get this to HR by Friday, June 1, 2001 to give them time to get everything effected.
+
+[Inform: transfers will be effective on 7/1/01 and they need to get to HR by 6/1/01]
+
+
+
+M1.4. I think I have incorporated all your comments,
+
+M1.5. but please review one more time and make sure we have not included anyone we shouldn't have or excluded anyone.
+
+[Inform: Wade thinks he has included all comments but wants the attachment reviewed again]
+
+M1.6. You'll note that at this point we are not forming East and West risk management cost centers.
+
+M1.7. Don and Rogers have decided for cost management purposes to leave it consolidated at this point.
+
+[Inform: East and West risk management cost centers are consolidated for now]
+
+
+
+M1.8. Once you have signed off on your groupings, Rachel Massey in Corporate Planning will be working with each of you to forecast your Q3 and Q4 cost center expense plans.
+
+[Inform: once people have signed off on groupings, Corporate Planning will forecast each person's Q3 and Q4 cost center expense plan]
+
+
+
+M1.9. Please let me know ASAP of any changes [Y]
+
+M1.10. and don't hesitate to call with questions.
+
+[Inform: recipients should let Wade know of any changes or questions]
+
+Sflink1.10
+
+
+
+M1.11. Thanks
+
+[Conventional: thanks]
+
+
+
+M1.12. Wade
+
+[Conventional: signature]
+
+
+
+</content>
+
+	</row>
+
+	<row>
+
+		<thread_id>90</thread_id>
+
+		<depth>1</depth>
+
+		<type>ThreadNode</type>
+
+		<message_id>273440</message_id>
+
+	<to name="Wade Stubblefield" id="109555" address="Wade.Stubblefield@ENRON.com"/>
+
+	<from name="Beth Apollo" id="11750" address="Beth.Apollo@ENRON.com"/>
+
+	<cc name="Sally Beck" id="46153" address="Sally.Beck@ENRON.com"/>
+
+	<to name="Wade Stubblefield" id="1752" address="4dad4484-cce8dee5-862567d2-7524a8@ENRON.com"/>
+
+	<from name="Beth Apollo" id="11750" address="bapollo@enron.com"/>
+
+	<cc name="Sally Beck" id="46153" address="Sbeck@ENRON.com"/>
+
+		<parent_id>273442</parent_id>
+
+		<subject>Transfers from EES</subject>
+
+		<date_time>2001-05-25 08:23:42</date_time>
+
+		<content>
+
+M2.1. The last group you have listed  &quot;data management&quot; is staying with EES as far as I know.
+
+[Inform: the group "data management" is staying with EES]
+
+M2.2. Everything else looks ok to me
+
+[Inform: everything else is fine]
+
+Blink1.10
+
+
+
+</content>
+
+	</row>
+
+	</custom>

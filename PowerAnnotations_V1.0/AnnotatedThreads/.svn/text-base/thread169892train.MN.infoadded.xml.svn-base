@@ -1,0 +1,434 @@
+169892train
+Annotation for intention:
+
+Collaboration-on-information-product: collecting status reports and spreadsheets about contract process as well as contracts themselves, for a transition plan
+
+Annotation for control:
+Robert Superty: Bob initiates the thread and asks the others for the status reports, spreadsheets, and contracts.
+
+
+
+<xml>
+
+<message>
+
+
+
+	<thread_id>169892</thread_id>
+
+
+
+	<depth>0</depth>
+
+
+
+	<type>ThreadNode</type>
+
+
+
+	<message_id>38670</message_id>
+
+	<to name="Lisa Kinsey" id="35788" address="Lisa.Kinsey@ENRON.com"/>
+
+	<to name="Patti Sullivan" id="2527" address="Patti.Sullivan@ENRON.com"/>
+
+	<to name="Randall L Gay" id="93942" address="Randall.L.Gay@ENRON.com"/>
+
+	<to name="Victor Lamadrid" id="69346" address="Victor.Lamadrid@ENRON.com"/>
+
+	<to name="Daren J Farmer" id="28042" address="Daren.J.Farmer@ENRON.com"/>
+
+	<to name="Tammy Jaquet" id="916" address="Tammy.Jaquet@ENRON.com"/>
+
+	<to name="Suzanne Calcagno" id="1102" address="Suzanne.Calcagno@ENRON.com"/>
+
+	<from name="Robert Superty" id="3385" address="Robert.Superty@ENRON.com"/>
+
+	<to name="Lisa Kinsey" id="35788" address="lkinsey@enron.com"/>
+
+	<to name="Patti Sullivan" id="2527" address="Psulliv@ENRON.com"/>
+
+	<to name="Randall L Gay" id="93942" address="rgay@enron.com"/>
+
+	<to name="Victor Lamadrid" id="69346" address="Vlamadr@ENRON.com"/>
+
+	<to name="Daren J Farmer" id="28042" address="dfarmer@enron.com"/>
+
+	<to name="Tammy Jaquet" id="916" address="Tjaquet@ENRON.com"/>
+
+	<to name="Suzanne Calcagno" id="1102" address="Scalcagn@ENRON.com"/>
+
+	<from name="Robert Superty" id="3385" address="Rsupert@ENRON.com"/>
+
+
+
+	<parent_id></parent_id>
+
+
+
+	<subject>Contract status needed</subject>
+
+
+
+	<date_time>2002-01-04 10:25:39</date_time>
+
+
+
+	<content>
+
+    
+
+M1.1. On Monday we have to file a "transition plan" with Louise Kitchen for NETCO.
+
+[Inform: on Monday Bob and recipients have to file a transition plan with Louise for NETCO]
+
+M1.2. She wants details.
+
+[Inform: Louise wants details]
+
+M1.3. On that note I need a status report from each desk on our effort to start the contract process for pipes, TPA's & EBB's so I can include that in the report. [Y]
+
+[Inform: Bob needs status reports from each desk on effort to start contract process to include in transition plan]
+
+Sflink1.3
+
+M1.4. I have received some emails however I would like each manager to put together a summary in an Excel spreadsheet that we can have Suzanne consolidate with the stuff she already put together. [Y]
+
+[Inform: even though Bob received some emails he would like an Excel spreadsheet created that Suzanne can consolidate with her information]
+
+Sflink1.4
+
+M1.5. Please cover the key items listed in the earlier email. [Y]
+
+[Request-Action: cover key items listed in earlier email]
+
+Flink1.5
+
+M1.6. Also we should be getting as much hard copy as possible so we can proceed with our goal of preparing for a startup.
+
+[Inform: they should also get plenty of hard copy to prepare for a startup]
+
+Sflink1.6
+
+M1.7. I suggest reviewing the paperwork and identify the stuff that you will need to get the forms completed.
+
+[Inform: Bob thinks recipients should review paperwork in order to complete forms]
+
+M1.8. No doubt we will have substantial gaps but as long as we know where and what they are we can get the proper internal people involved (legal, credit, etc.)
+
+[Inform: despite gaps, as long as everyone is aware of them, they can get necessary people involved]
+
+
+
+M1.10. Tks - Bob
+
+[Conventional: thanks, signature]
+
+
+
+	</content>
+
+</message>
+
+<message>
+
+
+
+	<thread_id>169892</thread_id>
+
+
+
+	<depth>1</depth>
+
+
+
+	<type>ThreadNode</type>
+
+
+
+	<message_id>39479</message_id>
+
+	<to name="Robert Superty" id="3385" address="Rsupert@ENRON.com"/>
+
+	<from name="Daren J Farmer" id="28042" address="dfarmer@enron.com"/>
+
+
+
+	<parent_id>38670</parent_id>
+
+
+
+	<subject>Contract status needed</subject>
+
+
+
+	<date_time>2002-01-04 15:34:26</date_time>
+
+
+
+	<content>
+
+    
+
+M2.1. This is what we've got so far.
+
+[Inform: presumably attached document(s) are what Daren et al. have so far]
+
+Blink1.3
+
+Blink1.4
+
+M2.2. Due to our agency activity on Lone Star, I do not want to contact them yet.
+
+[Inform: Daren does not want to contact Lone Star yet]
+
+M2.3. But, I have a copy of a contract they sent me a couple of months ago we can use.
+
+[Inform: Daren has a copy of an old contract that can be used]
+
+Blink1.6
+
+
+
+M2.4. D
+
+[Conventional: signature]
+
+
+
+	</content>
+
+</message>
+
+<message>
+
+
+
+	<thread_id>169892</thread_id>
+
+
+
+	<depth>1</depth>
+
+
+
+	<type>ThreadNode</type>
+
+
+
+	<message_id>39477</message_id>
+
+	<to name="Robert Superty" id="3385" address="Rsupert@ENRON.com"/>
+
+	<from name="Daren J Farmer" id="28042" address="dfarmer@enron.com"/>
+
+
+
+	<parent_id>38670</parent_id>
+
+
+
+	<subject>Contract status needed</subject>
+
+
+
+	<date_time>2002-01-07 09:33:03</date_time>
+
+
+
+	<content>
+
+    
+
+M3.1. Bob,
+
+[Conventional: salutation]
+
+
+
+M3.2. Who is collecting the hard copies or e-mails of contracts?
+
+[Request-Information: who is collecting hard copies or emails of contracts]
+
+Blink1.6
+
+Flink3.2
+
+M3.3. I've got the Guadalupe contracts now.
+
+[Inform: Daren currently has Guadalupe contracts]
+
+Sflink3.3
+
+
+
+M3.4. D
+
+[Conventional: signature]
+
+
+
+	</content>
+
+</message>
+
+<message>
+
+
+
+	<thread_id>169892</thread_id>
+
+
+
+	<depth>2</depth>
+
+
+
+	<type>ThreadNode</type>
+
+
+
+	<message_id>38667</message_id>
+
+	<to name="Daren J Farmer" id="28042" address="Daren.J.Farmer@ENRON.com"/>
+
+	<from name="Robert Superty" id="3385" address="Robert.Superty@ENRON.com"/>
+
+	<cc name="Suzanne Calcagno" id="1102" address="Suzanne.Calcagno@ENRON.com"/>
+
+	<to name="Daren J Farmer" id="28042" address="dfarmer@enron.com"/>
+
+	<from name="Robert Superty" id="3385" address="Rsupert@ENRON.com"/>
+
+	<cc name="Suzanne Calcagno" id="1102" address="Scalcagn@ENRON.com"/>
+
+
+
+	<parent_id>39477</parent_id>
+
+
+
+	<subject>Contract status needed</subject>
+
+
+
+	<date_time>2002-01-07 09:36:35</date_time>
+
+
+
+	<content>
+
+    
+
+M4.1. Daren,
+
+[Conventional: salutation]
+
+M4.2. please forward to Suzanne Calcagno, [Y]
+
+[Request-Action: forward to Suzanne]
+
+Blink3.3
+
+M4.3. she sits near me on 5
+
+[Inform: Suzanne's office is near Bob's] 
+
+M4.4. Tks - Bob
+
+[Conventional: thanks, signature]
+
+
+
+	</content>
+
+</message>
+
+<message>
+
+
+
+	<thread_id>169892</thread_id>
+
+
+
+	<depth>2</depth>
+
+
+
+	<type>ThreadNode</type>
+
+
+
+	<message_id>75823</message_id>
+
+	<to name="Frank Vickers" id="905" address="fvicker@enron.com"/>
+
+	<from name="Scott Neal" id="85818" address="sneal@enron.com"/>
+
+
+
+	<parent_id></parent_id>
+
+
+
+	<subject>Contract status needed</subject>
+
+
+
+	<date_time>2002-01-07 11:38:09</date_time>
+
+
+
+	<content>
+
+    
+
+M5.1. fyi
+
+[Inform: Bob's earlier email (message 1) is presumably attached]
+
+
+
+	</content>
+
+</message>
+
+</xml>
+
+Hierarchical Power Annotation: N/A
+Person_1: 
+Person_2: 
+Reason: 
+
+Situational Power Annotation:
+Person_1: Robert Superty
+Person_2: Daren J Farmer, To(1)
+Reason: Bob tells the others to get him the status reports, summaries, and contracts.
+
+Attempt at Exercising Power Annotation:
+DFUs: M1.3-M1.7
+Person_1: Robert Superty
+Person_2: Daren J Farmer
+Type: Situational
+Successful?: Y
+Reason: In messages 2 and 3, Daren mentions some contracts he has found for Bob and Suzanne Calcagno's use.
+
+DFUs: M4.2
+Person_1: Robert Superty
+Person_2: Daren J Farmer
+Type: Situational
+Successful?: No Reply
+Reason: In message 4, Bob tells Daren to send Suzanne Calcagno the contracts that Daren has found.
+
+Influence Annotation: N/A
+Person_1:
+Person_2:
+Reason:
+
+Attempt at Influence Annotation: N/A
+DFUs: 
+Person_1:
+Person_2:
+Successful?:
+Reason: 

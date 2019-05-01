@@ -1,0 +1,233 @@
+17208train
+Annotation for intention:
+
+Knowledge-Acquisition: appointment of Susan as a signer for same-day wires
+
+Annotation for control:
+Sally Beck: Sally initiates the thread and tells the others that she is temporarily appointing Susan as a signer.
+
+
+
+<xml>
+
+<message>
+
+
+
+	<thread_id>17208</thread_id>
+
+
+
+	<depth>0</depth>
+
+
+
+	<type>ThreadNode</type>
+
+
+
+	<message_id>921782</message_id>
+
+	<to name="Mary Perkins" id="77124" address="Mary.Perkins@ENRON.com"/>
+
+	<from name="Sally Beck" id="46153" address="Sally.Beck@ENRON.com"/>
+
+	<cc name="Betty Tauzier" id="13544" address="Betty.Tauzier@ENRON.com"/>
+
+
+
+	<parent_id></parent_id>
+
+
+
+	<subject>Signers for Same Day Wires</subject>
+
+
+
+	<date_time>2000-05-10 12:45:00</date_time>
+
+
+
+	<content>
+
+    
+
+M1.1. Mary,
+
+[Conventional: salutation]
+
+
+
+M1.2. As Brent Price is out of the country until July & I am travelling out of the
+
+country more frequently, I would like to temporarily designate Susan Harrison
+
+as a signer.
+
+[Inform: Sally would like to appoint Susan Harrison as a signer, since Brent and Sally will be out of the country]
+
+M1.3. Susan is the Director of our off-system Settlements & Volume
+
+Management groups.
+
+[Inform: Susan's current position]
+
+M1.4. This temporary designation will ensure that we maintain
+
+appropriate signing coverage while Brent & I are unavailable.
+
+[Inform: this appointment is to make sure there is adequate signing coverage while Brent and Sally are away]
+
+
+
+M1.5. Thanks,
+
+[Conventional: thanks]
+
+M1.6. Sally
+
+[Conventional: signature]
+
+
+
+	</content>
+
+</message>
+
+<message>
+
+
+
+	<thread_id>17208</thread_id>
+
+
+
+	<depth>1</depth>
+
+
+
+	<type>ThreadNodeBubble</type>
+
+
+
+	<message_id>2001950</message_id>
+
+
+
+	<parent_id>921782</parent_id>
+
+
+
+	<subject>Signers for Same Day Wires</subject>
+
+
+
+	<date_time>2000-05-12 23:13:30</date_time>
+
+
+
+	<content>
+
+    
+
+M2.1. FYI
+
+[Inform: the presumably attached previous email is for recipient's information]
+
+
+
+M2.2. Patti
+
+[Conventional: signature]
+
+
+
+	</content>
+
+</message>
+
+<message>
+
+
+
+	<thread_id>17208</thread_id>
+
+
+
+	<depth>2</depth>
+
+
+
+	<type>ThreadNode</type>
+
+
+
+	<message_id>921734</message_id>
+
+	<to name="Susan Harrison" id="104632" address="susan.harrison@enron.com"/>
+
+	<from name="Sally Beck" id="46153" address="Sally.Beck@ENRON.com"/>
+
+
+
+	<parent_id>2001950</parent_id>
+
+
+
+	<subject>Signers for Same Day Wires</subject>
+
+
+
+	<date_time>2000-05-15 09:42:00</date_time>
+
+
+
+	<content>
+
+    
+
+M3.1. Thanks for the reminders.
+
+[Conventional: thanks]
+
+M3.2. Hopefully, this will take care of this.
+
+[Inform: hopefully, the reminders will take care of things]
+
+
+
+	</content>
+
+</message>
+
+</xml>
+
+Hierarchical Power Annotation: N/A
+Person_1: 
+Person_2: 
+Reason: 
+
+Situational Power Annotation:
+Person_1: Sally Beck
+Person_2: Susan Harrison
+Reason: In message 1 Sally temporarily appoints Susan to handle her duties while she is away.
+
+Attempt at Exercising Power Annotation: N/A
+DFUs: 
+Person_1:
+Person_2:
+Type:
+Successful?:
+Reason: 
+
+Influence Annotation: N/A
+Person_1:
+Person_2:
+Reason:
+
+Attempt at Influence Annotation: N/A
+DFUs: 
+Person_1:
+Person_2:
+Successful?:
+Reason: 

@@ -1,0 +1,229 @@
+93
+Annotation for intention:
+
+Argumentation: whether to accept InterContinental Exchange offer/Greg Whalley's and Andy Zipper's opinions on it
+
+
+Annotation for control:
+John Sherriff: John initiates the thread and tells the others to accept the ICE offer.
+
+
+<?xml version="1.0"?>
+
+
+
+<!--
+
+-
+
+- Sequel Pro dump
+
+- Version 155
+
+- http://code.google.com/p/sequel-pro
+
+-
+
+- Host: 127.0.0.1 (MySQL 5.0.67)
+
+- Database: enron
+
+- Generation Time: 2008-12-01 15:18:53 -0500
+
+-
+
+-->
+
+
+
+	<custom>
+
+	<row>
+
+		<thread_id>93</thread_id>
+
+		<depth>0</depth>
+
+		<type>ThreadNode</type>
+
+		<message_id>292360</message_id>
+
+	<to name="" id="15997" address="Boyd/Enron@EUEnronXGate"/>
+
+	<to name="Justin Boyd" id="890" address="Justin.Boyd/Enron@EUEnronXGate"/>
+
+	<from name="John Sherriff" id="4671" address="john.sherriff@enron.com"/>
+
+	<cc name="Greg Whalley" id="27104" address="Greg.Whalley@ENRON.com"/>
+
+	<cc name="" id="17221" address="Brown/Enron@EUEnronXGate"/>
+
+	<cc name="Michael Brown" id="2202" address="Michael.Brown/Enron@EUEnronXGate"/>
+
+	<cc name="Greg Piper" id="1665" address="Greg.Piper@ENRON.com"/>
+
+	<cc name="Andy Zipper" id="5063" address="Andy.Zipper@ENRON.com"/>
+
+	<to name="" id="4256" address="??SJustin.Boyd/Enron@EUEnronXGate"/>
+
+	<from name="John Sherriff" id="4671" address="A177817E-7D75C390-8625653F-6307BB@ENRON.com"/>
+
+	<cc name="Greg Whalley" id="27104" address="DA82494B-FC99BFE6-862565DA-5FA576@ENRON.com"/>
+
+	<cc name="" id="4344" address="??SMichael.Brown/Enron@EUEnronXGate"/>
+
+	<cc name="Greg Piper" id="1665" address="Gpiper@ENRON.com"/>
+
+	<cc name="Andy Zipper" id="5063" address="azipper@enron.com"/>
+
+		<parent_id>NULL</parent_id>
+
+		<subject>Recommended Offer by ICE for IPE Holdings</subject>
+
+		<date_time>2001-05-24 21:38:47</date_time>
+
+		<content>
+
+M1.1. My view is that we should go ahead and accept the ICE offer.
+
+[Inform: John thinks they should accept the ICE offer]
+
+M1.2. Please proceed with
+
+the acceptance offer unless someone has a strong objection
+
+[Inform: recipients should proceed with acceptance offer unless there is a strong objection]
+
+M1.3. in which case let's
+
+discuss on Tuesday. [Y]
+
+[Inform: if there is an objection they will discuss this on Tuesday]
+
+
+
+M1.4. John
+
+[Conventional: signature]
+
+
+
+</content>
+
+	</row>
+
+	<row>
+
+		<thread_id>93</thread_id>
+
+		<depth>1</depth>
+
+		<type>ThreadNode</type>
+
+		<message_id>292204</message_id>
+
+	<to name="John Sherriff" id="4671" address="john.sherriff@enron.com"/>
+
+	<from name="Greg Piper" id="1665" address="Greg.Piper@ENRON.com"/>
+
+	<to name="John Sherriff" id="4671" address="A177817E-7D75C390-8625653F-6307BB@ENRON.com"/>
+
+	<from name="Greg Piper" id="1665" address="Gpiper@ENRON.com"/>
+
+		<parent_id>292360</parent_id>
+
+		<subject>Clearing discussion</subject>
+
+		<date_time>2001-05-25 16:17:03</date_time>
+
+		<content>
+
+M2.1. I heard Whalley was neutral to the London Clearing thing.
+
+[Inform: Greg Piper heard Greg Whalley was neutral to a London Clearing thing]
+
+
+
+M2.2. My take on it is that we want both the trade and the information associated with it like who it was, etc.
+
+[Inform: Greg Piper's take is that they want both the trade and associated info]
+
+M2.3. In theory, that is true.
+
+M2.4. The question is that in reality, is that sustainable.
+
+[Inform: not sure that this is sustainable, though in theory this is true]
+
+M2.5. In gas and power U. S., other than ICE we are able to do that for the most part.
+
+[Inform: other than ICE, in gas and power US, they were able to do this for the most part]
+
+
+
+M2.6. Andy Zipper had a good idea and is focusing on a subset of this which is finding a way for hedge funds, institutions and locals to get at our liquidity through a clearing agent.
+
+[Inform: Andy Zipper's good idea and how he is acting upon it]
+
+M2.7. These entities do not transact currently on EnronOnline because of credit restrictions
+
+M2.8. so if we could set up a master user, like a clearing agent, then the agent would set up sub users like the funds and/or locals.
+
+[Inform: entities Zipper is focusing on are not currently able to transact on EnronOnline, so a clearing agent should be set up]
+
+M2.9. This should not effect Whalley's concern
+
+M2.10. because all these trades, though anonymous, would be incremental.
+
+[Inform: this should not affect Whalley's concern, because trades would be incremental]
+
+
+
+M2.11. Your thoughts?
+
+[Request-Information: any thoughts]
+
+Flink2.11
+
+
+
+M2.12. GP
+
+[Conventional: signature]
+
+
+
+</content>
+
+	</row>
+
+	</custom>
+
+Hierarchical Power Annotation: N/A
+Person_1: 
+Person_2: 
+Reason: 
+
+Situational Power Annotation:
+Person_1: John Sherriff
+Person_2: Greg Piper, CC(1)
+Reason: In M1.2-M1.3 John tells the others to accept an offer or tell him why they shouldn't.
+
+Attempt at Exercising Power Annotation:
+DFUs: M1.2-M1.3
+Person_1: John Sherriff
+Person_2: Greg Piper, CC(1)
+Type: Situational
+Successful?: N
+Reason: After John tells the others to accept an offer or tell him why they shouldn't in message 1, Greg gives John thoughts in message 2 but doesn't seem to be set one way or the other. 
+
+Influence Annotation:
+Person_1: Andy Zipper
+Person_2: Greg Piper
+Reason: Greg Piper calls Andy's idea good in M2.6, showing that Andy has credibility and that his idea was picked up on by at least one other person. 
+
+Attempt at Influence Annotation:
+DFUs: M1.1
+Person_1: John Sherriff
+Person_2: Greg Piper
+Successful?: N
+Reason: After John tells Greg and the other recipients of message 1 that they should accept the ICE offer, Greg doesn't seem to be 100% sold on it in message 2.

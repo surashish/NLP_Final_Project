@@ -1,0 +1,143 @@
+<custom>
+
+	<row>
+
+		<thread_id>106</thread_id>
+
+		<depth>0</depth>
+
+		<type>ThreadNode</type>
+
+		<message_id>292366</message_id>
+
+	<to name="Andy Zipper" id="5063" address="Andy.Zipper@ENRON.com"/>
+
+	<from name="Justin Boyd" id="890" address="justin.boyd@enron.com"/>
+
+	<to name="Andy Zipper" id="5063" address="azipper@enron.com"/>
+
+	<from name="Justin Boyd" id="890" address="jboyd@ENRON.com"/>
+
+		<parent_id>NULL</parent_id>
+
+		<subject>EnEx - New Online Gas Trading Platform</subject>
+
+		<date_time>2001-05-29 05:03:18</date_time>
+
+		<content>
+
+        
+
+M1.1. Andy
+
+[Conventional: salutation]
+
+M1.2. The UK gas traders are keen to join EnEX, which is a new online trading platform operated by EnMo.
+
+[Inform: UK gas traders want to join EnEX, operated by EnMo]
+
+M1.3. Brief details are as follows:
+
+[Inform: the following are details]
+
+M1.4. EnMo is a joint venture between National Grid Company PLC and AltraEnergy Technologies Inc
+
+[Inform: EnMo is a joint venture between National Grid Company PLC and AltraEnergy Technologies, Inc.]
+
+M1.5. EnEx's products are limited to 7-day ahead NBP gas contracts (these are physically-settled UK gas deals).
+
+[Inform: EnEx's products are limited to physically-settled UK gas deals]
+
+M1.6. ?	Subscription fees are payable by users as well as general transaction charges.
+
+[Inform: subscription fees and general transaction charges are payable by users; however, Justin seems to be unsure of this]
+
+M1.7. ?	Access is restricted to UK Gas Shippers (this comprises a small number of licenced entities).
+
+[Inform: access only available to UK Gas Shippers, which comprises a small number of licensed entities; however, Justin seems to be unsure of this]
+
+M1.8. There also certain pre-set credit requirements.
+
+[Inform: there are pre-set credit requirements]
+
+M1.9. ?	Each user can post orders, withdraw orders posted that have not been accepted by other users, and accept orders posted by other users.
+
+[Inform: each user can post/withdraw orders and accept orders from other users; however, Justin seems to be unsure of this]
+
+M1.10. Other functionality includes the right to post time-limited orders.
+
+[Inform: users also have the right to post time-limited orders]
+
+M1.11. The system can stipulate maximum and minimum bid and offer prices.
+
+[Inform: system can set max/min bid and offer prices]
+
+M1.12. The identity of the user posting an order is anonymous.
+
+[Inform: any user who posts an order remains anonymous]
+
+M1.13. All orders are matched by the system.
+
+[Inform: all orders matched by system]
+
+M1.14. Look forward to your comments.
+
+[Inform: Justin looks forward to Andy's comments]
+
+M1.15. Thanks
+
+[Conventional: thanks]
+
+
+
+</content>
+
+	</row>
+
+	<row>
+
+		<thread_id>106</thread_id>
+
+		<depth>2</depth>
+
+		<type>ThreadNode</type>
+
+		<message_id>292365</message_id>
+
+	<to name="Andy Zipper" id="5063" address="Andy.Zipper@ENRON.com"/>
+
+	<from name="Justin Boyd" id="890" address="justin.boyd@enron.com"/>
+
+	<to name="Andy Zipper" id="5063" address="azipper@enron.com"/>
+
+	<from name="Justin Boyd" id="890" address="jboyd@ENRON.com"/>
+
+		<parent_id>NULL</parent_id>
+
+		<subject>EnEx - New Online Gas Trading Platform</subject>
+
+		<date_time>2001-05-29 09:18:56</date_time>
+
+		<content>
+
+        
+
+M2.1. andy
+
+[Conventional: salutation]
+
+M2.2. thanks for the note -
+
+[Conventional: thanks]
+
+M2.3. i'll pass this on.
+
+[Inform-AnswerOffline: Justin will pass on note from Andy]
+
+
+
+</content>
+
+	</row>
+
+	</custom>

@@ -1,0 +1,421 @@
+59580train
+Annotation for intention:
+
+Collaboration-on-information-product: clarifying American vs. European law provisions in section 10.2 of a Master Settlement Agreement
+
+Annotation for control:
+Peter Traung: Peter seems to have initiated the discussion offline, and in message 2 asks Mark Taylor about the US vs. European law provisions.
+
+
+
+<xml>
+
+<message>
+
+
+
+	<thread_id>59580</thread_id>
+
+
+
+	<depth>0</depth>
+
+
+
+	<type>ThreadNode</type>
+
+
+
+	<message_id>1209617</message_id>
+
+	<to name="Peter Traung" id="90650" address="peter.traung@enron.com"/>
+
+	<from name="Mark Taylor" id="2378" address="Mark.Taylor@ENRON.com"/>
+
+
+
+	<parent_id></parent_id>
+
+
+
+	<subject>Late Delivery</subject>
+
+
+
+	<date_time>2001-01-18 13:57:00</date_time>
+
+
+
+	<content>
+
+    
+
+M1.1. Peter
+
+[Conventional: salutation]
+
+M1.2. Welcome to Enron!
+
+[Conventional: welcome]
+
+M1.3. I usually get to the London office a couple of times a
+
+year and will look forward to meeting you there.
+
+[Inform: Mark looks forward to meeting Peter in London]
+
+M1.4. If not, hopefully we'll see
+
+you at the Law Conference in the Spring.
+
+[Inform: if this doesn't happen, Mark will see Peter at the spring Law Conference]
+
+M1.5. Most of your e-mail is well outside my area of expertise.
+
+[Inform: most of Peter's email is outside Mark's area of expertise]
+
+Sflink1.5
+
+M1.6. Are you consulting
+
+me regarding the regulatory issues and section 10.2?
+
+[Request-Information: is Peter consulting Mark regarding regulatory issues and section 10.2]
+
+Flink1.6
+
+M1.7. If so, it would help if
+
+you told me what 10.2 says.....
+
+[Inform: if Peter does consult Mark, Mark would like to know what 10.2 says]
+
+Sflink1.7
+
+M1.8. Feel free to give me a call if you'd like to discuss.
+
+[Inform: Peter can call Mark if he would like to discuss this]
+
+
+
+	</content>
+
+</message>
+
+<message>
+
+
+
+	<thread_id>59580</thread_id>
+
+
+
+	<depth>1</depth>
+
+
+
+	<type>ThreadNodeBubble</type>
+
+
+
+	<message_id>2003306</message_id>
+
+
+
+	<parent_id>1209617</parent_id>
+
+
+
+	<subject>Late Delivery</subject>
+
+
+
+	<date_time>2001-01-18 20:16:30</date_time>
+
+
+
+	<content>
+
+    
+
+M2.1. Thanks Mark!
+
+[Conventional: thanks]
+
+M2.2. I misunderstood Robbi's mail - I thought you had been working
+
+on the sections of the MSA discussed initially in my mail.
+
+[Inform: misunderstanding about Robbi's mail]
+
+Blink1.5
+
+Sflink2.2
+
+M2.3. However, it would be very helpful if you could identify those portions of the
+
+US MSA that are there solely for US regulatory purposes - they may not be
+
+necessary in the European version and would inevitably cause discussions with
+
+European CP's, where the argument that they refer to US regulatory
+
+requirements may not be easily accepted.
+
+[Inform: Peter would like Mark to identify parts of the US MSA that are there solely for US, rather than European, regulatory purposes]
+
+Sflink2.3
+
+M2.4. Section 10.2(ii) is the one below,
+
+which I would be happy if we could delete for Europe:
+
+[Inform: section 10.2(ii) is posted below, which Peter would like to delete for Europe]
+
+M2.5. (i) it is (a) in connection with each Product, a commercial participant who,
+
+in connection with its activities, incurs risk, in addition to price risk,
+
+related to such Product, has a demonstrable capacity or ability, directly or
+
+through separate bona fide contractual arrangements, to provide or accept
+
+such Product under the terms of a Transaction and (b) is either (1) a
+
+corporation, partnership, organization, trust or other business entity with a
+
+net worth exceeding US$1,000,000 (or the equivalent thereof in any foreign
+
+currency) or has total assets exceeding US$5,000,000 (or the equivalent
+
+thereof in any foreign currency) or (2) an entity, the obligations of which
+
+under this Agreement are guaranteed or otherwise supported by a letter of
+
+credit or keepwell support, or other agreement by any such entity or by an
+
+entity referred to in subsection (b)(1) above;
+
+[Inform: section 10.2(ii) of the US MSA]
+
+Blink1.7
+
+
+
+	</content>
+
+</message>
+
+<message>
+
+
+
+	<thread_id>59580</thread_id>
+
+
+
+	<depth>1</depth>
+
+
+
+	<type>ThreadNode</type>
+
+
+
+	<message_id>1209624</message_id>
+
+	<to name="Mark Taylor" id="2378" address="Mark.Taylor@ENRON.com"/>
+
+	<from name="Peter Traung" id="90650" address="peter.traung@enron.com"/>
+
+	<cc name="Mary Nell Browning" id="26930" address="mary.nell.browning@enron.com"/>
+
+	<cc name="Robbi Rossi" id="48848" address="Robbi.Rossi@ENRON.com"/>
+
+
+
+	<parent_id>1209617</parent_id>
+
+
+
+	<subject>Late Delivery</subject>
+
+
+
+	<date_time>2001-01-19 03:13:00</date_time>
+
+
+
+	<content>
+
+    
+
+[DUPLICATE]    
+
+    
+
+Thanks Mark!  I misunderstood Robbi's mail - I thought you had been working
+
+on the sections of the MSA discussed initially in my mail.
+
+However, it would be very helpful if you could identify those portions of the
+
+US MSA that are there solely for US regulatory purposes - they may not be
+
+necessary in the European version and would inevitably cause discussions with
+
+European CP's, where the argument that they refer to US regulatory
+
+requirements may not be easily accepted.  Section 10.2(ii) is the one below,
+
+which I would be happy if we could delete for Europe:
+
+(i) it is (a) in connection with each Product, a commercial participant who,
+
+in connection with its activities, incurs risk, in addition to price risk,
+
+related to such Product, has a demonstrable capacity or ability, directly or
+
+through separate bona fide contractual arrangements, to provide or accept
+
+such Product under the terms of a Transaction and (b) is either (1) a
+
+corporation, partnership, organization, trust or other business entity with a
+
+net worth exceeding US$1,000,000 (or the equivalent thereof in any foreign
+
+currency) or has total assets exceeding US$5,000,000 (or the equivalent
+
+thereof in any foreign currency) or (2) an entity, the obligations of which
+
+under this Agreement are guaranteed or otherwise supported by a letter of
+
+credit or keepwell support, or other agreement by any such entity or by an
+
+entity referred to in subsection (b)(1) above;
+
+	</content>
+
+</message>
+
+<message>
+
+
+
+	<thread_id>59580</thread_id>
+
+
+
+	<depth>2</depth>
+
+
+
+	<type>ThreadNode</type>
+
+
+
+	<message_id>1209628</message_id>
+
+	<to name="Peter Traung" id="90650" address="peter.traung@enron.com"/>
+
+	<from name="Robbi Rossi" id="48848" address="Robbi.Rossi@ENRON.com"/>
+
+	<cc name="Mark Taylor" id="2378" address="Mark.Taylor@ENRON.com"/>
+
+	<cc name="Mary Nell Browning" id="26930" address="mary.nell.browning@enron.com"/>
+
+
+
+	<parent_id>2003306</parent_id>
+
+
+
+	<subject>Late Delivery</subject>
+
+
+
+	<date_time>2001-01-19 02:36:00</date_time>
+
+
+
+	<content>
+
+    
+
+M4.1. Peter and Mark,
+
+[Conventional: salutation]
+
+M4.2. I apologize for the confusion.
+
+[Inform: apology for confusion]
+
+Blink2.2
+
+M4.3. Peter,
+
+[Conventional: salutation]
+
+M4.4. if you have questions concerning
+
+Enron on Line, Mark would be a good person to contact.
+
+[Inform: Peter should contact Mark if he has questions about EOL]
+
+M4.5. I can help you with
+
+the questions on the Master.
+
+[Inform: Robbi can help Peter with questions about the Master]
+
+Blink2.2
+
+M4.6. Note that the European version that was sent to
+
+you does not include US law provisions.
+
+[Inform: Peter should realize that European version sent to him doesn't include US law provisions]
+
+Blink2.3
+
+
+
+	</content>
+
+</message>
+
+</xml>
+
+Hierarchical Power Annotation:
+Person_1: Mark Taylor
+Person_2: Peter Traung
+Reason: In M1.2, Mark says "Welcome to Enron!" to Peter, implying that Peter is a new employee. Peter asks him for help in identifying US vs. European law provisions in a Master Settlement Agreement in message 2.
+
+Person_1: Robbi Rossi
+Person_2: Peter Traung
+Reason: From message 2, it seems that Robbi has referred Peter to Mark. In M4.5, Robbi offers to help Peter with questions about the MSA.
+
+Situational Power Annotation:
+Person_1: Peter Traung
+Person_2: Mark Taylor
+Reason: Peter seems to have initiated the discussion- the first email, from Mark, appears to be a response to an email outside this thread that Peter sent earlier. Also, Mark is unable to answer Peter's question, showing that Mark does not have situational power.
+
+Attempt at Exercising Power Annotation: N/A
+DFUs: 
+Person_1:
+Person_2:
+Type:
+Successful?:
+Reason: 
+
+Influence Annotation: N/A
+Person_1:
+Person_2:
+Reason:
+
+Attempt at Influence Annotation: N/A
+DFUs: 
+Person_1:
+Person_2:
+Successful?:
+Reason: 

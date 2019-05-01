@@ -1,0 +1,275 @@
+3104
+Annotation for intention:
+
+Knowledge-Acquisition: Rod and/or Danny's availability for signing a document
+
+Annotation for control:
+Denise LaGesse: Denise initiates the thread and asks Rod Hayslett and Danny McCarty whether they are available to sign the document.
+
+
+
+<xml>
+
+<message>
+
+
+
+	<thread_id>3104</thread_id>
+
+
+
+	<depth>0</depth>
+
+
+
+	<type>ThreadNode</type>
+
+
+
+	<message_id>1130071</message_id>
+
+	<to name="Rod Hayslett" id="5425" address="Rod.Hayslett@ENRON.com"/>
+
+	<to name="Danny McCarty" id="304" address="Danny.McCarty@ENRON.com"/>
+
+	<from name="Denise LaGesse" id="30971" address="Denise.LaGesse@ENRON.com"/>
+
+	<cc name="Kathy Campos" id="64276" address="Kathy.Campos@ENRON.com"/>
+
+	<cc name="Julie Armstrong" id="3550" address="Julie.Armstrong@ENRON.com"/>
+
+	<to name="Rod Hayslett" id="5425" address="rhaysle@ENRON.COM"/>
+
+	<to name="Danny McCarty" id="304" address="dmccarty@ENRON.COM"/>
+
+	<from name="Denise LaGesse" id="30971" address="Dlagesse@ENRON.com"/>
+
+	<cc name="Kathy Campos" id="64276" address="Kcampos@ENRON.com"/>
+
+	<cc name="Julie Armstrong" id="3550" address="Jarmstr@ENRON.com"/>
+
+
+
+	<parent_id></parent_id>
+
+
+
+	<subject>Need VP signature on MOPS document</subject>
+
+
+
+	<date_time>2001-12-27 11:35:19</date_time>
+
+
+
+	<content>
+
+    
+
+M1.1. Are Rod and/or Danny available today to sign a MOPS Amendment (to P&S Agr) on behalf of Northern Natural Gas?
+
+[Request-Information: Rod and/or Danny's availability to sign a MOPS amendment on behalf of Northern Natural Gas]
+
+Flink1.1
+
+M1.2. Thanks.
+
+[Conventional: thanks]
+
+
+
+M1.3. Denise LaGesse
+
+[Conventional: signature]
+
+M1.4. Enron Transportation Services
+
+M1.5. 1400 Smith Street (77002-7361)
+
+M1.6. P.O. Box 1188
+
+M1.7. Houston, Texas 77251-1188
+
+M1.8. denise.lagesse@enron.com
+
+M1.9. ph 713-853-6704
+
+M1.10. fax 713-853-5425
+
+[Inform: Denise's contact information]
+
+
+
+	</content>
+
+</message>
+
+<message>
+
+
+
+	<thread_id>3104</thread_id>
+
+
+
+	<depth>1</depth>
+
+
+
+	<type>ThreadNode</type>
+
+
+
+	<message_id>1130070</message_id>
+
+	<to name="Denise LaGesse" id="30971" address="Denise.LaGesse@ENRON.com"/>
+
+	<from name="Rod Hayslett" id="5425" address="Rod.Hayslett@ENRON.com"/>
+
+	<cc name="Kathy Campos" id="64276" address="Kathy.Campos@ENRON.com"/>
+
+	<cc name="Julie Armstrong" id="3550" address="Julie.Armstrong@ENRON.com"/>
+
+	<cc name="Danny McCarty" id="304" address="Danny.McCarty@ENRON.com"/>
+
+	<to name="Denise LaGesse" id="30971" address="Dlagesse@ENRON.com"/>
+
+	<from name="Rod Hayslett" id="5425" address="rhaysle@ENRON.COM"/>
+
+	<cc name="Kathy Campos" id="64276" address="Kcampos@ENRON.com"/>
+
+	<cc name="Julie Armstrong" id="3550" address="Jarmstr@ENRON.com"/>
+
+	<cc name="Danny McCarty" id="304" address="dmccarty@ENRON.COM"/>
+
+
+
+	<parent_id>1130071</parent_id>
+
+
+
+	<subject>Need VP signature on MOPS document</subject>
+
+
+
+	<date_time>2001-12-27 11:36:58</date_time>
+
+
+
+	<content>
+
+    
+
+M2.1. I am here!
+
+[Inform: Rod is available]
+
+Blink1.1
+
+Sflink2.1
+
+
+
+	</content>
+
+</message>
+
+<message>
+
+
+
+	<thread_id>3104</thread_id>
+
+
+
+	<depth>2</depth>
+
+
+
+	<type>ThreadNode</type>
+
+
+
+	<message_id>1130069</message_id>
+
+	<to name="Rod Hayslett" id="5425" address="Rod.Hayslett@ENRON.com"/>
+
+	<to name="Denise LaGesse" id="30971" address="Denise.LaGesse@ENRON.com"/>
+
+	<from name="Julie Armstrong" id="3550" address="Julie.Armstrong@ENRON.com"/>
+
+	<cc name="Kathy Campos" id="64276" address="Kathy.Campos@ENRON.com"/>
+
+	<cc name="Danny McCarty" id="304" address="Danny.McCarty@ENRON.com"/>
+
+	<to name="Rod Hayslett" id="5425" address="rhaysle@ENRON.COM"/>
+
+	<to name="Denise LaGesse" id="30971" address="Dlagesse@ENRON.com"/>
+
+	<from name="Julie Armstrong" id="3550" address="Jarmstr@ENRON.com"/>
+
+	<cc name="Kathy Campos" id="64276" address="Kcampos@ENRON.com"/>
+
+	<cc name="Danny McCarty" id="304" address="dmccarty@ENRON.COM"/>
+
+
+
+	<parent_id>1130070</parent_id>
+
+
+
+	<subject>Need VP signature on MOPS document</subject>
+
+
+
+	<date_time>2001-12-27 11:48:33</date_time>
+
+
+
+	<content>
+
+    
+
+M3.1. Danny is out of the office so Rod is the one.
+
+[Inform: Danny is out so Rod is the person to sign]
+
+Blink2.1
+
+
+
+	</content>
+
+</message>
+
+</xml>
+
+Hierarchical Power Annotation: N/A
+Person_1: 
+Person_2: 
+Reason: 
+
+Situational Power Annotation:
+Person_1: Denise LaGesse
+Person_2: Rod Hayslett, Danny McCarty
+Reason: Denise asks Rod and Danny whether either of them can sign a document.
+
+Attempt at Exercising Power Annotation:
+DFUs: M1.1
+Person_1: Denise LaGesse
+Person_2: Rod Hayslett
+Type: Situational
+Successful?: Y
+Reason: In message 2, Rod agrees to sign the document for Denise.
+
+Influence Annotation: N/A
+Person_1:
+Person_2:
+Reason:
+
+Attempt at Influence Annotation: N/A
+DFUs: 
+Person_1:
+Person_2:
+Successful?:
+Reason: 

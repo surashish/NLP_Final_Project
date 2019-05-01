@@ -1,0 +1,227 @@
+99
+Annotation for intention:
+
+External-event-planning: reviewing forms from TXU Fuel Company
+
+
+Annotation for control:
+Keith Ford: Keith initiates the thread and asks Daren Farmer to review the forms and send him information if Daren wants to put contracts in place.
+
+
+<?xml version="1.0"?>
+
+
+
+<!--
+
+-
+
+- Sequel Pro dump
+
+- Version 155
+
+- http://code.google.com/p/sequel-pro
+
+-
+
+- Host: 127.0.0.1 (MySQL 5.0.67)
+
+- Database: enron
+
+- Generation Time: 2008-12-01 15:20:28 -0500
+
+-
+
+-->
+
+
+
+	<custom>
+
+	<row>
+
+		<thread_id>99</thread_id>
+
+		<depth>0</depth>
+
+		<type>ThreadNode</type>
+
+		<message_id>277651</message_id>
+
+	<to name="Daren J Farmer" id="28042" address="dfarmer@enron.com"/>
+
+	<from name="Keith Ford" id="66315" address="kford1@txu.com"/>
+
+		<parent_id>NULL</parent_id>
+
+		<subject>GISB contracts for intrastate and interstate gas</subject>
+
+		<date_time>2001-05-25 15:00:57</date_time>
+
+		<content>
+
+M1.1. At the request of Lynn Handlin, please find attached a copy of the following:
+
+M1.2. GISB contract form
+
+M1.3. Special Provisions for intrastate gas
+
+M1.4. Special Provision for interstate gas
+
+[Inform: 3 attachments, sent at the request of Lynn Handlin]
+
+
+
+M1.5. Please review,
+
+M1.6. and if interested in putting these contracts in place, forward to
+
+me all required information on the first page of the GISB contract form.
+
+[Request-Action: review attachments and forward Keith Ford requisite info if interested in putting contracts in place]
+
+Flink1.6
+
+M1.7. I will
+
+then have the contracts prepared and forwarded to you for execution.
+
+[Inform: after Keith receives filled out form he will prepare them for execution]
+
+
+
+M1.8. Please keep in mind that TXU Fuel Company is an intrastate pipeline
+
+M1.9. and can
+
+purchase interstate gas only under certain limited conditions.
+
+M1.10. These conditions
+
+are covered under item number 8 in the Special Provisions.
+
+[Inform: TXU Fuel Co. can purchase gas only under certain conditions, which are listed in one of the attachments]
+
+M1.11. Thanks.
+
+[Conventional: thanks]
+
+
+
+M1.12. Keith Ford
+
+M1.13. TXU Fuel Company
+
+M1.14. Contract Administration Supervisor
+
+[Conventional: signature]
+
+
+
+</content>
+
+	</row>
+
+	<row>
+
+		<thread_id>99</thread_id>
+
+		<depth>2</depth>
+
+		<type>ThreadNode</type>
+
+		<message_id>727061</message_id>
+
+	<to name="Daren J Farmer" id="28042" address="Daren.J.Farmer@ENRON.com"/>
+
+	<from name="Anthony Campos" id="5378" address="Anthony.Campos@ENRON.com"/>
+
+	<to name="Daren J Farmer" id="28042" address="dfarmer@enron.com"/>
+
+	<from name="Anthony Campos" id="5378" address="Acampos@ENRON.com"/>
+
+		<parent_id>NULL</parent_id>
+
+		<subject>GISB contracts for intrastate and interstate gas</subject>
+
+		<date_time>2001-07-11 14:05:43</date_time>
+
+		<content>
+
+M2.1. Mr. Farmer,
+
+[Conventional: salutation]
+
+
+
+M2.2. I have forwarded your request with comments to Debra Perlingiere (Legal Specialist - x3-7658) and Stacey Dickson (Sr. Counsel - x3-5705)
+
+M2.3. who handle negotiations for new Master Agreements.
+
+[Inform: Anthony Campos has forwarded Mr. Farmer's request with comments to two other people]
+
+M2.4. Please let me know if I may be of further assistance.
+
+[Conventional: Anthony is available for further assistance]
+
+
+
+M2.5. Thank You,
+
+[Conventional: thanks]
+
+M2.6. Anthony Campos
+
+M2.7. Enron Corp._Global Contracts
+
+M2.8. 713.853.7911 (office)
+
+M2.9. 713.646.2495 (fax)
+
+M2.10. 713.709.0373 (pager)
+
+M2.11. Anthony.Campos@enron.com
+
+[Conventional: signature + contact info]
+
+
+
+</content>
+
+	</row>
+
+	</custom>
+
+Hierarchical Power Annotation: N/A
+Person_1: 
+Person_2:
+Reason: 
+
+Situational Power Annotation:
+Person_1: Keith Ford
+Person_2: Daren J Farmer
+Reason: Keith asks Daren to look at and fill out forms if interested in message 1.
+
+Person_1: Daren J Farmer
+Person_2: Anthony Campos
+Reason: From Anthony's comments in message 2, it seems that Daren has asked Anthony to forward a request, which Anthony says he has done.
+
+Attempt at Exercising Power Annotation:
+DFUs: M1.5-M1.6
+Person_1: Keith Ford
+Person_2: Daren J Farmer
+Type: Situational
+Successful?: Y
+Reason: Keith asks Daren to look at and fill out forms if interested in message 1, and from message 2 from Anthony Campos, it seems that Daren has done so.
+
+Influence Annotation: N/A
+Person_1:
+Person_2:
+Reason:
+
+Attempt at Influence Annotation: N/A
+DFUs: 
+Person_1:
+Person_2:
+Successful?:
+Reason: 

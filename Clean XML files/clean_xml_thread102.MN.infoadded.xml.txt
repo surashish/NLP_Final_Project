@@ -1,0 +1,367 @@
+<custom>
+
+	<row>
+
+		<thread_id>102</thread_id>
+
+		<depth>0</depth>
+
+		<type>ThreadNode</type>
+
+		<message_id>277074</message_id>
+
+	<to name="Tess Ray" id="49473" address="tess.ray@ENRON.com"/>
+
+	<from name="Julie Meyers" id="4832" address="Julie.Meyers@ENRON.com"/>
+
+	<cc name="Daren J Farmer" id="28042" address="Daren.J.Farmer@ENRON.com"/>
+
+	<cc name="Liz Bellamy" id="70263" address="liz.Bellamy@ENRON.com"/>
+
+	<to name="Tess Ray" id="49473" address="TRAY2@ENRON.com"/>
+
+	<from name="Julie Meyers" id="4832" address="A8131D50-2229AC72-862564B4-7573B7@ENRON.com"/>
+
+	<cc name="farmer" id="40461" address="Farmer@ENRON.com"/>
+
+	<cc name="" id="3985" address="??SDaren.J.Farmer@ENRON.com"/>
+
+	<cc name="Liz Bellamy" id="70263" address="lbellamy@enron.com"/>
+
+		<parent_id>NULL</parent_id>
+
+		<subject>March 2001 Invoice</subject>
+
+		<date_time>2001-04-24 11:53:12</date_time>
+
+		<content>
+
+        
+
+M1.1. Tess there is a deal out there for the blue dolphin S#745589.
+
+M1.2. And there are three deal out there for CSGT #639612, #639615, #745589.  
+
+M1.3. The problem is that none of these deals have actuals.
+
+M1.4. It looks as though they have not been nom'd.
+
+[Inform: there are four deals for four different deal ticket numbers]
+
+
+
+M1.5. Daren are these deals real or what?
+
+[Request-Information: are these real deals]
+
+Flink1.5
+
+M1.6. Why have they not been nom'd?
+
+[Request-Information: why have these deals not been nom'd]
+
+Flink1.6
+
+M1.7. Could they be under another Dow company?
+
+[Request-Information: could deals be under another Dow company]
+
+Flink1.7
+
+
+
+M1.8. Tess, I'm leaving the office for a little bit today.
+
+M1.9. But I'll be back this afternoon.
+
+[Inform: Julie is leaving the office, but will be back in the afternoon]
+
+
+
+M1.10. Julie
+
+[Conventional: signature]
+
+
+
+</content>
+
+	</row>
+
+	<row>
+
+		<thread_id>102</thread_id>
+
+		<depth>1</depth>
+
+		<type>ThreadNode</type>
+
+		<message_id>277071</message_id>
+
+	<to name="Daren J Farmer" id="28042" address="Daren.J.Farmer@ENRON.com"/>
+
+	<from name="Tess Ray" id="49473" address="tess.ray@ENRON.com"/>
+
+	<cc name="Julie Meyers" id="4832" address="Julie.Meyers@ENRON.com"/>
+
+	<to name="Daren J Farmer" id="28042" address="dfarmer@enron.com"/>
+
+	<from name="Tess Ray" id="49473" address="TRAY2@ENRON.com"/>
+
+	<cc name="Julie Meyers" id="4832" address="A8131D50-2229AC72-862564B4-7573B7@ENRON.com"/>
+
+		<parent_id>277074</parent_id>
+
+		<subject>March 2001 Invoice</subject>
+
+		<date_time>2001-04-26 10:42:36</date_time>
+
+		<content>
+
+        
+
+M2.1. Daren -
+
+[Conventional: salutation]
+
+M2.2. Dow Hydrocarbons and Resources, Inc.,  stated  on 4/24/01, re: ENA deal # SA 639615, that their 03/01 price for ENA  sales on CSGT @ B368-Brazos # 368 (i.e. cowtrap), is IF - $.06.
+
+[Inform: information about prices for ENA sales from Dow Hydrocarbons and Resources, Inc.]
+
+M2.3. We are invoicing them at HSC GDP DA.
+
+[Inform: Tess is invoicing Dow at HSC GDP DA]
+
+Sflink2.3
+
+M2.4. Need to know which price is correct and copy of confirmation. [Y]
+
+[Inform: Tess needs to know which price is correct, and needs to receive a copy of confirmation]
+
+Sflink2.4
+
+
+
+</content>
+
+	</row>
+
+	<row>
+
+		<thread_id>102</thread_id>
+
+		<depth>2</depth>
+
+		<type>ThreadNodeBubble</type>
+
+		<message_id>2000032</message_id>
+
+		<parent_id>277071</parent_id>
+
+		<subject>March 2001 Invoice</subject>
+
+		<date_time>2001-04-26 13:34:28</date_time>
+
+		<content>
+
+
+
+M3.1. Tess,
+
+[Conventional: salutation]
+
+
+
+M3.2. We probably should be invoicing selling to Dow at IF.
+
+[Inform: correction of where invoicing selling to Dow should occur]
+
+Blink2.3
+
+M3.3. However, we should also have purchased the supply from Spinnaker (#144271 &amp; 144264) at IF.
+
+[Inform: they should also have purchased supply from Spinnaker at IF]
+
+Sflink3.3
+
+M3.4. Did Spinnaker bill us at Index or Gas Daily?
+
+[Request-Information: did Spinnaker bill them at Index or Gas Daily]
+
+Flink3.4
+
+M3.5. What did we pay?
+
+[Request-Information: what they paid]
+
+Blink2.4
+
+Flink3.5
+
+M3.6. Let me know this and we can proceed from there.
+
+[Inform: they can go forward after Daren finds out this information]
+
+M3.7. Nelson Ferris did these deals.
+
+M3.8. I will talk to him after I hear from you.
+
+[Inform: Nelson Ferris did the deals, and Daren will talk to him after hearing from Tess]
+
+
+
+M3.9. D
+
+[Conventional: signature]
+
+
+
+</content>
+
+	</row>
+
+	<row>
+
+		<thread_id>102</thread_id>
+
+		<depth>3</depth>
+
+		<type>ThreadNode</type>
+
+		<message_id>277072</message_id>
+
+	<to name="Charlene Richmond" id="3793" address="Charlene.Richmond@ENRON.com"/>
+
+	<to name="Cynthia Hakemack" id="26663" address="Cynthia.Hakemack@ENRON.com"/>
+
+	<to name="Charles Howard" id="922" address="Charles.Howard2@ENRON.com"/>
+
+	<from name="Tess Ray" id="49473" address="tess.ray@ENRON.com"/>
+
+	<cc name="Daren J Farmer" id="28042" address="Daren.J.Farmer@ENRON.com"/>
+
+	<to name="Charlene Richmond" id="3793" address="9eb4b4f6-a07b83a3-862564a5-6b5450@ENRON.com"/>
+
+	<to name="Cynthia Hakemack" id="26663" address="F83DF2BD-9B262624-86256500-6C4F0E@ENRON.com"/>
+
+	<to name="Charles Howard" id="922" address="2ae91b5b-41bd5f60-8625698a-6f4c3c@ENRON.com"/>
+
+	<from name="Tess Ray" id="49473" address="TRAY2@ENRON.com"/>
+
+	<cc name="Daren J Farmer" id="28042" address="dfarmer@enron.com"/>
+
+		<parent_id>2000032</parent_id>
+
+		<subject>March 2001 Invoice</subject>
+
+		<date_time>2001-04-26 16:26:20</date_time>
+
+		<content>
+
+        
+
+M4.1. Charlene/Cindy/Charles:
+
+[Conventional: salutation]
+
+M4.2. Can either of you answer Darren's question to me below?
+
+[Request-Information: can any of the recipients answer Daren's question]
+
+Blink3.4
+
+Blink3.5
+
+Flink4.2
+
+M4.3. My sales deal is under ENA.
+
+[Inform: Tess' sales deal is under ENA]
+
+M4.4. Thanks,
+
+[Conventional: thanks]
+
+M4.5. Tess
+
+[Conventional: signature]
+
+
+
+</content>
+
+	</row>
+
+	<row>
+
+		<thread_id>102</thread_id>
+
+		<depth>4</depth>
+
+		<type>ThreadNode</type>
+
+		<message_id>277073</message_id>
+
+	<to name="Mary Ellenberger" id="37728" address="Mary.Ellenberger@ENRON.com"/>
+
+	<from name="Tess Ray" id="49473" address="tess.ray@ENRON.com"/>
+
+	<cc name="Daren J Farmer" id="28042" address="Daren.J.Farmer@ENRON.com"/>
+
+	<to name="Mary Ellenberger" id="595" address="1d1ab0b7-ea9cbefb-8625687e-777977@ENRON.com"/>
+
+	<from name="Tess Ray" id="49473" address="TRAY2@ENRON.com"/>
+
+	<cc name="Daren J Farmer" id="28042" address="dfarmer@enron.com"/>
+
+		<parent_id>277072</parent_id>
+
+		<subject>March 2001 Invoice</subject>
+
+		<date_time>2001-04-26 16:48:46</date_time>
+
+		<content>
+
+        
+
+M5.1. Mary -
+
+[Conventional: salutation]
+
+M5.2. Do you pay Spinnaker, for gas purchases?
+
+[Request-Information: does Mary pay Spinnaker for gas purchases]
+
+Blink3.3
+
+Flink5.2
+
+M5.3. (See Daren's question below, re: 03/01 purchase price from Spinnaker (#144271 &amp; 144264),
+
+[Inform: Mary should look at Daren's attached question for clarification]
+
+Blink3.5
+
+M5.4. Need to know if  price is at IF or Gas Daily? [Y]
+
+[Request-Information: is price at IF or Gas Daily]
+
+Blink3.4
+
+Flink5.4
+
+M5.5. Thanks,
+
+[Conventional: thanks]
+
+M5.6. Tess
+
+[Conventional: signature]
+
+
+
+</content>
+
+	</row>
+
+	</custom>

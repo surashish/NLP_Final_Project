@@ -1,0 +1,281 @@
+<custom>
+
+	<row>
+
+		<thread_id>109</thread_id>
+
+		<depth>0</depth>
+
+		<type>ThreadNode</type>
+
+		<message_id>1033851</message_id>
+
+	<to name="John Lavorato" id="2273" address="John.J.Lavorato@ENRON.com"/>
+
+	<from name="Jeffrey C Gossett" id="45450" address="Jeffrey.C.Gossett@ENRON.com"/>
+
+	<cc name="Jean Mrha" id="1994" address="Jean.Mrha@ENRON.com"/>
+
+	<to name="John Lavorato" id="2273" address="JLAVORA@ENRON.com"/>
+
+	<from name="Jeffrey C Gossett" id="45450" address="Gossett@ENRON.com"/>
+
+	<from name="Jeffrey C Gossett" id="45450" address="Jeffrey.C@ENRON.com"/>
+
+	<cc name="Jean Mrha" id="1994" address="Jmrha@ENRON.com"/>
+
+		<parent_id>NULL</parent_id>
+
+		<subject>Formosa - 1.25 Million</subject>
+
+		<date_time>2001-05-29 08:40:57</date_time>
+
+		<content>
+
+        
+
+M1.1. John -
+
+[Conventional: salutation]
+
+
+
+M1.2. Global Markets is maintaining that there are &quot;accounting issues&quot;  with the $1.25 million.
+
+[Inform: Global Markets claims there are "accounting issues" with a large amount of money, which Jeffrey doesn't believe]
+
+Sflink1.2
+
+M1.3. Should we get Faith Killen or Wes to get this wrapped up?
+
+[Request-Information: should they get Faith Killen or Wes to fix the problem]
+
+Flink1.3
+
+
+
+</content>
+
+	</row>
+
+	<row>
+
+		<thread_id>109</thread_id>
+
+		<depth>1</depth>
+
+		<type>ThreadNode</type>
+
+		<message_id>1033848</message_id>
+
+	<to name="John Lavorato" id="2273" address="John.J.Lavorato@ENRON.com"/>
+
+	<from name="Jean Mrha" id="1994" address="Jean.Mrha@ENRON.com"/>
+
+	<cc name="Jeffrey C Gossett" id="45450" address="Jeffrey.C.Gossett@ENRON.com"/>
+
+	<to name="John Lavorato" id="2273" address="JLAVORA@ENRON.com"/>
+
+	<from name="Jean Mrha" id="1994" address="Mrha@ENRON.com"/>
+
+	<from name="Jean Mrha" id="1994" address="Jean@ENRON.com"/>
+
+	<cc name="Jeffrey C Gossett" id="45450" address="Jgosset@ENRON.com"/>
+
+		<parent_id>1033851</parent_id>
+
+		<subject>Formosa - 1.25 Million</subject>
+
+		<date_time>2001-05-29 10:18:39</date_time>
+
+		<content>
+
+        
+
+M2.1. There are no accounting issues.
+
+[Inform: there are no accounting issues]
+
+Blink1.2
+
+Sflink2.1
+
+M2.2. I am assuming that Nowlan is retrading the deal.
+
+[Inform: Jean assumes that Nowlan is retrading the deal]
+
+M2.3. I will set up a meeting with Wes.
+
+[Inform: Jean will set up a meeting with Wes]
+
+Blink1.3
+
+
+
+</content>
+
+	</row>
+
+	<row>
+
+		<thread_id>109</thread_id>
+
+		<depth>1</depth>
+
+		<type>ThreadNodeBubble</type>
+
+		<message_id>2000034</message_id>
+
+		<parent_id>1033851</parent_id>
+
+		<subject>Formosa - 1.25 Million</subject>
+
+		<date_time>2001-05-30 00:47:19</date_time>
+
+		<content>
+
+        
+
+M3.1. This is bizzare.
+
+[Inform: this is bizarre]
+
+M3.2. Global Markets promised Jean this money and won't seem to write her a check.
+
+[Inform: Global Markets promised Jean the money and won't write her a check]
+
+Blink1.2
+
+Sflink3.2
+
+M3.3. It was also a low number relative to what was created for GM.
+
+[Inform: this was a low number relative to what was created for Global Markets]
+
+
+
+M3.4. John
+
+[Conventional: signature]
+
+
+
+</content>
+
+	</row>
+
+	<row>
+
+		<thread_id>109</thread_id>
+
+		<depth>2</depth>
+
+		<type>ThreadNode</type>
+
+		<message_id>1033849</message_id>
+
+	<to name="John Lavorato" id="2273" address="John.J.Lavorato@ENRON.com"/>
+
+	<from name="Wes Colwell" id="5416" address="Wes.Colwell@ENRON.com"/>
+
+	<to name="John Lavorato" id="2273" address="JLAVORA@ENRON.com"/>
+
+	<from name="Colwell" id="24537" address="Colwell@ENRON.com"/>
+
+	<from name="Wes Colwell" id="5416" address="Wes@ENRON.com"/>
+
+		<parent_id>2000034</parent_id>
+
+		<subject>Formosa - 1.25 Million</subject>
+
+		<date_time>2001-05-30 16:53:41</date_time>
+
+		<content>
+
+        
+
+M4.1. I am told that this money should come this week.
+
+[Inform: money should arrive this week]
+
+Blink3.2
+
+
+
+</content>
+
+	</row>
+
+	<row>
+
+		<thread_id>109</thread_id>
+
+		<depth>2</depth>
+
+		<type>ThreadNode</type>
+
+		<message_id>1033850</message_id>
+
+	<to name="Jean Mrha" id="1994" address="Jean.Mrha@ENRON.com"/>
+
+	<to name="John Lavorato" id="2273" address="John.J.Lavorato@ENRON.com"/>
+
+	<from name="Jeffrey C Gossett" id="45450" address="Jeffrey.C.Gossett@ENRON.com"/>
+
+	<to name="Jean Mrha" id="1994" address="Jmrha@ENRON.com"/>
+
+	<to name="John Lavorato" id="2273" address="JLAVORA@ENRON.com"/>
+
+	<from name="Jeffrey C Gossett" id="45450" address="Gossett@ENRON.com"/>
+
+	<from name="Jeffrey C Gossett" id="45450" address="Jeffrey.C@ENRON.com"/>
+
+		<parent_id>1033848</parent_id>
+
+		<subject>Update -  Formosa - 1.25 Million</subject>
+
+		<date_time>2001-05-29 11:35:41</date_time>
+
+		<content>
+
+        
+
+M5.1. Jean/ John -
+
+[Conventional: salutation]
+
+
+
+M5.2. It looks like they have fixed their &quot;problems&quot;  and we should be getting our money through accounting tonight.
+
+[Inform: so-called problems seem to be fixed, and money should arrive tonight]
+
+Blink2.1
+
+
+
+M5.3. Jean -
+
+[Conventional: salutation]
+
+
+
+M5.4. Can you make sure that Carol is talking to Greg Whiting in Gas Accounting? [Y]
+
+[Request-Action: make sure Carol talks to Greg Whiting in Gas Accounting]
+
+Flink5.4
+
+
+
+M5.5. Thanks
+
+[Conventional: thanks]
+
+
+
+</content>
+
+	</row>
+
+	</custom>

@@ -1,0 +1,283 @@
+189372train
+Annotation for intention:
+
+Knowledge-Acquisition: BNP Paribas Commodity Futures EIA Survey results
+
+Annotation for control:
+Anthony Carroll(id:"9576"): Anthony is the only sender of messages in this thread, and sends the survey results.
+
+
+
+<xml>
+
+<message>
+
+
+
+	<thread_id>189372</thread_id>
+
+
+
+	<depth>0</depth>
+
+
+
+	<type>ThreadNode</type>
+
+
+
+	<message_id>76020</message_id>
+
+	<to name="" id="9576" address="anthony.carroll@americas.bnpparibas.com"/>
+
+	<from name="" id="9576" address="anthony.carroll@americas.bnpparibas.com"/>
+
+
+
+	<parent_id></parent_id>
+
+
+
+	<subject>BNP PARIBAS Commodity Futures EIA Survey......RESULTS!!</subject>
+
+
+
+	<date_time>2002-05-29 14:08:46</date_time>
+
+
+
+	<content>
+
+    
+
+M1.1. Here are this week's survey results.
+
+[Inform: the following is this week's survey results]
+
+M1.2. AVG            +62
+
+M1.3. AVG w/o High & Low       +62
+
+M1.4. Median              +59
+
+M1.5. Standard Deviation   10
+
+M1.6. # of responses                   52
+
+M1.7. High                     +86
+
+M1.8. Low                       +46
+
+M1.9. AGA Last Year       +99
+
+[Inform: this week's survey results]
+
+M1.10. Thank You!
+
+[Conventional: thanks]
+
+M1.11. Anthony Carroll
+
+M1.12. BNP PARIBAS
+
+[Conventional: signature]
+
+M1.13. This message and any attachments (the "message") is
+
+intended solely for the addressees and is confidential.
+
+If you receive this message in error, please delete it and
+
+immediately notify the sender. Any use not in accord with
+
+its purpose, any dissemination or disclosure, either whole
+
+or partial, is prohibited except formal approval. The internet
+
+can not guarantee the integrity of this message.
+
+BNP PARIBAS (and its subsidiaries) shall (will) not
+
+therefore be liable for the message if modified.
+
+[Inform: what to do if message is received in error]
+
+---------------------------------------------
+
+M1.14. Ce message et toutes les pieces jointes (ci-apres le
+
+"message") sont etablis a l'intention exclusive de ses
+
+destinataires et sont confidentiels. Si vous recevez ce
+
+message par erreur, merci de le detruire et d'en avertir
+
+immediatement l'expediteur. Toute utilisation de ce
+
+message non conforme a sa destination, toute diffusion
+
+ou toute publication, totale ou partielle, est interdite, sauf
+
+autorisation expresse. L'internet ne permettant pas
+
+d'assurer l'integrite de ce message, BNP PARIBAS (et ses
+
+filiales) decline(nt) toute responsabilite au titre de ce
+
+message, dans l'hypothese ou il aurait ete modifie.
+
+[Inform: what to do if message is received in error, in French]
+
+
+
+	</content>
+
+</message>
+
+<message>
+
+
+
+	<thread_id>189372</thread_id>
+
+
+
+	<depth>1</depth>
+
+
+
+	<type>ThreadNode</type>
+
+
+
+	<message_id>75963</message_id>
+
+	<to name="" id="9576" address="anthony.carroll@americas.bnpparibas.com"/>
+
+	<from name="" id="9576" address="anthony.carroll@americas.bnpparibas.com"/>
+
+
+
+	<parent_id>76020</parent_id>
+
+
+
+	<subject>BNP PARIBAS Commodity Futures EIA Survey......RESULTS!!</subject>
+
+
+
+	<date_time>2002-06-05 14:02:53</date_time>
+
+
+
+	<content>
+
+    
+
+M2.1 Here are this week's survey results.
+[Inform: the following is this week's survey results]
+
+M2.2 AVG            +92
+
+M2.3 AVG w/o High & Low       +92
+
+M2.4 Median              +94
+
+M2.5 Standard Deviation   9
+
+M2.6 # of responses                   40
+
+M2.7 High                     +101
+
+M2.8 Low                       +65
+
+M2.9 AGA Last Year       +117
+[Inform: this week's survey results]
+
+M2.10 Thank You!
+[Conventional: thanks]
+
+M2.11 Anthony Carroll
+
+M2.12 BNP PARIBAS
+[Conventional: signature]
+
+M2.13 This message and any attachments (the "message") is
+
+intended solely for the addressees and is confidential.
+
+If you receive this message in error, please delete it and
+
+immediately notify the sender. Any use not in accord with
+
+its purpose, any dissemination or disclosure, either whole
+
+or partial, is prohibited except formal approval. The internet
+
+can not guarantee the integrity of this message.
+
+BNP PARIBAS (and its subsidiaries) shall (will) not
+
+therefore be liable for the message if modified.
+[Inform: what to do if message is received in error]
+
+---------------------------------------------
+
+M2.14 Ce message et toutes les pieces jointes (ci-apres le
+
+"message") sont etablis a l'intention exclusive de ses
+
+destinataires et sont confidentiels. Si vous recevez ce
+
+message par erreur, merci de le detruire et d'en avertir
+
+immediatement l'expediteur. Toute utilisation de ce
+
+message non conforme a sa destination, toute diffusion
+
+ou toute publication, totale ou partielle, est interdite, sauf
+
+autorisation expresse. L'internet ne permettant pas
+
+d'assurer l'integrite de ce message, BNP PARIBAS (et ses
+
+filiales) decline(nt) toute responsabilite au titre de ce
+
+message, dans l'hypothese ou il aurait ete modifie.
+[Inform: what to do if message is received in error, in French]
+
+	</content>
+
+</message>
+
+</xml>
+
+Hierarchical Power Annotation: N/A
+Person_1: 
+Person_2: 
+Reason: 
+
+Situational Power Annotation: N/A
+Person_1: 
+Person_2: 
+Reason: 
+
+Attempt at Exercising Power Annotation: N/A
+DFUs: 
+Person_1:
+Person_2:
+Type:
+Successful?:
+Reason: 
+
+Influence Annotation: N/A
+Person_1:
+Person_2:
+Reason:
+
+Attempt at Influence Annotation: N/A
+DFUs: 
+Person_1:
+Person_2:
+Successful?:
+Reason: 

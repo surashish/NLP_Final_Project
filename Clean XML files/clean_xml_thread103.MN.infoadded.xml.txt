@@ -1,0 +1,257 @@
+<custom>
+
+	<row>
+
+		<thread_id>103</thread_id>
+
+		<depth>0</depth>
+
+		<type>ThreadNode</type>
+
+		<message_id>1034078</message_id>
+
+	<to name="Louise Kitchen" id="14758" address="Louise.Kitchen@ENRON.com"/>
+
+	<to name="John Lavorato" id="2273" address="John.J.Lavorato@ENRON.com"/>
+
+	<to name="Tammie Schoppe" id="111105" address="Tammie.Schoppe@ENRON.com"/>
+
+	<to name="Kimberly Hillis" id="66518" address="Kimberly.Hillis@ENRON.com"/>
+
+	<from name="Christopher F Calger" id="18656" address="Christopher.F.Calger@ENRON.com"/>
+
+	<to name="Louise Kitchen" id="14758" address="E5CF97BB-467B6EEF-8625687A-893A0@ENRON.com"/>
+
+	<to name="John Lavorato" id="2273" address="JLAVORA@ENRON.com"/>
+
+	<to name="Tammie Schoppe" id="1184" address="36373a9b-19bf6b52-862564c6-642f44@ENRON.com"/>
+
+	<to name="Kimberly Hillis" id="66518" address="Khillis@ENRON.com"/>
+
+	<from name="Christopher F Calger" id="18656" address="Calger@ENRON.com"/>
+
+	<from name="Christopher F Calger" id="18656" address="Christopher.F@ENRON.com"/>
+
+		<parent_id>NULL</parent_id>
+
+		<subject>West Power Orig Update</subject>
+
+		<date_time>2001-05-26 14:33:13</date_time>
+
+		<content>
+
+        
+
+M1.1. Change in Gross Margin:
+
+M1.2. Blue Dog moved to Q2 from Q3:						$3.5MM
+
+M1.3. PSCo: additional income taken due to construction completion :		$5MM
+
+M1.4. Las Vegas: additional income taken due to toll closure:			$5.3MM
+
+M1.5. Pastoria: income reduced due to expenses and related writeoffs:		-$2MM
+
+M1.6. Total Gross Margin Change:	$11.8MM
+
+[Inform: chart listing changes in gross margins]
+
+
+
+M1.7. Gross Margin to Date:
+
+M1.8. Pastoria:			$39MM
+
+M1.9. PSCo (Fountain Valley):		$10MM ($7MM more to be recognized in Q3)
+
+M1.10. Turbine Swap:			 $3.7MM (+ $2.1MM to Jacoby)
+
+M1.11. DWR:				$7MM
+
+M1.12. Las Vegas:			$5.3MM
+
+M1.13. Blue Dog:			$3.5MM
+
+M1.14. Other:				$1MM
+
+M1.15. SubTotal:		$69.5MM
+
+M1.16. QI QF Valuation:		-$5MM
+
+M1.17. Total:			$64.5MM
+
+[Inform: list of gross margins to date of different deals] 
+
+
+
+M1.18. Hotlist Summary:
+
+M1.19. PSCo, Q3			$7MM
+
+M1.20. Las Vegas, Q3			$20MM
+
+M1.21. Saguaro, Q3			$5MM
+
+M1.22. Longview, Q4			$15MM
+
+M1.23. Various Commodity		$20MM
+
+M1.24. Total:			$67MM
+
+[Inform: Hotlist summary]
+
+
+
+M1.25. Total Forecast:		$131.5MM
+
+[Inform: total forecast]
+
+
+
+M1.26. Deal Update:
+
+[Inform: the following is a deal update]
+
+
+
+M1.27. Las Vegas:
+
+M1.28. Meetings and site visits scheduled with Northland, Black Hills and Allegheny.
+
+M1.29. All have registered a lot of time on Dealbench.
+
+M1.30. Northland brought there investment bankers (CIBC) to Portland and hired an independent engineering firm.
+
+M1.31. We will have the info memorandum prepared this week tosend out to other potential purchasers if necessary.
+
+M1.32. Still on track.
+
+[Inform: update on Las Vegas plans]
+
+
+
+M1.33. AMPS:
+
+M1.34. We are negotiating with two industrials, each can take the first two units. Oregon Steel in Portland and Geneva Steel in Utah.
+
+M1.35. Geneva is a better site (permitting and infrastructure).
+
+M1.36. High elevation in Utah will derate the output of the units, but will likely be able to run most hours.
+
+M1.37. Oregon interconnects with Portland General (good) but permit will restrict hours (3,500 hours estimate).
+
+M1.38. We need to talk this week to discuss the form of the contract and value/risk transfer between ENA and AMPS.
+
+[Inform: differences between two steel companies that Enron is negotiating with]
+
+
+
+M1.39. Wind:
+
+M1.40. We completed a term sale to Edwards Air Force Base consisting of shaped energy and green tags.
+
+M1.41. Tags came from our existing biomass tags and Texas wind.
+
+M1.42. We will purchase the balance from Pacificorp.
+
+M1.43. We expect more activity here with other feds, some of the munis and 6-7 developers that we are working with.
+
+[Inform: update on wind power deals]
+
+
+
+M1.44. Generator Tolls:
+
+M1.45. We are trading term sheets with Allegheny, Reliant, Idacorp, Dynegy, NRG and Constellation re our offer to sell at NP-15, Mid-C and Palo -
+
+M1.46. I think we will get something done this quarter.
+
+[Inform: update on generator toll plans for selling]
+
+
+
+M1.47. Longview:
+
+M1.48. We met with the head of BPA this week and got confirmation that he supports our Longview process and that his agency will not slow us down with their proposed regional air study.
+
+M1.49. Finding EPC contractors has been difficult so we may start discussions with NEPCO.
+
+[Inform: head of BPA supports Enron's Longview process]
+
+
+
+M1.50. DWR: Should execute the Master agreement this week which will allow short-term deals with 7 day payment.
+
+[Inform: plan to execute Master agreement with DWR]
+
+
+
+</content>
+
+	</row>
+
+	<row>
+
+		<thread_id>103</thread_id>
+
+		<depth>2</depth>
+
+		<type>ThreadNode</type>
+
+		<message_id>1034077</message_id>
+
+	<to name="John Lavorato" id="2273" address="John.J.Lavorato@ENRON.com"/>
+
+	<from name="Christopher F Calger" id="18656" address="Christopher.F.Calger@ENRON.com"/>
+
+	<to name="John Lavorato" id="2273" address="JLAVORA@ENRON.com"/>
+
+	<from name="Christopher F Calger" id="18656" address="Calger@ENRON.com"/>
+
+	<from name="Christopher F Calger" id="18656" address="Christopher.F@ENRON.com"/>
+
+		<parent_id>NULL</parent_id>
+
+		<subject>West Power Orig Update</subject>
+
+		<date_time>2001-05-29 11:13:24</date_time>
+
+		<content>
+
+        
+
+M2.1. John,
+
+[Conventional: salutation]
+
+M2.2. Tim's view is the main reason I am trying to sell these tolls.
+
+[Inform: Tim's view is why Chris is trying to sell these tolls]
+
+M2.3. We sold our Las Vegas toll on-line (Dealbench) and I thought about putting these into EOL.
+
+[Inform: they sold their Las Vegas toll online and Chris might want to put them into Enron Online]
+
+M2.4. However, different companies want different delivery points, start dates and implied heat rates.
+
+[Inform: different companies want different rates/dates/delivery points]
+
+M2.5. I think we have whet their appetite for the structure - if they don't transact, I think we should put a couple of structures online.
+
+[Inform: if they don't transact, Chris thinks some structures should be put online]
+
+M2.6. Sometimes the formality of a competitive auction makes people transact - and bid higher!
+
+[Inform: sometimes the formality of auctions makes people spend more money]
+
+M2.7. Chris
+
+[Conventional: signature]
+
+
+
+</content>
+
+	</row>
+
+	</custom>

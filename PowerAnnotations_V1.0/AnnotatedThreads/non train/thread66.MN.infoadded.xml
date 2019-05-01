@@ -1,0 +1,194 @@
+66
+Annotation for intention:
+
+Knowledge-Acquisition: payments for April and November
+
+
+Annotation for control:
+Chris H Foster: Chris Foster is the only person whose messages are included in this thread, and he tells the others the payments for April and November.
+
+
+<?xml version="1.0"?>
+
+
+
+<!--
+
+-
+
+- Sequel Pro dump
+
+- Version 155
+
+- http://code.google.com/p/sequel-pro
+
+-
+
+- Host: 127.0.0.1 (MySQL 5.0.67)
+
+- Database: enron
+
+- Generation Time: 2008-11-17 16:29:03 -0500
+
+-
+
+-->
+
+
+
+	<custom>
+
+	<row>
+
+		<thread_id>66</thread_id>
+
+		<depth>0</depth>
+
+		<type>ThreadNode</type>
+
+		<message_id>1101431</message_id>
+
+	<to name="Chris Stokley" id="3680" address="Chris.Stokley@ENRON.com"/>
+
+	<from name="Chris H Foster" id="2615" address="Chris.H.Foster@ENRON.com"/>
+
+	<cc name="Kourtney Nelson" id="4277" address="Kourtney.Nelson@ENRON.com"/>
+
+	<cc name="Jim Reyes" id="56775" address="Jim.Reyes@ENRON.com"/>
+
+	<to name="Chris Stokley" id="3680" address="Mstokle@ENRON.com"/>
+
+	<from name="Chris H Foster" id="2615" address="cfoster@enron.com"/>
+
+	<cc name="Kourtney Nelson" id="4277" address="Knelson@ENRON.com"/>
+
+	<cc name="Jim Reyes" id="56775" address="Jreyes4@ENRON.com"/>
+
+		<parent_id>NULL</parent_id>
+
+		<subject>Harbor April Annuity for Gas</subject>
+
+		<date_time>2001-05-21 12:35:48</date_time>
+
+		<content>
+
+M1.1. The Harbor annuity for gas is in the system as a leg on deal number 598956.1.
+
+[Inform: explains how Harbor annuity for gas is in the system]
+
+M1.2. The amount was $1,680,275.21.
+
+[Inform: amount of Harbor annuity]
+
+M1.3. So, we are ready to process payments for April, summing the day ahead revenue in EnPower with this gas annuity.
+
+[Inform: ready to process payments for April]
+
+M1.4. Please make sure the net of this gets to Harbor by the 25th. [Y]
+
+[Request-Action: make sure the net of this amount gets to Harbor by the 25th]
+
+Flink1.4.
+
+M1.5. Thanks
+
+[Conventional: thanks]
+
+
+
+M1.6. Chris
+
+[Conventional: signature]
+
+
+
+</content>
+
+	</row>
+
+	<row>
+
+		<thread_id>66</thread_id>
+
+		<depth>1</depth>
+
+		<type>ThreadNode</type>
+
+		<message_id>1101430</message_id>
+
+	<to name="Chris Stokley" id="3680" address="Chris.Stokley@ENRON.com"/>
+
+	<from name="Chris H Foster" id="2615" address="Chris.H.Foster@ENRON.com"/>
+
+	<cc name="Kourtney Nelson" id="4277" address="Kourtney.Nelson@ENRON.com"/>
+
+	<cc name="Jim Reyes" id="56775" address="Jim.Reyes@ENRON.com"/>
+
+	<to name="Chris Stokley" id="3680" address="Mstokle@ENRON.com"/>
+
+	<from name="Chris H Foster" id="2615" address="cfoster@enron.com"/>
+
+	<cc name="Kourtney Nelson" id="4277" address="Knelson@ENRON.com"/>
+
+	<cc name="Jim Reyes" id="56775" address="Jreyes4@ENRON.com"/>
+
+		<parent_id>1101431</parent_id>
+
+		<subject>Harbor April Annuity for Gas</subject>
+
+		<date_time>2001-05-21 14:25:11</date_time>
+
+		<content>
+
+M2.1. November is ready to go as well.
+
+[Inform: November ready to go also]
+
+M2.2. We should be paying them $59,732.85 according to the attached spreadsheet.
+
+[Inform: payment according to attached spreadsheet]
+
+M2.3. Thanks
+
+[Conventional: thanks]
+
+
+
+</content>
+
+	</row>
+
+	</custom>
+
+
+Hierarchical Power Annotation: N/A
+Person_1: 
+Person_2: 
+Reason: 
+
+Situational Power Annotation:
+Person_1: Chris H Foster
+Person_2: Chris Stokley, Kourtney Nelson, Jim Reyes
+Reason: In message 1, Chris Foster asks the others to get money to Harbor by a set date.
+
+Attempt at Exercising Power Annotation:
+DFUs: M1.4
+Person_1: Chris H Foster
+Person_2: Chris Stokley, Kourtney Nelson, Jim Reyes
+Type: Situational
+Successful?: No Reply
+Reason: In message 1, Chris Foster asks the others to get money to Harbor by a set date.
+
+Influence Annotation: N/A
+Person_1:
+Person_2:
+Reason:
+
+Attempt at Influence Annotation: N/A
+DFUs: 
+Person_1:
+Person_2:
+Successful?:
+Reason: 
+
+

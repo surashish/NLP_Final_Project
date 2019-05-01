@@ -1,0 +1,223 @@
+<custom>
+
+	<row>
+
+		<thread_id>96</thread_id>
+
+		<depth>0</depth>
+
+		<type>ThreadNode</type>
+
+		<message_id>291564</message_id>
+
+	<to name="Richard Shapiro" id="270" address="Paul.YBarbo@ENRON.com"/>
+
+	<to name="Richard Shapiro" id="270" address="Dan.Masters@ENRON.com"/>
+
+	<from name="Jaime Sanabria" id="631" address="Jaime.Sanabria@ENRON.com"/>
+
+	<to name="Richard Shapiro" id="270" address="pybarbo@enron.com"/>
+
+	<to name="Richard Shapiro" id="270" address="Dmaster@ENRON.com"/>
+
+	<from name="Jaime Sanabria" id="631" address="1f420990-3d2fd6cd-862567ae-52d60c@ENRON.com"/>
+
+		<parent_id>NULL</parent_id>
+
+		<subject>Peerless Proposal as discussed on Thursday, May 17, 2001</subject>
+
+		<date_time>2001-05-25 13:34:31</date_time>
+
+		<content>
+
+M1.1. Paul / Dan:
+
+[Conventional: salutation]
+
+
+
+M1.2. Can you give me your opinion as to the structure of this deal, based on your experience?
+
+[Request-Information: opinion as to deal structure based on experience]
+
+Flink1.2
+
+
+
+</content>
+
+	</row>
+
+	<row>
+
+		<thread_id>96</thread_id>
+
+		<depth>1</depth>
+
+		<type>ThreadNodeBubble</type>
+
+		<message_id>2000029</message_id>
+
+		<parent_id>291564</parent_id>
+
+		<subject>Peerless Proposal as discussed on Thursday, May 17, 2001</subject>
+
+		<date_time>2001-05-31 14:04:29</date_time>
+
+		<content>
+
+M2.1. Jaime,
+
+[Conventional: salutation]
+
+M2.2. Seems like this could be a good deal for Eco.
+
+[Inform: could be a good deal for Eco]
+
+Blink1.2
+
+M2.3. The pricing seems reasonable to me given the fact that Peerless will have money tied up on inventory that we will seldom use.
+
+[Inform: pricing seems reasonable]
+
+M2.4. Questions:
+
+[Inform: the following are some questions Dan has]
+
+M2.5. 1. what is the going rate for leasing tank capacity in the area?
+
+[Request-Information: going rate for leasing tank capacity in the area]
+
+Flink2.5
+
+M2.6. 2. will Peerless be storing No.2 (that meets our quality specs) in tanks in addition to Eco's?
+
+[Request-Information: will Peerless be storing oil that meets Enron's quality specs in tanks as well as Eco's]
+
+Flink2.6
+
+M2.7. Do they plan to transfer diesel back and forth between those tanks?
+
+[Request-Information: will diesel be transfered back and forth between tanks]
+
+Flink2.7
+
+M2.8. If so, how do we control quality?
+
+[Request-Information: if so how do they control quality]
+
+Flink2.8
+
+M2.9. 3. how much Minimum Inventory will Peerless agree to?
+
+[Request-Information: how much Minimum Inventory will Peerless agree to]
+
+Flink2.9
+
+M2.10. The more the better for Eco.
+
+[Inform: the more Minimum Inventory, the better, for Eco]
+
+M2.11. Note: The Platt's Index is Low Sulfur No.2 U.S. Gulf Coast - Waterborne
+
+[Inform: Platt's Index type of oil]
+
+M2.12. Dan
+
+[Conventional: signature]
+
+M2.13. - comments?
+
+[Request-Information: any comments]
+
+Flink2.13
+
+
+
+</content>
+
+	</row>
+
+	<row>
+
+		<thread_id>96</thread_id>
+
+		<depth>2</depth>
+
+		<type>ThreadNode</type>
+
+		<message_id>292035</message_id>
+
+	<to name="Richard Shapiro" id="270" address="Paul.YBarbo@ENRON.com"/>
+
+	<to name="Jaime Sanabria" id="631" address="Jaime.Sanabria@ENRON.com"/>
+
+	<from name="Richard Shapiro" id="270" address="Dan.Masters@ENRON.com"/>
+
+	<cc name="Rick Sierra" id="96847" address="Rick.Sierra@ENRON.com"/>
+
+	<cc name="James McMillan" id="865" address="James.McMillan@ENRON.com"/>
+
+	<to name="Richard Shapiro" id="270" address="pybarbo@enron.com"/>
+
+	<to name="Jaime Sanabria" id="631" address="1f420990-3d2fd6cd-862567ae-52d60c@ENRON.com"/>
+
+	<from name="Richard Shapiro" id="270" address="Dmaster@ENRON.com"/>
+
+	<cc name="Rick Sierra" id="96847" address="Rsierra@ENRON.com"/>
+
+	<cc name="James McMillan" id="865" address="Jmcmill3@ENRON.com"/>
+
+		<parent_id>2000029</parent_id>
+
+		<subject>Peerless Proposal as discussed on Thursday, May 17, 2001</subject>
+
+		<date_time>2001-06-06 14:34:27</date_time>
+
+		<content>
+
+M3.1. I would like for us to take a look at charging Peerless some sort of number based on the market price for leased storage.
+
+[Inform: Dan would like to charge Peerless some amount]
+
+M3.2. I talked to a guy in the Enron liquids group who said that 2-oil tankage in the Caribbean goes for about $0.25- $0.30 per barrel per month.
+
+[Inform: monthly per barrel price of 2-oil tankage in the Caribbean]
+
+M3.3. If we leased them only 150,000 bbls of capacity in the tank and kept the rest for ourselves, that would be around $40,000/month.
+
+[Inform: monthly charge if Peerless is leased 150,000 bbls of capacity in the tank]
+
+M3.4. The actual number could be whatever we are comfortable with keeping in storage as minimums.
+
+[Inform: actual number whatever Enron is comfortable keeping in storage as minimum]
+
+M3.5. If we could get something out of it every month and still sell them our inventory that would be great.
+
+[Inform: would be great if they could make a monthly profit and still sell Peerless their inventory]
+
+M3.6. But I would also like to know how it looks in case they wouldn't go for that and we had to hold title to whatever oil we already have in the tank.
+
+M3.7. Then we could still have some sort of pricing mechanism for buying and selling oil to each other in the tank.
+
+[Inform: if Peerless does not agree to this, Enron should still have a pricing mechanism for buying/selling oil to each other in the tank]
+
+M3.8. From what I heard from Peerless, they would plan to unload vessels into Eco's tank,
+
+M3.9. then transfer out of that tank to their other tanks when needed.
+
+[Inform: from what Dan heard, Peerless plans to unload vessels into Eco's tank and transfer out to other tanks when needed]
+
+M3.10. Whatever the case would be, we would have to have controls on quality in our tank,
+
+M3.11. and insist on seeing the analysis on everything before it goes into the tank.
+
+[Inform: Enron would have to have quality controls/insist on seeing analysis of anything that goes into tank]
+
+
+
+</content>
+
+	</row>
+
+	</custom>

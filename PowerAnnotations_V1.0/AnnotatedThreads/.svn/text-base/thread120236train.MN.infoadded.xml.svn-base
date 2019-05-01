@@ -1,0 +1,221 @@
+120236train
+Annotation for intention:
+
+Knowledge-Acquisition: info about Boston Gas worksheet/info about Boston Differential contract
+
+Annotation for control:
+
+Chris Germany: Chris is the only sender of messages in this thread and provides the information about the Boston Gas worksheet and the Boston Differential contract.
+
+
+<xml>
+
+<message>
+
+
+
+	<thread_id>120236</thread_id>
+
+
+
+	<depth>0</depth>
+
+
+
+	<type>ThreadNode</type>
+
+
+
+	<message_id>723504</message_id>
+
+	<to name="Nicole Laporte" id="86562" address="Nlaporte@ENRON.com"/>
+
+	<to name="Kimat Singla" id="18460" address="Ksingla@ENRON.com"/>
+
+	<from name="Chris Germany" id="3471" address="cgerman@enron.com"/>
+
+
+
+	<parent_id></parent_id>
+
+
+
+	<subject>Boston Gas</subject>
+
+
+
+	<date_time>2001-09-10 13:43:42</date_time>
+
+
+
+	<content>
+
+    
+
+M1.1. Nicole,
+
+[Conventional: salutation]
+
+M1.2. I have the Boston Gas confirmation letter.
+
+[Inform: Chris has Boston Gas confirmation letter]
+
+M1.3. Thanks.
+
+[Conventional: thanks]
+
+
+
+M1.4. Kimat,
+
+[Conventional: salutation]
+
+M1.5. are you familiar with the Boston Gas worksheet Dick Jenkins would update to calculate the Tenn Z6 city gate price?
+
+[Request-Information: is Kimat familiar with a Boston Gas worksheet that Dick regularly updated]
+
+Flink1.5
+
+M1.6. It wasn't very big, and Dick would have me verify the Iroquois and Tenn transport variable cost.
+
+[Inform: size of worksheet, and what Dick asked Chris to verify]
+
+
+
+	</content>
+
+</message>
+
+<message>
+
+
+
+	<thread_id>120236</thread_id>
+
+
+
+	<depth>2</depth>
+
+
+
+	<type>ThreadNode</type>
+
+
+
+	<message_id>20220</message_id>
+
+	<to name="Kelly Donlevy-Lee" id="64993" address="Kelly.Donlevy@ENRON.com"/>
+
+	<to name="Nicole Laporte" id="86562" address="Nicole.LaPorte@ENRON.com"/>
+
+	<from name="Chris Germany" id="3471" address="Chris.Germany@ENRON.com"/>
+
+	<cc name="Ruth Concannon" id="2808" address="Ruth.Concannon@ENRON.com"/>
+
+	<cc name="Jonathan Mckay" id="40294" address="Jonathan.McKay@ENRON.com"/>
+
+	<cc name="Brenda H Fletcher" id="13697" address="Brenda.H.Fletcher@ENRON.com"/>
+
+	<cc name="Kimat Singla" id="18460" address="Kimat.Singla@ENRON.com"/>
+
+	<cc name="Kam Keiser" id="63556" address="Kam.Keiser@ENRON.com"/>
+
+	<to name="Kelly Donlevy-Lee" id="64993" address="Kdonlevy@ENRON.com"/>
+
+	<to name="Nicole Laporte" id="86562" address="Nlaporte@ENRON.com"/>
+
+	<from name="Chris Germany" id="3471" address="cgerman@enron.com"/>
+
+	<cc name="Ruth Concannon" id="24606" address="rconcan@enron.com"/>
+
+	<cc name="Jonathan Mckay" id="40294" address="Jmckay1@ENRON.com"/>
+
+	<cc name="Brenda H Fletcher" id="13697" address="Bfletch@ENRON.com"/>
+
+	<cc name="Kimat Singla" id="18460" address="Ksingla@ENRON.com"/>
+
+	<cc name="Kam Keiser" id="63556" address="kkeiser@enron.com"/>
+
+
+
+	<parent_id></parent_id>
+
+
+
+	<subject>Boston Gas</subject>
+
+
+
+	<date_time>2001-09-19 15:18:20</date_time>
+
+
+
+	<content>
+
+    
+
+M2.1. The Boston Differential for August 2001 is ($.1166).
+
+[Inform: Boston Differential for August 2001]
+
+M2.2. I want to understand the contract better before I give you the Sep price.
+
+[Inform: Chris wants to better understand contract before giving September 2001 price]
+
+M2.3. Ruth,
+
+[Conventional: salutation]
+
+M2.4. you and I are chatting about this today I hope. [Y]
+
+[Inform: Chris hopes that s/he and Ruth will talk about contract]
+
+M2.5. Kam,
+
+[Conventional: salutation]
+
+M2.6. I'm guessing this becomes an O&A issue each month.
+
+[Inform: Chris thinks this becomes a monthly O&A issue]
+
+M2.7. I don't know if you need to be involved or not.
+
+[Inform: Chris doesn't know if Kam needs to be involved]
+
+
+
+	</content>
+
+</message>
+
+</xml>
+
+Hierarchical Power Annotation: N/A
+Person_1: 
+Person_2: 
+Reason: 
+
+Situational Power Annotation: N/A
+Person_1: 
+Person_2: 
+Reason: 
+
+Attempt at Exercising Power Annotation:
+DFUs: M2.4
+Person_1: Chris Germany
+Person_2: Ruth Concannon
+Type: Situational
+Successful?: No Reply
+Reason: In M2.4, Chris tells Ruth that they should discuss the Boston Differential contract.
+
+Influence Annotation: N/A
+Person_1:
+Person_2:
+Reason:
+
+Attempt at Influence Annotation: N/A
+DFUs: 
+Person_1:
+Person_2:
+Successful?:
+Reason: 

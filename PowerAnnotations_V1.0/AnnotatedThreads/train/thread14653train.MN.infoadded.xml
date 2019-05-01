@@ -1,0 +1,326 @@
+14653
+Annotation for intention:
+
+Knowledge-Acquisition: Zeigham's preference of full employment to a summer internship
+
+Annotation for control:
+Vince J Kaminski: Vince initiates the thread and asks Zeigham Khokher whether his interest is in full employment exclusively or in a summer internship as well. 
+
+
+
+<xml>
+
+<message>
+
+
+
+	<thread_id>14653</thread_id>
+
+
+
+	<depth>0</depth>
+
+
+
+	<type>ThreadNode</type>
+
+
+
+	<message_id>975420</message_id>
+
+	<to name="Stinson Gibner" id="2437" address="Stinson.Gibner@ENRON.com"/>
+
+	<from name="Vince J Kaminski" id="63574" address="Vince.J.Kaminski@ENRON.com"/>
+
+
+
+	<parent_id></parent_id>
+
+
+
+	<subject>Hi</subject>
+
+
+
+	<date_time>2000-04-11 08:22:00</date_time>
+
+
+
+	<content>
+
+    
+
+M1.1. Stinson,
+
+[Conventional: salutation]
+
+M1.2. This is the person from UT I mentioned.
+
+[Inform: someone, presumably Zeigham, is the person from U Texas that Vince mentioned to Stinson earlier]
+
+M1.3. He is not interested in the summer
+
+internship.
+
+[Inform: this person from UT is not interested in the summer internship]
+
+
+
+	</content>
+
+</message>
+
+<message>
+
+
+
+	<thread_id>14653</thread_id>
+
+
+
+	<depth>1</depth>
+
+
+
+	<type>ThreadNode</type>
+
+
+
+	<message_id>975418</message_id>
+
+	<to name="" id="121516" address="zkhokher@mail.utexas.edu"/>
+
+	<from name="Vince J Kaminski" id="63574" address="Vince.J.Kaminski@ENRON.com"/>
+
+	<cc name="Vince J Kaminski" id="63574" address="Vince.J.Kaminski@ENRON.com"/>
+
+	<cc name="Stinson Gibner" id="2437" address="Stinson.Gibner@ENRON.com"/>
+
+
+
+	<parent_id>975420</parent_id>
+
+
+
+	<subject>Hi</subject>
+
+
+
+	<date_time>2000-04-11 08:25:00</date_time>
+
+
+
+	<content>
+
+    
+
+M2.1. Zeigham,
+
+[Conventional: salutation]
+
+
+
+M2.2. We discussed two options (not necessarily mutually exclusive):
+
+[Inform: Vince and Zeigham had discussed two options for Zeigham]
+
+
+
+M2.3. 1. summer internship
+
+M2.4. 2. full employment.
+
+[Inform: the two options were a summer internship or full employment]
+
+
+
+M2.5. Are you interested exclusively in full employment?
+
+[Request-Information: is Zeigham interested only in full employment]
+
+Flink2.5
+
+
+
+M2.6. I need the answer ASAP, as we are going to discuss the additional summer
+
+intern positions this afternoon. [Y]
+
+[Inform: Vince needs the answer ASAP, because open summer intern positions will be discussed this afternoon]
+
+
+
+
+
+M2.7. Vince
+
+[Conventional: signature]
+
+
+
+	</content>
+
+</message>
+
+<message>
+
+
+
+	<thread_id>14653</thread_id>
+
+
+
+	<depth>2</depth>
+
+
+
+	<type>ThreadNode</type>
+
+
+
+	<message_id>975413</message_id>
+
+	<to name="Vince J Kaminski" id="63574" address="Vince.J.Kaminski@ENRON.com"/>
+
+	<from name="" id="121516" address="zkhokher@mail.utexas.edu"/>
+
+	<cc name="Stinson Gibner" id="2437" address="Stinson.Gibner@ENRON.com"/>
+
+
+
+	<parent_id>975418</parent_id>
+
+
+
+	<subject>Hi</subject>
+
+
+
+	<date_time>2000-04-11 10:06:00</date_time>
+
+
+
+	<content>
+
+    
+
+M3.1. Vince:
+
+[Conventional: salutation]
+
+M3.2. I think full time employment starting in about six months seems to be the
+
+best option.
+
+[Inform: Zeigham prefers full employment in 6 months]
+
+Blink2.5
+
+M3.3. It is probably best to get my dissertation wrapped up before
+
+taking on additional commitments.
+
+[Inform: Zeigham would like to finish his dissertation before starting any work]
+
+
+
+M3.4. Regards
+
+M3.5. Zeigham
+
+[Conventional: signature]
+
+
+
+	</content>
+
+</message>
+
+<message>
+
+
+
+	<thread_id>14653</thread_id>
+
+
+
+	<depth>3</depth>
+
+
+
+	<type>ThreadNode</type>
+
+
+
+	<message_id>975412</message_id>
+
+	<to name="Stinson Gibner" id="2437" address="Stinson.Gibner@ENRON.com"/>
+
+	<from name="Vince J Kaminski" id="63574" address="Vince.J.Kaminski@ENRON.com"/>
+
+
+
+	<parent_id>975413</parent_id>
+
+
+
+	<subject>Hi</subject>
+
+
+
+	<date_time>2000-04-11 10:22:00</date_time>
+
+
+
+	<content>
+
+    
+
+M4.1. FYI
+
+[Inform: something presumably attached (probably message 3 from Zeigham) is for Stinson's information]
+
+
+
+M4.2. Vince
+
+[Conventional: signature]
+
+
+
+	</content>
+
+</message>
+
+</xml>
+
+Hierarchical Power Annotation:
+Person_1: Vince J Kaminski, Stinson Gibner
+Person_2: Zeigham Khokher(id:"121516")
+Reason: From message 3 (and his email address) it is clear that Zeigham is a student, and interested in starting out at Enron, while Vince and Stinson are in charge of hiring.
+
+Situational Power Annotation:
+Person_1: Vince J Kaminski, Stinson Gibner
+Person_2: Zeigham Khokher(id:"121516")
+Reason: From message 3 (and his email address) it is clear that Zeigham is a student, and interested in starting out at Enron, while Vince and Stinson are in charge of hiring.
+
+
+Attempt at Exercising Power Annotation:
+DFUs: M2.5-M2.6
+Person_1: Vince J Kaminski
+Person_2: Zeigham Khokher(id:"121516")
+Type: Hierarchical
+Successful?: Y
+Reason: In message 2, Vince asks Zeigham to tell him whether he is interested in full employment to the exclusion of an internship, and Zeigham answers in message 3.
+
+Influence Annotation: N/A
+Person_1:
+Person_2:
+Reason:
+
+Attempt at Influence Annotation: N/A
+DFUs: 
+Person_1:
+Person_2:
+Successful?:
+Reason: 

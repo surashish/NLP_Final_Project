@@ -1,0 +1,141 @@
+<custom>
+
+	<row>
+
+		<thread_id>92</thread_id>
+
+		<depth>0</depth>
+
+		<type>ThreadNode</type>
+
+		<message_id>292153</message_id>
+
+	<to name="Kal Shah" id="199" address="Kal.Shah@ENRON.com"/>
+
+	<to name="Greg Piper" id="1665" address="Greg.Piper@ENRON.com"/>
+
+	<to name="Andy Zipper" id="5063" address="Andy.Zipper@ENRON.com"/>
+
+	<from name="Vance Meyer" id="79630" address="Vance.Meyer@ENRON.com"/>
+
+	<cc name="Karen Denne" id="40948" address="Karen.Denne@ENRON.com"/>
+
+	<cc name="Mark Palmer" id="1277" address="Mark.Palmer@ENRON.com"/>
+
+	<cc name="Meredith Philipp" id="3374" address="Meredith.Philipp@ENRON.com"/>
+
+	<to name="Kal Shah" id="199" address="Kshah@ENRON.com"/>
+
+	<to name="Greg Piper" id="1665" address="Gpiper@ENRON.com"/>
+
+	<to name="Andy Zipper" id="5063" address="azipper@enron.com"/>
+
+	<from name="Vance Meyer" id="11316" address="B440EAD-DFCE1077-86256991-752CF0@ENRON.com"/>
+
+	<cc name="Karen Denne" id="40948" address="fff576cf-eeb54616-86256694-4a18dd@ENRON.com"/>
+
+	<cc name="Mark Palmer" id="1277" address="3A5030B0-C53BCDB0-862566EF-7E3318@ENRON.com"/>
+
+	<cc name="Meredith Philipp" id="3374" address="8ab2fe6-f35c6347-8625673c-579751@ENRON.com"/>
+
+		<parent_id>NULL</parent_id>
+
+		<subject>ECONOMIST: Enron, Accenture - - any topics that COULD be discussed re: Accenture's eBusiness work for Enron ...(next week, in Houston)</subject>
+
+		<date_time>2001-05-24 19:03:40</date_time>
+
+		<content>
+
+M1.1. Greg/Andy/Kal --
+
+[Conventional: salutation]
+
+M1.2. Not clear to me if this is strictly Accenture's work for Credit or for EOL.
+
+M1.3. Not sure if they've worked for us,
+
+[Inform: Vance is unclear about whether something is strictly Accenture's work or whether they have worked for the email recipients]
+
+M1.4. but I presume we don't want them taking ANY credit for our success given our origination goals and messages!
+
+[Inform: Vance presumes that his colleagues don't want Accenture taking any credit for Enron's success]
+
+
+
+</content>
+
+	</row>
+
+	<row>
+
+		<thread_id>92</thread_id>
+
+		<depth>1</depth>
+
+		<type>ThreadNode</type>
+
+		<message_id>292363</message_id>
+
+	<to name="Andy Zipper" id="5063" address="Andy.Zipper@ENRON.com"/>
+
+	<from name="Kal Shah" id="199" address="Kal.Shah@ENRON.com"/>
+
+	<cc name="Greg Piper" id="1665" address="Greg.F.Piper2@ENRON.com"/>
+
+	<cc name="Vance Meyer" id="79630" address="Vance.Meyer@ENRON.com"/>
+
+	<cc name="Michael Bridges" id="1281" address="Michael.Bridges@ENRON.com"/>
+
+	<to name="Andy Zipper" id="5063" address="azipper@enron.com"/>
+
+	<from name="Kal Shah" id="199" address="Kshah@ENRON.com"/>
+
+	<cc name="Greg Piper" id="1665" address="4a72704c-311406e8-862564aa-5c7ea3@ENRON.com"/>
+
+	<cc name="Vance Meyer" id="11316" address="B440EAD-DFCE1077-86256991-752CF0@ENRON.com"/>
+
+	<cc name="Michael Bridges" id="1281" address="Mbridge2@ENRON.com"/>
+
+		<parent_id>292153</parent_id>
+
+		<subject>ECONOMIST: Enron, Accenture - - any topics that COULD be discussed re: Accenture's eBusiness work for Enron ...(next week, in Houston)</subject>
+
+		<date_time>2001-05-24 19:27:35</date_time>
+
+		<content>
+
+M2.1. Andy --
+
+[Conventional: salutation]
+
+M2.2. To make a long e-mail chain below short --
+
+M2.3. a reporter from the Economist interviewed Jeff Skilling and Greg Piper about what makes Enron successful in e-Commerce.
+
+[Inform: summary of a long email chain/an Economist reporter interviewed two Enron employees about what makes the company successful in e-Commerce]
+
+M2.4. Since he knows Accenture is one of our consulting companies, he contacted them to ask them the same question.
+
+[Inform: the reporter asked Accenture the same question]
+
+M2.5. Their PR dept. and ours is asking for direction on whether Accenture should talk to this reporter.
+
+[Inform: Accenture's and Enron's PR are trying to figure out whether Accenture should talk to the reporter]
+
+M2.6. Mike and I think we should just request Accenture to not talk to this reporter
+
+M2.7. since they are under a confidentiality agreement with Enron.
+
+[Inform: Mike and Kal think Accenture shouldn't talk to the reporter due to a confidentiality agreement]
+
+M2.8. I'll let our PR dept know, unless you feel otherwise.
+
+[Inform: Kal will let Enron's PR dept know this unless Andy disagrees]
+
+
+
+</content>
+
+	</row>
+
+	</custom>

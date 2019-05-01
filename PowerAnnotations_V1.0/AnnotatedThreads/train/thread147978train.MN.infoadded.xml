@@ -1,0 +1,127 @@
+147978train
+Annotation for intention:
+
+Knowledge-Acquisition: different FERC Policy Statements used in Transco and PGT cases
+
+Annotation for control:
+Rebecca W Cantrell: Rebecca is the only sender in this thread and tells Stephanie Miller what the FERC policy statements were in 1995 and 1999.
+
+
+
+<xml>
+
+<message>
+
+
+
+	<thread_id>147978</thread_id>
+
+
+
+	<depth>0</depth>
+
+
+
+	<type>ThreadNode</type>
+
+
+
+	<message_id>1265111</message_id>
+
+	<to name="Stephanie Miller" id="321" address="Stephanie.Miller@ENRON.com"/>
+
+	<from name="Rebecca W Cantrell" id="12467" address="Rebecca.W.Cantrell@ENRON.com"/>
+
+	<cc name="Barry Tycholiz" id="899" address="Barry.Tycholiz@ENRON.com"/>
+
+	<cc name="James D Steffes" id="7320" address="James.D.Steffes@ENRON.com"/>
+
+	<cc name="Leslie Lawner" id="1377" address="Leslie.Lawner@ENRON.com"/>
+
+	<to name="Stephanie Miller" id="321" address="Smiller2@ENRON.com"/>
+
+	<from name="Rebecca W Cantrell" id="12467" address="BCANTRE@ENRON.com"/>
+
+	<cc name="Barry Tycholiz" id="899" address="Btychol@ENRON.com"/>
+
+	<cc name="James D Steffes" id="7319" address="jsteffe@enron.com"/>
+
+	<cc name="Leslie Lawner" id="1377" address="llawner@enron.com"/>
+
+
+
+	<parent_id></parent_id>
+
+
+
+	<subject>PGT Fuel Treatment</subject>
+
+
+
+	<date_time>2001-11-08 16:05:09</date_time>
+
+
+
+	<content>
+
+M1.1. Stephanie:
+
+[Conventional: salutation]
+
+M1.2. Confirming our phone conversation today, based on my reading of the Transco order and the PGT order, the FERC relied on a different standard in the Transco case (the 1995 Pricing Policy Statement) than they used in the PGT case (the 1999 Policy Statement on Certification of New Interstate Natural Gas Pipeline Facilities).
+
+[Inform: FERC relied on different standards in Transco and PGT cases]
+
+M1.3. The 1995 Policy Statement said that, when the roll-in increased rates to existing shippers by less than 5%, the pipeline needed to make only a general showing of system benefits, and FERC said that Transco had satisfied that showing.
+
+[Inform: what 1995 Policy Statement, used for Transco case, said]
+
+M1.4. The 1999 Policy Statement, however, has a threshold requirement for expansion projects requiring that there can be no subsidization from existing customers - in other words, no increase in costs of any kind.
+
+[Inform: what 1999 Policy Statement, used for PGT case, says]
+
+M1.5. The PGT order found that there was a possibility that fuel costs could increase for existing shippers; therefore, PGT had to establish a surcharge mechanism to subject expansion shippers to an incremental fuel charge for fuel costs above those that would apply absent the new compression.
+
+[Inform: why PGT established a surcharge mechanism]
+
+M1.6. If the fuel costs do not increase, then there will be no surcharge.
+
+[Inform: if fuel costs do not increase, there will be no surcharge]
+
+
+
+	</content>
+
+</message>
+
+</xml>
+
+Hierarchical Power Annotation: N/A
+Person_1: 
+Person_2: 
+Reason: 
+
+Situational Power Annotation: N/A
+Person_1: 
+Person_2: 
+Reason: 
+
+Attempt at Exercising Power Annotation: N/A
+DFUs: 
+Person_1:
+Person_2:
+Type:
+Successful?:
+Reason: 
+
+Influence Annotation: N/A
+Person_1:
+Person_2:
+Reason:
+
+Attempt at Influence Annotation: N/A
+DFUs: 
+Person_1:
+Person_2:
+Successful?:
+Reason: 

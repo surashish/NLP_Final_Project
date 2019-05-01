@@ -1,0 +1,230 @@
+136629train
+Annotation for intention:
+
+External-event-planning: reviewing, commenting on, printing, and passing on document
+
+Annotation for control:
+Michele Winckowski: Michele initializes the thread and asks the others to review and comment on the document.
+
+
+
+<xml>
+
+<message>
+
+
+
+	<thread_id>136629</thread_id>
+
+
+
+	<depth>0</depth>
+
+
+
+	<type>ThreadNode</type>
+
+
+
+	<message_id>725812</message_id>
+
+	<to name="Lynn Blair" id="2243" address="Lynn.Blair@ENRON.com"/>
+
+	<to name="Dan Fancler" id="27477" address="Dan.Fancler@ENRON.com"/>
+
+	<to name="Sue Neville" id="106715" address="Sue.Neville@ENRON.com"/>
+
+	<to name="Theresa Hess" id="48177" address="Theresa.Hess@ENRON.com"/>
+
+	<to name="Darrell Schoolcraft" id="3231" address="Darrell.Schoolcraft@ENRON.com"/>
+
+	<to name="Kent Miller" id="27072" address="Kent.Miller@ENRON.com"/>
+
+	<to name="Jo Williams" id="11311" address="Jo.Williams@ENRON.com"/>
+
+	<to name="John Cobb Jr" id="53559" address="John.Cobb@ENRON.com"/>
+
+	<to name="Michael Bodnar" id="1659" address="Michael.Bodnar@ENRON.com"/>
+
+	<to name="Patrick Brennan" id="36288" address="Patrick.Brennan@ENRON.com"/>
+
+	<to name="Tim Kissner" id="3492" address="Tim.Kissner@ENRON.com"/>
+
+	<from name="Michele Winckowski" id="1200" address="Michele.Winckowski@ENRON.com"/>
+
+	<cc name="Steve Kirk" id="105952" address="Steve.Kirk@ENRON.com"/>
+
+	<cc name="Mary Kay Miller" id="2029" address="Mary.Kay.Miller@ENRON.com"/>
+
+	<to name="Lynn Blair" id="2243" address="lblair@enron.com"/>
+
+	<to name="Dan Fancler" id="27477" address="Dfancle@ENRON.com"/>
+
+	<to name="Sue Neville" id="106715" address="Snevill1@ENRON.com"/>
+
+	<to name="Theresa Hess" id="48177" address="thess@enron.com"/>
+
+	<to name="Darrell Schoolcraft" id="3231" address="dschool@enron.com"/>
+
+	<to name="Kent Miller" id="27072" address="Kmiller2@ENRON.com"/>
+
+	<to name="Jo Williams" id="11311" address="Jwillia3@ENRON.com"/>
+
+	<to name="John Cobb Jr" id="53559" address="Jcobb@ENRON.com"/>
+
+	<to name="Michael Bodnar" id="1659" address="Mbodnar@ENRON.com"/>
+
+	<to name="Patrick Brennan" id="36288" address="Pbrennan@ENRON.com"/>
+
+	<to name="Tim Kissner" id="3492" address="Tkissne@ENRON.com"/>
+
+	<from name="Michele Winckowski" id="1200" address="Mwincko@ENRON.com"/>
+
+	<cc name="Steve Kirk" id="105952" address="Skirk@ENRON.com"/>
+
+	<cc name="Mary Kay Miller" id="2029" address="MKMiller@ENRON.com"/>
+
+
+
+	<parent_id></parent_id>
+
+
+
+	<subject>Draft - Procedures for Offsytem Transactions</subject>
+
+
+
+	<date_time>2001-10-22 14:08:53</date_time>
+
+
+
+	<content>
+
+    
+
+M1.1. Attached is the first draft of procedures for offsystem transactions.
+
+[Inform: first draft of procedures for offsystem transactions attached]  
+
+M1.2. Please review and provide comments by Friday, Oct 26th . [Y]
+
+[Request-Action: review and make comments by Friday 10/26]
+
+Flink1.2
+
+M1.3. Thanks MW
+
+[Conventional: thanks, signature]
+
+
+
+	</content>
+
+</message>
+
+<message>
+
+
+
+	<thread_id>136629</thread_id>
+
+
+
+	<depth>1</depth>
+
+
+
+	<type>ThreadNode</type>
+
+
+
+	<message_id>772446</message_id>
+
+	<to name="Ava Garcia" id="3583" address="Agarcia6@ENRON.com"/>
+
+	<from name="Lynn Blair" id="2243" address="lblair@enron.com"/>
+
+
+
+	<parent_id>725812</parent_id>
+
+
+
+	<subject>Draft - Procedures for Offsytem Transactions</subject>
+
+
+
+	<date_time>2001-10-22 19:04:43</date_time>
+
+
+
+	<content>
+
+    
+
+M2.1. Ava
+
+[Conventional: salutation]
+
+M2.2. please print attachment and give to steve to bring to omaha for me. [Y]
+
+[Request-Action: print attachment and give to Steve to bring to Omaha for Lynn]
+
+Flink2.2 
+
+M2.3. Thanks.
+
+[Conventional: thanks]
+
+M2.4. Lynn
+
+[Conventional: signature]
+
+
+
+	</content>
+
+</message>
+
+</xml>
+
+Hierarchical Power Annotation:
+Person_1: Lynn Blair
+Person_2: Ava Garcia
+Reason: In message 2, Lynn tells Ava to print out a document and give it to Steve to bring it to Omaha, a menial task that shows Lynn is higher in the hierarchy.
+
+Situational Power Annotation:
+Person_1: Michele Winckowski
+Person_2: Lynn Blair, ToCC(1)
+Reason: Michele tells the others to review and comment on the attached document in message 1.
+
+Person_1: Lynn Blair
+Person_2: Ava Garcia
+Reason: In message 2, Lynn tells Ava to print out a document and give it to Steve to bring it to Omaha, a menial task that shows Lynn is higher in the hierarchy.
+
+Attempt at Exercising Power Annotation:
+DFUs: M1.2
+Person_1: Michele Winckowski
+Person_2: Lynn Blair, ToCC(1)
+Type: Situational
+Successful?: Y
+Reason: Michele tells the others to review and comment on the attached document in message 1. In message 2, Lynn has someone bring it to her so she can do so.
+
+DFUs: M2.2
+Person_1: Lynn Blair
+Person_2: Ava Garcia
+Type: Hierarchical
+Successful?: No Reply
+Reason: In message 2, Lynn tells Ava to print out a document and give it to Steve to bring it to Omaha.
+
+Influence Annotation: N/A
+Person_1:
+Person_2:
+Reason:
+
+Attempt at Influence Annotation: N/A
+DFUs: 
+Person_1:
+Person_2:
+Successful?:
+Reason: 

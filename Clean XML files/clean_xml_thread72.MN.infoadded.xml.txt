@@ -1,0 +1,183 @@
+<custom>
+
+	<row>
+
+		<thread_id>72</thread_id>
+
+		<depth>0</depth>
+
+		<type>ThreadNode</type>
+
+		<message_id>275758</message_id>
+
+	<to name="Brent A Price" id="16090" address="Brent.A.Price@ENRON.com"/>
+
+	<to name="Scott Earnest" id="36088" address="Scott.Earnest@ENRON.com"/>
+
+	<to name="Michelle Bruce" id="78130" address="Michelle.Bruce@ENRON.com"/>
+
+	<to name="D Todd Hall" id="26856" address="D.Todd.Hall@ENRON.com"/>
+
+	<from name="Shona Wilson" id="4708" address="Shona.Wilson@ENRON.com"/>
+
+	<cc name="Sally Beck" id="46153" address="Sally.Beck@ENRON.com"/>
+
+	<cc name="Beth Apollo" id="11750" address="Beth.Apollo@ENRON.com"/>
+
+	<to name="Brent A Price" id="16090" address="bprice@enron.com"/>
+
+	<to name="Scott Earnest" id="36088" address="Searnes@ENRON.com"/>
+
+	<to name="Michelle Bruce" id="78130" address="Mbruce@ENRON.com"/>
+
+	<to name="D Todd Hall" id="26856" address="Thall@ENRON.com"/>
+
+	<from name="Shona Wilson" id="4708" address="A2A6890E-4BBECE71-862568E1-76B49B@ENRON.com"/>
+
+	<cc name="Sally Beck" id="46153" address="Sbeck@ENRON.com"/>
+
+	<cc name="Beth Apollo" id="11750" address="bapollo@enron.com"/>
+
+		<parent_id>NULL</parent_id>
+
+		<subject>EGM Good Job!</subject>
+
+		<date_time>2001-05-22 10:52:36</date_time>
+
+		<content>
+
+M1.1. During the morning meeting today Rick Buy commented on what a good job EGM has done in the officialization process.
+
+[Inform: Rick Buy commented on EGM's good job in officialization during this morning's meeting]
+
+M1.2. He took your names because he wanted to know who to thank for this.
+
+[Inform: took email recipients' names so he would know who to thank]
+
+M1.3. His comments are based on the summary graph -
+
+[Inform: his comments are based on the summary graph]
+
+M1.4. his words - EGM has by far the most books but never shows up on the log -
+
+[Inform: he said that EGM has the most books but never shows up on the log]
+
+M1.5. who can we thank for that?
+
+[Inform: rhetorical question implying email recipients are to be thanked]
+
+M1.6. Keep up the good work!
+
+[Conventional: keep up the good work]
+
+
+
+</content>
+
+	</row>
+
+	<row>
+
+		<thread_id>72</thread_id>
+
+		<depth>1</depth>
+
+		<type>ThreadNode</type>
+
+		<message_id>275759</message_id>
+
+	<to name="Shona Wilson" id="4708" address="Shona.Wilson@ENRON.com"/>
+
+	<to name="Brent A Price" id="16090" address="Brent.A.Price@ENRON.com"/>
+
+	<to name="Scott Earnest" id="36088" address="Scott.Earnest@ENRON.com"/>
+
+	<to name="D Todd Hall" id="26856" address="D.Todd.Hall@ENRON.com"/>
+
+	<from name="Michelle Bruce" id="78130" address="Michelle.Bruce@ENRON.com"/>
+
+	<cc name="Sally Beck" id="46153" address="Sally.Beck@ENRON.com"/>
+
+	<cc name="Beth Apollo" id="11750" address="Beth.Apollo@ENRON.com"/>
+
+	<to name="Shona Wilson" id="4708" address="A2A6890E-4BBECE71-862568E1-76B49B@ENRON.com"/>
+
+	<to name="Brent A Price" id="16090" address="bprice@enron.com"/>
+
+	<to name="Scott Earnest" id="36088" address="Searnes@ENRON.com"/>
+
+	<to name="D Todd Hall" id="26856" address="Thall@ENRON.com"/>
+
+	<from name="Michelle Bruce" id="78130" address="Mbruce@ENRON.com"/>
+
+	<cc name="Sally Beck" id="46153" address="Sbeck@ENRON.com"/>
+
+	<cc name="Beth Apollo" id="11750" address="bapollo@enron.com"/>
+
+		<parent_id>275758</parent_id>
+
+		<subject>EGM Good Job!</subject>
+
+		<date_time>2001-05-22 13:16:14</date_time>
+
+		<content>
+
+M2.1. Shona-
+
+[Conventional: salutation]
+
+M2.2. The officialization process that EGM - Global Products uses was developed when we were implementing our Global Risk Management Worldwide Close process.
+
+[Inform: when EGM-Global Products' officialization process was developed]
+
+M2.3. We (at that point) had an excel speadsheet that would search ERMS by book codes and pull in the officialized post id for the day -
+
+[Inform: talks about Excel spreadsheet that searched ERMS by book codes]
+
+M2.4. if there was a blank, the book was not official at which point the book administrator then goes back into the ERMS database, officializes and then we run VAR and our daily reports.
+
+[Inform: explains what would happen if there was a blank in the spreadsheet]
+
+M2.5. We are now doing this via our Global Reporting database for Global Products.
+
+[Inform: this is now done via the Global Reporting database]
+
+M2.6. In developing the process, it was myself, Scott Earnest, Mark Fondren and Simon Thurbin (London office).
+
+[Inform: four people who developed the process, including author of this email, Michelle]
+
+M2.7. We now have Bill Kazemervisz and Vera Ilyina who are running the database daily and making certain that all listed books have been officialized.
+
+[Inform: two people who now run the database and ensure officialization of books]
+
+M2.8. John Swinney is our Risk Manager of the Global Products team
+
+[Inform: Risk Manager is John Swinney]
+
+M2.9. and he is involved making certain that the risk managers are updating our new books list so that we are certain to mark them official nightly as well as integrating any new processes relating to VAR, exotic file uploads, etc.
+
+[Inform: John Swinney's job description]
+
+M2.10. As you can see, it is very much a team effort that has really paid off on &quot;next morning issues&quot; for our group.
+
+[Inform: a team effort is responsible for the success of "next morning issues"]
+
+M2.11. If you have any additional questions or comments, please call me.
+
+[Request-Information: any additional questions or comments]
+
+Flink2.11 
+
+M2.12. Thank you,
+
+M2.13. Michelle
+
+[Conventional: thanks, signature]
+
+
+
+xt. 57532</content>
+
+	</row>
+
+	</custom>

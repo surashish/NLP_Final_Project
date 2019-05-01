@@ -1,0 +1,189 @@
+<custom>
+
+	<row>
+
+		<thread_id>85</thread_id>
+
+		<depth>0</depth>
+
+		<type>ThreadNode</type>
+
+		<message_id>292356</message_id>
+
+	<to name="Philippe A Bibi" id="89904" address="Philippe.A.Bibi@ENRON.com"/>
+
+	<to name="Greg Piper" id="1665" address="Greg.Piper@ENRON.com"/>
+
+	<to name="Andy Zipper" id="5063" address="Andy.Zipper@ENRON.com"/>
+
+	<to name="Jay Webb" id="52818" address="Jay.Webb@ENRON.com"/>
+
+	<to name="Mark S Palmer" id="76245" address="Mark.S.Palmer@ENRON.com"/>
+
+	<to name="Rex Shelby" id="95750" address="Rex.Shelby@ENRON.com"/>
+
+	<from name="Rex Shelby" id="95750" address="Rex.Shelby@ENRON.com"/>
+
+	<cc name="Tina Spiller" id="113755" address="Tina.Spiller@ENRON.com"/>
+
+	<cc name="Lydia Cannon" id="70406" address="Lydia.Cannon@ENRON.com"/>
+
+	<cc name="Mary Weatherstone" id="77166" address="Mary.Weatherstone@ENRON.com"/>
+
+	<cc name="Sheri L Cromwell" id="103243" address="Sheri.Cromwell@ENRON.com"/>
+
+	<cc name="Irma Fuentes" id="49922" address="Irma.Fuentes@ENRON.com"/>
+
+	<to name="Philippe A Bibi" id="89904" address="Pbibi@ENRON.com"/>
+
+	<to name="Greg Piper" id="1665" address="Gpiper@ENRON.com"/>
+
+	<to name="Andy Zipper" id="5063" address="azipper@enron.com"/>
+
+	<to name="Jay Webb" id="52818" address="Jwebb@ENRON.com"/>
+
+	<to name="Mark S Palmer" id="76245" address="Mpalmer3@ENRON.com"/>
+
+	<to name="Rex Shelby" id="95750" address="Rshelby@ENRON.com"/>
+
+	<from name="Rex Shelby" id="95750" address="Rshelby@ENRON.com"/>
+
+	<cc name="Tina Spiller" id="113755" address="Tspille@ENRON.com"/>
+
+	<cc name="Lydia Cannon" id="70406" address="Lcanno2@ENRON.com"/>
+
+	<cc name="Mary Weatherstone" id="77166" address="Mweathe@ENRON.com"/>
+
+	<cc name="Sheri L Cromwell" id="103243" address="Scromwe@ENRON.com"/>
+
+	<cc name="Irma Fuentes" id="49922" address="Ifuentes@ENRON.com"/>
+
+		<parent_id>NULL</parent_id>
+
+		<subject>Offline Meetings Update</subject>
+
+		<date_time>2001-05-23 16:20:45</date_time>
+
+		<content>
+
+
+
+M1.1. Here's the latest on scheduled meetings:
+
+M1.2. Thursday, 5/31		Reuters Liquid Markets		New York, 9am			Andy, Jay, Mark
+
+M1.3. Friday, 6/1		Sungard:
+
+Bill Popp -- Acquisitions
+
+Henry Donner -- Bus Dev
+
+Houston, 9am - 12noon		Greg, Rex, Andy, Jay, Mark
+
+[Inform: meetings scheduled on 5/31/01 and 6/1/01 in New York and Houston, respectively]
+
+
+
+</content>
+
+	</row>
+
+	<row>
+
+		<thread_id>85</thread_id>
+
+		<depth>1</depth>
+
+		<type>ThreadNode</type>
+
+		<message_id>292354</message_id>
+
+	<to name="Rex Shelby" id="95750" address="Rex.Shelby@ENRON.com"/>
+
+	<to name="Philippe A Bibi" id="89904" address="Philippe.A.Bibi@ENRON.com"/>
+
+	<to name="Greg Piper" id="1665" address="Greg.Piper@ENRON.com"/>
+
+	<to name="Andy Zipper" id="5063" address="Andy.Zipper@ENRON.com"/>
+
+	<to name="Jay Webb" id="52818" address="Jay.Webb@ENRON.com"/>
+
+	<to name="Mark S Palmer" id="76245" address="Mark.S.Palmer@ENRON.com"/>
+
+	<from name="Rex Shelby" id="95750" address="Rex.Shelby@ENRON.com"/>
+
+	<cc name="Tina Spiller" id="113755" address="Tina.Spiller@ENRON.com"/>
+
+	<cc name="Lydia Cannon" id="70406" address="Lydia.Cannon@ENRON.com"/>
+
+	<cc name="Mary Weatherstone" id="77166" address="Mary.Weatherstone@ENRON.com"/>
+
+	<cc name="Sheri L Cromwell" id="103243" address="Sheri.Cromwell@ENRON.com"/>
+
+	<cc name="Irma Fuentes" id="49922" address="Irma.Fuentes@ENRON.com"/>
+
+	<to name="Rex Shelby" id="95750" address="Rshelby@ENRON.com"/>
+
+	<to name="Philippe A Bibi" id="89904" address="Pbibi@ENRON.com"/>
+
+	<to name="Greg Piper" id="1665" address="Gpiper@ENRON.com"/>
+
+	<to name="Andy Zipper" id="5063" address="azipper@enron.com"/>
+
+	<to name="Jay Webb" id="52818" address="Jwebb@ENRON.com"/>
+
+	<to name="Mark S Palmer" id="76245" address="Mpalmer3@ENRON.com"/>
+
+	<from name="Rex Shelby" id="95750" address="Rshelby@ENRON.com"/>
+
+	<cc name="Tina Spiller" id="113755" address="Tspille@ENRON.com"/>
+
+	<cc name="Lydia Cannon" id="70406" address="Lcanno2@ENRON.com"/>
+
+	<cc name="Mary Weatherstone" id="77166" address="Mweathe@ENRON.com"/>
+
+	<cc name="Sheri L Cromwell" id="103243" address="Scromwe@ENRON.com"/>
+
+	<cc name="Irma Fuentes" id="49922" address="Ifuentes@ENRON.com"/>
+
+		<parent_id>292356</parent_id>
+
+		<subject>Offline Meetings Update</subject>
+
+		<date_time>2001-05-29 08:58:41</date_time>
+
+		<content>
+
+M2.1. Here's the latest on scheduled meetings:
+
+M2.2. Thursday, 5/31	Reuters Liquid Markets		New York, 9am			Andy, Jay, Mark
+
+M2.3. Friday, 6/1		Sungard:
+
+Bill Popp -- Acquisitions
+
+Henry Donner -- Bus Dev
+
+Mark Walker -- Energy group
+
+Houston, 9am - 1:00pm		Greg, Rex, Andy, Jay, Mark
+
+M2.4. Tuesday, 6/5	SAP:
+
+Gary Fromer
+
+Marty Mrugal
+
+Curtis Meyer
+
+Houston, 9:30am - 11:00am	Greg, Rex, Andy, Jay
+
+[Inform: updated list of meetings scheduled on 5/31/01, 6/1/01, and 6/5/01 in New York, Houston and Houston, respectively]
+
+
+
+</content>
+
+	</row>
+
+	</custom>

@@ -1,0 +1,351 @@
+50721train
+Annotation for intention:
+
+Knowledge-Acquisition/External-event-planning: report on meeting with Comm. Bilas and other CPUC staff/arrangement to have relevant parties sign a letter and meet with CPUC president
+
+Annotation for control:
+Mike Day: Mike is the only sender of messages in this thread and gives the report on the meeting and organizes the signing of the letter and the meeting with the California Public Utilities Commission president.
+
+
+
+<xml>
+
+<message>
+
+
+
+	<thread_id>50721</thread_id>
+
+
+
+	<depth>0</depth>
+
+
+
+	<type>ThreadNode</type>
+
+
+
+	<message_id>165113</message_id>
+
+	<to name="rmp@cpuc.ca.gov" id="91931" address="rmp@cpuc.ca.gov"/>
+
+	<to name="rick.counihan@greenmountain.com" id="25017" address="rick.counihan@greenmountain.com"/>
+
+	<to name="Jeff Dasovich" id="27095" address="Jeff.Dasovich@ENRON.com"/>
+
+	<to name="burkee@cts.com" id="17888" address="burkee@cts.com"/>
+
+	<to name="alexanms@sce.com" id="7202" address="alexanms@sce.com"/>
+
+	<to name="craigc@calpine.com" id="25349" address="craigc@calpine.com"/>
+
+	<to name="cushnice@sce.com" id="26222" address="cushnice@sce.com"/>
+
+	<to name="Jeff Dasovich" id="28265" address="jdasovic@enron.com"/>
+
+	<to name="Mike Day" id="78792" address="mday@gmssr.com"/>
+
+	<to name="paulamirault@aec.ca" id="8123" address="paulamirault@aec.ca"/>
+
+	<to name="porterdk@sce.com" id="34228" address="porterdk@sce.com"/>
+
+	<to name="tomb@crossborderenergy.com" id="114784" address="tomb@crossborderenergy.com"/>
+
+	<to name="lindseyhowdowning@dwt.com" id="72005" address="lindseyhowdowning@dwt.com"/>
+
+	<to name="phildavies@aec.ca" id="91025" address="PhilDavies@aec.ca"/>
+
+	<to name="jleslie@luce.com" id="57632" address="jleslie@luce.com"/>
+
+	<to name="Transwestern Jeff Fawcett" id="55712" address="jfawcett@enron.com"/>
+
+	<to name="rochmanm@spurr.org" id="98731" address="rochmanm@spurr.org"/>
+
+	<to name="rick.counihan@greenmountain.com" id="25017" address="counihan@greenmountain.com"/>
+
+	<to name="david.bayless@utility.com" id="28566" address="david.bayless@utility.com"/>
+
+	<to name="bdingwall@unitedgas.com" id="12715" address="bdingwall@unitedgas.com"/>
+
+	<to name="eke@aelaw.com" id="37332" address="eke@aelaw.com"/>
+
+	<to name="Johnson_Pamela@lacoe.edu" id="60099" address="johnson_pamela@lacoe.edu"/>
+
+	<to name="chj@aelaw.com" id="21980" address="chj@aelaw.com"/>
+
+	<to name="karpjos@sf.whitecase.com" id="57264" address="karpjos@sf.whitecase.com"/>
+
+	<to name="Keith McCrea" id="67587" address="kmccrea@sablaw.com"/>
+
+	<to name="Joe@Dynegy Paul" id="2247" address="6266273191@messaging.sprintpcs.com"/>
+
+	<to name="Susan M Scott" id="16810" address="sscott3@enron.com"/>
+
+	<to name="gworster@txuenergy.com" id="46810" address="gworster@txuenergy.com"/>
+
+	<to name="Gillian Wright" id="46816" address="gwright@sempra.com"/>
+
+	<to name="Glen J Sullivan" id="46436" address="gsullivan@sempra.com"/>
+
+	<to name="Zenee G Angeles" id="121377" address="ZAngeles@sempra.com"/>
+
+	<from name="Mike Day" id="78792" address="mday@gmssr.com"/>
+
+
+
+	<parent_id></parent_id>
+
+
+
+	<subject>Report on meeting with Comm. Bilas re GIR Proposed Decision</subject>
+
+
+
+	<date_time>2000-12-06 10:41:00</date_time>
+
+
+
+	<content>
+
+    
+
+M1.1. This communication is intended for signatories of the Comprehensive
+
+Settlement Agreement, and is confidential under Rule 51 of the Commission's
+
+Rules of Practice and Procedure.
+
+[Inform: whom this communication is intended for, and declaration of its confidentiality]
+
+M1.2. Please do not forward this e-mail to other
+
+parties. [Y]
+
+[Inform: this email should not be forwarded to other people]
+
+M1.3. During a meeting with Comm. Bilas today, he confirmed what we had been
+
+previously advised, namely:
+
+M1.4. He did not communicate with any of his
+
+colleagues regarding the PD, he is very disappointed at the limited scope of
+
+the PD, and knows it does not go as far as it should; he would support an
+
+alternate offered by another commission which adopted more or all of the
+
+CSA.
+
+M1.5. He strongly urges parties to take their concerns about the PD to the
+
+other commissioners.
+
+M1.6. He acknowledges it will be a tough sell.
+
+[Inform: what Comm. Bilas confirmed today, that Mike et al. had been previously advised]
+
+M1.7. However, he
+
+does not have any communication from the Democratic commissioners on this
+
+issue either way, so he cannot predict their reaction with any certainty.
+
+[Inform: Comm. Bilas cannot predict Democratic commissioners' reaction on the issue, since he has no communication from them]
+
+M1.8. The main reason for his issuance of the PD in this form appears to be that
+
+he felt that a more aggressive PD issued by a Wilson appointee would attract
+
+attacks simply because it was not offered by the new commissioner.
+
+[Inform: why Bilas issued the PD in a particular form]
+
+M1.9. Additional data points:
+
+[Inform: the following are additional points]
+
+M1.10. Other key CPUC staff with access to President Lynch
+
+that I spoke with today urged us to meet with her, and to emphasize that the
+
+CSA does not result in a reduction in CPUC jurisdiction or regulatory
+
+control (like AB 1890 did) and to take our best shot at convincing her and
+
+Comm. Wood that customers, including core customers, may far much worse
+
+under the interim than under the CSA (particularly in view of the interstate
+
+capacity issues--as described by Mark Pocta of ORA on our recent conf.
+
+call).
+
+M1.11. In addition, a fourth Commissioner (who will be around to vote next
+
+year) suggested similar tactics and offered support for such an effort.
+
+[Inform: what other CPUC staff and a fourth Commissioner suggested]
+
+M1.12. In light of this information, I suggest that we proceed to issue the letter
+
+as planned, and ask that all parties, including SoCalGas, quickly review the
+
+next draft to see if they can sign on.
+
+M1.13. We would like to have as many of the
+
+CSA signatories as possible on the letter.
+
+M1.14. I hope to get the new draft out
+
+today or early tomorrow.
+
+[Inform: Mike would like all parties to review a letter draft and sign it if possible, so he can send it out ASAP]
+
+M1.15. Please respond by COB Thursday or early on Friday. [Y]
+
+[Request-Action: respond by close of business on Thursday or early Friday]
+
+Flink1.15
+
+M1.16. Next, I have asked for a meeting with Pres. Lynch.
+
+M1.17. I would like other
+
+parties to attend as well (or schedule their own meetings). [Y]
+
+M1.18. As soon as I
+
+get a date, I will advise.
+
+[Inform: Mike has asked for a meeting with President Lynch, and after he gets a date, he will let other people know, so they can attend also or schedule their own meetings]
+
+M1.19. Bottom line:  We urge parties to sign the letter and to file comments
+
+supporting adoption of the CSA.
+
+M1.20. We need to meet with Lynch, and until and
+
+unless we get a firm "no", we should not assume the settlement is dead.
+
+[Inform: everyone should sign the previously mentioned letter and assume settlement regarding CSA is still possible]
+
+M1.21. We
+
+should file comments on the PD on Monday which at least list our objections
+
+to the PD and open the door for discussions on how to revive the CSA.
+
+[Inform: Mike's suggestion to file comments that list objections to PD and encourage revival of the CSA]
+
+M1.22. If possible, we will try to arrange a conference call on Friday.
+
+[Inform: Mike et al. will try to arrange a conference call on Friday]
+
+M1.23. Please call if you have any questions.
+
+[Inform: recipients should call if they have questions]
+
+M1.24. Mike Day
+
+[Conventional: signature]
+
+
+
+	</content>
+
+</message>
+
+<message>
+
+
+
+	<thread_id>50721</thread_id>
+
+
+
+	<depth>2</depth>
+
+
+
+	<type>ThreadNode</type>
+
+
+
+	<message_id>165183</message_id>
+
+	<to name="Alan Comnes" id="836" address="acomnes@enron.com"/>
+
+	<from name="Mike Day" id="78792" address="mday@gmssr.com"/>
+
+	<cc name="Jeff Dasovich" id="28265" address="jdasovic@enron.com"/>
+
+
+
+	<parent_id></parent_id>
+
+
+
+	<subject>Report on meeting with Comm. Bilas re GIR Proposed Decision</subject>
+
+
+
+	<date_time>2000-12-08 04:48:00</date_time>
+
+
+
+	<content>
+
+    
+
+M2.1. Alan,
+
+[Conventional: salutation]
+
+M2.2. here is a link to the Interim Settlement.
+
+[Inform: link to Interim Settlement is presumably attached]
+
+M2.3. Mike Day
+
+[Conventional: signature]
+
+
+
+	</content>
+
+</message>
+
+</xml>
+
+Hierarchical Power Annotation: N/A
+Person_1: 
+Person_2: 
+Reason: 
+
+Situational Power Annotation:
+Person_1: Mike Day
+Person_2: To(1)
+Reason: Mike gives the others a report on a meeting and asks them to reply and attend another meeting.
+
+Attempt at Exercising Power Annotation:
+DFUs: M1.2, M1.15, M1.17, M1.20, M1.21
+Person_1: Mike Day
+Person_2: To(1)
+Type: Situational
+Successful?: No Reply
+Reason: In message 1, Mike tells the others what he would like them to do (including not forwarding the email, responding by a certain date, attending/scheduling meetings, and filing comments).
+
+Influence Annotation: N/A
+Person_1:
+Person_2:
+Reason:
+
+Attempt at Influence Annotation:
+DFUs: M1.12, M1.19
+Person_1: Mike Day
+Person_2: To(1)
+Successful?: No Reply
+Reason: In message 1, Mike gives the others some suggestions about sending a letter, getting signatures on the letter, and filing comments.

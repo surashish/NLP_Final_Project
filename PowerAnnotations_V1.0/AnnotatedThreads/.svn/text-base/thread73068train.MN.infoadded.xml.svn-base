@@ -1,0 +1,201 @@
+73068train
+Annotation for intention:
+
+External-event-planning: when a conference call with Rick will occur
+
+Annotation for control:
+Ginger Dernehl: Ginger initiates the thread and tells the others to choose a date and time for a conference call with Rick.
+
+
+
+<xml>
+
+<message>
+
+
+
+	<thread_id>73068</thread_id>
+
+
+
+	<depth>0</depth>
+
+
+
+	<type>ThreadNode</type>
+
+
+
+	<message_id>178011</message_id>
+
+	<to name="Jeff Dasovich" id="27095" address="Jeff.Dasovich@ENRON.com"/>
+
+	<to name="Susan J Mara" id="3364" address="Susan.J.Mara@ENRON.com"/>
+
+	<to name="Mark Palmer" id="1277" address="Mark.Palmer@ENRON.com"/>
+
+	<to name="Linda Robertson" id="35901" address="Linda.Robertson@ENRON.com"/>
+
+	<to name="Paul Kaufman" id="742" address="Paul.Kaufman@ENRON.com"/>
+
+	<to name="Steven J Kean" id="18327" address="Steven.J.Kean@ENRON.com"/>
+
+	<to name="James D Steffes" id="7320" address="James.D.Steffes@ENRON.com"/>
+
+	<to name="Janel Guerrero" id="2841" address="Janel.Guerrero@ENRON.com"/>
+
+	<from name="Ginger Dernehl" id="20406" address="Ginger.Dernehl@ENRON.com"/>
+
+	<cc name="Jeff Dasovich" id="27095" address="Joseph.Alamo@ENRON.com"/>
+
+	<cc name="Cindy Derecskey" id="741" address="Cindy.Derecskey@ENRON.com"/>
+
+	<cc name="Lora Sullivan" id="506" address="Lora.Sullivan@ENRON.com"/>
+
+	<cc name="Mary Hain" id="4306" address="Lysa.Akin@ENRON.com"/>
+
+	<cc name="Steven J Kean" id="18327" address="Maureen.McVicker@ENRON.com"/>
+
+	<cc name="Marcia A Linton" id="75343" address="Marcia.A.Linton@ENRON.com"/>
+
+	<cc name="Linda J Noske" id="71819" address="Linda.J.Noske@ENRON.com"/>
+
+
+
+	<parent_id></parent_id>
+
+
+
+	<subject>Conf. Call re: California</subject>
+
+
+
+	<date_time>2001-03-20 10:01:00</date_time>
+
+
+
+	<content>
+
+    
+
+M1.1. Rick would like to schedule a 90 minute conference call regarding
+
+"California: A midcourse assessment of the campaign".
+
+[Inform: Rick would like to schedule a conference call regarding an assessment of a campaign in California]
+
+M1.2. Please respond "ASAP"
+
+which dates/times listed below will work best with your schedules. [Y]
+
+[Request-Action: respond with which dates of the following are best for recipients' schedules]
+
+Flink1.2
+
+M1.3. Thursday, March 22  11:00am-12:30pm (CST)
+
+M1.4. Friday, March 23  10:30am - 12:00pm (CST)
+
+M1.5. 12:00pm - 1:30pm (CST)
+
+M1.6. 3:30pm - 5:00pm (CST)
+
+[Inform: possible dates and times for conference call]
+
+M1.7. gngr
+
+[Conventional: signature]
+
+M1.8. 713-853-7751
+
+[Inform: Ginger's phone number]
+
+
+
+	</content>
+
+</message>
+
+<message>
+
+
+
+	<thread_id>73068</thread_id>
+
+
+
+	<depth>1</depth>
+
+
+
+	<type>ThreadNode</type>
+
+
+
+	<message_id>178016</message_id>
+
+	<to name="Ginger Dernehl" id="20406" address="Ginger.Dernehl@ENRON.com"/>
+
+	<from name="Jeff Dasovich" id="27095" address="Jeff.Dasovich@ENRON.com"/>
+
+
+
+	<parent_id>178011</parent_id>
+
+
+
+	<subject>Conf. Call re: California</subject>
+
+
+
+	<date_time>2001-03-20 11:19:00</date_time>
+
+
+
+	<content>
+
+    
+
+M2.1. Thursday and Friday at 10:30 AM.
+
+[Inform: Jeff prefers Thursday and/or Friday at 10:30 AM]
+
+Blink1.2
+
+
+
+	</content>
+
+</message>
+
+</xml>
+
+Hierarchical Power Annotation: N/A
+Person_1: 
+Person_2: 
+Reason: 
+
+Situational Power Annotation:
+Person_1: Ginger Dernehl
+Person_2: Jeff Dasovich, ToCC(1)
+Reason: Ginger tells Jeff and the other recipients of message 1 to give her their availability for a conference call.
+
+Attempt at Exercising Power Annotation:
+DFUs: M1.2
+Person_1: Ginger Dernehl
+Person_2: Jeff Dasovich
+Type: Situational
+Successful?: Y
+Reason: In message 1, Ginger tells Jeff to give her his availability for a conference call. In message 2, he tells her his availability.
+
+Influence Annotation: N/A
+Person_1:
+Person_2:
+Reason:
+
+Attempt at Influence Annotation: N/A
+DFUs: 
+Person_1:
+Person_2:
+Successful?:
+Reason: 

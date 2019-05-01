@@ -1,0 +1,213 @@
+<custom>
+
+	<row>
+
+		<thread_id>68</thread_id>
+
+		<depth>0</depth>
+
+		<type>ThreadNode</type>
+
+		<message_id>276677</message_id>
+
+	<to name="James Derrick Jr" id="51608" address="James.Derrick@ENRON.com"/>
+
+	<from name="Paul Pien" id="92291" address="ppien@elawforum.com"/>
+
+	<cc name="John Henry" id="56305" address="jhenry@elawforum.com"/>
+
+	<cc name="Steve Wyatt" id="102409" address="sbwoil@aol.com"/>
+
+	<to name="James Derrick Jr" id="51608" address="jderric@enron.com"/>
+
+		<parent_id>NULL</parent_id>
+
+		<subject>Registration of Enron Corp. on the eLawForum Web Site</subject>
+
+		<date_time>2001-05-21 18:04:25</date_time>
+
+		<content>
+
+M1.1. James,
+
+[Conventional: salutation]
+
+
+
+M1.2. Per Steve Wyatt's suggestion, I have taken the liberty of registering Enron
+
+Corporation on the eLawForum web site.
+
+M1.3. In the course of completing the
+
+registration, I accepted the eLawForum User Agreement on behalf of Enron.
+
+[Inform: registered Enron on the eLawForum website/accepted User Agreement on Enron's behalf]
+
+Sflink1.3
+
+M1.4. Please let me know if you have any questions about the User Agreement.
+
+[Request-Information: any questions about User Agreement]
+
+Flink1.4
+
+M1.5. We would be happy to address any concerns.
+
+[Inform: would be happy to address any concerns]
+
+
+
+M1.6. I have created the 2 roles for you that are required to use our site.
+
+M1.7. The
+
+first role is as &quot;Client Administrator.&quot;
+
+M1.8. This role allows you to manage the
+
+site, primarily by adding and deleting users and assigning them appropriate
+
+roles.
+
+M1.9. Your login name and password for your roles as Client Administrator
+
+are: Login - &quot;jderrick&quot; and Password - &quot;enron&quot;.
+
+M1.10. Please note that both your
+
+login and passwords are case sensitive.
+
+[Inform: created 2 roles required for using this site/first is Client Administrator/explains this role/gives user name and password]
+
+
+
+M1.11. I have also created for you the second role of &quot;RFP Administrator.&quot;  M1.12. In this
+
+role, you can create a new RFP and/or manage existing RFPs.
+
+M1.13. You are
+
+required to have a second Login name and Password for this second role.
+
+M1.14. I
+
+have assigned you the Login in of &quot;jamesderrick&quot; and Password of &quot;enroncorp&quot;
+
+in your role as RFP Administrator.
+
+M1.15. Once again, the login name and password
+
+are case sensitive.
+
+[Inform: second role is RFP administrator/Paul Pien explains this role/gives a second user name and password]
+
+
+
+M1.16. To logon and begin using the web site, go to www.elawforum.com.
+
+M1.17. Click on
+
+&quot;logon&quot; and sign on in your role as RFP Administrator.
+
+[Inform: log-on instructions]
+
+M1.18. Let me know if you
+
+would like a quick walk through the site.
+
+[Request-Information: let Paul know if Jim would like a walk-through of the site]
+
+Flink1.18
+
+M1.19. In addition, please contact me
+
+when you are ready to post your first RFP. [Y]
+
+[Request-Information: contact Paul when ready to post the first RFP]
+
+Flink1.19
+
+M1.20. Our service includes providing
+
+Enron hands on assistance every step of the way.
+
+[Inform: Enron is entitled to hands-on assistance whenever it is needed]
+
+
+
+M1.21. Sincerely,
+
+
+
+
+
+M1.22. Paul Pien
+
+M1.23. Vice President
+
+M1.24. eLawForum
+
+M1.25. 1250 24th Street, NW, Suite 350
+
+M1.26. Washington, DC  20037
+
+M1.27. Work: 202-466-0520
+
+M1.28. Fax: 202-466-0583
+
+M1.29. ppien@elawforum.com
+
+M1.30. www.elawforum.com
+
+[Conventional: signature and contact information]
+
+
+
+
+
+</content>
+
+	</row>
+
+	<row>
+
+		<thread_id>68</thread_id>
+
+		<depth>1</depth>
+
+		<type>ThreadNodeBubble</type>
+
+		<message_id>2000022</message_id>
+
+		<parent_id>276677</parent_id>
+
+		<subject>Registration of Enron Corp. on the eLawForum Web Site</subject>
+
+		<date_time>2001-05-22 05:10:24</date_time>
+
+		<content>
+
+
+
+M2.1. Thank you for the message.
+
+[Conventional: thanks]
+
+M2.2. Please note for your records, however, that neither I nor Enron has accepted the eLawForum User Agreement and that we have not authorized any individual or entity to accept it on our behalf.
+
+[Inform: neither Enron nor Jim Derrick has accepted eLawForum's User Agreement nor authorized anyone else to accept it on their behalf]
+
+Blink1.3
+
+M2.3. Jim Derrick
+
+[Conventional: signature]
+
+
+
+</content>
+
+	</row>
+
+	</custom>

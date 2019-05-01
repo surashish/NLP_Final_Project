@@ -1,0 +1,161 @@
+67120train
+Annotation for intention:
+
+Knowledge-Acquisition: deals involving three companies that all checked out well
+
+Annotation for control:
+Evelyn Metoyer: Evelyn informs Kate Symes of the deals that checked out well.
+
+
+
+<xml>
+
+<message>
+
+
+
+	<thread_id>67120</thread_id>
+
+
+
+	<depth>0</depth>
+
+
+
+	<type>ThreadNode</type>
+
+
+
+	<message_id>90081</message_id>
+
+	<to name="Evelyn Metoyer" id="1526" address="Evelyn.Metoyer@ENRON.com"/>
+
+	<from name="Kate Symes" id="11426" address="Kate.Symes@ENRON.com"/>
+
+
+
+	<parent_id></parent_id>
+
+
+
+	<subject>2-22-01 Checkout</subject>
+
+
+
+	<date_time>2001-02-22 08:54:00</date_time>
+
+
+
+	<content>
+
+    
+
+M1.1. Thank you, Evelyn.
+
+[Conventional: thanks]
+
+M1.2. K
+
+[Conventional: signature]
+
+
+
+	</content>
+
+</message>
+
+<message>
+
+
+
+	<thread_id>67120</thread_id>
+
+
+
+	<depth>1</depth>
+
+
+
+	<type>ThreadNode</type>
+
+
+
+	<message_id>90079</message_id>
+
+	<to name="Kate Symes" id="11426" address="Kate.Symes@ENRON.com"/>
+
+	<from name="Evelyn Metoyer" id="1526" address="Evelyn.Metoyer@ENRON.com"/>
+
+
+
+	<parent_id>90081</parent_id>
+
+
+
+	<subject>2-22-01 Checkout</subject>
+
+
+
+	<date_time>2001-02-22 11:00:00</date_time>
+
+
+
+	<content>
+
+    
+
+M2.1. Prebon West-
+
+M2.2. All deals checked out well.
+
+M2.3. Amerex West-
+
+M2.4. All deals checked out well.
+
+M2.5. Bloomberg
+
+M2.6. All deals checked out well.
+
+[Inform: all deals checked out well for Prebon West, Amerex West, and Bloomberg]
+
+M2.7. Thanks!!
+
+[Conventional: thanks]
+
+
+
+	</content>
+
+</message>
+
+</xml>
+
+Hierarchical Power Annotation: N/A
+Person_1: 
+Person_2: 
+Reason: 
+
+Situational Power Annotation: N/A
+Person_1: 
+Person_2: 
+Reason: 
+
+Attempt at Exercising Power Annotation: N/A
+DFUs: 
+Person_1:
+Person_2:
+Type:
+Successful?:
+Reason: 
+
+Influence Annotation: N/A
+Person_1:
+Person_2:
+Reason:
+
+Attempt at Influence Annotation: N/A
+DFUs: 
+Person_1:
+Person_2:
+Successful?:
+Reason: 

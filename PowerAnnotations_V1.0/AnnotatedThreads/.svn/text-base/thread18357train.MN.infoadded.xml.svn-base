@@ -1,0 +1,99 @@
+18357
+Annotation for intention:
+
+Collaboration-on-information-product: destroying a confidential item
+
+Annotation for control:
+Judge Sherry Radack: Sherry is the only sender in this thread, and tells Richard Sanders to destroy the item.
+
+
+
+<xml>
+
+<message>
+
+
+
+	<thread_id>18357</thread_id>
+
+
+
+	<depth>0</depth>
+
+
+
+	<type>ThreadNode</type>
+
+
+
+	<message_id>779427</message_id>
+
+	<to name="Richard B Sanders" id="40537" address="Richard.B.Sanders@ENRON.com"/>
+
+	<from name="Judge Sherry Radack" id="93569" address="Radack@DCA.CO.HARRIS.TX.US"/>
+
+
+
+	<parent_id></parent_id>
+
+
+
+	<subject>Divorce Lawyer</subject>
+
+
+
+	<date_time>2000-05-23 06:59:00</date_time>
+
+
+
+	<content>
+
+    
+
+M1.1. Please  destroy. [Y]
+
+[Request-Action: destroy something presumably attached, possibly on the topic of a divorce lawyer]
+
+Flink1.1
+
+M1.2. This is extremely confidential.
+
+[Inform: this is top-secret]
+
+
+
+	</content>
+
+</message>
+
+</xml>
+
+Hierarchical Power Annotation: N/A
+Person_1: 
+Person_2: 
+Reason: 
+
+Situational Power Annotation: N/A
+Person_1: 
+Person_2: 
+Reason: 
+
+Attempt at Exercising Power Annotation:
+DFUs: M1.1-M1.2
+Person_1: Judge Sherry Radack
+Person_2: Richard B Sanders
+Type: Situational
+Successful?: No Reply
+Reason: Judge Radack asks Richard to destroy something confidential.
+
+Influence Annotation: N/A
+Person_1:
+Person_2:
+Reason:
+
+Attempt at Influence Annotation: N/A
+DFUs: 
+Person_1:
+Person_2:
+Successful?:
+Reason: 

@@ -1,0 +1,264 @@
+1249
+Annotation for intention:
+
+Collaboration-on-information-product: David's comments on status of ISDA proposal and reviewing these comments
+
+Annotation for control:
+
+David Fransen: David initiates the thread and asks Stephanie Panus about the status of the ISDA proposal.
+
+
+<xml>
+
+<message>
+
+
+
+	<thread_id>1249</thread_id>
+
+
+
+	<depth>0</depth>
+
+
+
+	<type>ThreadNode</type>
+
+
+
+	<message_id>1120539</message_id>
+
+	<to name="Stephanie Panus" id="1235" address="Stephanie.Panus@ENRON.com"/>
+
+	<from name="David Fransen" id="29665" address="DBF@Vitol.com"/>
+
+	<cc name="Gilbert Widmer" id="44632" address="GIW@Vitol.com"/>
+
+	<cc name="Keith Swaby" id="68988" address="KWS@Vitol.com"/>
+
+	<cc name="Martha Garrison" id="79053" address="MEG@Vitol.com"/>
+
+	<to name="Stephanie Panus" id="1235" address="Spanus@ENRON.com"/>
+
+
+
+	<parent_id></parent_id>
+
+
+
+	<subject>Vitol/Enron ISDA</subject>
+
+
+
+	<date_time>2001-10-27 04:31:06</date_time>
+
+
+
+	<content>
+
+    
+
+M1.1. Hi, Stephanie,
+
+[Conventional: salutation]
+
+M1.2. I wanted to check where we are on the ISDA ...
+
+[Inform: David wanted to check status of ISDA]
+
+Sflink1.2
+
+M1.3. we sent you a proposal at the
+
+end of Sept, and you and I have exchanged a couple of emails since then, but
+
+overall I believe that the ball is still ' in your court'.
+
+[Inform: David sent Stephanie a proposal at the end of September, and despite intervening emails, it seems that it is Stephanie's turn to act] 
+
+M1.4. Is this correct?
+
+[Request-Information: is this true]
+
+Flink1.4
+
+M1.5. Regards, David
+
+[Conventional: signature]
+
+M1.6. David Fransen
+
+M1.7. Vitol SA Geneva
+
+M1.8. Tel : 00-41-22-322-1111
+
+[Inform: David's contact information]
+
+**********************************************************************
+
+This email and any files transmitted with it are confidential and
+
+intended solely for the use of the individual or entity to whom they
+
+are addressed. If you have received this email in error please notify
+
+the sender.
+
+**********************************************************************
+
+	</content>
+
+</message>
+
+<message>
+
+
+
+	<thread_id>1249</thread_id>
+
+
+
+	<depth>1</depth>
+
+
+
+	<type>ThreadNodeBubble</type>
+
+
+
+	<message_id>2000509</message_id>
+
+
+
+	<parent_id>1120539</parent_id>
+
+
+
+	<subject>Vitol/Enron ISDA</subject>
+
+
+
+	<date_time>2001-10-28 06:24:14</date_time>
+
+
+
+	<content>
+
+    
+
+M2.1. Darren,
+
+[Conventional: salutation]
+
+M2.2. Have you reviewed the comments from Vitol?
+
+[Request-Information: has Darren reviewed comments from David at Vitol]
+
+Blink1.2
+
+Flink2.2
+
+
+
+	</content>
+
+</message>
+
+<message>
+
+
+
+	<thread_id>1249</thread_id>
+
+
+
+	<depth>2</depth>
+
+
+
+	<type>ThreadNode</type>
+
+
+
+	<message_id>1120540</message_id>
+
+	<to name="Stephanie Panus" id="1235" address="Stephanie.Panus@ENRON.com"/>
+
+	<from name="Darren Vanek" id="28177" address="Darren.Vanek@ENRON.com"/>
+
+	<to name="Stephanie Panus" id="1235" address="Spanus@ENRON.com"/>
+
+	<from name="Darren Vanek" id="28177" address="Dvanek@ENRON.com"/>
+
+
+
+	<parent_id>2000509</parent_id>
+
+
+
+	<subject>Vitol/Enron ISDA</subject>
+
+
+
+	<date_time>2001-10-29 09:17:22</date_time>
+
+
+
+	<content>
+
+    
+
+M3.1. I was out of town on Friday.
+
+[Inform: no, Darren was out of town on Friday]
+
+Blink2.2
+
+M3.2. I will try to get to it today
+
+[Inform: Darren will try to get to comments today]
+
+
+
+	</content>
+
+</message>
+
+</xml>
+
+Hierarchical Power Annotation: N/A
+Person_1: 
+Person_2: 
+Reason: 
+
+Situational Power Annotation:
+Person_1: Stephanie Panus
+Person_2: Darren Vanek
+Reason: In message 2, Stephanie asks Darren whether he has reviewed David's comments on the proposal, and in message 3 he responds that he will do so.
+
+Attempt at Exercising Power Annotation:
+DFUs: M1.2-M1.4
+Person_1: David Fransen
+Person_2: Stephanie Panus
+Type: Situational
+Successful?: Y
+Reason: In message 1, David reminds Stephanie about the ISDA proposal that she is supposed to get back to him about, and in message 2, Stephanie asks Darren Vanek to review David's comments on the proposal.
+
+DFUs: M2.2
+Person_1: Stephanie Panus
+Person_2: Darren Vanek
+Type: Situational
+Successful?: Y
+Reason: In message 2, Stephanie asks Darren whether he has reviewed David's comments on the proposal, and in message 3 he responds that he will do so.
+
+Influence Annotation: N/A
+Person_1:
+Person_2:
+Reason:
+
+Attempt at Influence Annotation: N/A
+DFUs: 
+Person_1:
+Person_2:
+Successful?:
+Reason: 

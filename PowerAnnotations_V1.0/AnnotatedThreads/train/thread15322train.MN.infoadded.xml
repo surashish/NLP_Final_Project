@@ -1,0 +1,105 @@
+15322
+Annotation for intention:
+
+Knowledge-Acquisition: something (possibly the request from the Mexico City office) that Vince Kaminski doesn't have
+
+Annotation for control:
+Vince J Kaminski: Vince is the only sender in this thread, and tells Margaret Carson that he doesn't have the item.
+
+
+
+<xml>
+
+<message>
+
+
+
+	<thread_id>15322</thread_id>
+
+
+
+	<depth>1</depth>
+
+
+
+	<type>ThreadNode</type>
+
+
+
+	<message_id>975276</message_id>
+
+	<to name="Margaret Carson" id="40153" address="margaret.carson@enron.com"/>
+
+	<from name="Vince J Kaminski" id="63574" address="Vince.J.Kaminski@ENRON.com"/>
+
+
+
+	<parent_id>981672</parent_id>
+
+
+
+	<subject>Request from our Mexico City Office</subject>
+
+
+
+	<date_time>2000-04-18 13:32:00</date_time>
+
+
+
+	<content>
+
+    
+
+M1.1. Margaret,
+
+[Conventional: salutation]
+
+M1.2. I don't have it.
+
+[Inform: Vince doesn't have something that is not explicitly stated]
+
+M1.3. Maybe we can get a copy directly from  the CBOT.
+
+[Inform: Vince thinks a copy of this thing can be obtained directly from the Chicago Board of Trade]
+
+M1.4. Info  Central could help.
+
+[Inform: Info Central could help out with this]
+
+
+
+	</content>
+
+</message>
+
+</xml>
+
+Hierarchical Power Annotation: N/A
+Person_1: 
+Person_2: 
+Reason: 
+
+Situational Power Annotation: N/A
+Person_1: 
+Person_2: 
+Reason: 
+
+Attempt at Exercising Power Annotation: N/A
+DFUs: 
+Person_1:
+Person_2:
+Type:
+Successful?:
+Reason: 
+
+Influence Annotation: N/A
+Person_1:
+Person_2:
+Reason:
+
+Attempt at Influence Annotation: N/A
+DFUs: 
+Person_1:
+Person_2:
+Successful?:
+Reason: 

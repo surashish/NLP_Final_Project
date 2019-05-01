@@ -1,0 +1,215 @@
+140699train
+Annotation for intention:
+
+Collaboration-on-information-product: requesting completion of customer amendments for Entergy-Koch
+
+Annotation for control:
+
+Kathryn Cordes: Kathryn initiates the thread and asks Leslie Hansen, Sara Shackleton, and Brent Hendry for an update on the customer amendments.
+
+
+<xml>
+
+<message>
+
+
+
+	<thread_id>140699</thread_id>
+
+
+
+	<depth>0</depth>
+
+
+
+	<type>ThreadNode</type>
+
+
+
+	<message_id>1118070</message_id>
+
+	<to name="Leslie Hansen" id="11220" address="Leslie.Hansen@ENRON.com"/>
+
+	<to name="Sara Shackleton" id="64528" address="Sara.Shackleton@ENRON.com"/>
+
+	<to name="Brent Hendry" id="1564" address="Brent.Hendry@ENRON.com"/>
+
+	<from name="Kathryn Cordes" id="64231" address="Kathryn.Cordes@ENRON.com"/>
+
+	<cc name="Mark Greenberg" id="3500" address="Mark.Greenberg@ENRON.com"/>
+
+	<cc name="Erik Eller" id="36940" address="Erik.Eller@ENRON.com"/>
+
+	<cc name="Thomas D Gros" id="112690" address="Thomas.D.Gros@ENRON.com"/>
+
+	<to name="Leslie Hansen" id="11220" address="Lhansen@ENRON.com"/>
+
+	<to name="Sara Shackleton" id="64528" address="sshackl@enron.com"/>
+
+	<to name="Brent Hendry" id="1564" address="Bhendry@ENRON.com"/>
+
+	<from name="Kathryn Cordes" id="64231" address="KCORDES@ENRON.com"/>
+
+	<cc name="Mark Greenberg" id="3500" address="Mgreenbe@ENRON.com"/>
+
+	<cc name="Erik Eller" id="36940" address="Eeller@ENRON.com"/>
+
+	<cc name="Thomas D Gros" id="112690" address="Tgros@ENRON.com"/>
+
+
+
+	<parent_id></parent_id>
+
+
+
+	<subject>Amendments Status</subject>
+
+
+
+	<date_time>2001-10-25 18:11:49</date_time>
+
+
+
+	<content>
+
+    
+
+M1.1. Leslie Sara, and Brent:
+
+[Conventional: salutation]
+
+
+
+M1.2. Could I get an update on were we are with the top 20 customer amendments. [Y]
+
+[Request-Information: update on top 20 customer amendments]
+
+Flink1.2
+
+M1.3. Last week we got 5 amendments for power physical but we still haven't received any amendments for financial.
+
+[Inform: last week there were 5 for power physical but there are as yet none for financial]
+
+M1.4. Entergy-Koch is very interested in ConfirmLogic and have asked for the amendments.
+
+[Inform: Entergy-Koch interested in ConfirmLogic and would like amendments]
+
+M1.5. When can we get the amendments for Entergy-Koch completed?
+
+[Request-Information: when can amendments be completed for Entergy-Koch]
+
+Flink1.5
+
+
+
+M1.6. Thanks,
+
+[Conventional: thanks]
+
+M1.7. KC
+
+[Conventional: signature]
+
+
+
+	</content>
+
+</message>
+
+<message>
+
+
+
+	<thread_id>140699</thread_id>
+
+
+
+	<depth>1</depth>
+
+
+
+	<type>ThreadNode</type>
+
+
+
+	<message_id>1105354</message_id>
+
+	<to name="Mark Taylor" id="2378" address="Mark.Taylor@ENRON.com"/>
+
+	<from name="Brent Hendry" id="1564" address="Brent.Hendry@ENRON.com"/>
+
+	<to name="Mark Taylor" id="2378" address="Mtaylo1@ENRON.com"/>
+
+	<from name="Brent Hendry" id="1564" address="Bhendry@ENRON.com"/>
+
+
+
+	<parent_id>1118070</parent_id>
+
+
+
+	<subject>Amendments Status</subject>
+
+
+
+	<date_time>2001-10-25 18:19:12</date_time>
+
+
+
+	<content>
+
+    
+
+M2.1. I have just finished the draft for our internal legal review and sent it around.
+
+[Inform: Brent finished draft for internal legal review and sent it around]
+
+M2.2. There are still a lot of work to be done but I do not know when everyone will have time to look at this considering how much other work there is.
+
+[Inform: much work left to be done but Brent doesn't know when others will have time to look at draft]
+
+M2.3. How should we respond considering she has copied Tom Gros?
+
+[Request-Information: how should Brent and Mark respond to KC (presumably), since previous email was presumably CC'd to Tom Gros]
+
+Blink1.5
+
+Flink2.3
+
+
+
+	</content>
+
+</message>
+
+</xml>
+
+Hierarchical Power Annotation: N/A
+Person_1: 
+Person_2: 
+Reason: 
+
+Situational Power Annotation:
+Person_1: Kathryn Cordes
+Person_2: Brent Hendry, Leslie Hansen, Sara Shackleton
+Reason: In message 1 Kathryn asks the others for the update on customer amendments, showing they must do the work for her.
+
+Attempt at Exercising Power Annotation:
+DFUs: M1.2, M1.5
+Person_1: Kathryn Cordes
+Person_2: Brent Hendry, Leslie Hansen, Sara Shackleton
+Type: Situational
+Successful?: N
+Reason: In message 1 Kathryn asks the others for the update on customer amendments, but in message 2 Brent asks Mark for his input before responding to her, and mentions that he and the others might not have time to do the work.
+
+Influence Annotation: N/A
+Person_1: 
+Person_2: 
+Reason:
+
+Attempt at Influence Annotation: N/A
+DFUs: 
+Person_1:
+Person_2:
+Successful?:
+Reason: 

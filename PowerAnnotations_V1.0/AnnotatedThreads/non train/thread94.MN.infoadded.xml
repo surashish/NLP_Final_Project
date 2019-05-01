@@ -1,0 +1,227 @@
+94
+Annotation for intention:
+
+Knowledge-Acquisition: companies' responses to the prospect of receiving email updates from EnronOnline
+
+
+Annotation for control:
+Daniel Diamond: Dan is the only sender of messages in this thread. He tells the others what various companies think about getting email updates from EnronOnline.
+
+
+<?xml version="1.0"?>
+
+
+
+<!--
+
+-
+
+- Sequel Pro dump
+
+- Version 155
+
+- http://code.google.com/p/sequel-pro
+
+-
+
+- Host: 127.0.0.1 (MySQL 5.0.67)
+
+- Database: enron
+
+- Generation Time: 2008-12-01 15:19:09 -0500
+
+-
+
+-->
+
+
+
+	<custom>
+
+	<row>
+
+		<thread_id>94</thread_id>
+
+		<depth>0</depth>
+
+		<type>ThreadNode</type>
+
+		<message_id>292543</message_id>
+
+	<to name="Andy Zipper" id="5063" address="Andy.Zipper@ENRON.com"/>
+
+	<from name="Daniel Diamond" id="2854" address="Dan.Diamond@ENRON.com"/>
+
+	<cc name="Jay Webb" id="52818" address="Jay.Webb@ENRON.com"/>
+
+	<cc name="Kal Shah" id="199" address="Kal.Shah@ENRON.com"/>
+
+	<to name="Andy Zipper" id="5063" address="azipper@enron.com"/>
+
+	<from name="Daniel Diamond" id="27465" address="Ddiamon@ENRON.com"/>
+
+	<cc name="Jay Webb" id="52818" address="Jwebb@ENRON.com"/>
+
+	<cc name="Kal Shah" id="199" address="Kshah@ENRON.com"/>
+
+		<parent_id>NULL</parent_id>
+
+		<subject>EOL Email</subject>
+
+		<date_time>2001-05-24 09:34:15</date_time>
+
+		<content>
+
+M1.1. Andy,
+
+[Conventional: salutation]
+
+M1.2. I know EOL email is far down on the priority list
+
+M1.3. but I wanted to forward the responses to you.
+
+[Inform: though EOL email is low on priority list, Dan is forwarding companies' responses]
+
+M1.4. Just about everyone we spoke with gave a positive response.
+
+M1.5. It looks like our biggest hurdle is getting them to actually complete the information and not just ignore it.
+
+[Inform: most companies gave a positive response/biggest concern is getting them to fill out info and not ignore it]
+
+M1.6. If we ever went forward with this,
+
+M1.7. I would suggest that we use pop up boxes first
+
+M1.8. and then forward a list of the remaining names that we need to the Master User to fill out.
+
+[Inform: Dan's suggestion is to use pop-up boxes and then forward a list of the remaining names to the Master User to fill out]
+
+M1.9. -Dan
+
+[Conventional: signature]
+
+M1.10. Here is a list of the companies and their responses about receiving email updates from EOL:
+
+M1.11. Company					Response
+
+Kansas City Power &amp; Light			No problem asking for the information as long as it is strictly for our use
+
+Central Hudson Gas &amp; Electric Co.		&quot;
+
+Cline Resources &amp; Development Co.		&quot;
+
+Duke						Sounds great
+
+Vitol						Sounds fine
+
+Coastal						Perfect
+
+Koch						Preferable
+
+BP Canada					No problem with it
+
+Chevron Canada					Would fill out the information
+
+Engage Canada					Said that about 50% of the traders would take the time to give us the info.
+
+TransCanada					They would fill it out
+
+SaskEnergy Inc.				Not too excited about the deal but would consider it
+
+Burlington Resources				Master User actually responded by sending a full list of user names, ids, emails and what they trade.
+
+Unocal						Felt if we sent out a pop up survey about half of his traders would fill in the info.
+
+CMS						Thought most traders would ignore a survey as they feel Enron has too much information about them already.  However, if 						we sent the Master User a form that would assist in a higher level of customer service, he would fill out the information.
+
+BP Amoco					Felt most traders would ignore a survey unless they were forced to fill it out
+
+[Inform: chart listing companies and their responses to receiving email updates from EnronOnline]
+
+
+
+</content>
+
+	</row>
+
+	<row>
+
+		<thread_id>94</thread_id>
+
+		<depth>2</depth>
+
+		<type>ThreadNode</type>
+
+		<message_id>292567</message_id>
+
+	<to name="Andy Zipper" id="5063" address="Andy.Zipper@ENRON.com"/>
+
+	<from name="Daniel Diamond" id="2854" address="Dan.Diamond@ENRON.com"/>
+
+	<to name="Andy Zipper" id="5063" address="azipper@enron.com"/>
+
+	<from name="Daniel Diamond" id="27465" address="Ddiamon@ENRON.com"/>
+
+		<parent_id>NULL</parent_id>
+
+		<subject>EOL Email</subject>
+
+		<date_time>2001-06-05 09:05:55</date_time>
+
+		<content>
+
+M2.1. Mark Greenberg is trying to get back in touch with their attorney.
+
+M2.2. I called Alan Kurzer Thursday and Mark called their attorney Friday.
+
+[Inform: Mark Greenberg and Dan are trying to get in touch with someone's (Kurzer's?) attorney]
+
+M2.3. We're still waiting on a response to the renegotiated definitive agreement.
+
+[Inform: still waiting to hear a response to renegotiated definitive agreement]
+
+M2.4. Once that is finalized (should be any day now), it goes up to the parent for final approval.
+
+[Inform: once finalized, this renegotiated agreement goes to the parent for final approval]
+
+M2.5. -Dan
+
+[Conventional: signature]
+
+
+
+</content>
+
+	</row>
+
+	</custom>
+
+Hierarchical Power Annotation: N/A
+Person_1: 
+Person_2: 
+Reason: 
+
+Situational Power Annotation: N/A
+Person_1: 
+Person_2: 
+Reason: 
+
+Attempt at Exercising Power Annotation: N/A
+DFUs: 
+Person_1:
+Person_2:
+Type:
+Successful?:
+Reason: 
+
+Influence Annotation: N/A
+Person_1:
+Person_2:
+Reason:
+
+Attempt at Influence Annotation:
+DFUs: M1.6-M1.8
+Person_1: Daniel Diamond
+Person_2: Andy Zipper
+Successful?: No Reply
+Reason: In message 1, Dan suggests how to get companies to complete necessary information and not ignore it.

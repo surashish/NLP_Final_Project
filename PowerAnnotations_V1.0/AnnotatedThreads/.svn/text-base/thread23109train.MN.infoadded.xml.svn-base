@@ -1,0 +1,316 @@
+23109train
+Annotation for intention:
+
+Knowledge-Acquisition/Argumentation: update on Bryce and his team's progress with AEC/confidence in Bryce's and Susan's abilities
+
+Annotation for control:
+Susan Harrison: Susan initiates the thread and gives the update on the progress with AEC.
+
+
+
+<xml>
+
+<message>
+
+
+
+	<thread_id>23109</thread_id>
+
+
+
+	<depth>0</depth>
+
+
+
+	<type>ThreadNode</type>
+
+
+
+	<message_id>918883</message_id>
+
+	<to name="Rob Milnthorp" id="1344" address="Rob.Milnthorp@ENRON.com"/>
+
+	<to name="Sally Beck" id="46153" address="Sally.Beck@ENRON.com"/>
+
+	<to name="Brent A Price" id="16090" address="Brent.A.Price@ENRON.com"/>
+
+	<from name="Susan Harrison" id="104632" address="susan.harrison@enron.com"/>
+
+	<cc name="Bryce Baxter" id="1645" address="Bryce.Baxter@ENRON.com"/>
+
+
+
+	<parent_id></parent_id>
+
+
+
+	<subject>AEC Issues</subject>
+
+
+
+	<date_time>2000-07-07 05:10:00</date_time>
+
+
+
+	<content>
+
+    
+
+M1.1. I wanted to provide an update on our progress with AEC.
+
+[Inform: the following is an update on progress with AEC]
+
+M1.2. Bryce Baxter and his
+
+team members have been in contact with Mike Bennett and Bill Hogue to
+
+understand their needs.
+
+[Inform: Bryce and his team have been in touch with Mike and Bill to understand AEC's needs]
+
+M1.3. We have provided the initial information they
+
+requested (i.e., one month of data), and are awaiting their approval before
+
+completing the analysis on the remaining months.
+
+[Inform: Susan et al. have sent one month's worth of data to AEC and are awaiting AEC's approval before working on and sending more]
+
+Sflink1.3
+
+M1.4. I am confident that we have
+
+established clear points of contact within Settlements for Mike and Bill and
+
+we will continue to work on solidifying the relationship.
+
+[Inform: Susan is sure their relationship has a strong foundation]
+
+M1.5. Please let me know if you have any questions.
+
+[Inform: recipients should ask Susan questions if they have any]
+
+
+
+	</content>
+
+</message>
+
+<message>
+
+
+
+	<thread_id>23109</thread_id>
+
+
+
+	<depth>1</depth>
+
+
+
+	<type>ThreadNode</type>
+
+
+
+	<message_id>921138</message_id>
+
+	<to name="Rob Milnthorp" id="1344" address="Rob.Milnthorp@ENRON.com"/>
+
+	<from name="Sally Beck" id="46153" address="Sally.Beck@ENRON.com"/>
+
+
+
+	<parent_id>918883</parent_id>
+
+
+
+	<subject>AEC Issues</subject>
+
+
+
+	<date_time>2000-07-07 16:44:00</date_time>
+
+
+
+	<content>
+
+    
+
+M2.1. Rob:
+
+[Conventional: salutation]
+
+M2.2. Let me know if you get feedback from AEC that does not indicate that
+
+they are getting what they need.
+
+[Request-Information: any negative feedback from AEC]
+
+Flink2.2
+
+M2.3. Susan and Bryce are both very capable and
+
+responsive, so I am confident that AEC's questions can be resolved quickly.
+
+[Inform: Susan and Bryce are capable and responsive, and sender thinks AEC's questions can be resolved quickly]
+
+
+
+	</content>
+
+</message>
+
+<message>
+
+
+
+	<thread_id>23109</thread_id>
+
+
+
+	<depth>1</depth>
+
+
+
+	<type>ThreadNode</type>
+
+
+
+	<message_id>921137</message_id>
+
+	<to name="Susan Harrison" id="104632" address="susan.harrison@enron.com"/>
+
+	<from name="Sally Beck" id="46153" address="Sally.Beck@ENRON.com"/>
+
+
+
+	<parent_id>918883</parent_id>
+
+
+
+	<subject>AEC Issues</subject>
+
+
+
+	<date_time>2000-07-07 16:45:00</date_time>
+
+
+
+	<content>
+
+    
+
+M3.1. Thanks for the update.
+
+[Conventional: thanks]
+
+M3.2. I am confident that with leadership from you and
+
+attention from Bryce that AEC will be satisfied soon.
+
+[Inform: Sally is sure AEC will soon be satisfied]
+
+M3.3. --Sally
+
+[Conventional: signature]
+
+
+
+	</content>
+
+</message>
+
+<message>
+
+
+
+	<thread_id>23109</thread_id>
+
+
+
+	<depth>2</depth>
+
+
+
+	<type>ThreadNode</type>
+
+
+
+	<message_id>921112</message_id>
+
+	<to name="Sally Beck" id="46153" address="Sally.Beck@ENRON.com"/>
+
+	<from name="Rob Milnthorp" id="1344" address="Rob.Milnthorp@ENRON.com"/>
+
+	<cc name="Susan Harrison" id="104632" address="susan.harrison@enron.com"/>
+
+
+
+	<parent_id>921138</parent_id>
+
+
+
+	<subject>AEC Issues</subject>
+
+
+
+	<date_time>2000-07-11 11:02:00</date_time>
+
+
+
+	<content>
+
+    
+
+M4.1. Sally/Susan:
+
+[Conventional: salutation]
+
+M4.2. Thanks for following up,
+
+[Conventional: thanks]
+
+M4.3. Bill Hogue at AEC is extremely happy with the
+
+reponse that he has received.
+
+[Inform: Bill at AEC is very pleased with the response he received]
+Blink2.2
+
+
+
+	</content>
+
+</message>
+
+</xml>
+
+Hierarchical Power Annotation: N/A
+Person_1: 
+Person_2: 
+Reason: 
+
+Situational Power Annotation:
+Person_1: Susan Harrison
+Person_2: Sally Beck, Rob Milnthorp
+Reason: Susan initiates the thread, telling the others about the progress with AEC in message 1. In message 3, Sally praises Susan's leadership.
+
+Attempt at Exercising Power Annotation: N/A
+DFUs: 
+Person_1:
+Person_2:
+Type:
+Successful?:
+Reason: 
+
+Influence Annotation: N/A
+Person_1:
+Person_2:
+Reason:
+
+Attempt at Influence Annotation: N/A
+DFUs: 
+Person_1:
+Person_2:
+Successful?:
+Reason: 

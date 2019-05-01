@@ -1,0 +1,153 @@
+37606train
+Annotation for intention:
+
+Collaboration-on-information-product: revision of backgrounder and message point documents
+
+Annotation for control:
+Paul Kaufman: Paul initiates the thread and sends the revised documents.
+
+
+
+<xml>
+
+<message>
+
+
+
+	<thread_id>37606</thread_id>
+
+
+
+	<depth>0</depth>
+
+
+
+	<type>ThreadNode</type>
+
+
+
+	<message_id>350003</message_id>
+
+	<to name="Steven J Kean" id="18327" address="steve.kean@enron.com"/>
+
+	<to name="Steven J Kean" id="18327" address="Maureen.McVicker@ENRON.com"/>
+
+	<to name="Ginger Dernehl" id="20406" address="Ginger.Dernehl@ENRON.com"/>
+
+	<from name="Paul Kaufman" id="742" address="Paul.Kaufman@ENRON.com"/>
+
+
+
+	<parent_id></parent_id>
+
+
+
+	<subject>Message points</subject>
+
+
+
+	<date_time>2000-10-13 01:00:00</date_time>
+
+
+
+	<content>
+
+    
+
+M1.1. I've revised both the backgrounder and message point documents.
+
+[Inform: Paul revised backgrounder and message point documents]
+
+Sflink1.1
+
+
+
+	</content>
+
+</message>
+
+<message>
+
+
+
+	<thread_id>37606</thread_id>
+
+
+
+	<depth>1</depth>
+
+
+
+	<type>ThreadNode</type>
+
+
+
+	<message_id>350032</message_id>
+
+	<to name="Steven J Kean" id="18327" address="Maureen.McVicker@ENRON.com"/>
+
+	<from name="Steven J Kean" id="18327" address="Steven.J.Kean@ENRON.com"/>
+
+
+
+	<parent_id>350003</parent_id>
+
+
+
+	<subject>Message points</subject>
+
+
+
+	<date_time>2000-10-16 06:19:00</date_time>
+
+
+
+	<content>
+
+    
+
+M2.1. please print [Y]
+
+[Request-Action: print documents]
+
+Blink1.1
+
+Flink2.1
+
+
+
+	</content>
+
+</message>
+
+</xml>
+
+Hierarchical Power Annotation:
+Person_1: Steven J Kean(address:"Steven.J.Kean@ENRON.com")
+Person_2: Steven J Kean(address:"Maureen.McVicker@ENRON.com")
+Reason: In message 2, Steven tells Maureen to print the documents, suggesting that she is his secretary.
+
+Situational Power Annotation:
+Person_1: Steven J Kean(address:"Steven.J.Kean@ENRON.com")
+Person_2: Steven J Kean(address:"Maureen.McVicker@ENRON.com")
+Reason: In message 2, Steven tells Maureen to print the documents, suggesting that she is his secretary.
+
+Attempt at Exercising Power Annotation: N/A
+DFUs: 
+Person_1:
+Person_2:
+Type:
+Successful?:
+Reason: 
+
+Influence Annotation: N/A
+Person_1:
+Person_2:
+Reason:
+
+Attempt at Influence Annotation: N/A
+DFUs: 
+Person_1:
+Person_2:
+Successful?:
+Reason: 

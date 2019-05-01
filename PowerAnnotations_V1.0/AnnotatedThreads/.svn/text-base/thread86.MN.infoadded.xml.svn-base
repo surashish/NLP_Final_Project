@@ -1,0 +1,263 @@
+86
+
+Annotation for intention:
+
+Argumentation: grace period to maximize desks' VAR/Dynegy's program that mirrors EOL's cash markets
+
+
+Annotation for control:
+Hunter S Shively: Hunter initiates the thread and offers his opinions on fines and Enron Online.
+
+
+
+
+<?xml version="1.0"?>
+
+
+
+<!--
+
+-
+
+- Sequel Pro dump
+
+- Version 155
+
+- http://code.google.com/p/sequel-pro
+
+-
+
+- Host: 127.0.0.1 (MySQL 5.0.67)
+
+- Database: enron
+
+- Generation Time: 2008-12-01 15:21:48 -0500
+
+-
+
+-->
+
+
+
+	<custom>
+
+	<row>
+
+		<thread_id>86</thread_id>
+
+		<depth>0</depth>
+
+		<type>ThreadNode</type>
+
+		<message_id>1033844</message_id>
+
+	<to name="John Lavorato" id="2273" address="John.J.Lavorato@ENRON.com"/>
+
+	<from name="Hunter S Shively" id="43716" address="Hunter.S.Shively@ENRON.com"/>
+
+	<to name="John Lavorato" id="2273" address="JLAVORA@ENRON.com"/>
+
+	<from name="Hunter S Shively" id="43716" address="Shively@ENRON.com"/>
+
+	<from name="Hunter S Shively" id="43716" address="hunter.s@ENRON.com"/>
+
+		<parent_id>NULL</parent_id>
+
+		<subject>Fines and EOL</subject>
+
+		<date_time>2001-05-24 12:09:26</date_time>
+
+		<content>
+
+M1.1. Fines:
+
+[Inform: the following is in regards to fines]
+
+
+
+M1.2. I know you have talked with Phillip but I wanted to give my two cents.
+
+[Inform: though John has talked with Phillip, Hunter wants to give opinion]
+
+M1.3. I think the fines are a great idea.
+
+M1.4. We must be accountable for VAR.
+
+[Inform: Hunter thinks fines are a great idea, because they must be accountable for VAR]
+
+M1.5. However the fines do not allow the desks to push the envelope.
+
+M1.6. The desks need to stay a couple million under VAR to protect against volatility and factor changes.
+
+[Inform: fines do not allow desks to push limits/desks must stay a couple million under VAR for safety]
+
+M1.7. We do not have the tools to predict our VAR with any strong degree of accuracy
+
+M1.8. but we are penalized for going over a few hundred thousand dollars.
+
+[Inform: they cannot predict VAR with much accuracy but are penalized for exceeding limit by a few hundred thousand dollars]
+
+M1.9. I propose a one day grace period of 10% to 12% over limit.
+
+M1.10. This would allow the desks to max their VAR and protect against unexpected changes.
+
+[Inform: Hunter thinks there should be a one day grace period of 10-12% over limit, which would allow desks to maximize VAR and protect against unforeseen changes]
+
+
+
+M1.11. EOL:
+
+[Inform: the following is in regards to EnronOnline]
+
+
+
+M1.12. We continue to have trouble with brokers not working our EOL numbers.
+
+[Inform: they continually have trouble with brokers not working their EnronOnline numbers]
+
+
+
+M1.13. We believe Dynegy has written a program to mirror our cash markets on their system.
+
+[Inform: Hunter thinks Dynegy has written a program to reflect EnronOnline's cash markets on their system]
+
+Sflink1.13
+
+M1.14. When we suspend, they suspend
+
+M1.15. and as our markets move, so do theirs.
+
+[Inform: describing Dynegy's program that reflects EnronOnline's cash markets]
+
+
+
+</content>
+
+	</row>
+
+	<row>
+
+		<thread_id>86</thread_id>
+
+		<depth>1</depth>
+
+		<type>ThreadNode</type>
+
+		<message_id>1033845</message_id>
+
+	<to name="John Lavorato" id="2273" address="John.J.Lavorato@ENRON.com"/>
+
+	<from name="Hunter S Shively" id="43716" address="Hunter.S.Shively@ENRON.com"/>
+
+	<to name="John Lavorato" id="2273" address="JLAVORA@ENRON.com"/>
+
+	<from name="Hunter S Shively" id="43716" address="Shively@ENRON.com"/>
+
+	<from name="Hunter S Shively" id="43716" address="hunter.s@ENRON.com"/>
+
+		<parent_id>1033844</parent_id>
+
+		<subject>Fines and EOL - correction</subject>
+
+		<date_time>2001-05-24 12:30:55</date_time>
+
+		<content>
+
+[DUPLICATE]
+
+Fines:
+
+
+
+I know you have talked with Phillip but I wanted to give my two cents.  I think the fines are a great idea. We must be accountable for VAR.  However the fines do not allow the desks to push the envelope.  The desks need to stay a couple million under VAR to protect against volatility and factor changes.  We do not have the tools to predict our VAR with any strong degree of accuracy but we are penalized for going over a few hundred thousand dollars.  I propose a one day grace period of 10% to 12% over limit.  This would allow the desks to max their VAR and protect against unexpected changes.
+
+
+
+EOL:
+
+
+
+We continue to have trouble with brokers not working our EOL numbers.
+
+
+
+We believe Dynegy created a program to mirror our cash markets on their system. When we suspend, they suspend and as our markets move, so do theirs.
+
+
+
+</content>
+
+	</row>
+
+	<row>
+
+		<thread_id>86</thread_id>
+
+		<depth>1</depth>
+
+		<type>ThreadNode</type>
+
+		<message_id>286575</message_id>
+
+	<to name="Hunter S Shively" id="43716" address="Hunter.S.Shively@ENRON.com"/>
+
+	<from name="John Lavorato" id="2273" address="John.J.Lavorato@ENRON.com"/>
+
+	<to name="Hunter S Shively" id="43716" address="hshivel@enron.com"/>
+
+	<from name="John Lavorato" id="2273" address="JLAVORA@ENRON.com"/>
+
+		<parent_id>1033844</parent_id>
+
+		<subject>Fines and EOL</subject>
+
+		<date_time>2001-05-24 15:48:51</date_time>
+
+		<content>
+
+M3.1. Call me about the dynegy thing I have an idea. [Y]
+
+[Inform: John has an idea about the Dynegy program]
+
+Blink1.13
+
+
+
+</content>
+
+	</row>
+
+	</custom>
+
+
+Hierarchical Power Annotation: N/A
+Person_1: 
+Person_2: 
+Reason: 
+
+Situational Power Annotation: N/A
+Person_1: 
+Person_2: 
+Reason: 
+
+Attempt at Exercising Power Annotation:
+DFUs: M3.1
+Person_1: John Lavorato
+Person_2: Hunter S Shively
+Type: Situational
+Successful?: No Reply
+Reason: John asks Hunter to call him to discuss the Dynegy program.
+
+Influence Annotation:
+Person_1: Hunter S Shively
+Person_2: John Lavorato
+Reason: Hunter attempts to convince John of his views on fines and Enron Online in message 1, and in message 3, John expresses interest in discussing something Hunter mentioned, showing that Hunter has credibility.
+
+Attempt at Influence Annotation:
+DFUs: M1.2-M1.10
+Person_1: Hunter S Shively
+Person_2: John Lavorato
+Successful?: N
+Reason: Hunter’s opinion about fines is ignored in message 3 from John, who only mentions the Dynegy program.
+
+

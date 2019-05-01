@@ -1,0 +1,1163 @@
+2542
+Annotation for intention:
+
+Social: jokes about booking a flight, being a fink
+
+Annotation for control:
+Michelle Nelson: Michelle initiates the thread, starts the discussion about her flight to Pakistan, and initiates the name-calling. 
+
+
+
+<xml>
+
+<message>
+
+
+
+	<thread_id>2542</thread_id>
+
+
+
+	<depth>0</depth>
+
+
+
+	<type>ThreadNode</type>
+
+
+
+	<message_id>1300350</message_id>
+
+	<to name="Mike Maggi" id="3774" address="Mike.Maggi@ENRON.com"/>
+
+	<from name="Michelle Nelson" id="81118" address="Michelle.Nelson@ENRON.com"/>
+
+	<to name="Mike Maggi" id="3774" address="mmaggi@enron.com"/>
+
+	<from name="Michelle Nelson" id="81118" address="MNELSON3@ENRON.com"/>
+
+
+
+	<parent_id></parent_id>
+
+
+
+	<subject></subject>
+
+
+
+	<date_time>2001-11-21 12:17:03</date_time>
+
+
+
+	<content>
+
+    
+
+M1.1. did you book my flight to pakistan?
+
+[Request-Information: did Mike book Michelle's flight to Pakistan]
+
+Flink1.1
+
+M1.2. i am thinking that i need to be leaving soon.  like tomorrow.
+
+[Inform: Michelle needs to leave ASAP]
+
+
+
+	</content>
+
+</message>
+
+<message>
+
+
+
+	<thread_id>2542</thread_id>
+
+
+
+	<depth>1</depth>
+
+
+
+	<type>ThreadNodeBubble</type>
+
+
+
+	<message_id>2001058</message_id>
+
+
+
+	<parent_id>1300350</parent_id>
+
+
+
+	<subject></subject>
+
+
+
+	<date_time>2001-11-21 12:18:29</date_time>
+
+
+
+	<content>
+
+    
+
+M2.1. nope ny
+
+[Inform: Mike makes a joke about not booking the flight yet]
+
+Blink1.1
+
+Sflink2.1
+
+
+
+	</content>
+
+</message>
+
+<message>
+
+
+
+	<thread_id>2542</thread_id>
+
+
+
+	<depth>2</depth>
+
+
+
+	<type>ThreadNode</type>
+
+
+
+	<message_id>1300352</message_id>
+
+	<to name="Mike Maggi" id="3774" address="Mike.Maggi@ENRON.com"/>
+
+	<from name="Michelle Nelson" id="81118" address="Michelle.Nelson@ENRON.com"/>
+
+	<to name="Mike Maggi" id="3774" address="mmaggi@enron.com"/>
+
+	<from name="Michelle Nelson" id="81118" address="MNELSON3@ENRON.com"/>
+
+
+
+	<parent_id>2001058</parent_id>
+
+
+
+	<subject></subject>
+
+
+
+	<date_time>2001-11-21 12:19:56</date_time>
+
+
+
+	<content>
+
+    
+
+M3.1. very funny.
+
+[Inform: Michelle is not amused by the joke]
+
+Blink2.1
+
+M3.2. so when are we leaving?
+
+[Request-Information: when is Michelle leaving]
+
+Flink3.2
+
+
+
+	</content>
+
+</message>
+
+<message>
+
+
+
+	<thread_id>2542</thread_id>
+
+
+
+	<depth>3</depth>
+
+
+
+	<type>ThreadNodeBubble</type>
+
+
+
+	<message_id>2001059</message_id>
+
+
+
+	<parent_id>1300352</parent_id>
+
+
+
+	<subject></subject>
+
+
+
+	<date_time>2001-11-21 12:20:15</date_time>
+
+
+
+	<content>
+
+    
+
+M4.1. next thursday
+
+[Inform: Michelle is leaving next Thursday]
+
+Blink3.2
+
+Sflink4.1
+
+
+
+	</content>
+
+</message>
+
+<message>
+
+
+
+	<thread_id>2542</thread_id>
+
+
+
+	<depth>4</depth>
+
+
+
+	<type>ThreadNode</type>
+
+
+
+	<message_id>1300353</message_id>
+
+	<to name="Mike Maggi" id="3774" address="Mike.Maggi@ENRON.com"/>
+
+	<from name="Michelle Nelson" id="81118" address="Michelle.Nelson@ENRON.com"/>
+
+	<to name="Mike Maggi" id="3774" address="mmaggi@enron.com"/>
+
+	<from name="Michelle Nelson" id="81118" address="MNELSON3@ENRON.com"/>
+
+
+
+	<parent_id>2001059</parent_id>
+
+
+
+	<subject></subject>
+
+
+
+	<date_time>2001-11-21 12:20:35</date_time>
+
+
+
+	<content>
+
+    
+
+M5.1. for how long?
+
+[Request-Information: what is the duration of Michelle's trip to Pakistan]
+
+Blink4.1
+
+Flink5.1
+
+
+
+	</content>
+
+</message>
+
+<message>
+
+
+
+	<thread_id>2542</thread_id>
+
+
+
+	<depth>5</depth>
+
+
+
+	<type>ThreadNodeBubble</type>
+
+
+
+	<message_id>2001060</message_id>
+
+
+
+	<parent_id>1300353</parent_id>
+
+
+
+	<subject></subject>
+
+
+
+	<date_time>2001-11-21 12:22:14</date_time>
+
+
+
+	<content>
+
+    
+
+M6.1. til sunday
+
+[Inform: Michelle will be there until Sunday]
+
+Blink5.1
+
+
+
+	</content>
+
+</message>
+
+<message>
+
+
+
+	<thread_id>2542</thread_id>
+
+
+
+	<depth>6</depth>
+
+
+
+	<type>ThreadNode</type>
+
+
+
+	<message_id>1300357</message_id>
+
+	<to name="Mike Maggi" id="3774" address="Mike.Maggi@ENRON.com"/>
+
+	<from name="Michelle Nelson" id="81118" address="Michelle.Nelson@ENRON.com"/>
+
+	<to name="Mike Maggi" id="3774" address="mmaggi@enron.com"/>
+
+	<from name="Michelle Nelson" id="81118" address="MNELSON3@ENRON.com"/>
+
+
+
+	<parent_id>2001060</parent_id>
+
+
+
+	<subject></subject>
+
+
+
+	<date_time>2001-11-21 12:23:54</date_time>
+
+
+
+	<content>
+
+    
+
+M7.1. you're a trouble maker.  aren't you?
+
+[Inform: Michelle thinks Mike is a trouble maker]
+
+
+
+	</content>
+
+</message>
+
+<message>
+
+
+
+	<thread_id>2542</thread_id>
+
+
+
+	<depth>6</depth>
+
+
+
+	<type>ThreadNode</type>
+
+
+
+	<message_id>1300354</message_id>
+
+	<to name="Mike Maggi" id="3774" address="Mike.Maggi@ENRON.com"/>
+
+	<from name="Michelle Nelson" id="81118" address="Michelle.Nelson@ENRON.com"/>
+
+	<to name="Mike Maggi" id="3774" address="mmaggi@enron.com"/>
+
+	<from name="Michelle Nelson" id="81118" address="MNELSON3@ENRON.com"/>
+
+
+
+	<parent_id>2001060</parent_id>
+
+
+
+	<subject></subject>
+
+
+
+	<date_time>2001-11-21 12:23:24</date_time>
+
+
+
+	<content>
+
+    
+
+M8.1. and how do you suggest that i manage that?
+
+[Request-Information: how should Michelle manage the trip to Pakistan]
+
+Flink8.1
+
+
+
+	</content>
+
+</message>
+
+<message>
+
+
+
+	<thread_id>2542</thread_id>
+
+
+
+	<depth>7</depth>
+
+
+
+	<type>ThreadNodeBubble</type>
+
+
+
+	<message_id>2001061</message_id>
+
+
+
+	<parent_id>1300354</parent_id>
+
+
+
+	<subject></subject>
+
+
+
+	<date_time>2001-11-21 12:23:51</date_time>
+
+
+
+	<content>
+
+    
+
+M9.1. you have to go for work
+
+[Inform: Michelle has to go for work]
+
+Blink8.1
+
+Sflink9.1
+
+
+
+	</content>
+
+</message>
+
+<message>
+
+
+
+	<thread_id>2542</thread_id>
+
+
+
+	<depth>8</depth>
+
+
+
+	<type>ThreadNode</type>
+
+
+
+	<message_id>1300355</message_id>
+
+	<to name="Mike Maggi" id="3774" address="Mike.Maggi@ENRON.com"/>
+
+	<from name="Michelle Nelson" id="81118" address="Michelle.Nelson@ENRON.com"/>
+
+	<to name="Mike Maggi" id="3774" address="mmaggi@enron.com"/>
+
+	<from name="Michelle Nelson" id="81118" address="MNELSON3@ENRON.com"/>
+
+
+
+	<parent_id>2001061</parent_id>
+
+
+
+	<subject></subject>
+
+
+
+	<date_time>2001-11-21 12:24:18</date_time>
+
+
+
+	<content>
+
+    
+
+M10.1. i see.
+
+[Inform: Michelle understands]
+
+Blink9.1
+
+M10.2. and where do i tell fred and ny that i am going?
+
+[Request-Information: where should Michelle tell Fred and NY that she is going]
+
+Flink10.2
+
+
+
+	</content>
+
+</message>
+
+<message>
+
+
+
+	<thread_id>2542</thread_id>
+
+
+
+	<depth>10</depth>
+
+
+
+	<type>ThreadNode</type>
+
+
+
+	<message_id>1300356</message_id>
+
+	<to name="Mike Maggi" id="3774" address="Mike.Maggi@ENRON.com"/>
+
+	<from name="Michelle Nelson" id="81118" address="Michelle.Nelson@ENRON.com"/>
+
+	<to name="Mike Maggi" id="3774" address="mmaggi@enron.com"/>
+
+	<from name="Michelle Nelson" id="81118" address="MNELSON3@ENRON.com"/>
+
+
+
+	<parent_id></parent_id>
+
+
+
+	<subject></subject>
+
+
+
+	<date_time>2001-11-21 12:33:25</date_time>
+
+
+
+	<content>
+
+    
+
+M11.1. you have all the answers don't you?
+
+[Request-Information: doesn't Mike have all the answers]
+
+Flink11.1
+
+M11.2. don't you think that someone will figure out your little plan?
+
+[Request-Information: doesnt't Mike think that his plan will be foiled]
+
+Flink11.2
+
+M11.3. oh and thanks for coming down here and giving me some news.....fink
+
+[Inform: Michelle thinks Mike is a fink for not coming to give her any news]
+
+Sflink11.3
+
+
+
+	</content>
+
+</message>
+
+<message>
+
+
+
+	<thread_id>2542</thread_id>
+
+
+
+	<depth>11</depth>
+
+
+
+	<type>ThreadNodeBubble</type>
+
+
+
+	<message_id>2001062</message_id>
+
+
+
+	<parent_id>1300356</parent_id>
+
+
+
+	<subject></subject>
+
+
+
+	<date_time>2001-11-21 12:34:12</date_time>
+
+
+
+	<content>
+
+    
+
+M12.1. i know im all talk, ill be down in a little while
+
+[Inform: Mike jokes about being "all talk," and will be down to talk to Michelle soon]
+
+Blink11.3
+
+Sflink12.1
+
+
+
+	</content>
+
+</message>
+
+<message>
+
+
+
+	<thread_id>2542</thread_id>
+
+
+
+	<depth>12</depth>
+
+
+
+	<type>ThreadNode</type>
+
+
+
+	<message_id>1300359</message_id>
+
+	<to name="Mike Maggi" id="3774" address="Mike.Maggi@ENRON.com"/>
+
+	<from name="Michelle Nelson" id="81118" address="Michelle.Nelson@ENRON.com"/>
+
+	<to name="Mike Maggi" id="3774" address="mmaggi@enron.com"/>
+
+	<from name="Michelle Nelson" id="81118" address="MNELSON3@ENRON.com"/>
+
+
+
+	<parent_id>2001062</parent_id>
+
+
+
+	<subject></subject>
+
+
+
+	<date_time>2001-11-21 12:35:00</date_time>
+
+
+
+	<content>
+
+    
+
+M13.1. you are all talk.  and you are a fink.
+
+[Inform: Michelle agrees that Mike is all talk, and thinks Mike is a fink]
+
+Blink12.1
+
+Sflink13.1
+
+
+
+	</content>
+
+</message>
+
+<message>
+
+
+
+	<thread_id>2542</thread_id>
+
+
+
+	<depth>13</depth>
+
+
+
+	<type>ThreadNodeBubble</type>
+
+
+
+	<message_id>2001063</message_id>
+
+
+
+	<parent_id>1300359</parent_id>
+
+
+
+	<subject></subject>
+
+
+
+	<date_time>2001-11-21 12:38:18</date_time>
+
+
+
+	<content>
+
+    
+
+M14.1. why am i a fink
+
+[Request-Information: why is Mike a fink]
+
+Blink13.1
+
+Flink14.1
+
+
+
+	</content>
+
+</message>
+
+<message>
+
+
+
+	<thread_id>2542</thread_id>
+
+
+
+	<depth>14</depth>
+
+
+
+	<type>ThreadNode</type>
+
+
+
+	<message_id>1300360</message_id>
+
+	<to name="Mike Maggi" id="3774" address="Mike.Maggi@ENRON.com"/>
+
+	<from name="Michelle Nelson" id="81118" address="Michelle.Nelson@ENRON.com"/>
+
+	<to name="Mike Maggi" id="3774" address="mmaggi@enron.com"/>
+
+	<from name="Michelle Nelson" id="81118" address="MNELSON3@ENRON.com"/>
+
+
+
+	<parent_id>2001063</parent_id>
+
+
+
+	<subject></subject>
+
+
+
+	<date_time>2001-11-21 12:41:37</date_time>
+
+
+
+	<content>
+
+    
+
+M15.1. you actually know what that is?
+
+M15.2. i'm impressed!
+
+[Inform: Michelle jokes about being impressed that Mike knows what a fink is]
+
+Blink14.1
+
+Sflink15.2
+
+
+
+	</content>
+
+</message>
+
+<message>
+
+
+
+	<thread_id>2542</thread_id>
+
+
+
+	<depth>15</depth>
+
+
+
+	<type>ThreadNodeBubble</type>
+
+
+
+	<message_id>2001064</message_id>
+
+
+
+	<parent_id>1300360</parent_id>
+
+
+
+	<subject></subject>
+
+
+
+	<date_time>2001-11-21 12:44:22</date_time>
+
+
+
+	<content>
+
+    
+
+M16.1. thats my goal
+
+[Inform: Mike's goal is to impress Michelle]
+
+Blink15.2
+
+Sflink16.1
+
+
+
+	</content>
+
+</message>
+
+<message>
+
+
+
+	<thread_id>2542</thread_id>
+
+
+
+	<depth>16</depth>
+
+
+
+	<type>ThreadNode</type>
+
+
+
+	<message_id>1300361</message_id>
+
+	<to name="Mike Maggi" id="3774" address="Mike.Maggi@ENRON.com"/>
+
+	<from name="Michelle Nelson" id="81118" address="Michelle.Nelson@ENRON.com"/>
+
+	<to name="Mike Maggi" id="3774" address="mmaggi@enron.com"/>
+
+	<from name="Michelle Nelson" id="81118" address="MNELSON3@ENRON.com"/>
+
+
+
+	<parent_id>2001064</parent_id>
+
+
+
+	<subject></subject>
+
+
+
+	<date_time>2001-11-21 12:47:08</date_time>
+
+
+
+	<content>
+
+    
+
+M17.1. whatever.
+
+[Inform: Michelle does not care]
+
+Blink16.1
+
+M17.2. so i was right about your puff break wasn't i?
+
+[Request-Information: was Michelle right about Mike's puff break]
+
+Flink17.2
+
+
+
+	</content>
+
+</message>
+
+<message>
+
+
+
+	<thread_id>2542</thread_id>
+
+
+
+	<depth>18</depth>
+
+
+
+	<type>ThreadNode</type>
+
+
+
+	<message_id>1300362</message_id>
+
+	<to name="Mike Maggi" id="3774" address="Mike.Maggi@ENRON.com"/>
+
+	<from name="Michelle Nelson" id="81118" address="Michelle.Nelson@ENRON.com"/>
+
+	<to name="Mike Maggi" id="3774" address="mmaggi@enron.com"/>
+
+	<from name="Michelle Nelson" id="81118" address="MNELSON3@ENRON.com"/>
+
+
+
+	<parent_id></parent_id>
+
+
+
+	<subject></subject>
+
+
+
+	<date_time>2001-11-21 12:58:32</date_time>
+
+
+
+	<content>
+
+    
+
+M18.1. hmm.
+
+[NoDA]
+
+M18.2. i think that you are lying.
+
+[Inform: Michelle thinks Mike is lying]
+
+Sflink18.2
+
+
+
+	</content>
+
+</message>
+
+<message>
+
+
+
+	<thread_id>2542</thread_id>
+
+
+
+	<depth>19</depth>
+
+
+
+	<type>ThreadNodeBubble</type>
+
+
+
+	<message_id>2001065</message_id>
+
+
+
+	<parent_id>1300362</parent_id>
+
+
+
+	<subject></subject>
+
+
+
+	<date_time>2001-11-21 13:00:23</date_time>
+
+
+
+	<content>
+
+    
+
+M19.1. i would never
+
+[Inform: Mike would never lie]
+
+Blink18.2
+
+Sflink19.1
+
+
+
+	</content>
+
+</message>
+
+<message>
+
+
+
+	<thread_id>2542</thread_id>
+
+
+
+	<depth>20</depth>
+
+
+
+	<type>ThreadNode</type>
+
+
+
+	<message_id>1300368</message_id>
+
+	<to name="Mike Maggi" id="3774" address="Mike.Maggi@ENRON.com"/>
+
+	<from name="Michelle Nelson" id="81118" address="Michelle.Nelson@ENRON.com"/>
+
+	<to name="Mike Maggi" id="3774" address="mmaggi@enron.com"/>
+
+	<from name="Michelle Nelson" id="81118" address="MNELSON3@ENRON.com"/>
+
+
+
+	<parent_id>2001065</parent_id>
+
+
+
+	<subject></subject>
+
+
+
+	<date_time>2001-11-21 13:02:14</date_time>
+
+
+
+	<content>
+
+    
+
+M20.1. are you sure about that?
+
+[Request-Information: is Mike sure about never lying]
+
+Blink19.1
+
+Flink20.1
+
+M20.2 i am bored.
+
+[Inform: Michelle is bored]
+
+
+
+	</content>
+
+</message>
+
+</xml>
+
+Hierarchical Power Annotation: N/A
+Person_1:
+Person_2: 
+Reason: 
+
+Situational Power Annotation:
+Person_1: Michelle Nelson
+Person_2: Mike Maggi
+Reason: From messages 1-6 it appears that Michelle has asked Mike to book a flight for her.
+
+Attempt at Exercising Power Annotation: N/A
+DFUs: 
+Person_1:
+Person_2:
+Type:
+Successful?:
+Reason: 
+
+Influence Annotation: N/A
+Person_1:
+Person_2:
+Reason:
+
+Attempt at Influence Annotation: N/A
+DFUs: 
+Person_1:
+Person_2:
+Successful?:
+Reason: 

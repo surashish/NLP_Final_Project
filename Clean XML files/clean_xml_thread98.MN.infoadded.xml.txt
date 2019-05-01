@@ -1,0 +1,213 @@
+<custom>
+
+	<row>
+
+		<thread_id>98</thread_id>
+
+		<depth>0</depth>
+
+		<type>ThreadNode</type>
+
+		<message_id>291435</message_id>
+
+	<to name="Chuck Ames" id="18735" address="Chuck.Ames@ENRON.com"/>
+
+	<to name="Bilal Bajwa" id="2119" address="Bilal.Bajwa@ENRON.com"/>
+
+	<to name="Russell Ballato" id="27055" address="Russell.Ballato@ENRON.com"/>
+
+	<to name="Steve Gim" id="3242" address="Steve.Gim@ENRON.com"/>
+
+	<to name="Mog Heu" id="11352" address="Mog.Heu@ENRON.com"/>
+
+	<to name="Juan Padron" id="40214" address="Juan.Padron@ENRON.com"/>
+
+	<to name="Vladi Pimenov" id="4769" address="Vladi.Pimenov@ENRON.com"/>
+
+	<to name="Denver Plachy" id="31147" address="Denver.Plachy@ENRON.com"/>
+
+	<to name="Paul Schiavone" id="89562" address="Schiavone.Paul@ENRON.com"/>
+
+	<to name="Elizabeth Shim" id="2456" address="Elizabeth.Shim@ENRON.com"/>
+
+	<to name="Vince J Kaminski" id="63574" address="Matt.Smith@ENRON.com"/>
+
+	<to name="Joseph Wagner" id="2153" address="Joseph.Wagner@ENRON.com"/>
+
+	<to name="Jason Wolfe" id="617" address="Jason.Wolfe@ENRON.com"/>
+
+	<to name="Virawan Yawapongsiri" id="117805" address="Virawan.Yawapongsiri@ENRON.com"/>
+
+	<from name="Karen Buckley" id="17792" address="Karen.Buckley@ENRON.com"/>
+
+	<to name="Chuck Ames" id="18735" address="Cames@ENRON.com"/>
+
+	<to name="Bilal Bajwa" id="2119" address="Bbajwa@ENRON.com"/>
+
+	<to name="Russell Ballato" id="27055" address="Rballato@ENRON.com"/>
+
+	<to name="Steve Gim" id="3242" address="86e09235-60cf1e4e-8625692f-69b1b7@ENRON.com"/>
+
+	<to name="Mog Heu" id="11352" address="b5b64a78-ae842218-86256923-734572@ENRON.com"/>
+
+	<to name="Juan Padron" id="40214" address="Jpadron@ENRON.com"/>
+
+	<to name="Vladi Pimenov" id="4769" address="vpimenov@enron.com"/>
+
+	<to name="Denver Plachy" id="31147" address="Dplachy@ENRON.com"/>
+
+	<to name="Paul Schiavone" id="89562" address="Pschiavo@ENRON.com"/>
+
+	<to name="Elizabeth Shim" id="2456" address="eshim@enron.com"/>
+
+	<to name="Vince J Kaminski" id="63574" address="msmith18@enron.com"/>
+
+	<to name="Joseph Wagner" id="2153" address="Jwagner2@ENRON.com"/>
+
+	<to name="Jason Wolfe" id="617" address="Jwolfe@ENRON.com"/>
+
+	<to name="Virawan Yawapongsiri" id="117805" address="Vyawapon@ENRON.com"/>
+
+	<from name="Karen Buckley" id="17792" address="Kbuckley@ENRON.com"/>
+
+		<parent_id>NULL</parent_id>
+
+		<subject>Help!</subject>
+
+		<date_time>2001-05-25 14:46:54</date_time>
+
+		<content>
+
+M1.1. Folks,
+
+[Conventional: salutation]
+
+
+
+M1.2. can ye guys confirm if you can attend lunch
+
+M1.3. and also I still need 2 people for the office visit!. [Y]
+
+[Request-Information: whether recipients can attend lunch/office visit]
+
+Flink1.3
+
+
+
+M1.4. Your time is appreciated.
+
+[Inform: their time is appreciated]
+
+
+
+M1.5. Thx.
+
+[Conventional: thanks]
+
+
+
+M1.6. Karen
+
+M1.7. x54667.
+
+[Conventional: signature + ext. number]
+
+
+
+</content>
+
+	</row>
+
+	<row>
+
+		<thread_id>98</thread_id>
+
+		<depth>1</depth>
+
+		<type>ThreadNodeBubble</type>
+
+		<message_id>2000030</message_id>
+
+		<parent_id>291435</parent_id>
+
+		<subject>Help!</subject>
+
+		<date_time>2001-05-25 17:20:23</date_time>
+
+		<content>
+
+M2.1. Karen,
+
+[Conventional: salutation]
+
+M2.2. Sorry but lunch will be impossible.
+
+[Inform: Jason cannot attend lunch]
+
+Blink1.3
+
+M2.3. That week is bid week;
+
+M2.4. also I will
+
+be covering for someone else who somehow got approved for vacation during
+
+this busy time.
+
+[Inform: it is bid week & Jason will be covering for someone]
+
+Sflink2.4
+
+M2.5. Jason Wolfe
+
+[Conventional: signature]
+
+
+
+</content>
+
+	</row>
+
+	<row>
+
+		<thread_id>98</thread_id>
+
+		<depth>2</depth>
+
+		<type>ThreadNode</type>
+
+		<message_id>291437</message_id>
+
+	<to name="Jason Wolfe" id="617" address="Jason.Wolfe@ENRON.com"/>
+
+	<from name="Karen Buckley" id="17792" address="Karen.Buckley@ENRON.com"/>
+
+	<to name="Jason Wolfe" id="617" address="Jwolfe@ENRON.com"/>
+
+	<from name="Karen Buckley" id="17792" address="Kbuckley@ENRON.com"/>
+
+		<parent_id>2000030</parent_id>
+
+		<subject>Help!</subject>
+
+		<date_time>2001-05-25 19:53:53</date_time>
+
+		<content>
+
+M3.1. vacation?? what is that...
+
+[Inform: joke about not knowing what vacation is]
+
+Blink2.4
+
+M3.2. Thanks for update.
+
+[Conventional: thanks]
+
+
+
+</content>
+
+	</row>
+
+	</custom>

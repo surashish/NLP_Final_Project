@@ -1,0 +1,263 @@
+142489train
+Annotation for intention:
+
+Knowledge-Acquisition: Rick out of the office to play golf for charity, and locations of contracts for bankers
+
+Annotation for control:
+Rick Dietz: Rick initiates the thread and tells Shelley Corman about his absence from work and where the contracts she needs are.
+
+
+
+<xml>
+
+<message>
+
+
+
+	<thread_id>142489</thread_id>
+
+
+
+	<depth>0</depth>
+
+
+
+	<type>ThreadNode</type>
+
+
+
+	<message_id>1118651</message_id>
+
+	<to name="Shelley Corman" id="102777" address="Shelley.Corman@ENRON.com"/>
+
+	<from name="Rick Dietz" id="4682" address="rick.dietz@kingwoodcable.com"/>
+
+	<cc name="Alma Carrillo" id="5389" address="Alma.Carrillo@ENRON.com"/>
+
+	<to name="Shelley Corman" id="102777" address="scorman@enron.com"/>
+
+	<cc name="Alma Carrillo" id="5389" address="Acarril@ENRON.com"/>
+
+
+
+	<parent_id></parent_id>
+
+
+
+	<subject>Out of Office - Monday morning</subject>
+
+
+
+	<date_time>2001-10-28 21:32:41</date_time>
+
+
+
+	<content>
+
+    
+
+M1.1. Shelley,
+
+[Conventional: signature]
+
+M1.2. I will be out of the office tomorrow morning participating in a charity golf tournament sponsored by EDS at South Shore Harbor.
+
+[Inform: Rick will be out of the office tomorrow to play in a charity golf tournament]
+
+M1.3. Mark Giglotti, Jeannie Licciardo, Don Stacy and I are playing together.
+
+[Inform: three others who are also playing]
+
+M1.4. I know the timing may be bad because of the financial project we have been preparing but the charitable contribution to play was quite generous and I do not want to back out of my commitment to the other team members.
+
+[Inform: despite bad timing, Rick made a commitment to team, and charitable contribution is significant]
+
+M1.5. HOWEVER, IF YOU NEED ME FOR ANY REASON, PLEASE PAGE ME AT 1(800) 609-6967 OR CALL MY CELL PHONE AT (713) 569-4140.
+
+[Inform: pager and cell numbers, if Shelley needs to contact Rick]
+
+M1.6. ALMA WILL ALSO KNOW HOW TO GET A HOLD OF ME.
+
+[Inform: Alma will also know how to get in touch with Rick]
+
+M1.7. I will only be 45 minutes away and will be able to come straight into the office, if needed.
+
+[Inform: Rick will only be 45 minutes away and can come into the office if necessary]
+
+M1.8. I will check in during the day with Linda Trevino, as she will be sitting in for me at your staff meeting.
+
+[Inform: Rick will check in with Linda, who will sit in for Rick at the staff meeting]
+
+M1.9. Rick
+
+[Conventional: signature]
+
+
+
+	</content>
+
+</message>
+
+<message>
+
+
+
+	<thread_id>142489</thread_id>
+
+
+
+	<depth>1</depth>
+
+
+
+	<type>ThreadNode</type>
+
+
+
+	<message_id>1120078</message_id>
+
+	<to name="Rick Dietz" id="4682" address="rick.dietz@kingwoodcable.com"/>
+
+	<from name="Shelley Corman" id="102777" address="scorman@enron.com"/>
+
+
+
+	<parent_id>1118651</parent_id>
+
+
+
+	<subject>Out of Office - Monday morning</subject>
+
+
+
+	<date_time>2001-10-28 22:18:04</date_time>
+
+
+
+	<content>
+
+    
+
+M2.1. Rick
+
+[Conventional: salutation]
+
+M2.2. I have a number of contracts that the bankers want early tomorrow.
+
+[Inform: Shelley has some contracts that bankers want early tomorrow]
+
+Sflink2.2
+
+M2.3. I am assuming Elizabeth will be in to help me?
+
+[Request-Information: will Elizabeth be in to help Shelley]
+
+Flink2.3
+
+
+
+	</content>
+
+</message>
+
+<message>
+
+
+
+	<thread_id>142489</thread_id>
+
+
+
+	<depth>2</depth>
+
+
+
+	<type>ThreadNode</type>
+
+
+
+	<message_id>1118647</message_id>
+
+	<to name="Shelley Corman" id="102777" address="Shelley.Corman@ENRON.com"/>
+
+	<from name="Rick Dietz" id="4682" address="rick.dietz@kingwoodcable.com"/>
+
+	<to name="Shelley Corman" id="102777" address="scorman@enron.com"/>
+
+
+
+	<parent_id>1120078</parent_id>
+
+
+
+	<subject>Out of Office - Monday morning</subject>
+
+
+
+	<date_time>2001-10-28 23:27:30</date_time>
+
+
+
+	<content>
+
+    
+
+M3.1. Elizabeth will be in.
+
+[Inform: Elizabeth will be in]
+
+Blink2.3
+
+M3.2. Also, Linda Trevino will be in the office.
+
+[Inform: Linda will also be in]
+
+M3.3. All
+
+contracts are in Envision as well as in the file room on 39.
+
+[Inform: locations of contracts]
+
+Blink2.2
+
+M3.4. If you need me to be there, just let me know.
+
+[Inform: Shelley should tell Rick if she needs him to be there]
+
+
+
+	</content>
+
+</message>
+
+</xml>
+
+Hierarchical Power Annotation:
+Person_1: Rick Dietz
+Person_2: Alma Carrillo
+Reason: In M1.6, Rick tells Shelley Corman that Alma knows how to get in touch with him, suggesting that Alma is his assistant or secretary.
+
+Situational Power Annotation:
+Person_1: Rick Dietz
+Person_2: Shelley Corman
+Reason: In message 2, Shelley mentions that she needs help preparing contracts, and in message 3, Rick tells her who can help and where the contracts are.
+
+Attempt at Exercising Power Annotation: N/A
+DFUs: 
+Person_1:
+Person_2:
+Type:
+Successful?:
+Reason: 
+
+Influence Annotation: N/A
+Person_1:
+Person_2:
+Reason:
+
+Attempt at Influence Annotation: N/A
+DFUs: 
+Person_1:
+Person_2:
+Successful?:
+Reason: 

@@ -1,0 +1,365 @@
+154862train
+Annotation for intention:
+
+Knowledge-Acquisition: presentation of an NYU professor's paper at Rice U seminar
+
+Annotation for control:
+Albert Wang: Albert (Fu-Kuo) initiates the thread and sends out the initial notice about the professor's talk at Rice.
+
+
+
+<xml>
+
+<message>
+
+
+
+	<thread_id>154862</thread_id>
+
+
+
+	<depth>0</depth>
+
+
+
+	<type>ThreadNode</type>
+
+
+
+	<message_id>1316868</message_id>
+
+	<from name="Albert Wang" id="6974" address="wangfa@rice.edu"/>
+
+	<to name="Enron" id="3828" address="??S@ENRON.com"/>
+
+
+
+	<parent_id></parent_id>
+
+
+
+	<subject>Jennifer Carpenter at Rice Seminar</subject>
+
+
+
+	<date_time>2001-11-20 18:02:23</date_time>
+
+
+
+	<content>
+
+    
+
+M1.1. Rice/Enron Finance Seminar Participants:
+
+[Conventional: salutation]
+
+M1.2. Jennifer Carpenter from New York University will present a paper co-authored with Viral V. Acharya, entitled "Corporate Bond Valuation and Hedging with Stochastic Interest Rates and Endogenous Bankruptcy," at 3:00pm on Friday, November 30 in Room 115.
+
+[Inform: presenter, authors, title, time, date, and location of a paper presentation]
+
+M1.3. The full text of the paper is available in PDF form on the seminar website:http://www.ruf.rice.edu/~jgsfss
+
+[Inform: website where full text of paper can be found]
+
+M1.4. Please note that this seminar will begin at 3:00pm and close at 4:30pm.
+
+[Inform: start and end time of seminar]
+
+M1.5. Albert
+
+M1.6. Fu-Kuo Albert Wang
+
+M1.7. Assistant Professor
+
+[Conventional: signature]
+
+M1.8. Jones Graduate School of Management -- MS 531
+
+M1.9. Rice University
+
+M1.10. 6100 Main Street
+
+M1.11. Houston, TX 77005
+
+M1.12. Phone: 713-348-5404
+
+M1.13. Fax:     713-348-5251
+
+M1.14. email: wangfa@rice.eduhttp ://www.ruf.rice.edu/~wangfa/
+
+[Inform: Albert's contact information]
+
+
+
+	</content>
+
+</message>
+
+<message>
+
+
+
+	<thread_id>154862</thread_id>
+
+
+
+	<depth>1</depth>
+
+
+
+	<type>ThreadNode</type>
+
+
+
+	<message_id>1316839</message_id>
+
+	<to name="Adam Stevens" id="5676" address="adam.stevens@ENRON.com"/>
+
+	<to name="Alex Huang" id="6471" address="Alex.Huang@ENRON.com"/>
+
+	<to name="Amitava Dhar" id="5806" address="Amitava.Dhar@ENRON.com"/>
+
+	<to name="Anguel Grigorov" id="3617" address="96802bb2-dfcbdcf-62569f3-760865@ENRON.com"/>
+
+	<to name="Anita Dupont" id="5946" address="Anita.Dupont@ENRON.com"/>
+
+	<to name="Bob Lee" id="3082" address="Bob.Lee@ENRON.com"/>
+
+	<to name="Chonawee Supatgiat" id="22022" address="Chonawee.Supatgiat@ENRON.com"/>
+
+	<to name="Christopher Pernoud" id="22730" address="Christopher.Pernoud@ENRON.com"/>
+
+	<to name="Gwyn Koepke" id="3358" address="Gwyn.Koepke@ENRON.com"/>
+
+	<to name="Heather A Johnson" id="47711" address="Heather.A.Johnson@ENRON.com"/>
+
+	<to name="Jaesoo Lew" id="51367" address="Jaesoo.Lew@ENRON.com"/>
+
+	<to name="Jason Sokolov" id="3524" address="Jason.Sokolov@ENRON.com"/>
+
+	<to name="Jose Marquez" id="57898" address="Jose.Marquez@ENRON.com"/>
+
+	<to name="Joseph Hrgovcic" id="49270" address="Joseph.Hrgovcic@ENRON.com"/>
+
+	<to name="Karthik Rajan" id="63996" address="Karthik.Rajan@ENRON.com"/>
+
+	<to name="Kenneth Deng" id="4662" address="Kenneth.Deng@ENRON.com"/>
+
+	<to name="Kevin G Moore" id="66041" address="Kevin.G.Moore@ENRON.com"/>
+
+	<to name="Lance Cunningham" id="26142" address="Lance.Cunningham@ENRON.com"/>
+
+	<to name="Leann Walton" id="70659" address="Leann.Walton@ENRON.com"/>
+
+	<to name="Thomas A Martin" id="71768" address="Martin.Lin@ENRON.com"/>
+
+	<to name="Maureen Raymond" id="1018" address="2f8299ae-a8734e37-862566f0-607822@ENRON.com"/>
+
+	<to name="Mauricio Mora" id="77750" address="Mauricio.Mora@ENRON.com"/>
+
+	<to name="Mike A Roberts" id="1206" address="Mike.A.Roberts@ENRON.com"/>
+
+	<to name="Mitra Mujica" id="82106" address="mitra.mujica@ENRON.com"/>
+
+	<to name="Nelson Neale" id="85821" address="Nelson.Neale@ENRON.com"/>
+
+	<to name="Osman Sezgen" id="3024" address="83767d9d-d5331472-8625670b-7589c0@ENRON.com"/>
+
+	<to name="Paulo Issler" id="89761" address="Paulo.Issler@ENRON.com"/>
+
+	<to name="Pinnamaneni Krishnarao" id="91386" address="Pinnamaneni.Krishnarao@ENRON.com"/>
+
+	<to name="Pravas Sud" id="92383" address="Pravas.Sud@ENRON.com"/>
+
+	<to name="Praveen Mellacheruvu" id="40626" address="fce65a72-c0578f92-86256938-6b6745@ENRON.com"/>
+
+	<to name="Rabi De" id="30294" address="Rabi.De@ENRON.com"/>
+
+	<to name="Rakesh Bharati" id="93753" address="Rakesh.Bharati@ENRON.com"/>
+
+	<to name="Sandeep Kohli" id="67858" address="Sandeep.Kohli@ENRON.com"/>
+
+	<to name="Sarah Wooddy" id="101959" address="Sarah.Wooddy@ENRON.com"/>
+
+	<to name="Seksan Kiatsupaibul" id="18434" address="c7096938-c8aec0a1-86256989-579631@ENRON.com"/>
+
+	<to name="Sevil Yaman" id="103871" address="Sevil.Yaman@ENRON.com"/>
+
+	<to name="Shalesh Ganjoo" id="42676" address="Shalesh_Ganjoo@ENRON.net"/>
+
+	<to name="Shane Green" id="3747" address="9be55af8-3b02e929-8625692a-4ac2db@ENRON.com"/>
+
+	<to name="Shravan Chopra" id="102621" address="shravan.chopra@ENRON.com"/>
+
+	<to name="Sofya Tamarchenko" id="106816" address="Sofya.Tamarchenko@ENRON.com"/>
+
+	<to name="Sriram Vasudevan" id="107441" address="Sriram.Vasudevan@ENRON.com"/>
+
+	<to name="Stephen Bennett" id="13176" address="Stephen.Bennett@ENRON.com"/>
+
+	<to name="Tanya Tamarchenko" id="111066" address="Tanya.Tamarchenko@ENRON.com"/>
+
+	<to name="Therese Candella" id="112968" address="Therese.Candella@ENRON.com"/>
+
+	<to name="Tom Barkley" id="1578" address="Tom.Barkley@ENRON.com"/>
+
+	<to name="Vasant Shanbhogue" id="104362" address="Vasant.Shanbhogue@ENRON.com"/>
+
+	<to name="Vince J Kaminski" id="63574" address="Vince.J.Kaminski@ENRON.com"/>
+
+	<to name="Wichai Narongwanich" id="2350" address="6697983d-91980209-862569cc-669d1c@ENRON.com"/>
+
+	<to name="William Smith" id="938" address="William.Smith@ENRON.com"/>
+
+	<to name="Zimin Lu" id="1393" address="Zimin.Lu@ENRON.com"/>
+
+	<from name="Shirley Crenshaw" id="25496" address="Shirley.Crenshaw@ENRON.com"/>
+
+	<to name="Adam Stevens" id="5676" address="Asteven3@ENRON.com"/>
+
+	<to name="Alex Huang" id="6471" address="Ahuang2@ENRON.com"/>
+
+	<to name="Amitava Dhar" id="5806" address="Adhar@ENRON.com"/>
+
+	<to name="Anita Dupont" id="5946" address="Adupont@ENRON.com"/>
+
+	<to name="Bob Lee" id="3082" address="Blee5@ENRON.com"/>
+
+	<to name="Chonawee Supatgiat" id="22022" address="Csupatg@ENRON.com"/>
+
+	<to name="Christopher Pernoud" id="22730" address="Cpernoud@ENRON.com"/>
+
+	<to name="Gwyn Koepke" id="3358" address="gkoepke@enron.com"/>
+
+	<to name="Heather A Johnson" id="47711" address="Hjohnso@ENRON.com"/>
+
+	<to name="Jaesoo Lew" id="51367" address="Jlew@ENRON.com"/>
+
+	<to name="Jason Sokolov" id="3524" address="Jsokolo@ENRON.com"/>
+
+	<to name="Jose Marquez" id="57898" address="Jmarque2@ENRON.com"/>
+
+	<to name="Joseph Hrgovcic" id="49270" address="Jhrgovc@ENRON.com"/>
+
+	<to name="Karthik Rajan" id="63996" address="Krajan@ENRON.com"/>
+
+	<to name="Kenneth Deng" id="4662" address="Kdeng@ENRON.com"/>
+
+	<to name="Kevin G Moore" id="66041" address="Kmoore2@ENRON.com"/>
+
+	<to name="Lance Cunningham" id="26142" address="LCUNNIN2@ENRON.com"/>
+
+	<to name="Leann Walton" id="70659" address="Lwalton2@ENRON.com"/>
+
+	<to name="Thomas A Martin" id="71768" address="Mlin@ENRON.com"/>
+
+	<to name="Mauricio Mora" id="77750" address="Mmora@ENRON.com"/>
+
+	<to name="Mike A Roberts" id="1206" address="mrobert@enron.com"/>
+
+	<to name="Mitra Mujica" id="82106" address="Mmujica@ENRON.com"/>
+
+	<to name="Nelson Neale" id="24203" address="Cneale@ENRON.com"/>
+
+	<to name="Paulo Issler" id="89761" address="pfissle@enron.com"/>
+
+	<to name="Pinnamaneni Krishnarao" id="91386" address="Pkrishn@ENRON.com"/>
+
+	<to name="Pravas Sud" id="92383" address="Psud@ENRON.com"/>
+
+	<to name="Rabi De" id="30294" address="Rde@ENRON.com"/>
+
+	<to name="Rakesh Bharati" id="93753" address="Rbharati@ENRON.com"/>
+
+	<to name="Sandeep Kohli" id="67858" address="Skohli2@ENRON.com"/>
+
+	<to name="Sarah Wooddy" id="101959" address="Swooddy@ENRON.com"/>
+
+	<to name="Sevil Yaman" id="103871" address="Syaman@ENRON.com"/>
+
+	<to name="Shalesh Ganjoo" id="42676" address="Shalesh_ganjoo@ENRON.com"/>
+
+	<to name="Shravan Chopra" id="102621" address="Schopra@ENRON.com"/>
+
+	<to name="Sofya Tamarchenko" id="106816" address="Stamarch@ENRON.com"/>
+
+	<to name="Sriram Vasudevan" id="107441" address="Svasudev@ENRON.com"/>
+
+	<to name="Stephen Bennett" id="13176" address="Sbennet3@ENRON.com"/>
+
+	<to name="Tanya Tamarchenko" id="111066" address="Ttamarc@ENRON.com"/>
+
+	<to name="Therese Candella" id="112968" address="Therese_candella@ENRON.com"/>
+
+	<to name="Tom Barkley" id="1578" address="Tbarkley@ENRON.com"/>
+
+	<to name="Vasant Shanbhogue" id="104362" address="Vshanbh@ENRON.com"/>
+
+	<to name="Vince J Kaminski" id="63574" address="vkamins@enron.com"/>
+
+	<to name="William Smith" id="938" address="Wsmith2@ENRON.com"/>
+
+	<to name="Zimin Lu" id="1393" address="Zlu@ENRON.com"/>
+
+	<from name="Shirley Crenshaw" id="26895" address="scrensh@enron.com"/>
+
+
+
+	<parent_id>1316868</parent_id>
+
+
+
+	<subject>Jennifer Carpenter at Rice Seminar</subject>
+
+
+
+	<date_time>2001-11-26 08:35:30</date_time>
+
+
+
+	<content>
+
+    
+
+M2.1. FYI!
+
+[Inform: the presumably attached previous email is for recipients' information]
+
+
+
+	</content>
+
+</message>
+
+</xml>
+
+Hierarchical Power Annotation: N/A
+Person_1:
+Person_2:
+Reason: 
+
+Situational Power Annotation: N/A
+Person_1: 
+Person_2: 
+Reason: 
+
+Attempt at Exercising Power Annotation: N/A
+DFUs: 
+Person_1:
+Person_2:
+Type:
+Successful?:
+Reason: 
+
+Influence Annotation: N/A
+Person_1:
+Person_2:
+Reason:
+
+Attempt at Influence Annotation: N/A
+DFUs: 
+Person_1:
+Person_2:
+Successful?:
+Reason: 

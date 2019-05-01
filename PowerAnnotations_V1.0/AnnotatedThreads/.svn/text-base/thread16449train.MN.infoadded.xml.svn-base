@@ -1,0 +1,319 @@
+16449train
+Annotation for intention:
+
+Argumentation: whether to add a provision to a bill requiring price disclosure for energies traded on an electronic trading system
+
+Annotation for control:
+Kenneth M Raisler: Kenneth is the only sender of messages in the thread and gives his opinions on whether to add the provision to the bill, and asks everyone else for their opinions.
+
+
+
+<xml>
+
+<message>
+
+
+
+	<thread_id>16449</thread_id>
+
+
+
+	<depth>0</depth>
+
+
+
+	<type>ThreadNode</type>
+
+
+
+	<message_id>1189383</message_id>
+
+	<to name="" id="45275" address="goetscrj@bp.com"/>
+
+	<to name="" id="67753" address="kneenjm@bp.com"/>
+
+	<to name="" id="78226" address="McAdammj@bp.com"/>
+
+	<to name="Elaine Walsh" id="37418" address="Elaine@citizenspower.com"/>
+
+	<to name="Cynthia Sandherr" id="1557" address="csandhe@enron.com"/>
+
+	<to name="Jeffrey Keeler" id="20209" address="jkeeler@enron.com"/>
+
+	<to name="Mark E Haedicke" id="19235" address="Mark.E.Haedicke@ENRON.com"/>
+
+	<to name="Mark Taylor" id="2378" address="Mark.Taylor@ENRON.com"/>
+
+	<to name="Laurie Ferber" id="70061" address="laurie.ferber@gs.com"/>
+
+	<to name="" id="47012" address="hall2r@kochind.com"/>
+
+	<to name="" id="69417" address="lanced@kochind.com"/>
+
+	<to name="" id="119774" address="william.mccoy@msdw.com"/>
+
+	<to name="Steven Kline" id="109060" address="Steven.Kline@pge-corp.com"/>
+
+	<to name="" id="102567" address="Schindlg@phibro.com"/>
+
+	<to name="" id="79902" address="mgoldstein@sempratrading.com"/>
+
+	<from name="Kenneth M Raisler" id="93703" address="Raislerk@sullcrom.com"/>
+
+
+
+	<parent_id></parent_id>
+
+
+
+	<subject>Energy Language</subject>
+
+
+
+	<date_time>2000-05-02 08:20:00</date_time>
+
+
+
+	<content>
+
+    
+
+M1.1. Please give me your views ASAP. [Y]
+
+[Request-Information: recipients' views]
+
+Flink1.1
+
+M1.2. Thanks for the language.
+
+[Conventional: thanks]
+
+M1.3. We will make sure that weather derivatives are
+
+included.
+
+[Inform: Kenneth et al. will make sure weather derivatives are included]
+
+M1.4. We met with the CFTC yesterday and they oppose excluding energies
+
+from the Act.
+
+[Inform: CFTC opposes excluding energies from the Act]
+
+M1.5. Our bill would require that these excluded products, if traded
+
+on
+
+an electronic trading system, to be subject to the antimanipulation authority
+
+of
+
+the CFTC and not allow these products to require delivery.
+
+[Inform: what bill would require for excluded products]
+
+M1.6. One issue they
+
+raised was price discovery and that these markets are not very transparent.
+
+[Inform: issue of price discovery was raised]
+
+M1.7. What would be your reaction if we added a third provision (again this is only
+
+for energies traded on a electronic trading facility--bilateral transactions
+
+would not be subject to these provisions) that required some sort of price
+
+disclosure for these markets.
+
+[Request-Information: recipients' opinions on adding a third provision that requires price disclosure for energies traded on an electronic trading facility]
+
+Flink1.7
+
+M1.8. That might help placate the CFTC, but I'm not
+
+sure what the industry reaction might be.
+
+[Inform: this might help placate CFTC, but Kenneth is not sure what industry reaction would be]
+
+M1.9. Let me know. [Y]
+
+[Inform: recipients should tell Kenneth what they think]
+
+
+
+	</content>
+
+</message>
+
+<message>
+
+
+
+	<thread_id>16449</thread_id>
+
+
+
+	<depth>1</depth>
+
+
+
+	<type>ThreadNode</type>
+
+
+
+	<message_id>1189394</message_id>
+
+	<to name="" id="45275" address="goetscrj@bp.com"/>
+
+	<to name="" id="67753" address="kneenjm@bp.com"/>
+
+	<to name="" id="78226" address="McAdammj@bp.com"/>
+
+	<to name="Elaine Walsh" id="37418" address="Elaine@citizenspower.com"/>
+
+	<to name="Cynthia Sandherr" id="1557" address="csandhe@enron.com"/>
+
+	<to name="Jeffrey Keeler" id="20209" address="jkeeler@enron.com"/>
+
+	<to name="Mark E Haedicke" id="19235" address="Mark.E.Haedicke@ENRON.com"/>
+
+	<to name="Mark Taylor" id="2378" address="Mark.Taylor@ENRON.com"/>
+
+	<to name="Laurie Ferber" id="70061" address="laurie.ferber@gs.com"/>
+
+	<to name="" id="47012" address="hall2r@kochind.com"/>
+
+	<to name="" id="69417" address="lanced@kochind.com"/>
+
+	<to name="" id="119774" address="william.mccoy@msdw.com"/>
+
+	<to name="Steven Kline" id="109060" address="Steven.Kline@pge-corp.com"/>
+
+	<to name="" id="102567" address="Schindlg@phibro.com"/>
+
+	<to name="" id="79902" address="mgoldstein@sempratrading.com"/>
+
+	<from name="Kenneth M Raisler" id="93703" address="Raislerk@sullcrom.com"/>
+
+
+
+	<parent_id>1189383</parent_id>
+
+
+
+	<subject>Energy Language</subject>
+
+
+
+	<date_time>2000-05-03 05:46:00</date_time>
+
+
+
+	<content>
+
+    
+
+M2.1. I have conferred with industry representatives on the CFTC's suggestion.
+
+[Inform: Kenneth has conferred with industry representatives on CFTC's suggestion]
+
+M2.2. We
+
+have a problem with it from a couple of perspectives:
+
+[Inform: the following are a couple of problems with the suggestion]
+
+M2.3. 1.  Although NYMEX is the benchmark for pricing of a few energy commodities,
+
+most of the pricing of transactions is done based on price reporting services
+
+such as Platt's, Megawatt Daily and Reuters.
+
+M2.4. These services collect
+
+information on transactions from industry representatives and report usually
+
+on a daily basis benchmark prices for a large number of energy commodities.
+
+M2.5. This activity has never been regulated by anyone.
+
+M2.6. Obviously, these price
+
+reporting services have provided valuable price information to the
+
+industry.
+
+M2.7. We do not see a need for regulation of price reporting whether it
+
+from a price reporting service or an electronic trading system.
+
+[Inform: the first problem is that Kenneth et al. do not think price reporting should be regulated, wherever it comes from, since price reporting services provide valuable price information for the industry]
+
+M2.8. 2.  We are concerned that the manner in which the CFTC would regulate/oversee
+
+price reporting would be very awkward and difficult.
+
+M2.9. The drafting of such a
+
+provision would be complex and the discretion it would give the CFTC to
+
+potentially regulate through price reporting would be troubling.
+
+[Inform: the second problem is that the way the CFTC would regulate or oversee price reporting would likely be awkward and difficult]
+
+M2.10. We are very interested in achieving the exclusion that the draft legislation
+
+currently provides.
+
+[Inform: Kenneth et al. are interested in maintaining the product exclusion that the draft legislation currently provides]
+
+M2.11. We would be prepared to discuss the matter further in
+
+the hope of maintaining the exclusion.
+
+[Inform: sender et al. are prepared to discuss this issue further]
+
+M2.12. Please let me know what you think.
+
+[Request-Information: recipients' opinions]
+
+Flink2.12
+
+
+
+	</content>
+
+</message>
+
+</xml>
+
+Hierarchical Power Annotation: N/A
+Person_1: 
+Person_2: 
+Reason: 
+
+Situational Power Annotation:
+Person_1: Kenneth M Raisler
+Person_2: To(1), To(2)
+Reason: Kenneth is the only sender in this thread and tells the others about a meeting with the Commodity Futures Trading Commission.
+
+Attempt at Exercising Power Annotation:
+DFUs: M1.1, M1.9
+Person_1: Kenneth M Raisler
+Person_2: To(1)
+Type: Situational
+Successful?: No Reply
+Reason: In message 1, Kenneth tells the others to give him their opinions immediately.
+
+Influence Annotation: N/A
+Person_1: 
+Person_2: 
+Reason: 
+
+Attempt at Influence Annotation:
+DFUs: M2.1-M2.12
+Person_1: Kenneth M Raisler
+Person_2: To(2)
+Successful?: No Reply
+Reason: In message 2, Kenneth gives his reasons why he doesn't like a suggestion from the CFTC, and then asks the others to respond to what he said.

@@ -1,0 +1,151 @@
+<custom>
+
+	<row>
+
+		<thread_id>82</thread_id>
+
+		<depth>0</depth>
+
+		<type>ThreadNode</type>
+
+		<message_id>292347</message_id>
+
+	<to name="John Lavorato" id="2273" address="John.J.Lavorato@ENRON.com"/>
+
+	<to name="Louise Kitchen" id="14758" address="Louise.Kitchen@ENRON.com"/>
+
+	<to name="Philippe A Bibi" id="89904" address="Philippe.A.Bibi@ENRON.com"/>
+
+	<to name="Greg Whalley" id="27104" address="Greg.Whalley@ENRON.com"/>
+
+	<to name="Mark E Haedicke" id="19235" address="Mark.E.Haedicke@ENRON.com"/>
+
+	<to name="Andy Zipper" id="5063" address="Andy.Zipper@ENRON.com"/>
+
+	<to name="Greg Piper" id="1665" address="Greg.Piper@ENRON.com"/>
+
+	<to name="Mark Taylor" id="2378" address="Mark.Taylor@ENRON.com"/>
+
+	<from name="Lisa Yoho" id="1502" address="Lisa.Yoho@ENRON.com"/>
+
+	<cc name="Richard Shapiro" id="2482" address="Richard.Shapiro@ENRON.com"/>
+
+	<cc name="James D Steffes" id="7320" address="James.D.Steffes@ENRON.com"/>
+
+	<to name="John Lavorato" id="2273" address="JLAVORA@ENRON.com"/>
+
+	<to name="Louise Kitchen" id="14758" address="E5CF97BB-467B6EEF-8625687A-893A0@ENRON.com"/>
+
+	<to name="Philippe A Bibi" id="89904" address="Pbibi@ENRON.com"/>
+
+	<to name="Greg Whalley" id="27104" address="DA82494B-FC99BFE6-862565DA-5FA576@ENRON.com"/>
+
+	<to name="Mark Haedicke" id="1633" address="496812c-a8259b42-8625650e-6a1dc1@ENRON.com"/>
+
+	<to name="Andy Zipper" id="5063" address="azipper@enron.com"/>
+
+	<to name="Greg Piper" id="1665" address="Gpiper@ENRON.com"/>
+
+	<to name="Mark Taylor" id="2378" address="cabbe9bb-e5d37a28-862564cd-778d41@ENRON.com"/>
+
+	<from name="Lisa Yoho" id="1502" address="42a32fee-6c57678-86256999-750a30@ENRON.com"/>
+
+	<cc name="Richard Shapiro" id="2482" address="6CEDF0C-82C4A03C-8625696C-7693A4@ENRON.com"/>
+
+	<cc name="James Steffes" id="6087" address="afb3d0fa-ccb03d20-86256962-56fda5@ENRON.com"/>
+
+		<parent_id>NULL</parent_id>
+
+		<subject>FERC Inquiry into Electronic Trading (&amp;EOL)</subject>
+
+		<date_time>2001-05-23 12:19:48</date_time>
+
+		<content>
+
+M1.1. Today, we received a letter from FERC notifying us that they are initiating an inquiry to increase &quot;their understanding of the scope and development of electronic trading in electric power and natural gas markets.&quot;
+
+[Inform: letter from FERC says they are initiating an inquiry into electronic trading in electric power/natural gas markets]
+
+M1.2. FERC is requesting that EnronOnline &quot;cooperate&quot; with the inquiry.
+
+[Inform: FERC would like EnronOnline to "cooperate" with this inquiry]
+
+M1.3. The letter states that they will be sending us a request for information, and visiting our offices in Houston.
+
+[Inform: letter says they will send a request for info and visit Enron's Houston offices]
+
+
+
+M1.4. We're not certain what FERC is after with this inquiry,
+
+M1.5. but wanted to make sure you were aware of this development.
+
+[Inform: unsure what FERC wants but wanted to make email recipient(s) aware of the letter]
+
+M1.6. We are looking into this,
+
+M1.7. and will get back to you asap with further information.
+
+[Inform: will get back to recipient(s) after further information is attained]
+
+
+
+M1.8. Lisa Yoho
+
+M1.9. Government Affairs
+
+[Conventional: signature]
+
+
+
+</content>
+
+	</row>
+
+	<row>
+
+		<thread_id>82</thread_id>
+
+		<depth>1</depth>
+
+		<type>ThreadNode</type>
+
+		<message_id>292209</message_id>
+
+	<to name="Philippe A Bibi" id="89904" address="Philippe.A.Bibi@ENRON.com"/>
+
+	<to name="Andy Zipper" id="5063" address="Andy.Zipper@ENRON.com"/>
+
+	<from name="Greg Piper" id="1665" address="Greg.Piper@ENRON.com"/>
+
+	<to name="Philippe A Bibi" id="89904" address="Pbibi@ENRON.com"/>
+
+	<to name="Andy Zipper" id="5063" address="azipper@enron.com"/>
+
+	<from name="Greg Piper" id="1665" address="Gpiper@ENRON.com"/>
+
+		<parent_id>292347</parent_id>
+
+		<subject>FERC Inquiry into Electronic Trading (&amp;EOL)</subject>
+
+		<date_time>2001-05-23 12:31:48</date_time>
+
+		<content>
+
+M2.1. How do you want to handle this?
+
+[Request-Information: how do Philippe and Andy want to handle news from previous email in thread]
+
+Flink2.1
+
+M2.2. GP
+
+[Conventional: signature]
+
+
+
+</content>
+
+	</row>
+
+	</custom>

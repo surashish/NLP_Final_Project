@@ -1,0 +1,235 @@
+<custom>
+
+	<row>
+
+		<thread_id>104</thread_id>
+
+		<depth>0</depth>
+
+		<type>ThreadNode</type>
+
+		<message_id>1098287</message_id>
+
+	<to name="Iris Mack" id="50056" address="iris.mack@ENRON.com"/>
+
+	<from name="Scott Salmon" id="101313" address="Scott.Salmon@ENRON.com"/>
+
+	<cc name="Vince J Kaminski" id="63574" address="Vince.J.Kaminski@ENRON.com"/>
+
+	<cc name="Amitava Dhar" id="5806" address="Amitava.Dhar@ENRON.com"/>
+
+	<cc name="Vasant Shanbhogue" id="104362" address="Vasant.Shanbhogue@ENRON.com"/>
+
+	<cc name="Jeff Kinneman" id="54371" address="Jeff.Kinneman@ENRON.com"/>
+
+	<cc name="Bryan Seyfried" id="3561" address="Bryan.Seyfried@Enron.com"/>
+
+	<cc name="Markus Fiala" id="41029" address="markus.fiala@enron.com"/>
+
+	<cc name="Tanya Tamarchenko" id="111066" address="Tanya.Tamarchenko@ENRON.com"/>
+
+	<to name="Iris Mack" id="50056" address="Imack@ENRON.com"/>
+
+	<from name="Scott Salmon" id="101313" address="Salmon@ENRON.com"/>
+
+	<from name="Scott Vonderheide" id="103023" address="Scott@ENRON.com"/>
+
+	<cc name="Vince J Kaminski" id="63574" address="vkamins@enron.com"/>
+
+	<cc name="Amitava Dhar" id="5806" address="Adhar@ENRON.com"/>
+
+	<cc name="Vasant Shanbhogue" id="104362" address="Vshanbh@ENRON.com"/>
+
+	<cc name="Jeff Kinneman" id="54371" address="Jkinnem@ENRON.com"/>
+
+	<cc name="Bryan Seyfried" id="3561" address="93cdc3a7-971c2875-862564bf-6658a1@ENRON.com"/>
+
+	<cc name="Markus Fiala" id="262" address="143DDDC5-3091FA7E-802568B0-3D1234@ENRON.com"/>
+
+	<cc name="Tanya Tamarchenko" id="111066" address="Ttamarc@ENRON.com"/>
+
+		<parent_id>NULL</parent_id>
+
+		<subject>Scott's concerns about the Public Firm Models</subject>
+
+		<date_time>2001-05-28 17:55:34</date_time>
+
+		<content>
+
+        
+
+M1.1. Hi Iris,
+
+[Conventional: salutation]
+
+
+
+M1.2. I also have copies of and have read the documents you mention;
+
+M1.3. while they contain some good information, especially the movement model plan, the meeting summary is just that...a very general summary of a meeting with recommendations like &quot;hire quants and make sure there is adequate communication among the different teams&quot;.
+
+[Inform: the movement model plan is good, but the meeting summary Iris sent is too general]
+
+M1.4. The meeting summary addresses testing only briefly in saying &quot;be aware of the time dimension&quot; which is obvious and has been addressed by adding more equity driven ratios as well as our plan to add a time dimension to capture ratings momentum following a downgrade.
+
+[Inform: the summary addresses testing in a too brief and obvious manner]
+
+
+
+M1.5. Perhaps you didn't understand my specific request for any ideas you might have to assist in model testing and also for an update on the Duffie report.
+
+[Inform: Scott believes that Iris did not understand what he asked for]
+
+M1.6. We still have not seen any drafts of what you learned.
+
+[Inform: they still have not seen any drafts of what Iris learned]
+
+M1.7. As I'm sure you recall, the teleconference with Vince, Vasant, and Amitava focused exclusively on private firm models, the scope of the project, and data acquisition considerations.
+
+[Inform: topics covered in teleconference]
+
+M1.8. After the call, you suggested to Bryan, Eric, Mike and I that your report would include many of the issues in George's 2 documents (movement model and meeting summary).
+
+[Inform: Iris suggested to Scott and three others what her report would include]
+
+M1.9. My personal hope, echoed by Bryan at that time, was that your report might be more insightful since the movement model, as you surely learned in your visit, is in its infancy and only one portion of the modelling effort and the meeting summary covered the most basic issues with minimal detail.
+
+[Inform: Scott and Bryan had hoped that Iris' report would be more insightful than George's two documents]
+
+
+
+M1.10. I sincerely want to establish a solid relationship with Houston Research and hope we can move forward together in a coordinated, team-oriented approach.
+
+[Inform: Scott wants to establish a solid relationship with Houston research, and hopes he and Iris can move forward together as a team]
+
+M1.11. I look forward to discussing it with you at our Tuesday teleconference.
+
+[Inform: they will discuss this on Tuesday]
+
+
+
+M1.12. Best regards,
+
+M1.13. Scott
+
+[Conventional: signature]
+
+
+
+M1.14. FYI - George joined the company in Sep 2000 so could not have written the Movement Model proposal in April 2000.
+
+[Inform: George joined company in September 2000 so couldn't have written the Movement Model proposal in April 2000]
+
+Sflink1.14
+
+
+
+</content>
+
+	</row>
+
+	<row>
+
+		<thread_id>104</thread_id>
+
+		<depth>1</depth>
+
+		<type>ThreadNode</type>
+
+		<message_id>1098286</message_id>
+
+	<to name="Scott Salmon" id="101313" address="Scott.Salmon@ENRON.com"/>
+
+	<from name="Iris Mack" id="50056" address="iris.mack@ENRON.com"/>
+
+	<cc name="Vince J Kaminski" id="63574" address="Vince.J.Kaminski@ENRON.com"/>
+
+	<cc name="Amitava Dhar" id="5806" address="Amitava.Dhar@ENRON.com"/>
+
+	<cc name="Vasant Shanbhogue" id="104362" address="Vasant.Shanbhogue@ENRON.com"/>
+
+	<cc name="Jeff Kinneman" id="54371" address="Jeff.Kinneman@ENRON.com"/>
+
+	<cc name="Bryan Seyfried" id="3561" address="Bryan.Seyfried@Enron.com"/>
+
+	<cc name="Markus Fiala" id="41029" address="markus.fiala@enron.com"/>
+
+	<cc name="Tanya Tamarchenko" id="111066" address="Tanya.Tamarchenko@ENRON.com"/>
+
+	<to name="Scott Salmon" id="40916" address="FF1E981F-64DE96BE-802569F4-34B2AB@ENRON.com"/>
+
+	<from name="Iris Mack" id="50056" address="Mack@ENRON.com"/>
+
+	<from name="Iris Mack" id="50056" address="Iris@ENRON.com"/>
+
+	<cc name="Vince J Kaminski" id="63574" address="vkamins@enron.com"/>
+
+	<cc name="Amitava Dhar" id="5806" address="Adhar@ENRON.com"/>
+
+	<cc name="Vasant Shanbhogue" id="104362" address="Vshanbh@ENRON.com"/>
+
+	<cc name="Jeff Kinneman" id="54371" address="Jkinnem@ENRON.com"/>
+
+	<cc name="Bryan Seyfried" id="3561" address="93cdc3a7-971c2875-862564bf-6658a1@ENRON.com"/>
+
+	<cc name="Markus Fiala" id="262" address="143DDDC5-3091FA7E-802568B0-3D1234@ENRON.com"/>
+
+	<cc name="Tanya Tamarchenko" id="111066" address="Ttamarc@ENRON.com"/>
+
+		<parent_id>1098287</parent_id>
+
+		<subject>Scott's concerns about the Public Firm Models</subject>
+
+		<date_time>2001-05-28 18:17:20</date_time>
+
+		<content>
+
+        
+
+M2.1. Hi Scott,
+
+[Conventional: salutation]
+
+
+
+M2.2. I stand to be corrected.
+
+[Inform: Iris acknowledges her mistake]
+
+M2.3. I forgot that the recording of dates in the UK is different from the way it is recorded in the US.
+
+[Inform: Iris forgot that the US has a different convention for writing dates than the UK]
+
+M2.4. The date on Geoge's document is &quot;04/10/00&quot;, i.e., October 4, 2000.
+
+[Inform: the date is actually the fourth of October, 2000]
+
+Blink1.14
+
+
+
+M2.5. Again, Jeff stated that he will be meeting with Vince and Bryan to sort out the public firm model issues.
+
+[Inform: Jeff said he would meet with Vince and Bryan to sort out public firm model issues]
+
+M2.6. Until then, I am busy trying to develop the private firm model - which is the deliverable we promised to Enron Credit (as stated in the Elaboration Document I sent last week).
+
+[Inform: meanwhile, Iris is trying to develop the private firm model, which was promised to Enron Credit]
+
+
+
+
+
+M2.7. Best regards,
+
+M2.8. Iris
+
+[Conventional: signature]
+
+
+
+</content>
+
+	</row>
+
+	</custom>

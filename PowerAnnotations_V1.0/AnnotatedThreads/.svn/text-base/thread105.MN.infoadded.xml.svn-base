@@ -1,0 +1,205 @@
+105
+Annotation for intention:
+
+Collaboration-on-information-product: sending an email to traders regarding a launch of something Reuters-related
+
+Annotation for control:
+Savita Puthigai: Savita initiates the thread and asks Andy Zipper and Michael Bridges whether the email needs to be sent out to traders.
+
+
+
+<?xml version="1.0"?>
+
+
+
+<!--
+
+-
+
+- Sequel Pro dump
+
+- Version 155
+
+- http://code.google.com/p/sequel-pro
+
+-
+
+- Host: 127.0.0.1 (MySQL 5.0.67)
+
+- Database: enron
+
+- Generation Time: 2008-12-12 17:38:27 -0500
+
+-
+
+-->
+
+
+
+	<custom>
+
+	<row>
+
+		<thread_id>105</thread_id>
+
+		<depth>0</depth>
+
+		<type>ThreadNode</type>
+
+		<message_id>292323</message_id>
+
+	<to name="Andy Zipper" id="5063" address="Andy.Zipper@ENRON.com"/>
+
+	<from name="Savita Puthigai" id="92989" address="Savita.Puthigai@ENRON.com"/>
+
+	<cc name="Michael Bridges" id="1281" address="Michael.Bridges@ENRON.com"/>
+
+	<to name="Andy Zipper" id="5063" address="azipper@enron.com"/>
+
+	<from name="Savita Puthigai" id="92989" address="Sputhiga@ENRON.com"/>
+
+	<cc name="Michael Bridges" id="1281" address="Mbridge2@ENRON.com"/>
+
+		<parent_id>NULL</parent_id>
+
+		<subject>Reuters Launch</subject>
+
+		<date_time>2001-05-29 16:39:23</date_time>
+
+		<content>
+
+        
+
+M1.1. Hi Andy,
+
+[Conventional: salutation]
+
+M1.2. Do we need to send an email out to traders regarding the launch?
+
+[Request-Information: does Savita need to send an email to traders regarding a launch of something regarding Reuters]
+
+Flink1.2
+
+
+
+</content>
+
+	</row>
+
+	<row>
+
+		<thread_id>105</thread_id>
+
+		<depth>1</depth>
+
+		<type>ThreadNode</type>
+
+		<message_id>292369</message_id>
+
+	<to name="Savita Puthigai" id="92989" address="Savita.Puthigai@ENRON.com"/>
+
+	<to name="Andy Zipper" id="5063" address="Andy.Zipper@ENRON.com"/>
+
+	<from name="Michael Bridges" id="1281" address="Michael.Bridges@ENRON.com"/>
+
+	<to name="Savita Puthigai" id="92989" address="Sputhiga@ENRON.com"/>
+
+	<to name="Andy Zipper" id="5063" address="azipper@enron.com"/>
+
+	<from name="Michael Bridges" id="1281" address="Mbridge2@ENRON.com"/>
+
+		<parent_id>292323</parent_id>
+
+		<subject>Reuters Launch</subject>
+
+		<date_time>2001-05-29 16:46:07</date_time>
+
+		<content>
+
+        
+
+M2.1. Yes--taken care of.
+
+[Inform: email to traders has been taken care of]
+
+Blink1.2
+
+M2.2. Additionally, we are talking to the desk heads.
+
+[Inform: Michael is talking to desk heads as well]
+
+
+
+</content>
+
+	</row>
+
+	<row>
+
+		<thread_id>105</thread_id>
+
+		<depth>3</depth>
+
+		<type>ThreadNode</type>
+
+		<message_id>292234</message_id>
+
+	<to name="Andy Zipper" id="5063" address="Andy.Zipper@ENRON.com"/>
+
+	<from name="Michael Bridges" id="1281" address="Michael.Bridges@ENRON.com"/>
+
+	<to name="Andy Zipper" id="5063" address="azipper@enron.com"/>
+
+	<from name="Michael Bridges" id="1281" address="Mbridge2@ENRON.com"/>
+
+		<parent_id>NULL</parent_id>
+
+		<subject>Reuters Launch</subject>
+
+		<date_time>2001-05-30 18:19:04</date_time>
+
+		<content>
+
+        
+
+M2.3. Paul Goddard is handling this.
+
+[Inform: Paul Goddard is handling something (possibly the email regarding the launch)]
+
+
+
+</content>
+
+	</row>
+
+	</custom>
+
+Hierarchical Power Annotation: N/A
+Person_1: 
+Person_2: 
+Reason: 
+
+Situational Power Annotation:
+Person_1: Andy Zipper, Michael Bridges
+Person_2: Savita Puthigai
+Reason: Savita asks Andy whether to send out an email in message 1, and Michael answers, showing that Andy and Michael know more about it.
+
+Attempt at Exercising Power Annotation: N/A
+DFUs: 
+Person_1:
+Person_2:
+Type:
+Successful?:
+Reason: 
+
+Influence Annotation: N/A
+Person_1: 
+Person_2: 
+Reason:
+
+Attempt at Influence Annotation: N/A
+DFUs: 
+Person_1:
+Person_2:
+Successful?:
+Reason: 

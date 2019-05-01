@@ -1,0 +1,1189 @@
+1760
+Annotation for intention:
+
+Knowledge-Acquisition: details about Rick's update conference call
+
+Annotation for control:
+Ginger Dernehl: Ginger is the only person who sends messages in this thread, she and provides the information about the call.
+
+
+
+<xml>
+
+<message>
+
+
+
+	<thread_id>1760</thread_id>
+
+
+
+	<depth>0</depth>
+
+
+
+	<type>ThreadNode</type>
+
+
+
+	<message_id>1277373</message_id>
+
+	<to name="Jeff Dasovich" id="27095" address="Joseph.Alamo@ENRON.com"/>
+
+	<to name="Daniel Allegretti" id="5978" address="Daniel.Allegretti@ENRON.com"/>
+
+	<to name="Joe Allen" id="1697" address="Joe.Allen@ENRON.com"/>
+
+	<to name="Ray Alvarez" id="2659" address="Ray.Alvarez@ENRON.com"/>
+
+	<to name="Sergio Assad" id="40254" address="Sergio.Assad@ENRON.com"/>
+
+	<to name="Lisa Assaf" id="69802" address="Lisa.Assaf@ENRON.com"/>
+
+	<to name="Kara Ausenhus" id="3656" address="Kara_Ausenhus@ENRON.net"/>
+
+	<to name="Lynnette Barnes" id="70229" address="Lynnette.Barnes@ENRON.com"/>
+
+	<to name="Kirsten Bellas" id="64609" address="Kirsten.Bellas@ENRON.com"/>
+
+	<to name="Jose Bestard" id="1635" address="Jose.Bestard2@ENRON.com"/>
+
+	<to name="Darran Binns" id="28119" address="Darran.Binns@ENRON.com"/>
+
+	<to name="Scott Bolton" id="1848" address="Scott_Bolton@ENRON.net"/>
+
+	<to name="Roy Boston" id="35851" address="Roy.Boston@ENRON.com"/>
+
+	<to name="Gisele S Braz" id="44604" address="Gisele.S.Braz@ENRON.com"/>
+
+	<to name="Rubena Buerger" id="3154" address="Rubena.Buerger@ENRON.com"/>
+
+	<to name="Stephen D Burns" id="5404" address="Stephen.Burns@ENRON.com"/>
+
+	<to name="Guillermo Canovas" id="43350" address="Guillermo.Canovas@ENRON.com"/>
+
+	<to name="Rebecca W Cantrell" id="12467" address="Rebecca.W.Cantrell@ENRON.com"/>
+
+	<to name="Alan Comnes" id="836" address="Alan.Comnes@ENRON.com"/>
+
+	<to name="Joe Connor" id="2485" address="Joe.Connor@ENRON.com"/>
+
+	<to name="Carolyn Cooney" id="2230" address="Carolyn.Cooney@ENRON.com"/>
+
+	<to name="Adam N Cooper" id="5549" address="Adam.N.Cooper@ENRON.com"/>
+
+	<to name="Mark Crowther" id="75963" address="mark.crowther@enron.com"/>
+
+	<to name="Jeff Dasovich" id="27095" address="Jeff.Dasovich@ENRON.com"/>
+
+	<to name="Philip Davies" id="90108" address="philip.davies@enron.com"/>
+
+	<to name="Paul Dawson" id="1840" address="paul.dawson@enron.com"/>
+
+	<to name="Larry Decker" id="2989" address="Larry.Decker@ENRON.com"/>
+
+	<to name="Ginger Dernehl" id="20406" address="Ginger.Dernehl@ENRON.com"/>
+
+	<to name="Jean Dressler" id="646" address="Jean.R.Dressler@ENRON.com"/>
+
+	<to name="Nick Elms" id="85971" address="nick.elms@enron.com"/>
+
+	<to name="Tom Fitzgibbon" id="112562" address="tom.fitzgibbon@enron.com"/>
+
+	<to name="Vinio Floris" id="117311" address="Vinio_Floris@ENRON.net"/>
+
+	<to name="Robert Frank" id="2426" address="Robert.Frank@ENRON.com"/>
+
+	<to name="Howard Fromer" id="11219" address="Howard.Fromer@ENRON.com"/>
+
+	<to name="Donna Fulton" id="20464" address="Donna.Fulton@ENRON.com"/>
+
+	<to name="Bryan Gottfredson" id="13822" address="Bryan.Gottfredson@ENRON.com"/>
+
+	<to name="Michael Grimes" id="35949" address="Michael.Grimes@ENRON.com"/>
+
+	<to name="Janel Guerrero" id="2841" address="Janel.Guerrero@ENRON.com"/>
+
+	<to name="Jan Haizmann" id="52065" address="Jan.Haizmann@enron.com"/>
+
+	<to name="Allison Navin" id="2820" address="Allison.Hamilton@ENRON.com"/>
+
+	<to name="John Hardy Jr" id="56199" address="John.Hardy@ENRON.com"/>
+
+	<to name="Rita Hartfield" id="2245" address="Rita_Hartfield@ENRON.net"/>
+
+	<to name="Bernadette Hawkins" id="273" address="Bernadette.Hawkins@ENRON.com"/>
+
+	<to name="Robert Hemstock" id="1588" address="Robert.Hemstock@ENRON.com"/>
+
+	<to name="Paul Hennemeyer" id="89452" address="paul.hennemeyer@enron.com"/>
+
+	<to name="Nancy Hetrick" id="20874" address="nancy.hetrick@enron.com"/>
+
+	<to name="Tom Hoatson" id="12661" address="Tom.Hoatson@ENRON.com"/>
+
+	<to name="Alfredo Huertas" id="6475" address="alfredo.huertas@enron.com"/>
+
+	<to name="Barbara A Hueter" id="11767" address="Barbara.A.Hueter@ENRON.com"/>
+
+	<to name="Llewelyn Hughes" id="71606" address="Llewelyn.Hughes@ENRON.com"/>
+
+	<to name="Bevin Hunter" id="13611" address="Bevin.Hunter@ENRON.com"/>
+
+	<to name="Margaret Huson" id="75502" address="Margaret.Huson@ENRON.com"/>
+
+	<to name="Amr Ibrahim" id="3156" address="Amr.Ibrahim@ENRON.com"/>
+
+	<to name="Makiko Imai" id="74950" address="makiko.imai@enron.com"/>
+
+	<to name="Paul Kaufman" id="742" address="Paul.Kaufman@ENRON.com"/>
+
+	<to name="Steven J Kean" id="18327" address="steve.kean@enron.com"/>
+
+	<to name="Amber Keenan" id="6666" address="amber.keenan@enron.com"/>
+
+	<to name="Patrick Keene" id="26990" address="Patrick.Keene@ENRON.com"/>
+
+	<to name="Takashi Kimura" id="110985" address="takashi.kimura@enron.com"/>
+
+	<to name="Harry Kingerski" id="3720" address="Harry.Kingerski@ENRON.com"/>
+
+	<to name="Kikumi Kishigami" id="66611" address="Kikumi.Kishigami@ENRON.com"/>
+
+	<to name="Laurie Knight" id="70067" address="Laurie.Knight@ENRON.com"/>
+
+	<to name="Susan M Landwehr" id="106074" address="Susan.M.Landwehr@ENRON.com"/>
+
+	<to name="Donald Lassere" id="32891" address="Donald.Lassere@ENRON.com"/>
+
+	<to name="Leslie Lawner" id="1377" address="Leslie.Lawner@ENRON.com"/>
+
+	<to name="Linda L Lawrence" id="1337" address="Linda.L.Lawrence@ENRON.com"/>
+
+	<to name="Lara Leibman" id="1855" address="Lara.Leibman@ENRON.com"/>
+
+	<to name="Sam Leonardo" id="26904" address="Sam.Leonardo@ENRON.com"/>
+
+	<to name="Alberto Levy" id="3381" address="Alberto.Levy@ENRON.com"/>
+
+	<to name="Susan Lindberg" id="106180" address="Susan.Lindberg@ENRON.com"/>
+
+	<to name="Elizabeth Linnell" id="11460" address="Elizabeth.Linnell@ENRON.com"/>
+
+	<to name="Chris Long" id="1492" address="Chris.Long@ENRON.com"/>
+
+	<to name="Susan J Mara" id="3364" address="Susan.J.Mara@ENRON.com"/>
+
+	<to name="Luiz Maurer" id="1498" address="Luiz.Maurer@ENRON.com"/>
+
+	<to name="Steven J Kean" id="18327" address="Maureen.McVicker@ENRON.com"/>
+
+	<to name="Janine Migden" id="20455" address="Janine.Migden@ENRON.com"/>
+
+	<to name="Pamela Milano" id="88644" address="Pamela.Milano@ENRON.com"/>
+
+	<to name="Terri Miller" id="112335" address="Terri.Miller@ENRON.com"/>
+
+	<to name="Steve Montovano" id="2368" address="Steve.Montovano@ENRON.com"/>
+
+	<to name="Carin Nersesian" id="1735" address="Carin.Nersesian@ENRON.com"/>
+
+	<to name="Robert Neustaedter" id="3215" address="Robert.Neustaedter@ENRON.com"/>
+
+	<to name="Christi L Nicolay" id="1999" address="Christi.L.Nicolay@ENRON.com"/>
+
+	<to name="Sue Nord" id="2366" address="Sue.Nord@ENRON.com"/>
+
+	<to name="Linda J Noske" id="71819" address="Linda.J.Noske@ENRON.com"/>
+
+	<to name="Sarah Novosel" id="35923" address="Sarah.Novosel@ENRON.com"/>
+
+	<to name="Earlene O'connell" id="36073" address="Earlene.OConnell@ENRON.com"/>
+
+	<to name="Gloria Ogenyi" id="31388" address="Gloria.Ogenyi@ENRON.com"/>
+
+	<to name="Germain Palmer" id="2387" address="Germain.Palmer@ENRON.com"/>
+
+	<to name="Carmen Perez" id="3096" address="Carmen.Perez@ENRON.com"/>
+
+	<to name="Gus Perez" id="45507" address="Gus.Perez@ENRON.com"/>
+
+	<to name="Dave Perrino" id="247" address="Dave.Perrino@ENRON.com"/>
+
+	<to name="Mona L Petrochko" id="83264" address="Mona.L.Petrochko@ENRON.com"/>
+
+	<to name="Melinda Pharms" id="2480" address="Melinda.Pharms@ENRON.com"/>
+
+	<to name="Jose Lucio Reis" id="5406" address="Jose.Lucio.Reis@ENRON.com"/>
+
+	<to name="Margo Reyna" id="11423" address="Margo.Reyna@ENRON.com"/>
+
+	<to name="Frank Rishe" id="41829" address="Frank.Rishe@ENRON.com"/>
+
+	<to name="Helen Rizzo" id="3192" address="Helen.Rizzo@ENRON.com"/>
+
+	<to name="Michael Roan" id="81543" address="Mike.Roan@ENRON.com"/>
+
+	<to name="Linda Robertson" id="35901" address="Linda.Robertson@ENRON.com"/>
+
+	<to name="Marchris Robinson" id="263" address="Marchris.Robinson@ENRON.com"/>
+
+	<to name="Andy Rodriquez" id="8854" address="Andy.Rodriquez@ENRON.com"/>
+
+	<to name="Jean Ryall" id="2147" address="Jean.Ryall@ENRON.com"/>
+
+	<to name="Fred Sampaio" id="5620" address="Fred.Sampaio@ENRON.com"/>
+
+	<to name="Richard Shapiro" id="2482" address="Richard.Shapiro@ENRON.com"/>
+
+	<to name="John Shelk" id="1023" address="John.Shelk@ENRON.com"/>
+
+	<to name="Pat Shortridge" id="12205" address="Pat.Shortridge@ENRON.com"/>
+
+	<to name="Dan Staines" id="12851" address="Dan.Staines@ENRON.com"/>
+
+	<to name="James D Steffes" id="7320" address="James.D.Steffes@ENRON.com"/>
+
+	<to name="Sharonda Stephens" id="3751" address="Sharonda.Stephens@ENRON.com"/>
+
+	<to name="Joan Stransky" id="35927" address="Joan.Stransky@ENRON.com"/>
+
+	<to name="Kerry Stroup" id="542" address="Kerry.Stroup@ENRON.com"/>
+
+	<to name="Randy Stubbings" id="94080" address="Randy.Stubbings@ENRON.com"/>
+
+	<to name="Peter Styles" id="40114" address="Peter.Styles@ENRON.com"/>
+
+	<to name="Kathleen Sullivan" id="95" address="Kathleen.Sullivan@ENRON.com"/>
+
+	<to name="Lora Sullivan" id="506" address="Lora.Sullivan@ENRON.com"/>
+
+	<to name="Jennifer Thome" id="36130" address="Jennifer.Thome@ENRON.com"/>
+
+	<to name="Fino Tiberi" id="41118" address="Fino.Tiberi@ENRON.com"/>
+
+	<to name="Thane Twiggs" id="112745" address="Thane.Twiggs@ENRON.com"/>
+
+	<to name="Teun Van Biert" id="112487" address="teun.van.biert@enron.com"/>
+
+	<to name="Steve Walton" id="11290" address="Steve.Walton@ENRON.com"/>
+
+	<to name="Geriann Warner" id="44039" address="Geriann.Warner@ENRON.com"/>
+
+	<to name="Mika Watanabe" id="2314" address="mika.watanabe@enron.com"/>
+
+	<to name="Doug Wood" id="34166" address="doug.wood@enron.com"/>
+
+	<to name="Charles Yeung" id="4801" address="Charles_Yeung@ENRON.net"/>
+
+	<to name="Lisa Yoho" id="1502" address="Lisa.Yoho@ENRON.com"/>
+
+	<from name="Ginger Dernehl" id="20406" address="Ginger.Dernehl@ENRON.com"/>
+
+	<to name="Jeff Dasovich" id="28265" address="jalamo@enron.com"/>
+
+	<to name="Daniel Allegretti" id="5978" address="Dallegre@ENRON.com"/>
+
+	<to name="Joe Allen" id="1697" address="jallen2@enron.com"/>
+
+	<to name="Ray Alvarez" id="36178" address="Ralvare2@ENRON.com"/>
+
+	<to name="Sergio Assad" id="40254" address="f8cc7d64-b6886a7d-862568e0-2fa29d@ENRON.com"/>
+
+	<to name="Lisa Assaf" id="69802" address="Lassaf@ENRON.com"/>
+
+	<to name="Kara Ausenhus" id="3656" address="Kausenh2@ENRON.com"/>
+
+	<to name="Lynnette Barnes" id="70229" address="Lbarnes@ENRON.com"/>
+
+	<to name="Kirsten Bellas" id="64609" address="Kbellas@ENRON.com"/>
+
+	<to name="Jose Bestard" id="1635" address="4969d7ad-eda10c9e-86256a87-7af435@ENRON.com"/>
+
+	<to name="Darran Binns" id="28119" address="Dbinns@ENRON.com"/>
+
+	<to name="Scott Bolton" id="1848" address="Sbolton2@ENRON.com"/>
+
+	<to name="Roy Boston" id="35851" address="e4624b3b-34048638-862564f2-7505b7@ENRON.com"/>
+
+	<to name="Gisele Braz" id="12779" address="be975df1-a35381bd-862568e0-2fa297@ENRON.com"/>
+
+	<to name="Rubena Buerger" id="3154" address="Rbuerge@ENRON.com"/>
+
+	<to name="Stephen D Burns" id="5404" address="Sburns@ENRON.com"/>
+
+	<to name="Guillermo Canovas" id="43350" address="Gcanovas@ENRON.com"/>
+
+	<to name="Rebecca W Cantrell" id="12467" address="BCANTRE@ENRON.com"/>
+
+	<to name="Alan Comnes" id="836" address="acomnes@enron.com"/>
+
+	<to name="Joe Connor" id="2485" address="Jconnor2@ENRON.com"/>
+
+	<to name="Carolyn Cooney" id="2230" address="Ccooney@ENRON.com"/>
+
+	<to name="Adam N Cooper" id="5549" address="ACooper7@ENRON.com"/>
+
+	<to name="Mark Crowther" id="75963" address="mcrowthe@ENRON.com"/>
+
+	<to name="Jeff Dasovich" id="28265" address="jdasovic@enron.com"/>
+
+	<to name="Philip Davies" id="90108" address="PDAVIES@ENRON.com"/>
+
+	<to name="Paul Dawson" id="1840" address="PDAWSON@ENRON.com"/>
+
+	<to name="Larry Decker" id="2989" address="Ldecker2@ENRON.com"/>
+
+	<to name="Ginger Dernehl" id="20406" address="Gdernehl@ENRON.com"/>
+
+	<to name="Jean Dressler" id="646" address="Jdressle@ENRON.com"/>
+
+	<to name="Nick Elms" id="85971" address="NElms@ENRON.com"/>
+
+	<to name="Tom Fitzgibbon" id="112562" address="tfitzgib@ENRON.com"/>
+
+	<to name="Vinio Floris" id="117311" address="Vfloris@ENRON.com"/>
+
+	<to name="Robert Frank" id="2426" address="rfrank@enron.com"/>
+
+	<to name="Howard Fromer" id="11219" address="hfromer@enron.com"/>
+
+	<to name="Donna Fulton" id="20464" address="dfulton@enron.com"/>
+
+	<to name="Bryan Gottfredson" id="13822" address="Bgottfre@ENRON.com"/>
+
+	<to name="Michael Grimes" id="35949" address="MGRIMES@ENRON.com"/>
+
+	<to name="Janel Guerrero" id="2841" address="Jguerre@ENRON.com"/>
+
+	<to name="Jan Haizmann" id="52065" address="JHAIZMAN@ENRON.com"/>
+
+	<to name="Allison Navin" id="2820" address="Ahamilt3@ENRON.com"/>
+
+	<to name="John Hardy Jr" id="56199" address="Jhardy@ENRON.com"/>
+
+	<to name="Rita Hartfield" id="2245" address="Rita_hartfield@ENRON.com"/>
+
+	<to name="Bernadette Hawkins" id="273" address="Bhawkin@ENRON.com"/>
+
+	<to name="Robert Hemstock" id="1588" address="Rhemsto@ENRON.com"/>
+
+	<to name="Paul Hennemeyer" id="89452" address="PHENNEME@ENRON.com"/>
+
+	<to name="Nancy Hetrick" id="20874" address="Nhetrick@ENRON.com"/>
+
+	<to name="Tom Hoatson" id="12661" address="Thoatson@ENRON.com"/>
+
+	<to name="Alfredo Huertas" id="6475" address="AHuertas@ENRON.com"/>
+
+	<to name="Barbara A Hueter" id="11767" address="bhueter@enron.com"/>
+
+	<to name="Llewelyn Hughes" id="71606" address="lhughes2@ENRON.com"/>
+
+	<to name="Bevin Hunter" id="13611" address="Bhunter@ENRON.com"/>
+
+	<to name="Margaret Huson" id="75502" address="MHUSON@ENRON.com"/>
+
+	<to name="Amr Ibrahim" id="3156" address="Aibrahi@ENRON.com"/>
+
+	<to name="Makiko Imai" id="74950" address="mimai@ENRON.com"/>
+
+	<to name="Paul Kaufman" id="742" address="Pkaufma@ENRON.com"/>
+
+	<to name="Steven J Kean" id="18327" address="skean@enron.com"/>
+
+	<to name="Amber Keenan" id="6666" address="AKeenan@ENRON.com"/>
+
+	<to name="Patrick Keene" id="26990" address="pkeene@enron.com"/>
+
+	<to name="Takashi Kimura" id="110985" address="tkimura@ENRON.com"/>
+
+	<to name="Harry Kingerski" id="3720" address="hkingers@enron.com"/>
+
+	<to name="Kikumi Kishigami" id="66611" address="Kkishiga@ENRON.com"/>
+
+	<to name="Laurie Knight" id="70067" address="Lknight@ENRON.com"/>
+
+	<to name="Susan M Landwehr" id="106074" address="Slandweh@ENRON.com"/>
+
+	<to name="Donald Lassere" id="32891" address="Dlassere@ENRON.com"/>
+
+	<to name="Leslie Lawner" id="1377" address="llawner@enron.com"/>
+
+	<to name="Linda L Lawrence" id="1337" address="Llawrenc@ENRON.com"/>
+
+	<to name="Lara Leibman" id="1855" address="LLEIBMAN@ENRON.com"/>
+
+	<to name="Sam Leonardo" id="26904" address="sleonard@ENRON.com"/>
+
+	<to name="Alberto Levy" id="3381" address="8b15e10f-62e9b697-862568f6-6a407c@ENRON.com"/>
+
+	<to name="Susan Lindberg" id="106180" address="Slindber@ENRON.com"/>
+
+	<to name="Elizabeth Linnell" id="11460" address="Elinnell@ENRON.com"/>
+
+	<to name="Chris Long" id="1492" address="clong@enron.com"/>
+
+	<to name="Susan J Mara" id="3364" address="smara@enron.com"/>
+
+	<to name="Luiz Maurer" id="1498" address="Lmaurer@ENRON.com"/>
+
+	<to name="Steven J Kean" id="18327" address="Mmcvick@ENRON.com"/>
+
+	<to name="Janine Migden" id="20455" address="jmigden@enron.com"/>
+
+	<to name="Pamela Milano" id="88644" address="PMilano@ENRON.com"/>
+
+	<to name="Terri Miller" id="112335" address="Tmiller1@ENRON.com"/>
+
+	<to name="Steve Montovano" id="2368" address="Smontova@ENRON.com"/>
+
+	<to name="Carin Nersesian" id="1735" address="Cnersesi@ENRON.com"/>
+
+	<to name="Robert Neustaedter" id="3215" address="Rneusta@ENRON.com"/>
+
+	<to name="Christi L Nicolay" id="1999" address="Cnicola@ENRON.com"/>
+
+	<to name="Sue Nord" id="2366" address="snord@enron.com"/>
+
+	<to name="Linda J Noske" id="71819" address="Lnoske@ENRON.com"/>
+
+	<to name="Sarah Novosel" id="35923" address="snovose@enron.com"/>
+
+	<to name="Earlene O'connell" id="36073" address="Eoconne@ENRON.com"/>
+
+	<to name="Gloria Ogenyi" id="31388" address="Gogenyi@ENRON.com"/>
+
+	<to name="Germain Palmer" id="2387" address="Gpalmer3@ENRON.com"/>
+
+	<to name="Carmen Perez" id="3096" address="Cperez@ENRON.com"/>
+
+	<to name="Gus Perez" id="45507" address="Gperez3@ENRON.com"/>
+
+	<to name="Dave Perrino" id="247" address="Dperrino@ENRON.com"/>
+
+	<to name="Mona L Petrochko" id="83264" address="mpetroch@enron.com"/>
+
+	<to name="Melinda Pharms" id="2480" address="MPHARMS@ENRON.com"/>
+
+	<to name="Jose Lucio Reis" id="5406" address="acbe7a47-339c97d-862568e0-2fa25a@ENRON.com"/>
+
+	<to name="Margo Reyna" id="11423" address="Mreyna@ENRON.com"/>
+
+	<to name="Frank Rishe" id="41829" address="Frishe@ENRON.com"/>
+
+	<to name="Helen Rizzo" id="3192" address="Hrizzo@ENRON.com"/>
+
+	<to name="Michael Roan" id="81543" address="Mroan@ENRON.com"/>
+
+	<to name="Linda Robertson" id="35901" address="Lrobert3@ENRON.com"/>
+
+	<to name="Marchris Robinson" id="263" address="Mrobinso@ENRON.com"/>
+
+	<to name="Andy Rodriquez" id="8854" address="ARODRIQU@ENRON.com"/>
+
+	<to name="Jean Ryall" id="2147" address="jryall@enron.com"/>
+
+	<to name="Fred Sampaio" id="5620" address="ad619fff-e856fc30-8625699d-77e0e7@ENRON.com"/>
+
+	<to name="Richard Shapiro" id="270" address="rshapiro@enron.com"/>
+
+	<to name="John Shelk" id="1023" address="Jshelk@ENRON.com"/>
+
+	<to name="Pat Shortridge" id="12205" address="Pshortri@ENRON.com"/>
+
+	<to name="Dan Staines" id="12851" address="DSTAINE@ENRON.com"/>
+
+	<to name="James D Steffes" id="7319" address="jsteffe@enron.com"/>
+
+	<to name="Sharonda Stephens" id="3751" address="Sstephe3@ENRON.com"/>
+
+	<to name="Joan Stransky" id="35927" address="Jstrans@ENRON.com"/>
+
+	<to name="Kerry Stroup" id="542" address="Kstroup@ENRON.com"/>
+
+	<to name="Randy Stubbings" id="94080" address="Rstubbin@ENRON.com"/>
+
+	<to name="Peter Styles" id="40114" address="PSTYLES@ENRON.com"/>
+
+	<to name="Kathleen Sullivan" id="95" address="Ksulliva@ENRON.com"/>
+
+	<to name="Lora Sullivan" id="506" address="Lsulliv@ENRON.com"/>
+
+	<to name="Jennifer Thome" id="36130" address="jthome@enron.com"/>
+
+	<to name="Fino Tiberi" id="41118" address="Ftiberi@ENRON.com"/>
+
+	<to name="Thane Twiggs" id="112745" address="Ttwiggs@ENRON.com"/>
+
+	<to name="Teun Van Biert" id="112487" address="TvanBier@ENRON.com"/>
+
+	<to name="Steve Walton" id="11290" address="Swalto2@ENRON.com"/>
+
+	<to name="Geriann Warner" id="44039" address="Gwarner@ENRON.com"/>
+
+	<to name="Mika Watanabe" id="2314" address="mwatana@ENRON.com"/>
+
+	<to name="Doug Wood" id="34166" address="DWOOD@ENRON.com"/>
+
+	<to name="Charles Yeung" id="4801" address="Cyeung@ENRON.com"/>
+
+	<to name="Lisa Yoho" id="1502" address="lyoho@enron.com"/>
+
+	<from name="Ginger Dernehl" id="20406" address="Gdernehl@ENRON.com"/>
+
+
+
+	<parent_id></parent_id>
+
+
+
+	<subject>Monday, November 12 Conf. Call</subject>
+
+
+
+	<date_time>2001-11-09 16:28:32</date_time>
+
+
+
+	<content>
+
+    
+
+M1.1. Rick will hold another update conference call on Monday as follows:
+
+[Inform: the following are details about Rick's update conference call]
+
+
+
+M1.2. Date:		Monday, November 12
+
+[Inform: date]
+
+
+
+M1.3. Time:		8:30 AM (CST)
+
+[Inform: time]
+
+
+
+M1.4. Number:	1-800-713-8600 (domestic)
+
+M1.5. 801-983-4017 (int'l)
+
+M1.6. 152142 (pass code for all)
+
+[Inform: phone numbers and pass code]
+
+
+
+M1.7. Ginger Dernehl
+
+M1.8. Administrative Coordinator
+
+M1.9. Global Government Affairs
+
+[Conventional: signature]
+
+M1.10. Phone# 713-853-7751
+
+M1.11. Fax# 713-646-8160
+
+[Inform: Ginger's contact information]
+
+
+
+	</content>
+
+</message>
+
+<message>
+
+
+
+	<thread_id>1760</thread_id>
+
+
+
+	<depth>1</depth>
+
+
+
+	<type>ThreadNode</type>
+
+
+
+	<message_id>1277372</message_id>
+
+	<to name="Jeff Dasovich" id="27095" address="Joseph.Alamo@ENRON.com"/>
+
+	<to name="Daniel Allegretti" id="5978" address="Daniel.Allegretti@ENRON.com"/>
+
+	<to name="Joe Allen" id="1697" address="Joe.Allen@ENRON.com"/>
+
+	<to name="Ray Alvarez" id="2659" address="Ray.Alvarez@ENRON.com"/>
+
+	<to name="Sergio Assad" id="40254" address="Sergio.Assad@ENRON.com"/>
+
+	<to name="Lisa Assaf" id="69802" address="Lisa.Assaf@ENRON.com"/>
+
+	<to name="Kara Ausenhus" id="3656" address="Kara_Ausenhus@ENRON.net"/>
+
+	<to name="Lynnette Barnes" id="70229" address="Lynnette.Barnes@ENRON.com"/>
+
+	<to name="Kirsten Bellas" id="64609" address="Kirsten.Bellas@ENRON.com"/>
+
+	<to name="Jose Bestard" id="1635" address="Jose.Bestard2@ENRON.com"/>
+
+	<to name="Darran Binns" id="28119" address="Darran.Binns@ENRON.com"/>
+
+	<to name="Scott Bolton" id="1848" address="Scott_Bolton@ENRON.net"/>
+
+	<to name="Roy Boston" id="35851" address="Roy.Boston@ENRON.com"/>
+
+	<to name="Gisele S Braz" id="44604" address="Gisele.S.Braz@ENRON.com"/>
+
+	<to name="Rubena Buerger" id="3154" address="Rubena.Buerger@ENRON.com"/>
+
+	<to name="Stephen D Burns" id="5404" address="Stephen.Burns@ENRON.com"/>
+
+	<to name="Guillermo Canovas" id="43350" address="Guillermo.Canovas@ENRON.com"/>
+
+	<to name="Rebecca W Cantrell" id="12467" address="Rebecca.W.Cantrell@ENRON.com"/>
+
+	<to name="Alan Comnes" id="836" address="Alan.Comnes@ENRON.com"/>
+
+	<to name="Joe Connor" id="2485" address="Joe.Connor@ENRON.com"/>
+
+	<to name="Carolyn Cooney" id="2230" address="Carolyn.Cooney@ENRON.com"/>
+
+	<to name="Adam N Cooper" id="5549" address="Adam.N.Cooper@ENRON.com"/>
+
+	<to name="Mark Crowther" id="75963" address="mark.crowther@enron.com"/>
+
+	<to name="Jeff Dasovich" id="27095" address="Jeff.Dasovich@ENRON.com"/>
+
+	<to name="Philip Davies" id="90108" address="philip.davies@enron.com"/>
+
+	<to name="Paul Dawson" id="1840" address="paul.dawson@enron.com"/>
+
+	<to name="Larry Decker" id="2989" address="Larry.Decker@ENRON.com"/>
+
+	<to name="Ginger Dernehl" id="20406" address="Ginger.Dernehl@ENRON.com"/>
+
+	<to name="Jean Dressler" id="646" address="Jean.R.Dressler@ENRON.com"/>
+
+	<to name="Nick Elms" id="85971" address="nick.elms@enron.com"/>
+
+	<to name="Tom Fitzgibbon" id="112562" address="tom.fitzgibbon@enron.com"/>
+
+	<to name="Vinio Floris" id="117311" address="Vinio_Floris@ENRON.net"/>
+
+	<to name="Robert Frank" id="2426" address="Robert.Frank@ENRON.com"/>
+
+	<to name="Howard Fromer" id="11219" address="Howard.Fromer@ENRON.com"/>
+
+	<to name="Donna Fulton" id="20464" address="Donna.Fulton@ENRON.com"/>
+
+	<to name="Bryan Gottfredson" id="13822" address="Bryan.Gottfredson@ENRON.com"/>
+
+	<to name="Michael Grimes" id="35949" address="Michael.Grimes@ENRON.com"/>
+
+	<to name="Janel Guerrero" id="2841" address="Janel.Guerrero@ENRON.com"/>
+
+	<to name="Jan Haizmann" id="52065" address="Jan.Haizmann@enron.com"/>
+
+	<to name="Allison Navin" id="2820" address="Allison.Hamilton@ENRON.com"/>
+
+	<to name="John Hardy Jr" id="56199" address="John.Hardy@ENRON.com"/>
+
+	<to name="Rita Hartfield" id="2245" address="Rita_Hartfield@ENRON.net"/>
+
+	<to name="Bernadette Hawkins" id="273" address="Bernadette.Hawkins@ENRON.com"/>
+
+	<to name="Robert Hemstock" id="1588" address="Robert.Hemstock@ENRON.com"/>
+
+	<to name="Paul Hennemeyer" id="89452" address="paul.hennemeyer@enron.com"/>
+
+	<to name="Nancy Hetrick" id="20874" address="nancy.hetrick@enron.com"/>
+
+	<to name="Tom Hoatson" id="12661" address="Tom.Hoatson@ENRON.com"/>
+
+	<to name="Alfredo Huertas" id="6475" address="alfredo.huertas@enron.com"/>
+
+	<to name="Barbara A Hueter" id="11767" address="Barbara.A.Hueter@ENRON.com"/>
+
+	<to name="Llewelyn Hughes" id="71606" address="Llewelyn.Hughes@ENRON.com"/>
+
+	<to name="Bevin Hunter" id="13611" address="Bevin.Hunter@ENRON.com"/>
+
+	<to name="Margaret Huson" id="75502" address="Margaret.Huson@ENRON.com"/>
+
+	<to name="Amr Ibrahim" id="3156" address="Amr.Ibrahim@ENRON.com"/>
+
+	<to name="Makiko Imai" id="74950" address="makiko.imai@enron.com"/>
+
+	<to name="Paul Kaufman" id="742" address="Paul.Kaufman@ENRON.com"/>
+
+	<to name="Steven J Kean" id="18327" address="steve.kean@enron.com"/>
+
+	<to name="Amber Keenan" id="6666" address="amber.keenan@enron.com"/>
+
+	<to name="Patrick Keene" id="26990" address="Patrick.Keene@ENRON.com"/>
+
+	<to name="Takashi Kimura" id="110985" address="takashi.kimura@enron.com"/>
+
+	<to name="Harry Kingerski" id="3720" address="Harry.Kingerski@ENRON.com"/>
+
+	<to name="Kikumi Kishigami" id="66611" address="Kikumi.Kishigami@ENRON.com"/>
+
+	<to name="Laurie Knight" id="70067" address="Laurie.Knight@ENRON.com"/>
+
+	<to name="Susan M Landwehr" id="106074" address="Susan.M.Landwehr@ENRON.com"/>
+
+	<to name="Donald Lassere" id="32891" address="Donald.Lassere@ENRON.com"/>
+
+	<to name="Leslie Lawner" id="1377" address="Leslie.Lawner@ENRON.com"/>
+
+	<to name="Linda L Lawrence" id="1337" address="Linda.L.Lawrence@ENRON.com"/>
+
+	<to name="Lara Leibman" id="1855" address="Lara.Leibman@ENRON.com"/>
+
+	<to name="Sam Leonardo" id="26904" address="Sam.Leonardo@ENRON.com"/>
+
+	<to name="Alberto Levy" id="3381" address="Alberto.Levy@ENRON.com"/>
+
+	<to name="Susan Lindberg" id="106180" address="Susan.Lindberg@ENRON.com"/>
+
+	<to name="Elizabeth Linnell" id="11460" address="Elizabeth.Linnell@ENRON.com"/>
+
+	<to name="Chris Long" id="1492" address="Chris.Long@ENRON.com"/>
+
+	<to name="Susan J Mara" id="3364" address="Susan.J.Mara@ENRON.com"/>
+
+	<to name="Luiz Maurer" id="1498" address="Luiz.Maurer@ENRON.com"/>
+
+	<to name="Steven J Kean" id="18327" address="Maureen.McVicker@ENRON.com"/>
+
+	<to name="Janine Migden" id="20455" address="Janine.Migden@ENRON.com"/>
+
+	<to name="Pamela Milano" id="88644" address="Pamela.Milano@ENRON.com"/>
+
+	<to name="Terri Miller" id="112335" address="Terri.Miller@ENRON.com"/>
+
+	<to name="Steve Montovano" id="2368" address="Steve.Montovano@ENRON.com"/>
+
+	<to name="Carin Nersesian" id="1735" address="Carin.Nersesian@ENRON.com"/>
+
+	<to name="Robert Neustaedter" id="3215" address="Robert.Neustaedter@ENRON.com"/>
+
+	<to name="Christi L Nicolay" id="1999" address="Christi.L.Nicolay@ENRON.com"/>
+
+	<to name="Sue Nord" id="2366" address="Sue.Nord@ENRON.com"/>
+
+	<to name="Linda J Noske" id="71819" address="Linda.J.Noske@ENRON.com"/>
+
+	<to name="Sarah Novosel" id="35923" address="Sarah.Novosel@ENRON.com"/>
+
+	<to name="Earlene O'connell" id="36073" address="Earlene.OConnell@ENRON.com"/>
+
+	<to name="Gloria Ogenyi" id="31388" address="Gloria.Ogenyi@ENRON.com"/>
+
+	<to name="Germain Palmer" id="2387" address="Germain.Palmer@ENRON.com"/>
+
+	<to name="Carmen Perez" id="3096" address="Carmen.Perez@ENRON.com"/>
+
+	<to name="Gus Perez" id="45507" address="Gus.Perez@ENRON.com"/>
+
+	<to name="Dave Perrino" id="247" address="Dave.Perrino@ENRON.com"/>
+
+	<to name="Mona L Petrochko" id="83264" address="Mona.L.Petrochko@ENRON.com"/>
+
+	<to name="Melinda Pharms" id="2480" address="Melinda.Pharms@ENRON.com"/>
+
+	<to name="Jose Lucio Reis" id="5406" address="Jose.Lucio.Reis@ENRON.com"/>
+
+	<to name="Margo Reyna" id="11423" address="Margo.Reyna@ENRON.com"/>
+
+	<to name="Frank Rishe" id="41829" address="Frank.Rishe@ENRON.com"/>
+
+	<to name="Helen Rizzo" id="3192" address="Helen.Rizzo@ENRON.com"/>
+
+	<to name="Michael Roan" id="81543" address="Mike.Roan@ENRON.com"/>
+
+	<to name="Linda Robertson" id="35901" address="Linda.Robertson@ENRON.com"/>
+
+	<to name="Marchris Robinson" id="263" address="Marchris.Robinson@ENRON.com"/>
+
+	<to name="Andy Rodriquez" id="8854" address="Andy.Rodriquez@ENRON.com"/>
+
+	<to name="Jean Ryall" id="2147" address="Jean.Ryall@ENRON.com"/>
+
+	<to name="Fred Sampaio" id="5620" address="Fred.Sampaio@ENRON.com"/>
+
+	<to name="Richard Shapiro" id="2482" address="Richard.Shapiro@ENRON.com"/>
+
+	<to name="John Shelk" id="1023" address="John.Shelk@ENRON.com"/>
+
+	<to name="Pat Shortridge" id="12205" address="Pat.Shortridge@ENRON.com"/>
+
+	<to name="Dan Staines" id="12851" address="Dan.Staines@ENRON.com"/>
+
+	<to name="James D Steffes" id="7320" address="James.D.Steffes@ENRON.com"/>
+
+	<to name="Sharonda Stephens" id="3751" address="Sharonda.Stephens@ENRON.com"/>
+
+	<to name="Joan Stransky" id="35927" address="Joan.Stransky@ENRON.com"/>
+
+	<to name="Kerry Stroup" id="542" address="Kerry.Stroup@ENRON.com"/>
+
+	<to name="Randy Stubbings" id="94080" address="Randy.Stubbings@ENRON.com"/>
+
+	<to name="Peter Styles" id="40114" address="Peter.Styles@ENRON.com"/>
+
+	<to name="Kathleen Sullivan" id="95" address="Kathleen.Sullivan@ENRON.com"/>
+
+	<to name="Lora Sullivan" id="506" address="Lora.Sullivan@ENRON.com"/>
+
+	<to name="Jennifer Thome" id="36130" address="Jennifer.Thome@ENRON.com"/>
+
+	<to name="Fino Tiberi" id="41118" address="Fino.Tiberi@ENRON.com"/>
+
+	<to name="Thane Twiggs" id="112745" address="Thane.Twiggs@ENRON.com"/>
+
+	<to name="Teun Van Biert" id="112487" address="teun.van.biert@enron.com"/>
+
+	<to name="Steve Walton" id="11290" address="Steve.Walton@ENRON.com"/>
+
+	<to name="Geriann Warner" id="44039" address="Geriann.Warner@ENRON.com"/>
+
+	<to name="Mika Watanabe" id="2314" address="mika.watanabe@enron.com"/>
+
+	<to name="Doug Wood" id="34166" address="doug.wood@enron.com"/>
+
+	<to name="Charles Yeung" id="4801" address="Charles_Yeung@ENRON.net"/>
+
+	<to name="Lisa Yoho" id="1502" address="Lisa.Yoho@ENRON.com"/>
+
+	<from name="Ginger Dernehl" id="20406" address="Ginger.Dernehl@ENRON.com"/>
+
+	<to name="Jeff Dasovich" id="28265" address="jalamo@enron.com"/>
+
+	<to name="Daniel Allegretti" id="5978" address="Dallegre@ENRON.com"/>
+
+	<to name="Joe Allen" id="1697" address="jallen2@enron.com"/>
+
+	<to name="Ray Alvarez" id="36178" address="Ralvare2@ENRON.com"/>
+
+	<to name="Sergio Assad" id="40254" address="f8cc7d64-b6886a7d-862568e0-2fa29d@ENRON.com"/>
+
+	<to name="Lisa Assaf" id="69802" address="Lassaf@ENRON.com"/>
+
+	<to name="Kara Ausenhus" id="3656" address="Kausenh2@ENRON.com"/>
+
+	<to name="Lynnette Barnes" id="70229" address="Lbarnes@ENRON.com"/>
+
+	<to name="Kirsten Bellas" id="64609" address="Kbellas@ENRON.com"/>
+
+	<to name="Jose Bestard" id="1635" address="4969d7ad-eda10c9e-86256a87-7af435@ENRON.com"/>
+
+	<to name="Darran Binns" id="28119" address="Dbinns@ENRON.com"/>
+
+	<to name="Scott Bolton" id="1848" address="Sbolton2@ENRON.com"/>
+
+	<to name="Roy Boston" id="35851" address="e4624b3b-34048638-862564f2-7505b7@ENRON.com"/>
+
+	<to name="Gisele Braz" id="12779" address="be975df1-a35381bd-862568e0-2fa297@ENRON.com"/>
+
+	<to name="Rubena Buerger" id="3154" address="Rbuerge@ENRON.com"/>
+
+	<to name="Stephen D Burns" id="5404" address="Sburns@ENRON.com"/>
+
+	<to name="Guillermo Canovas" id="43350" address="Gcanovas@ENRON.com"/>
+
+	<to name="Rebecca W Cantrell" id="12467" address="BCANTRE@ENRON.com"/>
+
+	<to name="Alan Comnes" id="836" address="acomnes@enron.com"/>
+
+	<to name="Joe Connor" id="2485" address="Jconnor2@ENRON.com"/>
+
+	<to name="Carolyn Cooney" id="2230" address="Ccooney@ENRON.com"/>
+
+	<to name="Adam N Cooper" id="5549" address="ACooper7@ENRON.com"/>
+
+	<to name="Mark Crowther" id="75963" address="mcrowthe@ENRON.com"/>
+
+	<to name="Jeff Dasovich" id="28265" address="jdasovic@enron.com"/>
+
+	<to name="Philip Davies" id="90108" address="PDAVIES@ENRON.com"/>
+
+	<to name="Paul Dawson" id="1840" address="PDAWSON@ENRON.com"/>
+
+	<to name="Larry Decker" id="2989" address="Ldecker2@ENRON.com"/>
+
+	<to name="Ginger Dernehl" id="20406" address="Gdernehl@ENRON.com"/>
+
+	<to name="Jean Dressler" id="646" address="Jdressle@ENRON.com"/>
+
+	<to name="Nick Elms" id="85971" address="NElms@ENRON.com"/>
+
+	<to name="Tom Fitzgibbon" id="112562" address="tfitzgib@ENRON.com"/>
+
+	<to name="Vinio Floris" id="117311" address="Vfloris@ENRON.com"/>
+
+	<to name="Robert Frank" id="2426" address="rfrank@enron.com"/>
+
+	<to name="Howard Fromer" id="11219" address="hfromer@enron.com"/>
+
+	<to name="Donna Fulton" id="20464" address="dfulton@enron.com"/>
+
+	<to name="Bryan Gottfredson" id="13822" address="Bgottfre@ENRON.com"/>
+
+	<to name="Michael Grimes" id="35949" address="MGRIMES@ENRON.com"/>
+
+	<to name="Janel Guerrero" id="2841" address="Jguerre@ENRON.com"/>
+
+	<to name="Jan Haizmann" id="52065" address="JHAIZMAN@ENRON.com"/>
+
+	<to name="Allison Navin" id="2820" address="Ahamilt3@ENRON.com"/>
+
+	<to name="John Hardy Jr" id="56199" address="Jhardy@ENRON.com"/>
+
+	<to name="Rita Hartfield" id="2245" address="Rita_hartfield@ENRON.com"/>
+
+	<to name="Bernadette Hawkins" id="273" address="Bhawkin@ENRON.com"/>
+
+	<to name="Robert Hemstock" id="1588" address="Rhemsto@ENRON.com"/>
+
+	<to name="Paul Hennemeyer" id="89452" address="PHENNEME@ENRON.com"/>
+
+	<to name="Nancy Hetrick" id="20874" address="Nhetrick@ENRON.com"/>
+
+	<to name="Tom Hoatson" id="12661" address="Thoatson@ENRON.com"/>
+
+	<to name="Alfredo Huertas" id="6475" address="AHuertas@ENRON.com"/>
+
+	<to name="Barbara A Hueter" id="11767" address="bhueter@enron.com"/>
+
+	<to name="Llewelyn Hughes" id="71606" address="lhughes2@ENRON.com"/>
+
+	<to name="Bevin Hunter" id="13611" address="Bhunter@ENRON.com"/>
+
+	<to name="Margaret Huson" id="75502" address="MHUSON@ENRON.com"/>
+
+	<to name="Amr Ibrahim" id="3156" address="Aibrahi@ENRON.com"/>
+
+	<to name="Makiko Imai" id="74950" address="mimai@ENRON.com"/>
+
+	<to name="Paul Kaufman" id="742" address="Pkaufma@ENRON.com"/>
+
+	<to name="Steven J Kean" id="18327" address="skean@enron.com"/>
+
+	<to name="Amber Keenan" id="6666" address="AKeenan@ENRON.com"/>
+
+	<to name="Patrick Keene" id="26990" address="pkeene@enron.com"/>
+
+	<to name="Takashi Kimura" id="110985" address="tkimura@ENRON.com"/>
+
+	<to name="Harry Kingerski" id="3720" address="hkingers@enron.com"/>
+
+	<to name="Kikumi Kishigami" id="66611" address="Kkishiga@ENRON.com"/>
+
+	<to name="Laurie Knight" id="70067" address="Lknight@ENRON.com"/>
+
+	<to name="Susan M Landwehr" id="106074" address="Slandweh@ENRON.com"/>
+
+	<to name="Donald Lassere" id="32891" address="Dlassere@ENRON.com"/>
+
+	<to name="Leslie Lawner" id="1377" address="llawner@enron.com"/>
+
+	<to name="Linda L Lawrence" id="1337" address="Llawrenc@ENRON.com"/>
+
+	<to name="Lara Leibman" id="1855" address="LLEIBMAN@ENRON.com"/>
+
+	<to name="Sam Leonardo" id="26904" address="sleonard@ENRON.com"/>
+
+	<to name="Alberto Levy" id="3381" address="8b15e10f-62e9b697-862568f6-6a407c@ENRON.com"/>
+
+	<to name="Susan Lindberg" id="106180" address="Slindber@ENRON.com"/>
+
+	<to name="Elizabeth Linnell" id="11460" address="Elinnell@ENRON.com"/>
+
+	<to name="Chris Long" id="1492" address="clong@enron.com"/>
+
+	<to name="Susan J Mara" id="3364" address="smara@enron.com"/>
+
+	<to name="Luiz Maurer" id="1498" address="Lmaurer@ENRON.com"/>
+
+	<to name="Steven J Kean" id="18327" address="Mmcvick@ENRON.com"/>
+
+	<to name="Janine Migden" id="20455" address="jmigden@enron.com"/>
+
+	<to name="Pamela Milano" id="88644" address="PMilano@ENRON.com"/>
+
+	<to name="Terri Miller" id="112335" address="Tmiller1@ENRON.com"/>
+
+	<to name="Steve Montovano" id="2368" address="Smontova@ENRON.com"/>
+
+	<to name="Carin Nersesian" id="1735" address="Cnersesi@ENRON.com"/>
+
+	<to name="Robert Neustaedter" id="3215" address="Rneusta@ENRON.com"/>
+
+	<to name="Christi L Nicolay" id="1999" address="Cnicola@ENRON.com"/>
+
+	<to name="Sue Nord" id="2366" address="snord@enron.com"/>
+
+	<to name="Linda J Noske" id="71819" address="Lnoske@ENRON.com"/>
+
+	<to name="Sarah Novosel" id="35923" address="snovose@enron.com"/>
+
+	<to name="Earlene O'connell" id="36073" address="Eoconne@ENRON.com"/>
+
+	<to name="Gloria Ogenyi" id="31388" address="Gogenyi@ENRON.com"/>
+
+	<to name="Germain Palmer" id="2387" address="Gpalmer3@ENRON.com"/>
+
+	<to name="Carmen Perez" id="3096" address="Cperez@ENRON.com"/>
+
+	<to name="Gus Perez" id="45507" address="Gperez3@ENRON.com"/>
+
+	<to name="Dave Perrino" id="247" address="Dperrino@ENRON.com"/>
+
+	<to name="Mona L Petrochko" id="83264" address="mpetroch@enron.com"/>
+
+	<to name="Melinda Pharms" id="2480" address="MPHARMS@ENRON.com"/>
+
+	<to name="Jose Lucio Reis" id="5406" address="acbe7a47-339c97d-862568e0-2fa25a@ENRON.com"/>
+
+	<to name="Margo Reyna" id="11423" address="Mreyna@ENRON.com"/>
+
+	<to name="Frank Rishe" id="41829" address="Frishe@ENRON.com"/>
+
+	<to name="Helen Rizzo" id="3192" address="Hrizzo@ENRON.com"/>
+
+	<to name="Michael Roan" id="81543" address="Mroan@ENRON.com"/>
+
+	<to name="Linda Robertson" id="35901" address="Lrobert3@ENRON.com"/>
+
+	<to name="Marchris Robinson" id="263" address="Mrobinso@ENRON.com"/>
+
+	<to name="Andy Rodriquez" id="8854" address="ARODRIQU@ENRON.com"/>
+
+	<to name="Jean Ryall" id="2147" address="jryall@enron.com"/>
+
+	<to name="Fred Sampaio" id="5620" address="ad619fff-e856fc30-8625699d-77e0e7@ENRON.com"/>
+
+	<to name="Richard Shapiro" id="270" address="rshapiro@enron.com"/>
+
+	<to name="John Shelk" id="1023" address="Jshelk@ENRON.com"/>
+
+	<to name="Pat Shortridge" id="12205" address="Pshortri@ENRON.com"/>
+
+	<to name="Dan Staines" id="12851" address="DSTAINE@ENRON.com"/>
+
+	<to name="James D Steffes" id="7319" address="jsteffe@enron.com"/>
+
+	<to name="Sharonda Stephens" id="3751" address="Sstephe3@ENRON.com"/>
+
+	<to name="Joan Stransky" id="35927" address="Jstrans@ENRON.com"/>
+
+	<to name="Kerry Stroup" id="542" address="Kstroup@ENRON.com"/>
+
+	<to name="Randy Stubbings" id="94080" address="Rstubbin@ENRON.com"/>
+
+	<to name="Peter Styles" id="40114" address="PSTYLES@ENRON.com"/>
+
+	<to name="Kathleen Sullivan" id="95" address="Ksulliva@ENRON.com"/>
+
+	<to name="Lora Sullivan" id="506" address="Lsulliv@ENRON.com"/>
+
+	<to name="Jennifer Thome" id="36130" address="jthome@enron.com"/>
+
+	<to name="Fino Tiberi" id="41118" address="Ftiberi@ENRON.com"/>
+
+	<to name="Thane Twiggs" id="112745" address="Ttwiggs@ENRON.com"/>
+
+	<to name="Teun Van Biert" id="112487" address="TvanBier@ENRON.com"/>
+
+	<to name="Steve Walton" id="11290" address="Swalto2@ENRON.com"/>
+
+	<to name="Geriann Warner" id="44039" address="Gwarner@ENRON.com"/>
+
+	<to name="Mika Watanabe" id="2314" address="mwatana@ENRON.com"/>
+
+	<to name="Doug Wood" id="34166" address="DWOOD@ENRON.com"/>
+
+	<to name="Charles Yeung" id="4801" address="Cyeung@ENRON.com"/>
+
+	<to name="Lisa Yoho" id="1502" address="lyoho@enron.com"/>
+
+	<from name="Ginger Dernehl" id="20406" address="Gdernehl@ENRON.com"/>
+
+
+
+	<parent_id>1277373</parent_id>
+
+
+
+	<subject>Monday, November 12 Conf. Call</subject>
+
+
+
+	<date_time>2001-11-09 16:38:34</date_time>
+
+
+
+	<content>
+
+    
+
+M2.1. Hey folks,
+
+[Conventional: greeting]
+
+M2.2. The conference call mentioned below does not take place of the one scheduled for today, Friday, November 9...this call is in addition too.
+
+[Inform: the conference call on Monday is in addition to, not instead of, the one on Friday]
+
+M2.3. Sorry for the confusion!!!!!!
+
+[Inform: Ginger apologizes for any confusion]
+
+
+
+	</content>
+
+</message>
+
+</xml>
+
+Hierarchical Power Annotation: N/A
+Person_1: 
+Person_2: 
+Reason: 
+
+Situational Power Annotation: N/A
+Person_1: 
+Person_2: 
+Reason: 
+
+Attempt at Exercising Power Annotation: N/A
+DFUs: 
+Person_1:
+Person_2:
+Type:
+Successful?:
+Reason: 
+
+Influence Annotation: N/A
+Person_1:
+Person_2:
+Reason:
+
+Attempt at Influence Annotation: N/A
+DFUs: 
+Person_1:
+Person_2:
+Successful?:
+Reason: 

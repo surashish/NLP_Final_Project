@@ -1,0 +1,499 @@
+<custom>
+
+	<row>
+
+		<thread_id>65</thread_id>
+
+		<depth>0</depth>
+
+		<type>ThreadNode</type>
+
+		<message_id>106860</message_id>
+
+	<to name="Andy Zipper" id="5063" address="Andy.Zipper@ENRON.com"/>
+
+	<from name="David Forster" id="28701" address="David.Forster@ENRON.com"/>
+
+	<to name="Andy Zipper" id="5063" address="azipper@enron.com"/>
+
+	<from name="David Forster" id="28701" address="DFORSTER@ENRON.com"/>
+
+		<parent_id>NULL</parent_id>
+
+		<subject>Charge Methodology</subject>
+
+		<date_time>2001-04-18 10:28:50</date_time>
+
+		<content>
+
+M1.1. Andy,
+
+[Conventional: salutation]
+
+
+
+M1.2. Attached are some ideas for possible charge structures for EnronOnline.
+
+M1.3. I am recommending something which will probably be surprising, given our conversation.
+
+M1.4. Let's discuss when you have a moment.
+
+[Inform: ideas attached/surprising recommendation/would like to discuss]
+
+
+
+M1.5. Dave
+
+[Conventional: signature]
+
+
+
+
+
+M1.6. Recommendation
+
+[Inform: following is recommendation]
+
+
+
+M1.7. a) For new commodity areas, continue to charge a set up fee in accordance with our previously agreed schedule.
+
+M1.8. (e.g. $350,000 for new Market Area)
+
+[Inform: charge set up fee for new commodity areas in accordance with previously agreed-upon schedule]
+
+Sflink1.8
+
+
+
+M1.9. b) Charge a per-volume maintenance fee which is comparable to industry brokerage fees,
+
+M1.10. with a minimum charge equivalent to $4,000 per Product * Total number of Products).
+
+[Inform: charge a per-value maintenance fee comparable to industry brokerage fee with minimum charge]
+
+Sflink1.10
+
+
+
+M1.11. This method results in a total charge of approx. $46.5 million pa.
+
+M1.12. (providing coverage for existing charges, some growth and London's charges)
+
+[Inform: total charge/provides coverage for existing charges and other things]
+
+
+
+M1.13. This method is recommended because it balances a fee to reflect real expenditure of effort on behalf on Enron Online staff (the per Product minimum)
+
+M1.14. with a structure which is recognizeable (and hopefully more easily sold) to the traders.
+
+[Inform: this method is recommended/its structure is more recognizable to traders]
+
+
+
+M1.15. This structure is primarily not cost-driven, but is value-driven;
+
+M1.16. those who derive the greatest value pay the highest costs.
+
+[Inform: is value-driven/those who derive greatest value pay highest amounts]
+
+
+
+
+
+
+
+M1.17 Example Charges
+
+[Inform: following are example charges]
+
+
+
+M1.18 Here are some example charges if we use the recommended method:
+
+
+
+
+
+M1.19 Commodity			Charge
+
+
+
+US Nat Gas			$24,282,875
+
+US Power			$  5,163,563
+
+Metals				$  5,798,144
+
+Crude &amp; Products		$  3,578,560
+
+Norwegian Power		$     380,869
+
+Global Credit			$     400,000
+
+Coal				$     966,265
+
+Bandwidth 			$     312,000
+
+
+
+
+
+M1.20 Or, by Group:
+
+
+
+ENA		$30,647,772
+
+EEL		$  8,774,844
+
+EGM		$  6,741,955
+
+EIM		$     106,250
+
+EBS		$     312,000
+
+Total:		$46,582,821
+
+[Inform: 2 charts illustrating example charges by commodity or group]
+
+
+
+M1.21 Sensitivity
+
+[Inform: following is "Sensitivity"]
+
+
+
+M1.22 With the recommended structure, if transactions for 2001 are:
+
+[Inform: following is a list of possible numbers of transactions for 2001]
+
+
+
+M1.23 a) The same as the last half of 2000 * 2, then we recover approx. $46 million.
+
+[Inform: if same as 2nd half of 2000 * 2, then recover about $46 million]
+
+
+
+M1.24 b) Double, then we recover approx. $90 million
+
+[Inform: if double 2nd half of 2000 * 2, then recover about $90 million]
+
+
+
+M1.25 c) Half, then we recover approx.$24 million
+
+[Inform: if half of 2nd half of 2000 * 2, then recover about $24 million]
+
+
+
+M1.26 c) Zero, then we recover approx. $6.4 million
+
+[Inform: if nothing, then recover about $6.4 million]
+
+
+
+
+
+M1.27 Alternatives - Basic Structure
+
+[Inform: the following are alternatives using the basic charge structure]
+
+
+
+M1.28 Any of the following could be combined to create additional alternatives:
+
+[Inform: any of the following could be combined to create more alternatives]
+
+
+
+M1.29 Alternative 1: As per the recommended structure, but charge a flat per-transaction fee instead of a per volume fee. This would result in a charge of $xx per transaction.
+
+[Inform: alternative 1, flat per-transaction fee]
+
+Sflink1.29
+
+
+
+M1.30 Alternative 2: Charge by Product Types (we currently have 358, so full charge would be approx. $112,000 per Product Type)
+
+[Inform: alternative 2, charge by product types]
+
+
+
+M1.31 Alternative 3: Charge by Products (we currently have 1500 per day, so full charge would be approx. $27,000 per Product)
+
+[Inform: alternative 3, charge by products]
+
+
+
+M1.32 Alternative 4: Charge by Country/Commodity (we currently have 61, so full charge would be approx. $656,000 per Country/Commodity)
+
+[Inform: alternative 4, charge by country/commodity]
+
+
+
+M1.33 Alternative 5: Use the same methodology as currently used for the cost allocation (55% of cost allocation based on number of transactions and 45% based on Country/Commodity Markets Served) This would result in transaction charges of approx. xxx per transaction and $295,000 per Market served.
+
+[Inform: alternative 5, same methodology as currently used for cost allocation]
+
+
+
+
+
+M1.34 Alternatives - Different Structures
+
+[Inform: the following is a list of alternatives using different structures]
+
+
+
+M1.35 Alternative 5: Separate Marketing costs and charge directly to business units based on activity
+
+[Inform: alternative 5[sic], separate marketing costs/charge directly to business units based on activity]
+
+
+
+M1.36 Alternative 6: Separate Development costs as a separate item not covered by the basic charge structure, but recovered solely through increases in EnronOnline business.
+
+[Inform: alternative 6[sic], separate development costs not covered by basic charge structure/recovered only through increases in EnronOnline business]
+
+
+
+</content>
+
+	</row>
+
+	<row>
+
+		<thread_id>65</thread_id>
+
+		<depth>1</depth>
+
+		<type>ThreadNodeBubble</type>
+
+		<message_id>2000020</message_id>
+
+		<parent_id>106860</parent_id>
+
+		<subject>Charge Methodology</subject>
+
+		<date_time>2001-04-18 12:56:13</date_time>
+
+		<content>
+
+
+
+M2.1. Okay. good start.
+
+[Inform: good start]
+
+
+
+M2.2. I like the idea of a minimum for each product,
+
+[Inform: Andy Zipper likes minimum for each product]
+
+Blink1.10
+
+
+
+M2.3. and I like staying with existing structure for new products.
+
+[Inform: Andy Zipper likes staying w/existing structure for new products]
+
+Blink1.8
+
+
+
+M2.4. Let's look at alternative 1, the flat fee per trade,
+
+M2.5. and see what it would need to be to yield $35mm in revs based on average tradecount YTD,
+
+M2.6. i.e. extraplolate that out for rest of year for a pro forma. [Y]
+
+[Inform: likes flat fee per trade/would like to see what is needed to yield $35mm in revenues]
+
+Blink1.29
+
+Sflink2.6
+
+
+
+M2.7. Thoughts ?
+
+[Request-Information: thoughts]
+
+Flink2.7
+
+
+
+</content>
+
+	</row>
+
+	<row>
+
+		<thread_id>65</thread_id>
+
+		<depth>2</depth>
+
+		<type>ThreadNode</type>
+
+		<message_id>106859</message_id>
+
+	<to name="Andy Zipper" id="5063" address="Andy.Zipper@ENRON.com"/>
+
+	<from name="David Forster" id="28701" address="David.Forster@ENRON.com"/>
+
+	<to name="Andy Zipper" id="5063" address="azipper@enron.com"/>
+
+	<from name="David Forster" id="28701" address="DFORSTER@ENRON.com"/>
+
+		<parent_id>2000020</parent_id>
+
+		<subject>Charge Methodology</subject>
+
+		<date_time>2001-04-18 15:23:37</date_time>
+
+		<content>
+
+
+
+M3.1. Sorry - xxx (below) was supposed to be replaced with $54.50 per transaction,
+
+M3.2. which is based on 2 * the July00-Dec00 transaction count.
+
+M3.3. Note this results in $40 million of recovery, which includes Amita's costs.
+
+[Inform: explaining "xx" in Alternative 1- Basic Structure]
+
+Blink1.29
+
+
+
+M3.5. If you just look at $35 million recovery, the per-transaction fee is $47.68.
+
+[Inform: per-transaction fee of $35 million recovery]
+
+Blink2.6
+
+
+
+M3.6. This structure has the advantage that it is a little closer to the current cost allocation methodology,
+
+M3.7. but this methodology is not well known by the business units.
+
+[Inform: advantage/disadvantage of this structure]
+
+
+
+M3.8. I actually started drafting this email with Alternative 1 as the recommendation,
+
+M3.9. but decided that if we have to sell this internally, the brokerage lookalike structure would be easer to sell and defend.
+
+[Inform: brokerage lookalike structure better than Alternative 1]
+
+
+
+M3.10. Dave
+
+[Conventional: signature]
+
+
+
+</content>
+
+	</row>
+
+	<row>
+
+		<thread_id>65</thread_id>
+
+		<depth>3</depth>
+
+		<type>ThreadNodeBubble</type>
+
+		<message_id>2000021</message_id>
+
+		<parent_id>106859</parent_id>
+
+		<subject>Charge Methodology</subject>
+
+		<date_time>2001-04-18 15:29:33</date_time>
+
+		<content>
+
+
+
+M4.1. Could you send me the commission numbers used for each of the major products in your volume based approach . [Y]
+
+[Request-Action: send commission numbers for each major product in volume-based approach]
+
+Flink4.1
+
+
+
+</content>
+
+	</row>
+
+	<row>
+
+		<thread_id>65</thread_id>
+
+		<depth>4</depth>
+
+		<type>ThreadNode</type>
+
+		<message_id>106858</message_id>
+
+	<to name="Andy Zipper" id="5063" address="Andy.Zipper@ENRON.com"/>
+
+	<from name="David Forster" id="28701" address="David.Forster@ENRON.com"/>
+
+	<to name="Andy Zipper" id="5063" address="azipper@enron.com"/>
+
+	<from name="David Forster" id="28701" address="DFORSTER@ENRON.com"/>
+
+		<parent_id>2000021</parent_id>
+
+		<subject>Charge Methodology</subject>
+
+		<date_time>2001-04-18 15:35:30</date_time>
+
+		<content>
+
+M5.1. Sure.
+
+[Commit: David will send commission numbers]
+
+Blink4.1
+
+
+
+M5.2. These are actually taken directly from the spreadsheet which Mike Bridges prepared several months ago.
+
+[Inform: numbers taken directly from spreadsheet]
+
+
+
+M5.3. If this is a route you want to pursue, we should first verify each of the numbers as current.
+
+[Inform: must verify numbers as correct before pursuing this route]
+
+
+
+M5.4. Dave
+
+[Conventional: signature]
+
+
+
+</content>
+
+	</row>
+
+	</custom>

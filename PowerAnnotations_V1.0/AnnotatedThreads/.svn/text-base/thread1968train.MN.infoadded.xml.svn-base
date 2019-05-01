@@ -1,0 +1,381 @@
+1968
+Annotation for intention:
+
+Knowledge-Acquisition: protests from various groups regarding a USGT transaction
+
+Annotation for control:
+Mary Kay Miller: Mary initiates the thread and tells the others about the protests regarding the transaction.
+
+
+
+<xml>
+
+<message>
+
+
+
+	<thread_id>1968</thread_id>
+
+
+
+	<depth>0</depth>
+
+
+
+	<type>ThreadNode</type>
+
+
+
+	<message_id>1290839</message_id>
+
+	<to name="Drew Fossum" id="3394" address="Drew.Fossum@ENRON.com"/>
+
+	<to name="Danny McCarty" id="304" address="Danny.McCarty@ENRON.com"/>
+
+	<to name="Steven Harris" id="2333" address="Steven.Harris@ENRON.com"/>
+
+	<to name="TK Lohman" id="112973" address="TK.Lohman@ENRON.com"/>
+
+	<to name="Gregory J Porter" id="45551" address="Greg.Porter@ENRON.com"/>
+
+	<to name="Maria Pavlou" id="75640" address="Maria.Pavlou@ENRON.com"/>
+
+	<to name="Kimberly Watson" id="66827" address="Kimberly.Watson@ENRON.com"/>
+
+	<to name="Teb Lokey" id="42499" address="Teb.Lokey@ENRON.com"/>
+
+	<to name="Robert Kilmer III" id="93413" address="Robert.Kilmer@ENRON.com"/>
+
+	<to name="Joe Hartsoe" id="4898" address="Joe.Hartsoe@ENRON.com"/>
+
+	<from name="Mary Kay Miller" id="2029" address="Mary.Kay.Miller@ENRON.com"/>
+
+	<to name="Drew Fossum" id="3394" address="Dfossum@ENRON.com"/>
+
+	<to name="Danny McCarty" id="304" address="dmccarty@ENRON.COM"/>
+
+	<to name="Steven Harris" id="2333" address="sharris1@enron.com"/>
+
+	<to name="TK Lohman" id="112973" address="Tlohman@ENRON.com"/>
+
+	<to name="Gregory J Porter" id="45551" address="gporter@ENRON.com"/>
+
+	<to name="Maria Pavlou" id="75640" address="mpavlou@enron.com"/>
+
+	<to name="Kimberly Watson" id="66827" address="kwatson@enron.com"/>
+
+	<to name="Teb Lokey" id="42499" address="tlokey@enron.com"/>
+
+	<to name="Robert Kilmer III" id="93413" address="rkilmer@enron.com"/>
+
+	<to name="Joe Hartsoe" id="4898" address="jhartso@enron.com"/>
+
+	<from name="Mary Kay Miller" id="2029" address="MKMiller@ENRON.com"/>
+
+
+
+	<parent_id></parent_id>
+
+
+
+	<subject>TW Negotiated rate with USGT</subject>
+
+
+
+	<date_time>2001-11-14 11:18:19</date_time>
+
+
+
+	<content>
+
+    
+
+M1.1. For your info, we have received a protest and or reguest for Tech Conference or hearing from the CPUC regarding the USGT transaction starting Nov 1, 2001.
+
+[Inform: Mary has received a protest and/or request for a Tech Conference or hearing regarding a USGT transaction]
+
+Sflink1.1
+
+M1.2. they raise the market power issue, the pricing, the volume, the policy of market based rates.
+
+[Inform: the issues raised are market power, pricing, volume, and rate policy]
+
+M1.3. We expect a similar protest from IS, and also the issue regarding the alternate point use.
+
+[Inform: Mary expects IS to issue a similar protest]
+
+Sflink1.3
+
+M1.4. The volume on this transaction is for 400,000 per day with the negotiated rate provision only relating to the alternate path to Calif.
+
+[Inform: daily volume on transaction, and detail regarding negotiated rate provision]
+
+M1.5. More to come.
+
+[Inform: there will be more information yet to come]
+
+
+
+	</content>
+
+</message>
+
+<message>
+
+
+
+	<thread_id>1968</thread_id>
+
+
+
+	<depth>1</depth>
+
+
+
+	<type>ThreadNode</type>
+
+
+
+	<message_id>1266363</message_id>
+
+	<to name="Bill Rapp" id="1934" address="Bill.Rapp@ENRON.com"/>
+
+	<from name="Steven Harris" id="2333" address="Steven.Harris@ENRON.com"/>
+
+	<to name="Bill Rapp" id="1934" address="brapp@enron.com"/>
+
+	<from name="Steven Harris" id="2333" address="sharris1@enron.com"/>
+
+
+
+	<parent_id>1290839</parent_id>
+
+
+
+	<subject>TW Negotiated rate with USGT</subject>
+
+
+
+	<date_time>2001-11-14 11:20:31</date_time>
+
+
+
+	<content>
+
+    
+
+M2.1. fyi
+
+[Inform: the presumably attached previous email is being sent for Bill's information]
+
+
+
+	</content>
+
+</message>
+
+<message>
+
+
+
+	<thread_id>1968</thread_id>
+
+
+
+	<depth>1</depth>
+
+
+
+	<type>ThreadNodeBubble</type>
+
+
+
+	<message_id>2000769</message_id>
+
+
+
+	<parent_id>1290839</parent_id>
+
+
+
+	<subject>TW Negotiated rate with USGT</subject>
+
+
+
+	<date_time>2001-11-14 21:58:43</date_time>
+
+
+
+	<content>
+
+    
+
+M3.1. Mary Kay,
+
+[Conventional: salutation]
+
+
+
+M3.2. What is the usual process on something like this?
+
+[Request-Information: usual process on such a matter]
+
+Blink1.1
+
+Flink3.2
+
+M3.3. Do we get a chance to respond to the protest before the FERC makes a decision on whether to hold a Tech Conf?
+
+[Request-Information: can Kim et al. have a chance to respond to the protest before a Tech Conference might be scheduled]
+
+Blink1.1
+
+Flink3.3
+
+M3.4. What is the timeline for any other protests to come in?
+
+[Request-Information: timeline for other protests]
+
+Blink1.3
+
+Flink3.4
+
+M3.5. What is the timeline for FERC to decide?
+
+[Request-Information: timeline for FERC to decide whether to hold a Tech Conference]
+
+Flink3.5
+
+
+
+M3.6. Thanks, Kim.
+
+[Conventional: thanks, signature]
+
+
+
+	</content>
+
+</message>
+
+<message>
+
+
+
+	<thread_id>1968</thread_id>
+
+
+
+	<depth>2</depth>
+
+
+
+	<type>ThreadNode</type>
+
+
+
+	<message_id>1266375</message_id>
+
+	<to name="Kimberly Watson" id="66827" address="Kimberly.Watson@ENRON.com"/>
+
+	<from name="Mary Kay Miller" id="2029" address="Mary.Kay.Miller@ENRON.com"/>
+
+	<cc name="TK Lohman" id="112973" address="TK.Lohman@ENRON.com"/>
+
+	<cc name="Steven Harris" id="2333" address="Steven.Harris@ENRON.com"/>
+
+	<cc name="Maria Pavlou" id="75640" address="Maria.Pavlou@ENRON.com"/>
+
+	<cc name="Bill Rapp" id="1934" address="Bill.Rapp@ENRON.com"/>
+
+	<to name="Kimberly Watson" id="66827" address="kwatson@enron.com"/>
+
+	<from name="Mary Kay Miller" id="2029" address="MKMiller@ENRON.com"/>
+
+	<cc name="TK Lohman" id="112973" address="Tlohman@ENRON.com"/>
+
+	<cc name="Steven Harris" id="2333" address="sharris1@enron.com"/>
+
+	<cc name="Maria Pavlou" id="75640" address="mpavlou@enron.com"/>
+
+	<cc name="Bill Rapp" id="1934" address="brapp@enron.com"/>
+
+
+
+	<parent_id>2000769</parent_id>
+
+
+
+	<subject>TW Negotiated rate with USGT</subject>
+
+
+
+	<date_time>2001-11-15 08:39:08</date_time>
+
+
+
+	<content>
+
+M4.1. Yes,  we will prepare a answer to the protests and I believe that Maria is working with Bill Rapp on this-
+
+[Inform: Mary Kay et al. will prepare a response to protests, and Maria and Bill Rapp are working on it]
+
+Blink3.3
+
+M4.2. still haven't seen whether IS filed, but I can't believe they didn't.
+
+[Inform: Mary Kay does not know whether IS filed a protest, though it is likely]
+
+Blink3.4 
+
+M4.3. The FERC should issue an order by the end of Nov so we need to get the answer in quick-
+
+[Inform: FERC will issue an order by the end of November]
+
+Blink3.5
+
+M4.4. MK
+
+[Conventional: signature]
+
+
+
+	</content>
+
+</message>
+
+</xml>
+
+Hierarchical Power Annotation: N/A
+Person_1: 
+Person_2: 
+Reason: 
+
+Situational Power Annotation:
+Person_1: Mary Kay Miller
+Person_2: Kimberly Watson
+Reason: In message 3, Kim asks Mary a lot of questions about the protests, which Mary answers in message 4. Clearly, Mary knows much more about this topic.
+
+Person_1: Mary Kay Miller
+Person_2: Maria Pavlou, Bill Rapp
+Reason: In M4.1, Mary mentions that Maria and Bill are working on an answer to the protests, showing that Mary has probably delegated this task to them.
+
+Attempt at Exercising Power Annotation: N/A
+DFUs: 
+Person_1:
+Person_2:
+Type:
+Successful?:
+Reason: 
+
+Influence Annotation: N/A
+Person_1:
+Person_2:
+Reason:
+
+Attempt at Influence Annotation: N/A
+DFUs: 
+Person_1:
+Person_2:
+Successful?:
+Reason: 

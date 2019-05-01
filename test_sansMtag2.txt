@@ -1,0 +1,155 @@
+<custom>
+
+	<row>
+
+		<thread_id>99</thread_id>
+
+		<depth>0</depth>
+
+		<type>ThreadNode</type>
+
+		<message_id>277651</message_id>
+
+	<to name="Daren J Farmer" id="28042" address="dfarmer@enron.com"/>
+
+	<from name="Keith Ford" id="66315" address="kford1@txu.com"/>
+
+		<parent_id>NULL</parent_id>
+
+		<subject>GISB contracts for intrastate and interstate gas</subject>
+
+		<date_time>2001-05-25 15:00:57</date_time>
+
+		<content>
+
+ At the request of Lynn Handlin, please find attached a copy of the following:
+
+ GISB contract form
+
+ Special Provisions for intrastate gas
+
+ Special Provision for interstate gas
+
+
+
+
+
+ Please review,
+
+ and if interested in putting these contracts in place, forward to
+
+me all required information on the first page of the GISB contract form.
+
+
+
+Flink1.6
+
+ I will
+
+then have the contracts prepared and forwarded to you for execution.
+
+
+
+
+
+ Please keep in mind that TXU Fuel Company is an intrastate pipeline
+
+ and can
+
+purchase interstate gas only under certain limited conditions.
+
+ These conditions
+
+are covered under item number 8 in the Special Provisions.
+
+
+
+ Thanks.
+
+
+
+
+
+ Keith Ford
+
+ TXU Fuel Company
+
+ Contract Administration Supervisor
+
+
+
+
+
+</content>
+
+	</row>
+
+	<row>
+
+		<thread_id>99</thread_id>
+
+		<depth>2</depth>
+
+		<type>ThreadNode</type>
+
+		<message_id>727061</message_id>
+
+	<to name="Daren J Farmer" id="28042" address="Daren.J.Farmer@ENRON.com"/>
+
+	<from name="Anthony Campos" id="5378" address="Anthony.Campos@ENRON.com"/>
+
+	<to name="Daren J Farmer" id="28042" address="dfarmer@enron.com"/>
+
+	<from name="Anthony Campos" id="5378" address="Acampos@ENRON.com"/>
+
+		<parent_id>NULL</parent_id>
+
+		<subject>GISB contracts for intrastate and interstate gas</subject>
+
+		<date_time>2001-07-11 14:05:43</date_time>
+
+		<content>
+
+ Mr. Farmer,
+
+
+
+
+
+ I have forwarded your request with comments to Debra Perlingiere (Legal Specialist - x3-7658) and Stacey Dickson (Sr. Counsel - x3-5705)
+
+ who handle negotiations for new Master Agreements.
+
+
+
+ Please let me know if I may be of further assistance.
+
+
+
+
+
+ Thank You,
+
+
+
+ Anthony Campos
+
+ Enron Corp._Global Contracts
+
+ 713.853.7911 (office)
+
+ 713.646.2495 (fax)
+
+ 713.709.0373 (pager)
+
+ Anthony.Campos@enron.com
+
+
+
+
+
+</content>
+
+	</row>
+
+	</custom>

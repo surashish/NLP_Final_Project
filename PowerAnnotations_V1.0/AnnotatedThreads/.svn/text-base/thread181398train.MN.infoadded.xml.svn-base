@@ -1,0 +1,422 @@
+181398train
+Annotation for intention:
+
+External-event-planning: deciding on a time to discuss RMT
+
+Annotation for control:
+Sara Shackleton, Robert H George: While Sara suggests 3:30 as the time for the RMT discussion and Susan Musch agrees to it, Robert gets Sara to move it back to 4 or 4:30.
+
+
+
+<xml>
+
+<message>
+
+
+
+	<thread_id>181398</thread_id>
+
+
+
+	<depth>0</depth>
+
+
+
+	<type>ThreadNode</type>
+
+
+
+	<message_id>1259197</message_id>
+
+	<to name="Sara Shackleton" id="64528" address="Sara.Shackleton@ENRON.com"/>
+
+	<from name="Susan Musch" id="106659" address="Susan.Musch@ENRON.com"/>
+
+	<to name="Sara Shackleton" id="64528" address="sshackl@enron.com"/>
+
+	<from name="Susan Musch" id="106659" address="Smusch@ENRON.com"/>
+
+
+
+	<parent_id></parent_id>
+
+
+
+	<subject>RMT</subject>
+
+
+
+	<date_time>2002-02-01 11:29:13</date_time>
+
+
+
+	<content>
+
+    
+
+M1.1. Sara,
+
+[Conventional: salutation]
+
+
+
+M1.2. When you like to meet on RMT today?
+
+[Request-Information: when would Sara like to meet to discuss RMT today]
+
+Flink1.2
+
+M1.3. My morning is booked up, but the afternoon is pretty open.
+
+[Inform: Susan's morning is booked, but afternoon is free]
+
+
+
+M1.4. Best regards,
+
+M1.5. Susan
+
+[Conventional: signature]
+
+
+
+	</content>
+
+</message>
+
+<message>
+
+
+
+	<thread_id>181398</thread_id>
+
+
+
+	<depth>1</depth>
+
+
+
+	<type>ThreadNode</type>
+
+
+
+	<message_id>1258631</message_id>
+
+	<to name="Susan Musch" id="106659" address="Smusch@ENRON.com"/>
+
+	<to name="Robert H George" id="43896" address="Rgeorge@ENRON.com"/>
+
+	<from name="Sara Shackleton" id="64528" address="sshackl@enron.com"/>
+
+
+
+	<parent_id>1259197</parent_id>
+
+
+
+	<subject>RMT</subject>
+
+
+
+	<date_time>2002-02-01 13:56:03</date_time>
+
+
+
+	<content>
+
+    
+
+M2.1. let me know if 3:30 works for you guys;
+
+[Request-Information: whether 3:30 is a good time to meet]
+
+Blink1.2
+
+Flink2.1
+
+M2.2. we can meet in 3801a (my office).
+
+[Inform: they can meet in Sara's office]
+
+
+
+M2.3. thanks.
+
+[Conventional: thanks]
+
+M2.4. Sara
+
+[Conventional: signature]
+
+
+
+	</content>
+
+</message>
+
+<message>
+
+
+
+	<thread_id>181398</thread_id>
+
+
+
+	<depth>2</depth>
+
+
+
+	<type>ThreadNode</type>
+
+
+
+	<message_id>1258540</message_id>
+
+	<to name="Sara Shackleton" id="64528" address="Sara.Shackleton@ENRON.com"/>
+
+	<to name="Robert H George" id="43896" address="Robert.H.George@ENRON.com"/>
+
+	<from name="Susan Musch" id="106659" address="Susan.Musch@ENRON.com"/>
+
+	<to name="Sara Shackleton" id="64528" address="sshackl@enron.com"/>
+
+	<to name="Robert H George" id="43896" address="Rgeorge@ENRON.com"/>
+
+	<from name="Susan Musch" id="106659" address="Smusch@ENRON.com"/>
+
+
+
+	<parent_id>1258631</parent_id>
+
+
+
+	<subject>RMT</subject>
+
+
+
+	<date_time>2002-02-01 14:43:06</date_time>
+
+
+
+	<content>
+
+    
+
+M3.1. Works for me.
+
+[Inform: 3:30 works for Susan]
+
+Blink2.1
+
+
+
+	</content>
+
+</message>
+
+<message>
+
+
+
+	<thread_id>181398</thread_id>
+
+
+
+	<depth>2</depth>
+
+
+
+	<type>ThreadNodeBubble</type>
+
+
+
+	<message_id>2006391</message_id>
+
+
+
+	<parent_id>1258631</parent_id>
+
+
+
+	<subject>RMT</subject>
+
+
+
+	<date_time>2002-02-01 15:02:40</date_time>
+
+
+
+	<content>
+
+    
+
+M4.1. Works for me.
+
+[Inform: 3:30 works for Susan]
+
+Blink2.1
+
+Sflink4.1
+
+
+
+	</content>
+
+</message>
+
+<message>
+
+
+
+	<thread_id>181398</thread_id>
+
+
+
+	<depth>3</depth>
+
+
+
+	<type>ThreadNode</type>
+
+
+
+	<message_id>1259199</message_id>
+
+	<to name="Susan Musch" id="106659" address="Susan.Musch@ENRON.com"/>
+
+	<to name="Sara Shackleton" id="64528" address="Sara.Shackleton@ENRON.com"/>
+
+	<from name="Robert H George" id="43896" address="Robert.H.George@ENRON.com"/>
+
+	<to name="Susan Musch" id="106659" address="Smusch@ENRON.com"/>
+
+	<to name="Sara Shackleton" id="64528" address="sshackl@enron.com"/>
+
+	<from name="Robert H George" id="43896" address="Rgeorge@ENRON.com"/>
+
+
+
+	<parent_id>2006391</parent_id>
+
+
+
+	<subject>RMT</subject>
+
+
+
+	<date_time>2002-02-01 16:09:17</date_time>
+
+
+
+	<content>
+
+    
+
+M5.1. Can we move it to 4:00 or 4:30 as my meeting is still in progress.
+
+[Request-Information: can meeting be moved to 4:00 or 4:30]
+
+Blink4.1
+
+Flink5.1
+
+
+
+	</content>
+
+</message>
+
+<message>
+
+
+
+	<thread_id>181398</thread_id>
+
+
+
+	<depth>4</depth>
+
+
+
+	<type>ThreadNode</type>
+
+
+
+	<message_id>1258630</message_id>
+
+	<to name="Robert H George" id="43896" address="Rgeorge@ENRON.com"/>
+
+	<from name="Sara Shackleton" id="64528" address="sshackl@enron.com"/>
+
+
+
+	<parent_id>1259199</parent_id>
+
+
+
+	<subject>RMT</subject>
+
+
+
+	<date_time>2002-02-01 16:33:30</date_time>
+
+
+
+	<content>
+
+    
+
+M6.1. fine with me and I'm waiting to hear from Susan
+
+[Inform: this is fine with Sara, who is waiting to hear from Susan]
+
+Blink5.1
+
+
+
+	</content>
+
+</message>
+
+</xml>
+
+Hierarchical Power Annotation: N/A
+Person_1: 
+Person_2: 
+Reason: 
+
+Situational Power Annotation:
+Person_1: Sara Shackleton
+Person_2: Susan Musch
+Reason: Susan asks Sara when they should meet in message 1, and in messages 3 and 4 agrees with the suggestion Sara made in message 2.
+
+Person_1: Robert H George
+Person_2: Sara Shackleton
+Reason: In message 5 Robert asks to move the meeting back and Sara agrees in message 6.
+
+Attempt at Exercising Power Annotation:
+DFUs: M2.1-M2.2
+Person_1: Sara Shackleton
+Person_2: Susan Musch
+Type: Situational
+Successful?: Y
+Reason: Susan complies with Sara's suggested meeting time and place in messages 3 and 4.
+
+DFUs: M5.1
+Person_1: Robert H George
+Person_2: Sara Shackleton
+Type: Situational
+Successful?: Y
+Reason: After Robert asks to move the time of the meeting back, Sara agrees to it in message 6.
+
+Influence Annotation: N/A
+Person_1:
+Person_2:
+Reason:
+
+Attempt at Influence Annotation: N/A
+DFUs: 
+Person_1:
+Person_2:
+Successful?:
+Reason: 

@@ -1,0 +1,249 @@
+44299train
+Annotation for intention:
+
+Knowledge-Acquisition/External-event-planning: Revised agenda for next TAR and L meeting/request for call-in number for meeting
+
+Annotation for control:
+Wayne Gardner: Wayne initiates the thread and provides the revised agenda for the meeting.
+
+
+
+<xml>
+
+<message>
+
+
+
+	<thread_id>44299</thread_id>
+
+
+
+	<depth>0</depth>
+
+
+
+	<type>ThreadNode</type>
+
+
+
+	<message_id>164151</message_id>
+
+	<to name="Donald Lassere" id="32891" address="Donald.Lassere@ENRON.com"/>
+
+	<to name="Sue Nord" id="2366" address="Sue.Nord@ENRON.com"/>
+
+	<to name="Michelle Hicks" id="5999" address="Michelle.Hicks@ENRON.com"/>
+
+	<to name="Cynthia Harkness" id="21327" address="Cynthia.Harkness@ENRON.com"/>
+
+	<to name="Lara Leibman" id="1855" address="Lara.Leibman@ENRON.com"/>
+
+	<to name="Jan Haizmann" id="52065" address="Jan.Haizmann@enron.com"/>
+
+	<to name="Rajen Shah" id="93723" address="Rajen.Shah@ENRON.com"/>
+
+	<to name="James Ginty" id="36177" address="James.Ginty@ENRON.com"/>
+
+	<to name="Derenda Plunkett" id="2072" address="Derenda.Plunkett@ENRON.com"/>
+
+	<to name="David Merrill" id="28949" address="David.Merrill@ENRON.com"/>
+
+	<to name="Robbi Rossi" id="48848" address="Robbi.Rossi@ENRON.com"/>
+
+	<to name="Alisa Christensen" id="7360" address="Alisa.Christensen@ENRON.com"/>
+
+	<to name="Jeff Dasovich" id="27095" address="Jeff.Dasovich@ENRON.com"/>
+
+	<from name="Wayne Gardner" id="118705" address="Wayne.Gardner@ENRON.com"/>
+
+
+
+	<parent_id></parent_id>
+
+
+
+	<subject>Revised Agenda for next TAR&L meeting</subject>
+
+
+
+	<date_time>2000-11-13 15:08:00</date_time>
+
+
+
+	<content>
+
+    
+
+M1.1. 1.  Based on discussions from the 11/8 meeting, step through a specific
+
+US/Japan trading example for bandwidth purchased and resold by the US trading
+
+desk, specifically determining what the US trading desk can and cannot do
+
+with respect to each piece of the international capacity segment
+
+[Inform: based on discussions from meeting 5 days ago, plan is to first step through an example of US/Japan trading, involving US trading desk]
+
+M1.2. (see
+
+attached file).
+
+[Inform: attached document has more details]
+
+M1.3. 2.  Time permitting, step through a US/Japan trading example for bandwidth
+
+purchased and resold by the Singapore trading desk, specifically determining
+
+what a hypothetical Singapore trading desk could and could not do with
+
+respect to each piece of the international capacity segment.
+
+[Inform: if time allows, next step in plan is to go through an example involving Singapore trading desk]
+
+M1.4. 3.  Develop a prioritized plan of action specifying steps, accountabilities,
+
+format, and timeline for each area of responsibility to work together to
+
+provide necessary input for traders for each of the following jurisdictions:
+
+[Inform: next step is to develop a plan of action for each of the following jurisdictions]
+
+M1.5. Europe
+
+Japan
+
+Hong Kong
+
+Australia
+
+Singapore
+
+Taiwan
+
+Korea
+
+Brazil
+
+Mexico
+
+Argentina
+
+Chile
+
+Venezuela
+
+Colombia
+
+[Inform: list of jurisdictions]
+
+M1.6. 4.  Review and discuss Dave Merrill's note on Korea.
+
+[Inform: next step is to review and discuss Dave's note on Korea]
+
+M1.7. 5.  Time permitting, step through a specific US/Korea trading example as in
+
+point one above.
+
+[Inform: if time allows, next step is to go through a specific example of US/Korea trading like the US/Japan example]
+
+
+
+	</content>
+
+</message>
+
+<message>
+
+
+
+	<thread_id>44299</thread_id>
+
+
+
+	<depth>1</depth>
+
+
+
+	<type>ThreadNode</type>
+
+
+
+	<message_id>164168</message_id>
+
+	<to name="Wayne Gardner" id="118705" address="Wayne.Gardner@ENRON.com"/>
+
+	<from name="Jeff Dasovich" id="27095" address="Jeff.Dasovich@ENRON.com"/>
+
+
+
+	<parent_id>164151</parent_id>
+
+
+
+	<subject>Revised Agenda for next TAR&L meeting</subject>
+
+
+
+	<date_time>2000-11-14 07:43:00</date_time>
+
+
+
+	<content>
+
+    
+
+M2.1. Greetings:
+
+[Conventional: greetings]
+
+M2.2. Sorry to bother you with this, but I'm travelling, and if you could leave the
+
+call-in number for tomorrow's meeting on my voice mail, I'll be forever
+
+indebted.
+
+[Request-Action: leave call-in number for tomorrow's meeting on Jeff's voice mail]
+
+Flink2.2
+
+M2.3. Thanks a bunch.
+
+[Conventional: thanks]
+
+
+
+	</content>
+
+</message>
+
+</xml>
+
+Hierarchical Power Annotation: N/A
+Person_1: 
+Person_2: 
+Reason: 
+
+Situational Power Annotation:
+Person_1: Wayne Gardner
+Person_2: To(1)
+Reason: Wayne initiates the thread and provides the revised agenda for a meeting.
+
+Attempt at Exercising Power Annotation:
+DFUs: M2.2
+Person_1: Jeff Dasovich
+Person_2: Wayne Gardner
+Type: Situational
+Successful?: No Reply
+Reason: Jeff asks Wayne to give him the call-in number for the meeting, as he can't be there in person.
+
+Influence Annotation: N/A
+Person_1:
+Person_2:
+Reason:
+
+Attempt at Influence Annotation: N/A
+DFUs: 
+Person_1:
+Person_2:
+Successful?:
+Reason: 

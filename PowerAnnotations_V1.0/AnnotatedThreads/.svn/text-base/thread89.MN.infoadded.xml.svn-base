@@ -1,0 +1,497 @@
+89
+
+Annotation for intention:
+
+External-event-planning: recruiting volunteers for an interview event
+
+
+
+Annotation for control:
+Karen Buckley: Karen initiates the thread, asking for volunteers in message 1, and others respond to her in later messages.
+
+
+
+<?xml version="1.0"?>
+
+
+
+<!--
+
+-
+
+- Sequel Pro dump
+
+- Version 155
+
+- http://code.google.com/p/sequel-pro
+
+-
+
+- Host: 127.0.0.1 (MySQL 5.0.67)
+
+- Database: enron
+
+- Generation Time: 2008-12-01 15:22:27 -0500
+
+-
+
+-->
+
+
+
+	<custom>
+
+	<row>
+
+		<thread_id>89</thread_id>
+
+		<depth>0</depth>
+
+		<type>ThreadNode</type>
+
+		<message_id>289628</message_id>
+
+	<to name="Chuck Ames" id="18735" address="Chuck.Ames@ENRON.com"/>
+
+	<to name="Bilal Bajwa" id="2119" address="Bilal.Bajwa@ENRON.com"/>
+
+	<to name="Russell Ballato" id="27055" address="Russell.Ballato@ENRON.com"/>
+
+	<to name="Steve Gim" id="3242" address="Steve.Gim@ENRON.com"/>
+
+	<to name="Mog Heu" id="11352" address="Mog.Heu@ENRON.com"/>
+
+	<to name="Juan Padron" id="40214" address="Juan.Padron@ENRON.com"/>
+
+	<to name="Vladi Pimenov" id="4769" address="Vladi.Pimenov@ENRON.com"/>
+
+	<to name="Denver Plachy" id="31147" address="Denver.Plachy@ENRON.com"/>
+
+	<to name="Paul Schiavone" id="89562" address="Schiavone.Paul@ENRON.com"/>
+
+	<to name="Elizabeth Shim" id="2456" address="Elizabeth.Shim@ENRON.com"/>
+
+	<to name="Vince J Kaminski" id="63574" address="Matt.Smith@ENRON.com"/>
+
+	<to name="Joseph Wagner" id="2153" address="Joseph.Wagner@ENRON.com"/>
+
+	<to name="Jason Wolfe" id="617" address="Jason.Wolfe@ENRON.com"/>
+
+	<to name="Virawan Yawapongsiri" id="117805" address="Virawan.Yawapongsiri@ENRON.com"/>
+
+	<from name="Karen Buckley" id="17792" address="Karen.Buckley@ENRON.com"/>
+
+	<cc name="Adrianne Engler" id="5918" address="adrianne.engler@ENRON.com"/>
+
+	<to name="Chuck Ames" id="18735" address="Cames@ENRON.com"/>
+
+	<to name="Bilal Bajwa" id="2119" address="Bbajwa@ENRON.com"/>
+
+	<to name="Russell Ballato" id="27055" address="D8433394-425A1999-86256919-7AC9AF@ENRON.com"/>
+
+	<to name="Steve Gim" id="3242" address="86e09235-60cf1e4e-8625692f-69b1b7@ENRON.com"/>
+
+	<to name="Mog Heu" id="11352" address="b5b64a78-ae842218-86256923-734572@ENRON.com"/>
+
+	<to name="Juan Padron" id="40214" address="Jpadron@ENRON.com"/>
+
+	<to name="Vladi Pimenov" id="4769" address="vpimenov@enron.com"/>
+
+	<to name="Denver Plachy" id="31147" address="Dplachy@ENRON.com"/>
+
+	<to name="Paul Schiavone" id="89562" address="Pschiavo@ENRON.com"/>
+
+	<to name="Elizabeth Shim" id="2456" address="eshim@enron.com"/>
+
+	<to name="Vince J Kaminski" id="63574" address="msmith18@enron.com"/>
+
+	<to name="Joseph Wagner" id="2153" address="5F4B2CE5-B365809A-86256921-7F49AD@ENRON.com"/>
+
+	<to name="Jason Wolfe" id="617" address="Jwolfe@ENRON.com"/>
+
+	<to name="Virawan Yawapongsiri" id="117805" address="Vyawapon@ENRON.com"/>
+
+	<from name="Karen Buckley" id="17792" address="Kbuckley@ENRON.com"/>
+
+	<cc name="Adrianne Engler" id="5918" address="Aengler@ENRON.com"/>
+
+		<parent_id>NULL</parent_id>
+
+		<subject>Trading Track Interviews</subject>
+
+		<date_time>2001-05-24 17:13:18</date_time>
+
+		<content>
+
+M1.1. All,
+
+[Conventional: salutation]
+
+
+
+M1.2. We are scheduling Interviews for new candidates to the Trading Track,
+
+M1.3. next Wedesday 30th May.
+
+M1.4. I am looking for volunteers to particpate in this event.
+
+[Inform: Karen is looking for volunteers to participate in interview event]
+
+
+
+M1.5. Agenda:
+
+
+
+M1.6. Tuesday: 29th:		Dinner with five external candidates Tuesday night.
+
+
+
+
+
+M1.7. Wednesday 30th:
+
+
+
+M1.8. 11.00 - 12.30		Office tour - Trading Floor/Gas Control Room - five external candidates
+
+M1.9. 12.30 - 1.30 		Lunch with all 15 candidates (comination of internal and external).
+
+[Inform: agenda for Tuesday the 29th and Wednesday the 30th]
+
+
+
+
+
+M1.10. I need 3 of you to attend dinner on the 29th,
+
+M1.11. 2 of your to faciliate the office tour and give insight to the operations
+
+M1.12. and would like for all of you to attend the lunch. [Y]
+
+[Inform: Karen needs 3 people to attend Tuesday dinner, 2 to facilitate office tour and all to attend Wednesday lunch]
+
+Sflink1.12
+
+
+
+M1.13. Pls advise on both at your earliest conveneince.
+
+[Inform: Karen would like responses soon]
+
+
+
+M1.14. Rgds, Karen.
+
+[Conventional: signature]
+
+
+
+</content>
+
+	</row>
+
+	<row>
+
+		<thread_id>89</thread_id>
+
+		<depth>1</depth>
+
+		<type>ThreadNode</type>
+
+		<message_id>291424</message_id>
+
+	<to name="Karen Buckley" id="17792" address="Karen.Buckley@ENRON.com"/>
+
+	<to name="Chuck Ames" id="18735" address="Chuck.Ames@ENRON.com"/>
+
+	<to name="Bilal Bajwa" id="2119" address="Bilal.Bajwa@ENRON.com"/>
+
+	<to name="Russell Ballato" id="27055" address="Russell.RWB.Ballato@ENRON.com"/>
+
+	<to name="Steve Gim" id="3242" address="Steve.Gim@ENRON.com"/>
+
+	<to name="Mog Heu" id="11352" address="Mog.Heu@ENRON.com"/>
+
+	<to name="Juan Padron" id="40214" address="Juan.Padron@ENRON.com"/>
+
+	<to name="Vladi Pimenov" id="4769" address="Vladi.Pimenov@ENRON.com"/>
+
+	<to name="Denver Plachy" id="31147" address="Denver.Plachy@ENRON.com"/>
+
+	<to name="Paul Schiavone" id="89562" address="Schiavone.Paul@ENRON.com"/>
+
+	<to name="Vince J Kaminski" id="63574" address="Matt.Smith@ENRON.com"/>
+
+	<to name="Joseph Wagner" id="2153" address="Joseph.JHW.Wagner@ENRON.com"/>
+
+	<to name="Jason Wolfe" id="617" address="Jason.Wolfe@ENRON.com"/>
+
+	<to name="Virawan Yawapongsiri" id="117805" address="Virawan.Yawapongsiri@ENRON.com"/>
+
+	<from name="Elizabeth Shim" id="2456" address="Elizabeth.Shim@ENRON.com"/>
+
+	<cc name="Adrianne Engler" id="5918" address="adrianne.engler@ENRON.com"/>
+
+	<to name="Karen Buckley" id="17792" address="Kbuckley@ENRON.com"/>
+
+	<to name="Chuck Ames" id="18735" address="Cames@ENRON.com"/>
+
+	<to name="Bilal Bajwa" id="2119" address="Bbajwa@ENRON.com"/>
+
+	<to name="Russell Ballato" id="27055" address="Rballato@ENRON.com"/>
+
+	<to name="Steve Gim" id="3242" address="86e09235-60cf1e4e-8625692f-69b1b7@ENRON.com"/>
+
+	<to name="Mog Heu" id="11352" address="b5b64a78-ae842218-86256923-734572@ENRON.com"/>
+
+	<to name="Juan Padron" id="40214" address="Jpadron@ENRON.com"/>
+
+	<to name="Vladi Pimenov" id="4769" address="vpimenov@enron.com"/>
+
+	<to name="Denver Plachy" id="31147" address="Dplachy@ENRON.com"/>
+
+	<to name="Paul Schiavone" id="89562" address="Pschiavo@ENRON.com"/>
+
+	<to name="Vince J Kaminski" id="63574" address="msmith18@enron.com"/>
+
+	<to name="Joseph Wagner" id="2153" address="Jwagner2@ENRON.com"/>
+
+	<to name="Jason Wolfe" id="617" address="Jwolfe@ENRON.com"/>
+
+	<to name="Virawan Yawapongsiri" id="117805" address="Vyawapon@ENRON.com"/>
+
+	<from name="Elizabeth Shim" id="2456" address="eshim@enron.com"/>
+
+	<cc name="Adrianne Engler" id="5918" address="Aengler@ENRON.com"/>
+
+		<parent_id>289628</parent_id>
+
+		<subject>Trading Track Interviews</subject>
+
+		<date_time>2001-05-24 17:52:04</date_time>
+
+		<content>
+
+M2.1. Hi Karen,
+
+[Conventional: salutation]
+
+M2.2. I'll be happy to volunteer  to host the candidates for dinner.
+
+[Inform: would like to volunteer at the dinner]
+
+Blink1.12
+
+M2.3. Since the upcoming week is bid week for gas trading,
+
+M2.4. I will not be able to host the candidates during the day.
+
+[Inform: will not be able to volunteer during the day because it is bid week for gas trading]
+
+
+
+</content>
+
+	</row>
+
+	<row>
+
+		<thread_id>89</thread_id>
+
+		<depth>1</depth>
+
+		<type>ThreadNodeBubble</type>
+
+		<message_id>2000026</message_id>
+
+		<parent_id>289628</parent_id>
+
+		<subject>Trading Track Interviews</subject>
+
+		<date_time>2001-05-27 02:19:31</date_time>
+
+		<content>
+
+M3.1. Karen,
+
+[Conventional: salutation]
+
+M3.2. I was out last week.
+
+[Inform: Mat was out last week]
+
+M3.3. Do you still need any help?
+
+[Request-Information: does Karen still need help]
+
+Flink3.3
+
+M3.4. Mat
+
+[Conventional: signature]
+
+
+
+</content>
+
+	</row>
+
+	<row>
+
+		<thread_id>89</thread_id>
+
+		<depth>2</depth>
+
+		<type>ThreadNode</type>
+
+		<message_id>289637</message_id>
+
+	<to name="Vince J Kaminski" id="63574" address="Matt.Smith@ENRON.com"/>
+
+	<from name="Karen Buckley" id="17792" address="Karen.Buckley@ENRON.com"/>
+
+	<to name="Vince J Kaminski" id="63574" address="msmith18@enron.com"/>
+
+	<from name="Karen Buckley" id="17792" address="Kbuckley@ENRON.com"/>
+
+		<parent_id>2000026</parent_id>
+
+		<subject>Trading Track Interviews</subject>
+
+		<date_time>2001-05-29 11:25:45</date_time>
+
+		<content>
+
+M4.1. yes,   can you attend the lunch tomorrow.
+
+[Request-Information: can Mat attend tomorrow's lunch]
+
+Blink3.3
+
+Flink4.1
+
+
+
+M4.2. Thanks, Karen.
+
+[Conventional: signature]
+
+
+
+</content>
+
+	</row>
+
+	<row>
+
+		<thread_id>89</thread_id>
+
+		<depth>3</depth>
+
+		<type>ThreadNodeBubble</type>
+
+		<message_id>2000027</message_id>
+
+		<parent_id>289637</parent_id>
+
+		<subject>Trading Track Interviews</subject>
+
+		<date_time>2001-05-29 11:28:57</date_time>
+
+		<content>
+
+M5.1. Sure thing.
+
+[Inform: yes, Mat will attend the lunch]
+
+Blink4.1
+
+Sflink5.1 
+
+
+
+</content>
+
+	</row>
+
+	<row>
+
+		<thread_id>89</thread_id>
+
+		<depth>4</depth>
+
+		<type>ThreadNode</type>
+
+		<message_id>289638</message_id>
+
+	<to name="Vince J Kaminski" id="63574" address="Matt.Smith@ENRON.com"/>
+
+	<from name="Karen Buckley" id="17792" address="Karen.Buckley@ENRON.com"/>
+
+	<to name="Vince J Kaminski" id="63574" address="msmith18@enron.com"/>
+
+	<from name="Karen Buckley" id="17792" address="Kbuckley@ENRON.com"/>
+
+		<parent_id>2000027</parent_id>
+
+		<subject>Trading Track Interviews</subject>
+
+		<date_time>2001-05-29 11:32:10</date_time>
+
+		<content>
+
+M6.1. great. thanks,,
+
+[Conventional: thanks]
+
+M6.2. will send out the location details later.
+
+[Inform: in this case, Karen will send out location details later]
+
+Blink5.1
+
+M6.3. thanks,
+
+[Conventional: thanks]
+
+
+
+</content>
+
+	</row>
+
+	</custom>
+
+
+Hierarchical Power Annotation: N/A
+Person_1: 
+Person_2: 
+Reason: 
+
+Situational Power Annotation:
+Person_1: Karen Buckley
+Person_2: Elizabeth Shim, Vince J Kaminski(address:"Matt.Smith@ENRON.com"), To(1)
+Reason: In message 1 Karen asks for people to volunteer for the event. In messages 2, 3, and 5, Elizabeth and Mat (Vince) offer to do so.
+
+Attempt at Exercising Power Annotation:
+DFUs: M1.10-M1.12
+Person_1: Karen Buckley
+Person_2: Elizabeth Shim, Vince J Kaminski(address:"Matt.Smith@ENRON.com")
+Type: Situational
+Successful?: Y
+Reason: In message 1 Karen asks people to volunteer for the event. In messages 2, 3, and 5, Elizabeth and Mat (Vince) offer to do so.
+
+Influence Annotation: N/A
+Person_1:
+Person_2:
+Reason:
+
+Attempt at Influence Annotation: N/A
+DFUs: 
+Person_1:
+Person_2:
+Successful?:
+Reason: 
+
+

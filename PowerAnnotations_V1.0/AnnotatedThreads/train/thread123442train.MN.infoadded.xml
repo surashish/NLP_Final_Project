@@ -1,0 +1,195 @@
+123442train
+Annotation for intention:
+
+External-event-planning: intending to review and discuss a list of Gas Inventories and their values
+
+Annotation for control:
+William S Bradford: Bill initiates the thread and asks Barry Tycholiz to review the list of Gas Inventories.
+
+
+
+<xml>
+
+<message>
+
+
+
+	<thread_id>123442</thread_id>
+
+
+
+	<depth>0</depth>
+
+
+
+	<type>ThreadNode</type>
+
+
+
+	<message_id>721387</message_id>
+
+	<to name="Barry Tycholiz" id="899" address="Barry.Tycholiz@ENRON.com"/>
+
+	<from name="William S Bradford" id="118798" address="William.S.Bradford@ENRON.com"/>
+
+	<cc name="Michael Tribolet" id="80801" address="Michael.Tribolet@ENRON.com"/>
+
+	<to name="Barry Tycholiz" id="899" address="Btychol@ENRON.com"/>
+
+	<from name="William S Bradford" id="118798" address="wbradfo@enron.com"/>
+
+	<cc name="Michael Tribolet" id="80801" address="Mtribole@ENRON.com"/>
+
+
+
+	<parent_id></parent_id>
+
+
+
+	<subject>Gas Inventories</subject>
+
+
+
+	<date_time>2001-09-24 10:45:00</date_time>
+
+
+
+	<content>
+
+    
+
+M1.1. Barry,
+
+[Conventional: salutation]
+
+
+
+M1.2. Let me know if you have any time to review.
+
+[Inform: Barry should tell Bill if he has any time to review the presumably attached Gas Inventories document]
+
+
+
+M1.3. Bill
+
+[Conventional: signature]
+
+
+
+	</content>
+
+</message>
+
+<message>
+
+
+
+	<thread_id>123442</thread_id>
+
+
+
+	<depth>1</depth>
+
+
+
+	<type>ThreadNode</type>
+
+
+
+	<message_id>720915</message_id>
+
+	<to name="Stephanie Miller" id="321" address="Smiller2@ENRON.com"/>
+
+	<from name="Barry Tycholiz" id="899" address="Btychol@ENRON.com"/>
+
+
+
+	<parent_id>721387</parent_id>
+
+
+
+	<subject>Gas Inventories</subject>
+
+
+
+	<date_time>2001-09-24 11:11:05</date_time>
+
+
+
+	<content>
+
+    
+
+M2.1. Steph,
+
+[Conventional: salutation]
+
+M2.2. further to our discussion, Pls review. [Y]
+
+[Request-Action: review presumably attached Gas Inventories document]
+
+Flink2.2
+
+M2.3. I took a quick look at the locations and most appear to be East based.
+
+[Inform: most locations seem to be East-based]  
+
+M2.4. You might want to use an analyst to figure this out.
+
+[Inform: Steph might have use for an analyst in figuring this out]
+
+M2.5. Also, they have valued the inventories off of the Nymex only ( or so it appears) and I would have to believe that the value of these molecules is materially different than this.
+
+[Inform: inventories are valued off of NY Mercantile Exchange only and Barry believes molecules' value is different from this]
+
+M2.6. Pls review and let's discuss asap. [Y]
+
+[Request-Action: review so Steph and Barry can discuss this]
+
+Flink2.6
+
+M2.7. BT
+
+[Conventional: signature]
+
+
+
+	</content>
+
+</message>
+
+</xml>
+
+Hierarchical Power Annotation: N/A
+Person_1: 
+Person_2: 
+Reason: 
+
+Situational Power Annotation:
+Person_1: William S Bradford
+Person_2: Barry Tycholiz
+Reason: In M1.2, Bill asks Barry to review a document.
+
+Person_1: Barry Tycholiz
+Person_2: Stephanie Miller
+Reason: In message 2, Barry asks Stephanie to review the document and then discuss it with him.
+
+Attempt at Exercising Power Annotation:
+DFUs: M2.2, M2.6
+Person_1: Barry Tycholiz
+Person_2: Stephanie Miller
+Type: Situational
+Successful?: No Reply
+Reason: In message 2, Barry asks Stephanie to review the document and then discuss it with him.
+
+Influence Annotation: N/A
+Person_1:
+Person_2:
+Reason:
+
+Attempt at Influence Annotation:
+DFUs: M2.4
+Person_1: Barry Tycholiz
+Person_2: Stephanie Miller
+Successful?: No Reply
+Reason: In M2.4, Barry suggests that Stephanie use an analyst to help understand a document.

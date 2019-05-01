@@ -1,0 +1,543 @@
+132166train
+Annotation for intention:
+
+External-event-planning: details regarding a conference call
+
+Annotation for control:
+Glen Hass: Glen initiates the thread and gives the details of the conference call.
+
+
+
+<xml>
+
+<message>
+
+
+
+	<thread_id>132166</thread_id>
+
+
+
+	<depth>0</depth>
+
+
+
+	<type>ThreadNode</type>
+
+
+
+	<message_id>685402</message_id>
+
+	<to name="Lorraine Lindberg" id="72738" address="mbaldwin@igservice.com"/>
+
+	<to name="Kimberly Watson" id="66827" address="Kimberly.Watson@ENRON.com"/>
+
+	<to name="Lorraine Lindberg" id="72738" address="Lorraine.Lindberg@ENRON.com"/>
+
+	<to name="TK Lohman" id="112973" address="TK.Lohman@ENRON.com"/>
+
+	<to name="Lindy Donoho" id="70596" address="Lindy.Donoho@ENRON.com"/>
+
+	<to name="Jeff Dasovich" id="27095" address="Jeff.Dasovich@ENRON.com"/>
+
+	<to name="Tony Pryor" id="29892" address="Tony.Pryor@ENRON.com"/>
+
+	<to name="Blair Lichtenwalter" id="14791" address="Blair.Lichtenwalter@ENRON.com"/>
+
+	<to name="Teb Lokey" id="42499" address="Teb.Lokey@ENRON.com"/>
+
+	<from name="Glen Hass" id="18429" address="Glen.Hass@ENRON.com"/>
+
+	<cc name="Steven Harris" id="2333" address="Steven.Harris@ENRON.com"/>
+
+	<cc name="Robert Kilmer III" id="93413" address="Robert.Kilmer@ENRON.com"/>
+
+	<cc name="Mary Kay Miller" id="2029" address="Mary.Kay.Miller@ENRON.com"/>
+
+	<to name="Kimberly Watson" id="66827" address="kwatson@enron.com"/>
+
+	<to name="Lorraine Lindberg" id="72738" address="llindbe@enron.com"/>
+
+	<to name="TK Lohman" id="112973" address="Tlohman@ENRON.com"/>
+
+	<to name="Lindy Donoho" id="70596" address="LDonoho@enron.com"/>
+
+	<to name="Jeff Dasovich" id="28265" address="jdasovic@enron.com"/>
+
+	<to name="Tony Pryor" id="29892" address="tpryor@enron.com"/>
+
+	<to name="Blair Lichtenwalter" id="14791" address="Blichte@ENRON.com"/>
+
+	<to name="Teb Lokey" id="42499" address="tlokey@enron.com"/>
+
+	<from name="Glen Hass" id="18429" address="Ghass@ENRON.com"/>
+
+	<cc name="Steven Harris" id="2333" address="sharris1@enron.com"/>
+
+	<cc name="Robert Kilmer III" id="93413" address="rkilmer@enron.com"/>
+
+	<cc name="Mary Kay Miller" id="2029" address="MKMiller@ENRON.com"/>
+
+
+
+	<parent_id></parent_id>
+
+
+
+	<subject>GIR Conf. Call</subject>
+
+
+
+	<date_time>2001-10-16 14:12:02</date_time>
+
+
+
+	<content>
+
+    
+
+M1.1. A Conference call to discuss any comments we may want to make on the CPUC's Proposed Decision in the GIR Proceeding has been scheduled for Wednesday, Oct. 17, 2001 at 11:00 AM Houston/Omaha time and 9:00 AM California time.
+
+[Inform: purpose, date, and time of conference call]
+
+Sflink1.1
+
+M1.2. The dial-in # is 1-877-795-3687 code: 350955.
+
+[Inform: dial-in number and code]
+
+M1.3. In Houston, Conf. Rm. 1336 has been reserved for the call.
+
+[Inform: room where Houston end of call will take place]
+
+
+
+	</content>
+
+</message>
+
+<message>
+
+
+
+	<thread_id>132166</thread_id>
+
+
+
+	<depth>1</depth>
+
+
+
+	<type>ThreadNode</type>
+
+
+
+	<message_id>764393</message_id>
+
+	<to name="Lorraine Lindberg" id="72738" address="llindbe@enron.com"/>
+
+	<from name="Kimberly Watson" id="66827" address="kwatson@enron.com"/>
+
+
+
+	<parent_id>685402</parent_id>
+
+
+
+	<subject>GIR Conf. Call</subject>
+
+
+
+	<date_time>2001-10-16 16:04:29</date_time>
+
+
+
+	<content>
+
+    
+
+M2.1. Lorraine,
+
+[Conventional: salutation]
+
+M2.2. I will be in a meeting during this time.
+
+[Inform: Kim will be in a meeting during conference call time]
+
+Blink1.1
+
+M2.3. Will you be able to sit in on this and decide if we should participate further for our group? [Y]
+
+[Request-Information: can Lorraine take Kim's place in this conference call]
+
+Flink2.3
+
+M2.4. Thanks, Kim.
+
+[Conventional: thanks, signature]
+
+
+
+	</content>
+
+</message>
+
+<message>
+
+
+
+	<thread_id>132166</thread_id>
+
+
+
+	<depth>1</depth>
+
+
+
+	<type>ThreadNode</type>
+
+
+
+	<message_id>764396</message_id>
+
+	<to name="Michelle Lokay" id="81014" address="mlokay@enron.com"/>
+
+	<from name="Kimberly Watson" id="66827" address="kwatson@enron.com"/>
+
+
+
+	<parent_id>685402</parent_id>
+
+
+
+	<subject>GIR Conf. Call</subject>
+
+
+
+	<date_time>2001-10-16 18:19:50</date_time>
+
+
+
+	<content>
+
+    
+
+M3.1. Michelle,
+
+[Conventional: salutation]
+
+M3.2. Will you be able to attend this call for our team? [Y]
+
+[Request-Information: can Michelle attend conference call]
+
+Blink1.1
+
+Flink3.2
+
+M3.3. I am in training tomorrow until noon.
+
+[Inform: Kim is in training tomorrow until noon]
+
+M3.4. Thanks, Kim.
+
+[Conventional: thanks, signature]
+
+
+
+	</content>
+
+</message>
+
+<message>
+
+
+
+	<thread_id>132166</thread_id>
+
+
+
+	<depth>1</depth>
+
+
+
+	<type>ThreadNodeBubble</type>
+
+
+
+	<message_id>2005609</message_id>
+
+
+
+	<parent_id>685402</parent_id>
+
+
+
+	<subject>GIR Conf. Call</subject>
+
+
+
+	<date_time>2001-10-17 01:48:17</date_time>
+
+
+
+	<content>
+
+    
+
+M4.1. Please let me know how this goes. [Y]
+
+[Request-Information: how conference call goes]
+
+Blink1.1
+
+Flink4.1
+
+
+
+	</content>
+
+</message>
+
+<message>
+
+
+
+	<thread_id>132166</thread_id>
+
+
+
+	<depth>1</depth>
+
+
+
+	<type>ThreadNode</type>
+
+
+
+	<message_id>684286</message_id>
+
+	<to name="Glen Hass" id="18429" address="Ghass@ENRON.com"/>
+
+	<to name="Lorraine Lindberg" id="72738" address="mbaldwin@igservice.com"/>
+
+	<to name="Kimberly Watson" id="66827" address="kwatson@enron.com"/>
+
+	<to name="Lorraine Lindberg" id="72738" address="llindbe@enron.com"/>
+
+	<to name="TK Lohman" id="112973" address="Tlohman@ENRON.com"/>
+
+	<to name="Lindy Donoho" id="70596" address="LDonoho@enron.com"/>
+
+	<to name="Tony Pryor" id="29892" address="tpryor@enron.com"/>
+
+	<to name="Blair Lichtenwalter" id="14791" address="Blichte@ENRON.com"/>
+
+	<to name="Teb Lokey" id="42499" address="tlokey@enron.com"/>
+
+	<from name="Jeff Dasovich" id="28265" address="jdasovic@enron.com"/>
+
+	<cc name="Steven Harris" id="2333" address="sharris1@enron.com"/>
+
+	<cc name="Robert Kilmer III" id="93413" address="rkilmer@enron.com"/>
+
+	<cc name="Mary Kay Miller" id="2029" address="MKMiller@ENRON.com"/>
+
+
+
+	<parent_id>685402</parent_id>
+
+
+
+	<subject>GIR Conf. Call</subject>
+
+
+
+	<date_time>2001-10-19 19:27:58</date_time>
+
+
+
+	<content>
+
+    
+
+M5.1. FYI. SoCalGas is filing in favor of the decision adopting the settlement.
+
+[Inform: SoCalGas is filing in favor of decision adopting settlement]
+
+
+
+	</content>
+
+</message>
+
+<message>
+
+
+
+	<thread_id>132166</thread_id>
+
+
+
+	<depth>2</depth>
+
+
+
+	<type>ThreadNode</type>
+
+
+
+	<message_id>764682</message_id>
+
+	<to name="Kimberly Watson" id="66827" address="Kimberly.Watson@ENRON.com"/>
+
+	<from name="Lorraine Lindberg" id="72738" address="Lorraine.Lindberg@ENRON.com"/>
+
+	<to name="Kimberly Watson" id="66827" address="kwatson@enron.com"/>
+
+	<from name="Lorraine Lindberg" id="72738" address="llindbe@enron.com"/>
+
+
+
+	<parent_id>764393</parent_id>
+
+
+
+	<subject>GIR Conf. Call</subject>
+
+
+
+	<date_time>2001-10-16 18:01:54</date_time>
+
+
+
+	<content>
+
+    
+
+M6.1. Kimmy -
+
+[Conventional: salutation]
+
+M6.2. I will be in Phoenix by 11 am tomorrow.
+
+[Inform: Lorraine will be in Phoenix at time of call tomorrow]
+
+M6.3. Sorry.
+
+[Inform: Lorraine is sorry she cannot participate]
+
+Blink2.3
+
+
+
+	</content>
+
+</message>
+
+<message>
+
+
+
+	<thread_id>132166</thread_id>
+
+
+
+	<depth>2</depth>
+
+
+
+	<type>ThreadNode</type>
+
+
+
+	<message_id>1124347</message_id>
+
+	<to name="Robert Kilmer III" id="93413" address="rkilmer@enron.com"/>
+
+	<to name="Teb Lokey" id="42499" address="tlokey@enron.com"/>
+
+	<from name="Blair Lichtenwalter" id="14791" address="Blichte@ENRON.com"/>
+
+
+
+	<parent_id>2005609</parent_id>
+
+
+
+	<subject>GIR Conf. Call</subject>
+
+
+
+	<date_time>2001-10-17 13:24:32</date_time>
+
+
+
+	<content>
+
+    
+
+M7.1. It went well.
+
+[Inform: conference call went well]
+
+Blink4.1
+
+M7.2. TW will file brief comments supporting the order.
+
+[Inform: TW will file brief comments supporting an order]
+
+M7.3. If possible, TW will try to organize a joint response from supporting parties.
+
+[Inform: if possible, TW will try to organize a joint response from supporting parties]
+
+
+
+	</content>
+
+</message>
+
+</xml>
+
+Hierarchical Power Annotation: N/A
+Person_1: 
+Person_2: 
+Reason: 
+
+Situational Power Annotation:
+Person_1: Kimberly Watson
+Person_2: Lorraine Lindberg(address:"Lorraine.Lindberg@ENRON.com"), Michelle Lokay
+Reason: In messages 2 and 3 respectively, Kim asks Lorraine and Michelle if they can attend a conference call for her.
+
+Attempt at Exercising Power Annotation:
+DFUs: M2.3
+Person_1: Kimberly Watson
+Person_2: Lorraine Lindberg(address:"Lorraine.Lindberg@ENRON.com")
+Type: Situational
+Successful?: N
+Reason: After Kim asks Lorraine to sit in for her at a conference call in message 2, Lorraine declines in message 6.
+
+DFUs: M3.2
+Person_1: Kimberly Watson
+Person_2: Michelle Lokay
+Type: Situational
+Successful?: No Reply
+Reason: Kim asks Michelle to sit in for her at a conference call.
+
+DFUs: M4.1
+Person_1: Robert Kilmer or Teb Lokey
+Person_2: Blair Lichtenwalter
+Type: Situational
+Successful?: Y
+Reason: After Robert (or maybe Teb) asks Blair to fill them in on how the conference call went, she does so in message 7.
+
+Influence Annotation: N/A
+Person_1:
+Person_2:
+Reason:
+
+Attempt at Influence Annotation: N/A
+DFUs: 
+Person_1:
+Person_2:
+Successful?:
+Reason: 
